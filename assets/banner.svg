@@ -5,6 +5,6 @@
     <rect x="14.2188" width="7.21633" height="26"/>
     <path d="M7.2349 26H0V15.9714C0 12.4548 2.85076 9.60408 6.36735 9.60408H14.2204V0H21.4367V10.4531C21.4367 13.9696 18.586 16.8204 15.0694 16.8204H7.2349V26Z"/>
   </g>
-  <text x="228" y="126" font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="-2.5" fill="#006039">HProxy</text>
+  <text x="228" y="126" font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="-2.5"><tspan fill="#006039">H</tspan><tspan fill="#1A1918">Proxy</tspan></text>
   <text x="230" y="188" font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="46" font-weight="400" letter-spacing="-0.5" fill="#006039">Free Proxy List</text>
 </svg>
