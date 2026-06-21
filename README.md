@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1782066988" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1782067021" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
@@ -8,23 +8,23 @@
   <a href="https://hproxy.com/residential"><img src="https://img.shields.io/badge/Premium_Proxies-from_$0.99_per_GB-006039?style=for-the-badge&labelColor=1A1918" alt="Premium Proxies"></a>
 </p>
 
-<p align="center"><b>23,481 free, live-checked proxies, updated every hour.</b><br>HTTP, HTTPS, SOCKS4 and SOCKS5, with country on every IP. 3,430 live right now, 288,714+ tracked all-time, updated 21.06.2026.</p>
+<p align="center"><b>The biggest free proxy list, continuously scanned 24/7. 23,480 live &amp; recently-checked proxies, refreshed every 2 minutes.</b><br>HTTP, HTTPS, SOCKS4 and SOCKS5, with country, anonymity and latency on every IP. 3,429 live right now, 288,714+ tracked all-time, updated 21.06.2026.</p>
 
 ## Download
 
 | List | Proxies | Formats |
 |------|--------:|---------|
-| All | 23,481 | [txt](all.txt) &middot; [json](all.json) &middot; [csv](all.csv) |
-| HTTP | 2,378 | [txt](http.txt) |
-| HTTPS | 1,108 | [txt](https.txt) |
-| SOCKS4 | 1,338 | [txt](socks4.txt) |
-| SOCKS5 | 1,262 | [txt](socks5.txt) |
+| All | 23,480 | [txt](all.txt) &middot; [json](all.json) &middot; [csv](all.csv) |
+| HTTP | 2,380 | [txt](http.txt) |
+| HTTPS | 1,102 | [txt](https.txt) |
+| SOCKS4 | 1,335 | [txt](socks4.txt) |
+| SOCKS5 | 1,253 | [txt](socks5.txt) |
 
 Text files are one `ip:port` per line. `all.json` and `all.csv` add protocol, anonymity, country, city, latency and uptime per proxy.
 
 ## Use as an API
 
-Every file is a raw endpoint, refreshed hourly. Pull via GitHub raw or the jsDelivr CDN (faster, no rate limits):
+Every file is a raw endpoint, refreshed every 2 minutes. Pull via GitHub raw or the jsDelivr CDN (faster, no rate limits):
 
 ```bash
 # all proxies, three formats
@@ -36,7 +36,7 @@ curl https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/socks5.tx
 curl https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/by-country/US.txt
 ```
 
-**Want real-time results with filters?** The files above are hourly snapshots. The live API at `https://hproxy.com/api/proxy-list` filters the current pool by country, protocol and anonymity:
+**Want real-time results with filters?** The files above are 2-minute snapshots. The live API at `https://hproxy.com/api/proxy-list` filters the current pool by country, protocol and anonymity:
 
 ```bash
 curl "https://hproxy.com/api/proxy-list?format=json&country=US&protocol=socks5&anonymity=elite"
@@ -49,16 +49,16 @@ Full API docs: **https://hproxy.com/docs**
 
 | Country | Proxies | File |
 |---------|--------:|------|
-| Iran (IR) | 5,790 | [by-country/IR.txt](by-country/IR.txt) |
-| Indonesia (ID) | 2,697 | [by-country/ID.txt](by-country/ID.txt) |
-| United States (US) | 1,601 | [by-country/US.txt](by-country/US.txt) |
-| China (CN) | 1,425 | [by-country/CN.txt](by-country/CN.txt) |
+| Iran (IR) | 5,787 | [by-country/IR.txt](by-country/IR.txt) |
+| Indonesia (ID) | 2,698 | [by-country/ID.txt](by-country/ID.txt) |
+| United States (US) | 1,602 | [by-country/US.txt](by-country/US.txt) |
+| China (CN) | 1,424 | [by-country/CN.txt](by-country/CN.txt) |
 | India (IN) | 894 | [by-country/IN.txt](by-country/IN.txt) |
 | Japan (JP) | 718 | [by-country/JP.txt](by-country/JP.txt) |
-| Germany (DE) | 668 | [by-country/DE.txt](by-country/DE.txt) |
+| Germany (DE) | 669 | [by-country/DE.txt](by-country/DE.txt) |
 | Hong Kong (HK) | 634 | [by-country/HK.txt](by-country/HK.txt) |
 | South Korea (KR) | 616 | [by-country/KR.txt](by-country/KR.txt) |
-| Russia (RU) | 480 | [by-country/RU.txt](by-country/RU.txt) |
+| Russia (RU) | 479 | [by-country/RU.txt](by-country/RU.txt) |
 | Australia (AU) | 461 | [by-country/AU.txt](by-country/AU.txt) |
 | Thailand (TH) | 446 | [by-country/TH.txt](by-country/TH.txt) |
 | Philippines (PH) | 435 | [by-country/PH.txt](by-country/PH.txt) |
@@ -68,14 +68,14 @@ Full API docs: **https://hproxy.com/docs**
 | Colombia (CO) | 344 | [by-country/CO.txt](by-country/CO.txt) |
 | Mexico (MX) | 341 | [by-country/MX.txt](by-country/MX.txt) |
 | Sweden (SE) | 340 | [by-country/SE.txt](by-country/SE.txt) |
-| Bangladesh (BD) | 324 | [by-country/BD.txt](by-country/BD.txt) |
+| Bangladesh (BD) | 325 | [by-country/BD.txt](by-country/BD.txt) |
 | Canada (CA) | 312 | [by-country/CA.txt](by-country/CA.txt) |
-| United Kingdom (GB) | 294 | [by-country/GB.txt](by-country/GB.txt) |
+| United Kingdom (GB) | 293 | [by-country/GB.txt](by-country/GB.txt) |
 | South Africa (ZA) | 226 | [by-country/ZA.txt](by-country/ZA.txt) |
 | Vietnam (VN) | 192 | [by-country/VN.txt](by-country/VN.txt) |
 | Italy (IT) | 185 | [by-country/IT.txt](by-country/IT.txt) |
 | Netherlands (NL) | 175 | [by-country/NL.txt](by-country/NL.txt) |
-| Malaysia (MY) | 157 | [by-country/MY.txt](by-country/MY.txt) |
+| Malaysia (MY) | 158 | [by-country/MY.txt](by-country/MY.txt) |
 | Ecuador (EC) | 155 | [by-country/EC.txt](by-country/EC.txt) |
 | Switzerland (CH) | 150 | [by-country/CH.txt](by-country/CH.txt) |
 | Turkey (TR) | 145 | [by-country/TR.txt](by-country/TR.txt) |
@@ -93,7 +93,7 @@ Full API docs: **https://hproxy.com/docs**
 | Finland (FI) | 67 | [by-country/FI.txt](by-country/FI.txt) |
 | Egypt (EG) | 57 | [by-country/EG.txt](by-country/EG.txt) |
 | Poland (PL) | 53 | [by-country/PL.txt](by-country/PL.txt) |
-| Libya (LY) | 47 | [by-country/LY.txt](by-country/LY.txt) |
+| Libya (LY) | 46 | [by-country/LY.txt](by-country/LY.txt) |
 | Pakistan (PK) | 46 | [by-country/PK.txt](by-country/PK.txt) |
 | Bulgaria (BG) | 44 | [by-country/BG.txt](by-country/BG.txt) |
 | Paraguay (PY) | 42 | [by-country/PY.txt](by-country/PY.txt) |
@@ -103,7 +103,7 @@ Full API docs: **https://hproxy.com/docs**
 | Taiwan (TW) | 28 | [by-country/TW.txt](by-country/TW.txt) |
 | Nepal (NP) | 27 | [by-country/NP.txt](by-country/NP.txt) |
 | Kazakhstan (KZ) | 26 | [by-country/KZ.txt](by-country/KZ.txt) |
-| Hungary (HU) | 24 | [by-country/HU.txt](by-country/HU.txt) |
+| Hungary (HU) | 25 | [by-country/HU.txt](by-country/HU.txt) |
 | Iraq (IQ) | 23 | [by-country/IQ.txt](by-country/IQ.txt) |
 | Seychelles (SC) | 23 | [by-country/SC.txt](by-country/SC.txt) |
 | Nigeria (NG) | 20 | [by-country/NG.txt](by-country/NG.txt) |
@@ -192,10 +192,10 @@ Free proxies die fast and are often already blocked. For proxies that stay up, [
 
 ## Contributing
 
-Raw IPs cannot be added by pull request: the list regenerates hourly from the verification engine, so committed entries would be overwritten on the next update. The useful way to help is to [suggest a public proxy source](CONTRIBUTING.md) for the engine to pull from.
+Raw IPs cannot be added by pull request: the list regenerates every couple of minutes from the verification engine, so committed entries would be overwritten on the next update. The useful way to help is to [suggest a public proxy source](CONTRIBUTING.md) for the engine to pull from.
 
 ## Legal
 
 These proxies are aggregated from publicly available sources. We do not scan, port-scan or collect them ourselves, and we store nothing about the devices behind them. They are provided as-is, with no warranty, for lawful use only. You are responsible for how you use them: follow the GitHub Acceptable Use Policy and your local laws, and never route passwords or sensitive data through a public proxy. If an IP address is yours and you want it removed, open an issue.
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; auto-updated hourly &nbsp;&middot;&nbsp; 2026-06-21 18:36 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; auto-updated every 2 minutes &nbsp;&middot;&nbsp; 2026-06-21 18:37 UTC</sub></p>
