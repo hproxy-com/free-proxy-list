@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1782029769" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1782033374" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
@@ -8,17 +8,17 @@
   <a href="https://hproxy.com/residential"><img src="https://img.shields.io/badge/Premium_Proxies-from_$0.99_per_GB-006039?style=for-the-badge&labelColor=1A1918" alt="Premium Proxies"></a>
 </p>
 
-<p align="center"><b>23,288 free, live-checked proxies, updated every hour.</b><br>HTTP, HTTPS, SOCKS4 and SOCKS5, with country on every IP. 3,535 live right now, 289,450+ tracked all-time, updated 21.06.2026.</p>
+<p align="center"><b>23,267 free, live-checked proxies, updated every hour.</b><br>HTTP, HTTPS, SOCKS4 and SOCKS5, with country on every IP. 3,524 live right now, 289,103+ tracked all-time, updated 21.06.2026.</p>
 
 ## Download
 
 | List | Proxies | Formats |
 |------|--------:|---------|
-| All | 23,288 | [txt](all.txt) &middot; [json](all.json) &middot; [csv](all.csv) |
-| HTTP | 2,397 | [txt](http.txt) |
-| HTTPS | 1,202 | [txt](https.txt) |
-| SOCKS4 | 1,416 | [txt](socks4.txt) |
-| SOCKS5 | 1,369 | [txt](socks5.txt) |
+| All | 23,267 | [txt](all.txt) &middot; [json](all.json) &middot; [csv](all.csv) |
+| HTTP | 2,382 | [txt](http.txt) |
+| HTTPS | 1,093 | [txt](https.txt) |
+| SOCKS4 | 1,482 | [txt](socks4.txt) |
+| SOCKS5 | 1,334 | [txt](socks5.txt) |
 
 Text files are one `ip:port` per line. `all.json` and `all.csv` add protocol, anonymity, country, city, latency and uptime per proxy.
 
@@ -49,116 +49,117 @@ Full API docs: **https://hproxy.com/docs**
 
 | Country | Proxies | File |
 |---------|--------:|------|
-| Iran (IR) | 5,741 | [by-country/IR.txt](by-country/IR.txt) |
-| Indonesia (ID) | 2,607 | [by-country/ID.txt](by-country/ID.txt) |
-| United States (US) | 1,633 | [by-country/US.txt](by-country/US.txt) |
-| China (CN) | 1,432 | [by-country/CN.txt](by-country/CN.txt) |
-| India (IN) | 888 | [by-country/IN.txt](by-country/IN.txt) |
-| Japan (JP) | 698 | [by-country/JP.txt](by-country/JP.txt) |
-| Germany (DE) | 661 | [by-country/DE.txt](by-country/DE.txt) |
-| Hong Kong (HK) | 629 | [by-country/HK.txt](by-country/HK.txt) |
-| South Korea (KR) | 617 | [by-country/KR.txt](by-country/KR.txt) |
-| Australia (AU) | 480 | [by-country/AU.txt](by-country/AU.txt) |
-| Russia (RU) | 459 | [by-country/RU.txt](by-country/RU.txt) |
+| Iran (IR) | 5,710 | [by-country/IR.txt](by-country/IR.txt) |
+| Indonesia (ID) | 2,604 | [by-country/ID.txt](by-country/ID.txt) |
+| United States (US) | 1,634 | [by-country/US.txt](by-country/US.txt) |
+| China (CN) | 1,435 | [by-country/CN.txt](by-country/CN.txt) |
+| India (IN) | 891 | [by-country/IN.txt](by-country/IN.txt) |
+| Japan (JP) | 704 | [by-country/JP.txt](by-country/JP.txt) |
+| Germany (DE) | 652 | [by-country/DE.txt](by-country/DE.txt) |
+| Hong Kong (HK) | 631 | [by-country/HK.txt](by-country/HK.txt) |
+| South Korea (KR) | 620 | [by-country/KR.txt](by-country/KR.txt) |
+| Australia (AU) | 471 | [by-country/AU.txt](by-country/AU.txt) |
+| Russia (RU) | 465 | [by-country/RU.txt](by-country/RU.txt) |
 | Thailand (TH) | 441 | [by-country/TH.txt](by-country/TH.txt) |
 | Philippines (PH) | 436 | [by-country/PH.txt](by-country/PH.txt) |
-| France (FR) | 372 | [by-country/FR.txt](by-country/FR.txt) |
-| Brazil (BR) | 367 | [by-country/BR.txt](by-country/BR.txt) |
-| Singapore (SG) | 366 | [by-country/SG.txt](by-country/SG.txt) |
-| Sweden (SE) | 345 | [by-country/SE.txt](by-country/SE.txt) |
+| Brazil (BR) | 373 | [by-country/BR.txt](by-country/BR.txt) |
+| France (FR) | 365 | [by-country/FR.txt](by-country/FR.txt) |
+| Singapore (SG) | 365 | [by-country/SG.txt](by-country/SG.txt) |
+| Sweden (SE) | 340 | [by-country/SE.txt](by-country/SE.txt) |
+| Mexico (MX) | 337 | [by-country/MX.txt](by-country/MX.txt) |
 | Colombia (CO) | 331 | [by-country/CO.txt](by-country/CO.txt) |
-| Mexico (MX) | 328 | [by-country/MX.txt](by-country/MX.txt) |
-| Canada (CA) | 323 | [by-country/CA.txt](by-country/CA.txt) |
-| Bangladesh (BD) | 309 | [by-country/BD.txt](by-country/BD.txt) |
-| United Kingdom (GB) | 306 | [by-country/GB.txt](by-country/GB.txt) |
-| South Africa (ZA) | 230 | [by-country/ZA.txt](by-country/ZA.txt) |
-| Vietnam (VN) | 198 | [by-country/VN.txt](by-country/VN.txt) |
-| Italy (IT) | 193 | [by-country/IT.txt](by-country/IT.txt) |
+| Canada (CA) | 315 | [by-country/CA.txt](by-country/CA.txt) |
+| Bangladesh (BD) | 310 | [by-country/BD.txt](by-country/BD.txt) |
+| United Kingdom (GB) | 300 | [by-country/GB.txt](by-country/GB.txt) |
+| South Africa (ZA) | 229 | [by-country/ZA.txt](by-country/ZA.txt) |
+| Italy (IT) | 192 | [by-country/IT.txt](by-country/IT.txt) |
+| Vietnam (VN) | 192 | [by-country/VN.txt](by-country/VN.txt) |
 | Malaysia (MY) | 184 | [by-country/MY.txt](by-country/MY.txt) |
-| Netherlands (NL) | 167 | [by-country/NL.txt](by-country/NL.txt) |
-| Switzerland (CH) | 148 | [by-country/CH.txt](by-country/CH.txt) |
-| Turkey (TR) | 148 | [by-country/TR.txt](by-country/TR.txt) |
-| Ecuador (EC) | 141 | [by-country/EC.txt](by-country/EC.txt) |
-| Ireland (IE) | 138 | [by-country/IE.txt](by-country/IE.txt) |
-| Venezuela (VE) | 137 | [by-country/VE.txt](by-country/VE.txt) |
-| United Arab Emirates (AE) | 135 | [by-country/AE.txt](by-country/AE.txt) |
-| Argentina (AR) | 118 | [by-country/AR.txt](by-country/AR.txt) |
+| Netherlands (NL) | 164 | [by-country/NL.txt](by-country/NL.txt) |
+| Ecuador (EC) | 149 | [by-country/EC.txt](by-country/EC.txt) |
+| Turkey (TR) | 149 | [by-country/TR.txt](by-country/TR.txt) |
+| Switzerland (CH) | 146 | [by-country/CH.txt](by-country/CH.txt) |
+| United Arab Emirates (AE) | 139 | [by-country/AE.txt](by-country/AE.txt) |
+| Ireland (IE) | 137 | [by-country/IE.txt](by-country/IE.txt) |
+| Venezuela (VE) | 135 | [by-country/VE.txt](by-country/VE.txt) |
+| Argentina (AR) | 123 | [by-country/AR.txt](by-country/AR.txt) |
 | Spain (ES) | 101 | [by-country/ES.txt](by-country/ES.txt) |
-| Cambodia (KH) | 92 | [by-country/KH.txt](by-country/KH.txt) |
-| Peru (PE) | 84 | [by-country/PE.txt](by-country/PE.txt) |
-| Dominican Republic (DO) | 82 | [by-country/DO.txt](by-country/DO.txt) |
-| Chile (CL) | 81 | [by-country/CL.txt](by-country/CL.txt) |
-| Israel (IL) | 79 | [by-country/IL.txt](by-country/IL.txt) |
-| Ukraine (UA) | 79 | [by-country/UA.txt](by-country/UA.txt) |
-| Finland (FI) | 69 | [by-country/FI.txt](by-country/FI.txt) |
-| Egypt (EG) | 55 | [by-country/EG.txt](by-country/EG.txt) |
-| Poland (PL) | 55 | [by-country/PL.txt](by-country/PL.txt) |
-| Pakistan (PK) | 46 | [by-country/PK.txt](by-country/PK.txt) |
-| Libya (LY) | 44 | [by-country/LY.txt](by-country/LY.txt) |
-| Kenya (KE) | 42 | [by-country/KE.txt](by-country/KE.txt) |
+| Cambodia (KH) | 93 | [by-country/KH.txt](by-country/KH.txt) |
+| Peru (PE) | 89 | [by-country/PE.txt](by-country/PE.txt) |
+| Dominican Republic (DO) | 86 | [by-country/DO.txt](by-country/DO.txt) |
+| Ukraine (UA) | 81 | [by-country/UA.txt](by-country/UA.txt) |
+| Chile (CL) | 80 | [by-country/CL.txt](by-country/CL.txt) |
+| Israel (IL) | 78 | [by-country/IL.txt](by-country/IL.txt) |
+| Finland (FI) | 68 | [by-country/FI.txt](by-country/FI.txt) |
+| Egypt (EG) | 57 | [by-country/EG.txt](by-country/EG.txt) |
+| Poland (PL) | 53 | [by-country/PL.txt](by-country/PL.txt) |
+| Pakistan (PK) | 44 | [by-country/PK.txt](by-country/PK.txt) |
+| Libya (LY) | 43 | [by-country/LY.txt](by-country/LY.txt) |
 | Paraguay (PY) | 42 | [by-country/PY.txt](by-country/PY.txt) |
-| Bulgaria (BG) | 37 | [by-country/BG.txt](by-country/BG.txt) |
+| Kenya (KE) | 39 | [by-country/KE.txt](by-country/KE.txt) |
+| Bulgaria (BG) | 38 | [by-country/BG.txt](by-country/BG.txt) |
 | Georgia (GE) | 35 | [by-country/GE.txt](by-country/GE.txt) |
 | Taiwan (TW) | 29 | [by-country/TW.txt](by-country/TW.txt) |
-| Guatemala (GT) | 26 | [by-country/GT.txt](by-country/GT.txt) |
+| Guatemala (GT) | 27 | [by-country/GT.txt](by-country/GT.txt) |
 | Kazakhstan (KZ) | 26 | [by-country/KZ.txt](by-country/KZ.txt) |
-| Hungary (HU) | 22 | [by-country/HU.txt](by-country/HU.txt) |
-| Nepal (NP) | 21 | [by-country/NP.txt](by-country/NP.txt) |
+| Nepal (NP) | 25 | [by-country/NP.txt](by-country/NP.txt) |
+| Hungary (HU) | 24 | [by-country/HU.txt](by-country/HU.txt) |
+| Iraq (IQ) | 24 | [by-country/IQ.txt](by-country/IQ.txt) |
+| Seychelles (SC) | 21 | [by-country/SC.txt](by-country/SC.txt) |
 | Albania (AL) | 20 | [by-country/AL.txt](by-country/AL.txt) |
-| Iraq (IQ) | 20 | [by-country/IQ.txt](by-country/IQ.txt) |
-| Seychelles (SC) | 20 | [by-country/SC.txt](by-country/SC.txt) |
-| Czechia (CZ) | 18 | [by-country/CZ.txt](by-country/CZ.txt) |
-| Austria (AT) | 17 | [by-country/AT.txt](by-country/AT.txt) |
-| Honduras (HN) | 17 | [by-country/HN.txt](by-country/HN.txt) |
-| Nigeria (NG) | 17 | [by-country/NG.txt](by-country/NG.txt) |
-| Syria (SY) | 17 | [by-country/SY.txt](by-country/SY.txt) |
+| Czechia (CZ) | 19 | [by-country/CZ.txt](by-country/CZ.txt) |
+| Honduras (HN) | 19 | [by-country/HN.txt](by-country/HN.txt) |
+| Austria (AT) | 18 | [by-country/AT.txt](by-country/AT.txt) |
+| Syria (SY) | 18 | [by-country/SY.txt](by-country/SY.txt) |
+| Nigeria (NG) | 16 | [by-country/NG.txt](by-country/NG.txt) |
 | Puerto Rico (PR) | 15 | [by-country/PR.txt](by-country/PR.txt) |
-| Romania (RO) | 13 | [by-country/RO.txt](by-country/RO.txt) |
+| Romania (RO) | 14 | [by-country/RO.txt](by-country/RO.txt) |
 | British Virgin Islands (VG) | 13 | [by-country/VG.txt](by-country/VG.txt) |
+| Armenia (AM) | 12 | [by-country/AM.txt](by-country/AM.txt) |
 | Serbia (RS) | 12 | [by-country/RS.txt](by-country/RS.txt) |
-| Armenia (AM) | 11 | [by-country/AM.txt](by-country/AM.txt) |
-| Palestine (PS) | 11 | [by-country/PS.txt](by-country/PS.txt) |
+| Palestine (PS) | 10 | [by-country/PS.txt](by-country/PS.txt) |
 | Estonia (EE) | 9 | [by-country/EE.txt](by-country/EE.txt) |
+| Latvia (LV) | 9 | [by-country/LV.txt](by-country/LV.txt) |
 | Mongolia (MN) | 9 | [by-country/MN.txt](by-country/MN.txt) |
 | Tanzania (TZ) | 9 | [by-country/TZ.txt](by-country/TZ.txt) |
-| Uzbekistan (UZ) | 9 | [by-country/UZ.txt](by-country/UZ.txt) |
-| Latvia (LV) | 8 | [by-country/LV.txt](by-country/LV.txt) |
-| Kosovo (XK) | 8 | [by-country/XK.txt](by-country/XK.txt) |
+| Kosovo (XK) | 9 | [by-country/XK.txt](by-country/XK.txt) |
+| Uzbekistan (UZ) | 8 | [by-country/UZ.txt](by-country/UZ.txt) |
 | Botswana (BW) | 7 | [by-country/BW.txt](by-country/BW.txt) |
 | Greece (GR) | 7 | [by-country/GR.txt](by-country/GR.txt) |
+| Croatia (HR) | 7 | [by-country/HR.txt](by-country/HR.txt) |
 | Lebanon (LB) | 7 | [by-country/LB.txt](by-country/LB.txt) |
 | Bolivia (BO) | 6 | [by-country/BO.txt](by-country/BO.txt) |
 | Belarus (BY) | 6 | [by-country/BY.txt](by-country/BY.txt) |
 | Ghana (GH) | 6 | [by-country/GH.txt](by-country/GH.txt) |
-| Croatia (HR) | 6 | [by-country/HR.txt](by-country/HR.txt) |
 | Azerbaijan (AZ) | 5 | [by-country/AZ.txt](by-country/AZ.txt) |
 | Cyprus (CY) | 5 | [by-country/CY.txt](by-country/CY.txt) |
 | Panama (PA) | 5 | [by-country/PA.txt](by-country/PA.txt) |
-| Slovakia (SK) | 5 | [by-country/SK.txt](by-country/SK.txt) |
 | Senegal (SN) | 5 | [by-country/SN.txt](by-country/SN.txt) |
 | Bosnia and Herzegovina (BA) | 4 | [by-country/BA.txt](by-country/BA.txt) |
+| Moldova (MD) | 4 | [by-country/MD.txt](by-country/MD.txt) |
 | Montenegro (ME) | 4 | [by-country/ME.txt](by-country/ME.txt) |
 | Qatar (QA) | 4 | [by-country/QA.txt](by-country/QA.txt) |
+| Slovakia (SK) | 4 | [by-country/SK.txt](by-country/SK.txt) |
 | Belgium (BE) | 3 | [by-country/BE.txt](by-country/BE.txt) |
 | Burkina Faso (BF) | 3 | [by-country/BF.txt](by-country/BF.txt) |
 | DR Congo (CD) | 3 | [by-country/CD.txt](by-country/CD.txt) |
 | Congo (CG) | 3 | [by-country/CG.txt](by-country/CG.txt) |
 | Costa Rica (CR) | 3 | [by-country/CR.txt](by-country/CR.txt) |
+| Kyrgyzstan (KG) | 3 | [by-country/KG.txt](by-country/KG.txt) |
 | Lithuania (LT) | 3 | [by-country/LT.txt](by-country/LT.txt) |
-| Moldova (MD) | 3 | [by-country/MD.txt](by-country/MD.txt) |
-| Myanmar (MM) | 3 | [by-country/MM.txt](by-country/MM.txt) |
-| Rwanda (RW) | 3 | [by-country/RW.txt](by-country/RW.txt) |
 | Saudi Arabia (SA) | 3 | [by-country/SA.txt](by-country/SA.txt) |
 | Yemen (YE) | 3 | [by-country/YE.txt](by-country/YE.txt) |
 | Afghanistan (AF) | 2 | [by-country/AF.txt](by-country/AF.txt) |
 | Angola (AO) | 2 | [by-country/AO.txt](by-country/AO.txt) |
-| Kyrgyzstan (KG) | 2 | [by-country/KG.txt](by-country/KG.txt) |
 | Laos (LA) | 2 | [by-country/LA.txt](by-country/LA.txt) |
+| Myanmar (MM) | 2 | [by-country/MM.txt](by-country/MM.txt) |
 | Malta (MT) | 2 | [by-country/MT.txt](by-country/MT.txt) |
 | Norway (NO) | 2 | [by-country/NO.txt](by-country/NO.txt) |
 | Portugal (PT) | 2 | [by-country/PT.txt](by-country/PT.txt) |
+| Rwanda (RW) | 2 | [by-country/RW.txt](by-country/RW.txt) |
 | Uganda (UG) | 2 | [by-country/UG.txt](by-country/UG.txt) |
 | Uruguay (UY) | 2 | [by-country/UY.txt](by-country/UY.txt) |
+| Burundi (BI) | 1 | [by-country/BI.txt](by-country/BI.txt) |
 | Bhutan (BT) | 1 | [by-country/BT.txt](by-country/BT.txt) |
 | Cameroon (CM) | 1 | [by-country/CM.txt](by-country/CM.txt) |
 | Denmark (DK) | 1 | [by-country/DK.txt](by-country/DK.txt) |
@@ -167,7 +168,6 @@ Full API docs: **https://hproxy.com/docs**
 | Equatorial Guinea (GQ) | 1 | [by-country/GQ.txt](by-country/GQ.txt) |
 | Iceland (IS) | 1 | [by-country/IS.txt](by-country/IS.txt) |
 | Jamaica (JM) | 1 | [by-country/JM.txt](by-country/JM.txt) |
-| Sri Lanka (LK) | 1 | [by-country/LK.txt](by-country/LK.txt) |
 | Lesotho (LS) | 1 | [by-country/LS.txt](by-country/LS.txt) |
 | North Macedonia (MK) | 1 | [by-country/MK.txt](by-country/MK.txt) |
 | Maldives (MV) | 1 | [by-country/MV.txt](by-country/MV.txt) |
@@ -197,4 +197,4 @@ Raw IPs cannot be added by pull request: the list regenerates hourly from the ve
 
 These proxies are aggregated from publicly available sources. We do not scan, port-scan or collect them ourselves, and we store nothing about the devices behind them. They are provided as-is, with no warranty, for lawful use only. You are responsible for how you use them: follow the GitHub Acceptable Use Policy and your local laws, and never route passwords or sensitive data through a public proxy. If an IP address is yours and you want it removed, open an issue.
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; auto-updated hourly &nbsp;&middot;&nbsp; 2026-06-21 08:16 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; auto-updated hourly &nbsp;&middot;&nbsp; 2026-06-21 09:16 UTC</sub></p>
