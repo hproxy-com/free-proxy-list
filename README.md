@@ -1,29 +1,29 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1782077854" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1782077978" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
   <a href="https://hproxy.com"><img src="https://img.shields.io/badge/Website-hproxy.com-006039?style=for-the-badge&labelColor=1A1918" alt="Website"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-788,324-006039?style=for-the-badge&labelColor=1A1918" alt="Tracked"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live-3,349-006039?style=for-the-badge&labelColor=1A1918" alt="Live"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-788,323-006039?style=for-the-badge&labelColor=1A1918" alt="Tracked"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live-3,352-006039?style=for-the-badge&labelColor=1A1918" alt="Live"></a>
   <a href="https://github.com/hproxy-com/free-proxy-list/commits/main"><img src="https://img.shields.io/badge/Updated-continuously-006039?style=for-the-badge&labelColor=1A1918" alt="Updated"></a>
   <a href="https://hproxy.com/proxy-checker"><img src="https://img.shields.io/badge/Proxy_Checker-Free-006039?style=for-the-badge&labelColor=1A1918" alt="Proxy Checker"></a>
   <a href="https://hproxy.com/residential"><img src="https://img.shields.io/badge/Premium_Proxies-from_$0.99_per_GB-006039?style=for-the-badge&labelColor=1A1918" alt="Premium Proxies"></a>
 </p>
 
-<p align="center"><b>The biggest free proxy list, continuously scanned 24/7.</b><br>788,324 proxies tracked all-time, 3,349 verified working right now.</p>
+<p align="center"><b>The biggest free proxy list, continuously scanned 24/7.</b><br>788,323 proxies tracked all-time, 3,352 verified working right now.</p>
 <p align="center"><sub>HTTP, HTTPS, SOCKS4 and SOCKS5 &middot; country, anonymity and latency on every IP &middot; updated 21.06.2026</sub></p>
 
 ## Download
 
 | List | Proxies | Formats |
 |------|--------:|---------|
-| **All** | 3,349 | [txt](all.txt) &middot; [json](all.json) &middot; [csv](all.csv) |
-| HTTP | 2,242 | [txt](http.txt) |
-| HTTPS | 1,204 | [txt](https.txt) |
-| SOCKS4 | 1,307 | [txt](socks4.txt) |
-| SOCKS5 | 1,327 | [txt](socks5.txt) |
-| United States (US) | 409 | [txt](by-country/US.txt) &middot; [all &raquo;](by-country) |
+| **All** | 3,352 | [txt](all.txt) &middot; [json](all.json) &middot; [csv](all.csv) |
+| HTTP | 2,267 | [txt](http.txt) |
+| HTTPS | 1,224 | [txt](https.txt) |
+| SOCKS4 | 1,319 | [txt](socks4.txt) |
+| SOCKS5 | 1,331 | [txt](socks5.txt) |
+| United States (US) | 401 | [txt](by-country/US.txt) &middot; [all &raquo;](by-country) |
 
 Text files are one `ip:port` per line. `all.json` and `all.csv` add protocol, anonymity, country, city, latency and uptime per proxy.
 
@@ -40,23 +40,23 @@ curl https://cdn.jsdelivr.net/gh/hproxy-com/free-proxy-list@main/all.json       
 Need live filtering by country, protocol and anonymity? Use the real-time API and full docs at **https://hproxy.com/docs**.
 
 <details>
-<summary><b>Free proxies by country</b> (95 countries)</summary>
+<summary><b>Free proxies by country</b> (96 countries)</summary>
 
 | Country | Proxies | File |
 |---------|--------:|------|
-| United States (US) | 409 | [by-country/US.txt](by-country/US.txt) |
-| Indonesia (ID) | 374 | [by-country/ID.txt](by-country/ID.txt) |
-| China (CN) | 339 | [by-country/CN.txt](by-country/CN.txt) |
-| Iran (IR) | 292 | [by-country/IR.txt](by-country/IR.txt) |
-| Germany (DE) | 140 | [by-country/DE.txt](by-country/DE.txt) |
-| South Korea (KR) | 116 | [by-country/KR.txt](by-country/KR.txt) |
-| Hong Kong (HK) | 114 | [by-country/HK.txt](by-country/HK.txt) |
-| Japan (JP) | 110 | [by-country/JP.txt](by-country/JP.txt) |
-| India (IN) | 104 | [by-country/IN.txt](by-country/IN.txt) |
-| Mexico (MX) | 93 | [by-country/MX.txt](by-country/MX.txt) |
+| United States (US) | 401 | [by-country/US.txt](by-country/US.txt) |
+| Indonesia (ID) | 389 | [by-country/ID.txt](by-country/ID.txt) |
+| China (CN) | 358 | [by-country/CN.txt](by-country/CN.txt) |
+| Iran (IR) | 277 | [by-country/IR.txt](by-country/IR.txt) |
+| Germany (DE) | 134 | [by-country/DE.txt](by-country/DE.txt) |
+| Hong Kong (HK) | 125 | [by-country/HK.txt](by-country/HK.txt) |
+| Japan (JP) | 119 | [by-country/JP.txt](by-country/JP.txt) |
+| South Korea (KR) | 119 | [by-country/KR.txt](by-country/KR.txt) |
+| India (IN) | 117 | [by-country/IN.txt](by-country/IN.txt) |
 | Russia (RU) | 93 | [by-country/RU.txt](by-country/RU.txt) |
-| Singapore (SG) | 81 | [by-country/SG.txt](by-country/SG.txt) |
-| _+83 more countries_ | | [full by-country/ folder &raquo;](by-country) |
+| Mexico (MX) | 85 | [by-country/MX.txt](by-country/MX.txt) |
+| Singapore (SG) | 82 | [by-country/SG.txt](by-country/SG.txt) |
+| _+84 more countries_ | | [full by-country/ folder &raquo;](by-country) |
 
 </details>
 
@@ -81,4 +81,4 @@ Raw IPs cannot be added by pull request: the list regenerates every couple of mi
 
 These proxies are aggregated from publicly available sources. We do not scan, port-scan or collect them ourselves, and we store nothing about the devices behind them. They are provided as-is, with no warranty, for lawful use only. You are responsible for how you use them: follow the GitHub Acceptable Use Policy and your local laws, and never route passwords or sensitive data through a public proxy. If an IP address is yours and you want it removed, open an issue.
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; continuously updated &nbsp;&middot;&nbsp; 2026-06-21 21:37 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; continuously updated &nbsp;&middot;&nbsp; 2026-06-21 21:39 UTC</sub></p>
