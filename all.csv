@@ -5,9 +5,9 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 15.160.132.166,7258,http,,IT,Milan,66,23.5,true
 144.124.227.90,21074,http|https|socks4|socks5,elite,NL,Amsterdam,71,97.4,true
 51.34.28.236,54981,http|socks4,,CH,Zurich,73,18.7,true
-15.161.131.175,46011,http|socks4,,IT,Milan,75,24.9,true
-15.161.131.175,7691,http|socks4,,IT,Milan,75,19.8,true
 15.160.132.166,12613,http|socks4,,IT,Milan,75,21.0,true
+15.161.131.175,7691,http|socks4,,IT,Milan,75,19.8,true
+15.161.131.175,46011,http|socks4,,IT,Milan,75,24.9,true
 15.160.132.166,32023,http,,IT,Milan,76,19.5,true
 135.125.154.99,8899,http|https,elite,FR,,78,23.1,true
 13.41.196.179,35967,http|https|socks4|socks5,,GB,City of London,85,26.8,true
@@ -24,13 +24,13 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 5.9.88.169,80,http,,DE,Falkenstein,117,93.2,true
 51.92.173.133,10674,http|https|socks4|socks5,,ES,Zaragoza,119,13.1,true
 13.51.196.44,55407,http|socks4,,SE,Stockholm,122,28.1,true
-51.34.28.236,8000,http|socks4,,CH,Zurich,125,24.5,true
-51.34.28.236,29183,http|https|socks4|socks5,,CH,Zurich,129,22.4,true
-51.34.28.236,13307,http|https|socks4|socks5,,CH,Zurich,131,19.0,true
+81.200.154.236,48503,http|https,elite,DE,Frankfurt am Main,133,54.8,true
 15.161.131.175,4040,http|https|socks4|socks5,,IT,Milan,135,23.5,true
-51.92.173.133,9179,http|socks4,,ES,Zaragoza,137,13.0,true
+45.88.174.195,8080,http|https,elite,NL,Amsterdam,136,75.0,true
 51.34.28.236,25293,http|https|socks4,,CH,Zurich,137,17.9,true
+51.92.173.133,9179,http|socks4,,ES,Zaragoza,137,13.0,true
 51.34.28.236,7931,http|https|socks4|socks5,,CH,Zurich,137,21.0,true
+45.67.221.18,80,http,,FR,Lauterbourg,138,95.5,true
 51.92.173.133,21543,http|https|socks4|socks5,,ES,Zaragoza,139,17.7,true
 15.160.132.166,20423,http|socks4,,IT,Milan,144,24.1,true
 213.14.144.16,3310,http,,TR,Istanbul,146,76.3,true
@@ -39,21 +39,16 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 79.110.192.44,8081,http,elite,PL,Wroclaw,157,89.1,true
 15.160.132.166,25934,http|https|socks4|socks5,,IT,Milan,159,21.1,true
 51.92.173.133,4227,http|socks4|socks5,,ES,Zaragoza,161,20.9,true
-63.181.83.210,15796,http|socks4,,DE,Frankfurt am Main,162,21.8,true
 51.92.173.133,19125,http|socks4|socks5,,ES,Zaragoza,164,11.7,true
-63.181.83.210,781,http|socks4,,DE,Frankfurt am Main,164,25.6,true
-63.181.83.210,32189,http|socks4,,DE,Frankfurt am Main,165,30.5,true
 51.92.173.133,20856,http|https|socks4,,ES,Zaragoza,167,13.4,true
 51.34.28.236,35352,http|socks4,,CH,Zurich,169,16.6,true
-51.34.28.236,25886,http|socks4,,CH,Zurich,169,21.2,true
 65.109.14.254,8080,http,,FI,Helsinki,171,87.9,true
 85.214.107.177,80,http,elite,DE,,179,43.4,true
 51.92.173.133,8028,http|socks4,,ES,Zaragoza,182,11.3,true
-212.127.95.235,8081,http,elite,PL,Wroclaw,182,73.6,true
 62.133.62.3,1082,http|socks4|socks5,elite,FR,Paris,191,80.4,true
 51.92.173.133,14780,https|socks4,elite,ES,Zaragoza,197,12.1,true
-159.89.237.207,80,http,,US,North Bergen,206,98.9,true
 157.245.94.13,80,http,,US,North Bergen,206,97.8,true
+159.89.237.207,80,http,,US,North Bergen,206,98.9,true
 108.61.23.18,80,http,,US,Piscataway,210,100.0,true
 45.77.202.16,80,http,,US,Piscataway,210,100.0,true
 138.197.112.162,80,http,,US,Clifton,217,96.9,true
@@ -64,8 +59,10 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 159.224.45.64,41890,http|https,transparent,UA,Kharkiv,228,78.0,true
 108.131.109.106,44783,http,,IE,Dublin,228,27.4,true
 108.131.109.106,5017,http,,IE,Dublin,232,19.0,true
+35.182.12.78,8082,http|https|socks4|socks5,,CA,Montreal,239,27.4,true
+35.182.12.78,14166,http|https|socks4|socks5,,CA,Montreal,255,13.3,true
+35.182.12.78,18497,http|https|socks4|socks5,,CA,Montreal,265,18.7,true
 13.235.42.151,59322,http|https|socks4,,IN,Mumbai,266,22.3,true
-204.13.42.194,8080,http,,US,South Burlington,274,97.5,true
 13.235.42.151,50246,http,,IN,Mumbai,276,22.2,true
 63.181.83.210,17822,http|https|socks4|socks5,,DE,Frankfurt am Main,280,21.3,true
 135.125.154.108,8899,http|https,elite,FR,,281,25.1,true
@@ -78,8 +75,8 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 2.26.115.20,3128,http|https,,US,,287,32.2,true
 63.181.83.210,3128,http|socks4|socks5,,DE,Frankfurt am Main,287,17.6,true
 51.92.173.133,7603,http|socks4,,ES,Zaragoza,293,9.6,true
-13.235.42.151,1234,http|https|socks4|socks5,,IN,Mumbai,295,17.0,true
 31.131.248.51,3129,http,,RU,St Petersburg,295,40.1,true
+13.235.42.151,1234,http|https|socks4|socks5,,IN,Mumbai,295,17.0,true
 51.92.173.133,1111,http|socks4,,ES,Zaragoza,297,7.5,true
 63.181.83.210,3823,http|https|socks4|socks5,,DE,Frankfurt am Main,300,23.5,true
 35.184.230.24,80,http,,US,Council Bluffs,309,100.0,true
@@ -88,54 +85,49 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 217.209.35.22,443,http,anonymous,SE,,324,31.2,true
 13.235.42.151,32692,http|socks4,,IN,Mumbai,326,17.3,true
 39.102.210.62,80,http,,CN,Beijing,330,100.0,true
-192.241.147.174,80,http,,US,North Bergen,335,99.0,true
 18.61.3.91,54011,http,,IN,Hyderabad,335,17.7,true
-45.67.221.18,80,http,,FR,Lauterbourg,337,95.5,true
+192.241.147.174,80,http,,US,North Bergen,335,99.0,true
 13.246.6.135,39260,http,,ZA,Cape Town,341,19.9,true
 13.246.6.135,9933,http|socks4,,ZA,Cape Town,346,24.9,true
 79.137.17.104,80,http,elite,FR,,347,60.4,true
 13.246.6.135,16425,http,,ZA,Cape Town,349,26.0,true
-51.34.28.236,17377,http|https|socks4|socks5,,CH,Zurich,351,19.2,true
 13.246.6.135,59713,http,,ZA,Cape Town,351,30.5,true
+51.34.28.236,17377,http|https|socks4|socks5,,CH,Zurich,351,19.2,true
 13.246.6.135,10258,http|https|socks4|socks5,,ZA,Cape Town,354,25.4,true
 45.38.198.127,3128,http|https,elite,US,Santa Clara,356,35.2,true
 13.246.6.135,18372,http|socks4|socks5,,ZA,Cape Town,358,27.3,true
-85.234.100.149,8080,http|https,elite,DE,,362,80.8,true
+45.56.114.82,80,http,,US,Atlanta,361,37.0,true
 79.110.200.148,8081,http,elite,PL,Wroclaw,362,82.5,true
+85.234.100.149,8080,http|https,elite,DE,,362,80.8,true
 156.238.226.176,8080,http,,SC,,367,100.0,true
 47.91.65.23,3128,http|https,transparent,DE,Frankfurt am Main,372,97.4,true
 13.246.6.135,9283,http|socks4,,ZA,Cape Town,374,27.9,true
 64.227.23.88,8118,http|https,elite,US,North Bergen,376,86.3,true
 185.32.4.65,4153,socks4,elite,PL,,378,9.8,true
 194.150.110.134,80,http,anonymous,DK,,379,60.5,true
-18.60.247.31,13746,http|https|socks4,,IN,Hyderabad,379,18.5,true
 54.188.236.206,7242,http|https|socks4|socks5,,US,Boardman,382,18.6,true
 54.188.236.206,53346,http|https|socks4|socks5,,US,Boardman,383,16.0,true
 54.188.236.206,8088,http|socks4|socks5,,US,Boardman,390,14.2,true
 208.91.197.49,80,http,,VG,,392,100.0,true
-169.61.46.13,7563,http,,US,,396,99.8,true
-18.60.247.31,20441,http|socks4,,IN,Hyderabad,396,24.3,true
-18.60.247.31,42281,http|socks4,,IN,Hyderabad,398,27.6,true
-18.60.247.31,57115,http|socks4,,IN,Hyderabad,398,23.9,true
-18.60.247.31,3128,http|socks4,,IN,Hyderabad,399,22.7,true
+13.53.139.178,24519,http|https|socks4|socks5,,SE,Stockholm,392,28.4,true
+18.60.247.31,23066,http|https|socks4|socks5,,IN,Hyderabad,397,19.3,true
 159.65.74.11,80,http,,US,Santa Clara,403,100.0,true
 142.93.202.130,3128,http,transparent,US,North Bergen,404,62.9,true
 13.51.196.44,53720,socks4|socks5,elite,SE,Stockholm,413,26.2,true
 108.136.140.236,15013,http,,ID,Jakarta,413,20.9,true
 108.136.140.236,6060,http,,ID,Jakarta,416,32.0,true
 5.161.103.41,88,http,elite,US,Ashburn,420,55.6,true
-178.17.52.33,1080,socks5,elite,IQ,,420,74.2,true
-5.45.184.253,1080,socks5,elite,DE,Eschborn,423,54.0,true
 13.206.73.237,12518,http|https|socks4|socks5,,IN,Mumbai,425,25.6,true
 18.222.132.180,58080,http|https|socks4|socks5,,US,Columbus,427,26.2,true
 185.11.134.227,8443,http|https|socks4|socks5,elite,RU,,431,97.8,true
 36.67.136.27,5678,http,,ID,Jakarta,434,96.1,true
-18.222.132.180,48113,http|https|socks4|socks5,,US,Columbus,436,22.5,true
 167.71.232.168,3000,http,,IN,Bengaluru,436,99.9,true
+18.222.132.180,48113,http|https|socks4|socks5,,US,Columbus,436,22.5,true
 176.31.197.55,8080,http|https,transparent,FR,,443,11.1,true
 2.26.87.216,1080,http|https|socks5,elite,US,,448,97.1,true
-51.89.139.190,1080,socks4|socks5,elite,GB,London,449,87.9,true
 159.65.245.255,80,http,elite,US,Clifton,449,45.0,true
+51.89.139.190,1080,socks4|socks5,elite,GB,London,449,87.9,true
+35.182.12.78,51074,http|https|socks4|socks5,,CA,Montreal,459,29.6,true
 43.218.124.29,31563,http|socks4|socks5,,ID,Jakarta,460,28.4,true
 43.218.124.29,17956,http|socks4|socks5,,ID,Jakarta,463,23.6,true
 46.209.123.98,1155,http|https,transparent,IR,,473,99.2,true
@@ -147,27 +139,26 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 56.155.73.215,5117,http,,JP,Osaka,496,22.7,true
 160.238.65.3,3128,http,transparent,HK,,498,57.2,true
 160.238.65.2,3128,http,transparent,HK,,498,57.8,true
+56.155.73.215,6359,http|https|socks4|socks5,,JP,Osaka,499,24.5,true
 176.111.37.216,39811,http,transparent,UA,Dobropol'ye,500,96.7,true
-56.155.73.159,14745,http|socks4|socks5,,JP,Osaka,500,30.0,true
 139.59.78.178,80,http,,IN,Bengaluru,501,100.0,true
 56.155.73.215,25042,http,,JP,Osaka,502,26.7,true
-56.155.73.159,9999,http|socks4|socks5,,JP,Osaka,503,18.9,true
-13.208.238.59,59273,http|https|socks4,,JP,Osaka,507,26.6,true
-13.208.238.59,30073,http|socks4,,JP,Osaka,507,22.9,true
-13.208.238.59,3129,http|socks4,,JP,Osaka,509,23.8,true
 13.208.238.59,9947,http|https|socks4|socks5,,JP,Osaka,524,24.2,true
 13.246.6.135,21351,http|https|socks4|socks5,,ZA,Cape Town,527,17.3,true
+56.155.73.159,9999,http|socks4|socks5,,JP,Osaka,536,19.2,true
 51.38.70.95,8080,http|https,transparent,GB,London,536,11.5,true
-43.198.94.82,9002,http|https|socks4,,HK,Hong Kong,540,30.5,true
+13.208.238.59,3129,http|https|socks4|socks5,,JP,Osaka,537,23.9,true
+13.208.238.59,59273,http|socks4|socks5,,JP,Osaka,537,26.8,true
+13.208.238.59,30073,http|socks4|socks5,,JP,Osaka,537,23.2,true
 43.198.94.82,29772,http|https|socks4,,HK,Hong Kong,540,19.4,true
+43.198.94.82,9002,http|https|socks4,,HK,Hong Kong,540,30.5,true
 46.47.197.210,3128,http,elite,RU,,542,82.6,true
 43.218.124.29,38633,http|https|socks4|socks5,,ID,Jakarta,546,23.2,true
 185.100.47.106,443,http|https,transparent,IR,,549,34.9,true
 5.101.120.25,1080,socks5,elite,EE,Johvi,552,75.5,true
-51.92.173.133,47164,http|https|socks4|socks5,,ES,Zaragoza,553,16.0,true
 13.208.238.59,59049,http|https|socks4|socks5,,JP,Osaka,553,26.9,true
+51.92.173.133,47164,http|https|socks4|socks5,,ES,Zaragoza,553,16.0,true
 156.38.112.11,80,http,elite,GH,Cape Coast,555,59.9,true
-54.255.249.161,4062,http|https|socks4|socks5,,SG,Singapore,556,18.2,true
 82.145.209.254,80,http,,NL,Amsterdam,557,100.0,true
 43.198.94.82,36379,http|socks4,,HK,Hong Kong,559,33.6,true
 18.163.33.4,8008,http|https|socks4|socks5,,HK,Hong Kong,561,32.7,true
@@ -177,125 +168,126 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 208.91.196.170,80,http,,VG,,574,99.2,true
 18.163.33.4,35278,http|https|socks4|socks5,,HK,Hong Kong,576,31.3,true
 18.222.132.180,12600,http|https|socks4|socks5,,US,Columbus,578,19.3,true
-43.208.243.207,8149,http|socks4,,TH,Bangkok,581,31.8,true
 56.155.73.215,24974,http|https|socks4|socks5,,JP,Osaka,581,16.7,true
 43.208.243.207,34805,http|socks4,,TH,Bangkok,581,29.1,true
+43.208.243.207,8149,http|socks4,,TH,Bangkok,581,31.8,true
+35.182.12.78,8443,http|socks4,,CA,Montreal,582,21.7,true
 56.155.73.215,30146,http|https|socks4|socks5,,JP,Osaka,587,17.9,true
 43.208.243.207,42794,http|socks4,,TH,Bangkok,589,26.2,true
 88.210.13.216,1081,socks5,elite,NL,,593,100.0,true
 43.208.243.207,30371,http|https|socks4|socks5,,TH,Bangkok,597,25.3,true
 13.235.42.151,21134,http|https|socks4|socks5,,IN,Mumbai,600,23.7,true
-43.208.134.144,4158,http|https|socks4,,TH,Bangkok,605,24.8,true
+54.253.167.61,30375,http|https|socks4|socks5,,AU,Sydney,601,22.5,true
 43.208.243.207,5601,http,,TH,Bangkok,605,31.4,true
+43.208.134.144,4158,http|https|socks4,,TH,Bangkok,605,24.8,true
 43.208.134.144,9002,http|https|socks4,,TH,Bangkok,606,28.1,true
 43.208.134.144,8080,http|https|socks4,,TH,Bangkok,607,23.0,true
 15.135.215.62,38324,http,,AU,Sydney,609,27.2,true
 43.208.243.207,22951,http|socks4,,TH,Bangkok,609,27.2,true
+43.208.237.116,20513,http|https|socks4|socks5,,TH,Bangkok,610,19.6,true
 82.97.250.132,1081,socks4|socks5,elite,RU,Moscow,610,89.7,true
-43.208.134.144,28104,http|socks4,,TH,Bangkok,611,29.3,true
 15.229.231.89,29600,http,,BR,Sao Paulo,611,25.8,true
+43.208.134.144,28104,http|socks4,,TH,Bangkok,611,29.3,true
 43.208.134.144,50687,http|https|socks4,,TH,Bangkok,613,23.7,true
-43.198.94.82,55530,http|https|socks4|socks5,,HK,Hong Kong,618,16.0,true
+54.253.167.61,53702,http|https|socks4,,AU,Sydney,615,25.7,true
 15.229.231.89,56357,http,,BR,Sao Paulo,618,25.7,true
+43.198.94.82,55530,http|https|socks4|socks5,,HK,Hong Kong,618,16.0,true
 198.175.205.240,8080,http,,US,West Monroe,620,100.0,true
-95.165.152.252,3128,http|https,transparent,RU,Moscow,620,90.9,true
 43.205.113.210,3000,http,,IN,Mumbai,622,91.6,true
 206.189.166.221,80,http,,US,Santa Clara,624,100.0,true
 34.140.137.151,80,http,elite,BE,Brussels,626,62.6,true
 43.208.237.116,8097,http|https|socks4|socks5,,TH,Bangkok,626,28.2,true
 15.135.215.62,12500,http,,AU,Sydney,630,21.5,true
-43.208.237.116,8118,http|socks4,,TH,Bangkok,634,27.2,true
+18.61.3.91,38071,http|https|socks4|socks5,,IN,Hyderabad,638,31.9,true
 13.246.6.135,24787,http|socks4,,ZA,Cape Town,639,25.2,true
 15.135.215.62,57553,http,,AU,Sydney,639,28.9,true
-54.253.167.61,53702,http|socks4,,AU,Sydney,639,25.5,true
-43.208.134.144,27891,http|https|socks4|socks5,,TH,Bangkok,640,34.0,true
 15.135.215.62,24555,http,,AU,Sydney,640,14.5,true
 15.135.215.62,15212,http,,AU,Sydney,640,22.1,true
+43.208.134.144,27891,http|https|socks4|socks5,,TH,Bangkok,640,34.0,true
 43.198.94.82,9080,http|socks4|socks5,,HK,Hong Kong,641,28.1,true
 15.135.215.62,40000,http,,AU,Sydney,642,26.9,true
 207.180.254.198,8080,http,elite,FR,Lauterbourg,645,62.4,true
 54.206.129.120,54360,http|socks4,,AU,Sydney,650,26.6,true
 54.206.129.120,10099,http|socks4,,AU,Sydney,651,29.4,true
 54.253.167.61,53394,http|socks4,,AU,Sydney,657,25.8,true
+16.26.99.200,24486,http|socks4|socks5,,AU,Melbourne,666,27.8,true
 54.206.129.120,55771,http|https|socks4|socks5,,AU,Sydney,666,23.0,true
 13.246.6.135,5336,http,,ZA,Cape Town,666,25.2,true
 13.246.6.135,21452,http|https|socks4|socks5,,ZA,Cape Town,669,28.9,true
-43.208.243.207,25199,http|https|socks4|socks5,,TH,Bangkok,674,30.6,true
 16.51.62.173,17464,http|socks4|socks5,,AU,Melbourne,674,17.9,true
+43.208.243.207,25199,http|https|socks4|socks5,,TH,Bangkok,674,30.6,true
 43.208.243.207,29654,http|socks4,,TH,Bangkok,678,27.8,true
 15.135.215.62,20274,http|https|socks4|socks5,,AU,Sydney,679,26.8,true
 43.208.243.207,7080,http|socks4,,TH,Bangkok,684,28.9,true
-54.206.129.120,35947,http|socks4|socks5,,AU,Sydney,687,22.3,true
 54.253.167.61,46145,http|https|socks4,,AU,Sydney,687,15.3,true
 18.163.33.4,34076,http|https|socks4|socks5,,HK,Hong Kong,690,25.7,true
 65.108.103.19,80,http,elite,FI,Helsinki,693,57.5,true
 13.235.42.151,10384,socks4|socks5,elite,IN,Mumbai,697,22.5,true
 54.253.167.61,29301,http|https|socks4,,AU,Sydney,698,31.0,true
-16.26.143.154,5347,http|https|socks4|socks5,,AU,Melbourne,699,17.4,true
 54.253.167.61,53991,http|https|socks4,,AU,Sydney,699,24.8,true
+16.26.143.154,5347,http|https|socks4|socks5,,AU,Melbourne,699,17.4,true
 13.246.6.135,1248,http|socks4,,ZA,Cape Town,703,22.4,true
 212.87.198.96,1080,socks5,elite,TR,Basaksehir,704,66.2,true
 43.208.237.116,59315,http|https|socks4,,TH,Bangkok,705,29.0,true
+56.155.73.159,51913,http|https|socks4|socks5,,JP,Osaka,708,30.9,true
 158.69.60.88,8000,http|https,transparent,CA,Montreal,712,63.6,true
 65.109.87.121,18080,http,elite,FI,Helsinki,713,23.6,true
 54.253.167.61,21950,http,,AU,Sydney,720,16.1,true
+54.253.167.61,9999,http|https|socks4|socks5,,AU,Sydney,722,28.3,true
+54.253.167.61,40939,http|https|socks4|socks5,,AU,Sydney,723,24.9,true
 43.218.124.29,25391,http|https|socks4|socks5,,ID,Jakarta,723,23.0,true
 54.206.129.120,7859,http|https|socks4|socks5,,AU,Sydney,723,24.3,true
 197.255.126.69,80,http,elite,GH,Accra,725,20.4,true
 43.198.94.82,27348,http|socks4,,HK,Hong Kong,731,24.7,true
-104.237.152.124,3129,http,,US,Fremont,732,92.0,true
+16.26.99.200,8080,http|https|socks4|socks5,,AU,Melbourne,736,17.4,true
 43.208.243.207,9976,http,,TH,Bangkok,738,27.9,true
 175.101.240.38,80,http,elite,IN,,739,59.6,true
+213.21.254.26,1081,http|https|socks4|socks5,elite,SE,Stockholm,741,40.1,true
 43.198.94.82,19137,http,,HK,Hong Kong,741,18.2,true
 197.255.125.12,80,http,elite,GH,Accra,741,27.7,true
-213.21.254.26,1081,http|https|socks4|socks5,elite,SE,Stockholm,741,40.1,true
 43.208.243.207,29763,http,,TH,Bangkok,746,28.9,true
 37.187.92.9,1033,http|https,elite,FR,,751,16.2,true
+56.155.73.159,14745,http|socks4|socks5,,JP,Osaka,761,30.1,true
 54.188.236.206,55879,http|https|socks4|socks5,,US,Boardman,768,17.7,true
 54.188.236.206,22378,http|https|socks4|socks5,,US,Boardman,769,20.0,true
 54.188.236.206,14778,http|https|socks4|socks5,,US,Boardman,770,14.7,true
-89.222.132.31,3629,socks4,elite,RU,,770,2.5,true
 203.95.198.142,8080,http,elite,KH,Phnom Penh,773,100.0,true
-79.137.205.130,7443,http|https,elite,NL,Amsterdam,774,96.2,true
-18.60.247.31,38812,http|socks4|socks5,,IN,Hyderabad,774,20.7,true
 18.60.247.31,23226,http|socks4|socks5,,IN,Hyderabad,774,14.1,true
-51.92.173.133,30525,http,,ES,Zaragoza,776,18.8,true
+18.60.247.31,38812,http|socks4|socks5,,IN,Hyderabad,774,20.7,true
+79.137.205.130,7443,http|https,elite,NL,Amsterdam,774,96.2,true
 103.146.137.233,1081,socks4,elite,PK,Karachi,776,5.3,true
-54.253.167.61,8085,http|https|socks4,,AU,Sydney,778,24.3,true
+51.92.173.133,30525,http,,ES,Zaragoza,776,18.8,true
+51.92.173.133,8082,http,,ES,Zaragoza,778,12.9,true
 54.253.167.61,1976,http|https|socks4,,AU,Sydney,778,29.2,true
 202.61.204.51,80,http,elite,DE,Nuremberg,778,97.4,true
-51.92.173.133,8082,http,,ES,Zaragoza,778,12.9,true
-104.248.191.18,10260,http,,US,Santa Clara,786,85.4,true
+54.253.167.61,8085,http|https|socks4,,AU,Sydney,778,24.3,true
+43.208.237.116,49990,http|https|socks4|socks5,,TH,Bangkok,787,28.1,true
+43.208.237.116,8118,http|socks4|socks5,,TH,Bangkok,788,27.4,true
+43.208.237.116,14573,http|socks4|socks5,,TH,Bangkok,788,21.6,true
 89.188.242.243,80,http,elite,RU,,792,64.8,true
-195.114.209.50,80,http,elite,ES,,800,58.4,true
 46.62.214.3,1080,socks4|socks5,elite,FI,Helsinki,801,94.5,true
 4.221.164.109,9443,http|https,elite,ZA,Johannesburg,802,96.9,true
-54.206.129.120,25078,http|https|socks4,,AU,Sydney,802,28.1,true
-81.200.154.236,48503,http|https,elite,DE,Frankfurt am Main,804,54.7,true
-54.253.167.61,30375,http|https|socks4,,AU,Sydney,808,22.3,true
 188.165.199.207,80,http,elite,FR,,809,48.4,true
-43.208.237.116,49990,http|socks4|socks5,,TH,Bangkok,810,28.0,true
-43.208.237.116,14573,http|https|socks4,,TH,Bangkok,815,21.4,true
 18.222.132.180,3128,http|https|socks4|socks5,,US,Columbus,816,22.2,true
 43.208.243.207,44557,http,,TH,Bangkok,818,30.6,true
 68.71.249.153,48606,socks4|socks5,elite,US,,820,93.2,true
 31.148.207.153,80,http,elite,UA,Khmelnytskyi,821,51.4,true
-54.253.167.61,40939,http|https|socks4,,AU,Sydney,826,24.8,true
-54.253.167.61,9999,http|https|socks4,,AU,Sydney,828,28.2,true
+16.26.99.200,25413,http|https|socks4|socks5,,AU,Melbourne,822,29.6,true
+54.180.117.151,30001,http|socks4|socks5,,KR,Incheon,826,22.4,true
 31.76.40.222,8080,http,,GB,,835,98.5,true
 104.155.15.30,80,http,,BE,Brussels,837,100.0,true
-54.180.117.151,40041,socks4|socks5,elite,KR,Incheon,838,25.8,true
 43.198.94.82,8986,http|socks4,,HK,Hong Kong,844,26.5,true
+13.208.238.59,25643,http|https|socks4|socks5,,JP,Osaka,844,26.6,true
 80.211.172.25,80,http,,IT,Arezzo,845,100.0,true
 115.127.31.66,8080,http,elite,BD,Dhaka,847,78.1,true
 89.126.229.219,55555,http|https,elite,PL,Gdansk,849,86.4,true
 192.111.139.162,4145,socks4|socks5,elite,US,Hialeah,856,96.0,true
+56.155.73.159,34692,http|https|socks4|socks5,,JP,Osaka,857,10.4,true
 103.118.44.156,8080,http,elite,KH,Phnom Penh,858,72.8,true
 50.114.33.11,8080,http,,KH,Phnom Penh,861,85.9,true
-13.235.42.151,8118,http|https|socks4|socks5,,IN,Mumbai,862,21.2,true
 184.178.172.3,4145,socks4|socks5,elite,US,Roanoke,862,98.5,true
+13.235.42.151,8118,http|https|socks4|socks5,,IN,Mumbai,862,21.2,true
 67.201.58.190,4145,socks4|socks5,elite,US,,863,94.9,true
-204.13.42.195,8080,http,,US,South Burlington,872,97.5,true
 199.229.254.129,4145,socks4|socks5,elite,US,,873,95.9,true
 192.252.211.193,4145,socks4|socks5,elite,US,,878,94.1,true
 184.178.172.26,4145,socks4|socks5,elite,US,Roanoke,880,97.7,true
@@ -311,8 +303,8 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 152.32.132.190,7890,http|https,elite,HK,Hong Kong,910,57.4,true
 112.118.187.149,8080,http,elite,HK,,912,16.6,true
 184.178.172.14,4145,socks4|socks5,elite,US,Roanoke,913,98.7,true
-54.253.167.61,15916,http|socks4,,AU,Sydney,920,29.7,true
 116.101.9.20,2047,http|https,elite,VN,Hanoi,920,83.3,true
+54.253.167.61,15916,http|socks4,,AU,Sydney,920,29.7,true
 54.253.167.61,8090,http|socks4,,AU,Sydney,921,24.9,true
 54.253.167.61,6580,http|https|socks4,,AU,Sydney,922,28.5,true
 159.223.87.50,443,socks4,elite,SG,Singapore,928,44.4,true
@@ -327,54 +319,55 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 54.253.167.61,4153,http,,AU,Sydney,955,26.7,true
 54.253.167.61,17738,http,,AU,Sydney,955,25.5,true
 8.210.93.183,8213,http,transparent,HK,Hong Kong,965,47.2,true
-37.187.74.125,80,http,elite,FR,,973,97.7,true
 103.28.37.131,3128,http,transparent,VN,,973,76.9,true
+37.187.74.125,80,http,elite,FR,,973,97.7,true
 185.161.251.195,3128,http|https,transparent,DE,Frankfurt am Main,974,53.8,true
 103.254.57.227,48293,socks4,elite,IN,,978,26.2,true
 54.253.167.61,22268,http|socks4,,AU,Sydney,978,24.5,true
 160.238.65.6,3128,http,transparent,HK,,979,52.3,true
 54.253.167.61,43704,http|https|socks4|socks5,,AU,Sydney,982,23.4,true
+174.64.199.79,4145,socks4|socks5,elite,US,,993,97.8,true
 121.40.203.107,80,http,,CN,Hangzhou,1012,100.0,true
-199.116.112.6,4145,socks4|socks5,elite,US,,1032,96.4,true
 103.167.61.162,3128,http|https,anonymous,HK,,1032,82.9,true
+199.116.112.6,4145,socks4|socks5,elite,US,,1032,96.4,true
 192.111.135.17,18302,socks4|socks5,elite,US,Atlanta,1037,98.1,true
 151.243.153.157,8118,http|https,elite,NL,Amsterdam,1047,55.2,true
 198.111.166.184,80,http,elite,US,Livonia,1053,60.3,true
 208.102.51.6,58208,socks4|socks5,elite,US,Alexandria,1056,98.6,true
 138.2.50.246,3128,http|https,elite,JP,Osaka,1059,62.3,true
-144.76.42.215,8118,https,elite,DE,Falkenstein,1063,13.7,true
+43.218.124.29,24482,http|https|socks4|socks5,,ID,Jakarta,1076,26.6,true
 141.0.9.176,80,http,,SG,,1080,100.0,true
-167.71.115.224,80,http,,US,Santa Clara,1081,83.8,true
 176.12.65.233,443,http|https|socks4,elite,RU,,1081,100.0,true
 34.222.118.149,43470,https|socks4,elite,US,Boardman,1083,22.6,true
 160.20.39.16,3125,http|https,anonymous,ID,Indramayu,1090,23.5,true
 34.43.46.91,80,http|https,elite,US,,1095,90.2,true
 72.49.49.11,31034,socks4|socks5,elite,US,Cincinnati,1102,98.4,true
+39.109.113.97,4090,http,elite,HK,,1108,91.0,true
 67.201.39.14,4145,socks4|socks5,elite,US,,1113,94.0,true
 47.79.119.13,8080,http|https|socks4|socks5,elite,SG,,1127,92.5,true
 91.186.213.124,1081,http,elite,FI,Helsinki,1131,81.1,true
 197.243.20.187,80,http,,RW,,1134,100.0,true
 77.238.66.2,80,http,,BG,Sofia,1137,100.0,true
 142.4.197.209,80,http,,CA,Montreal,1137,100.0,true
-95.84.160.232,8443,socks4|socks5,elite,RU,Moscow,1138,8.8,true
 187.102.219.42,999,http|https,transparent,AR,Puerto Eldorado,1138,64.7,true
-198.8.94.170,4145,socks4|socks5,elite,US,,1140,97.0,true
+95.84.160.232,8443,socks4|socks5,elite,RU,Moscow,1138,8.8,true
+173.212.245.136,8888,http,elite,FR,Lauterbourg,1143,86.1,true
 51.34.28.236,3128,http|https|socks4|socks5,,CH,Zurich,1143,29.1,true
 68.71.252.38,4145,socks4|socks5,elite,US,,1143,94.4,true
 4.237.213.197,8080,http|https,elite,AU,Sydney,1143,68.1,true
 185.121.13.73,1080,socks4|socks5,elite,NL,Dronten,1144,25.3,true
 35.182.162.62,80,http,,CA,Montreal,1147,99.7,true
 47.84.204.82,80,http|https,elite,SG,,1151,99.7,true
-45.76.244.70,80,http,,US,Kent,1158,100.0,true
 67.205.134.165,80,http,,US,North Bergen,1158,99.7,true
+45.76.244.70,80,http,,US,Kent,1158,100.0,true
 15.161.131.175,30893,http|https|socks4|socks5,,IT,Milan,1160,21.0,true
 206.123.156.218,4358,socks5,elite,IR,,1160,10.1,true
 15.161.131.175,9002,http|https|socks4|socks5,,IT,Milan,1163,20.6,true
 54.253.167.61,52392,http|https|socks4,,AU,Sydney,1166,24.2,true
 47.82.77.82,80,http|https,elite,HK,Hong Kong,1168,45.6,true
-15.161.131.175,15847,http|https|socks4|socks5,,IT,Milan,1168,18.8,true
 142.54.237.34,4145,socks4|socks5,elite,US,,1168,97.8,true
 160.238.65.8,3128,http,transparent,HK,,1168,75.4,true
+15.161.131.175,15847,http|https|socks4|socks5,,IT,Milan,1168,18.8,true
 68.183.39.179,80,http,,GB,Slough,1173,100.0,true
 103.146.170.244,5678,socks4,elite,IN,,1179,9.6,true
 18.163.33.4,992,http|https|socks4|socks5,,HK,Hong Kong,1179,29.3,true
@@ -387,8 +380,8 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 13.206.73.237,11771,http|socks4,,IN,Mumbai,1190,25.2,true
 160.238.65.5,3128,http,transparent,HK,,1191,56.9,true
 68.71.241.33,4145,socks4|socks5,elite,US,,1199,94.8,true
+104.248.191.18,10957,http,,US,Santa Clara,1200,86.6,true
 38.191.193.203,999,http|https,transparent,CO,Medellin,1212,29.2,true
-13.53.139.178,16118,socks4,elite,SE,Stockholm,1213,27.3,true
 5.45.126.128,8080,http,elite,EE,Johvi,1216,92.6,true
 46.209.123.100,1155,http|https,transparent,IR,,1217,98.9,true
 18.222.132.180,8000,http|https|socks4|socks5,,US,Columbus,1218,18.3,true
@@ -397,23 +390,24 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 176.12.65.24,443,http|https|socks4,elite,RU,,1232,93.8,true
 177.87.252.0,8085,http|https,transparent,BR,Nova Granada,1232,80.0,true
 190.242.59.158,4145,socks4,elite,CO,,1244,21.0,true
-3.216.45.64,80,http,,US,Ashburn,1249,99.7,true
 103.181.254.110,1111,http,,ID,,1249,84.1,true
+3.216.45.64,80,http,,US,Ashburn,1249,99.7,true
 219.249.37.107,8197,http,elite,KR,Buk-gu,1251,12.7,true
 34.101.62.47,80,http,,ID,Jakarta,1252,100.0,true
-61.6.163.33,80,http,,MY,Klang,1253,98.6,true
 206.189.202.196,80,http,,US,North Bergen,1253,100.0,true
+61.6.163.33,80,http,,MY,Klang,1253,98.6,true
 18.163.33.4,57578,http|socks4,,HK,Hong Kong,1254,35.5,true
 95.182.115.33,1080,http|https,elite,FI,Helsinki,1264,97.1,true
 185.25.188.3,8080,http,,GB,,1276,100.0,true
 112.186.12.196,3128,http,transparent,KR,Yongin-si,1283,38.9,true
 15.164.225.200,17850,http|https|socks4|socks5,,KR,Incheon,1286,29.4,true
 15.164.225.200,21213,http|socks5,,KR,Incheon,1286,29.7,true
+107.181.168.145,4145,socks4|socks5,elite,US,Miami,1287,94.2,true
 142.93.244.64,80,http,,US,North Bergen,1288,98.9,true
 167.71.166.185,80,http,,US,Clifton,1288,98.9,true
 218.252.100.222,80,http,elite,HK,,1289,45.1,true
-62.133.62.187,1082,http|https|socks4,elite,FR,Paris,1292,81.4,true
 45.95.233.237,1081,http|https|socks4|socks5,elite,FR,,1292,78.4,true
+62.133.62.187,1082,http|https|socks4,elite,FR,Paris,1292,81.4,true
 72.37.216.68,4145,socks4|socks5,elite,US,,1302,94.4,true
 87.247.251.24,80,http,,BG,Radomir,1305,100.0,true
 103.6.207.9,4153,socks4,elite,ID,,1309,42.0,true
@@ -423,7 +417,6 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 65.108.203.36,18080,http,elite,FI,Helsinki,1334,8.3,true
 209.38.214.48,3128,http|https,elite,DE,Frankfurt am Main,1334,8.7,true
 181.204.4.74,5678,socks4,elite,CO,Cartagena,1345,18.1,true
-80.92.227.185,5678,socks4,elite,UA,Kyiv,1348,18.8,true
 206.123.156.218,4856,socks5,elite,IR,,1349,11.7,true
 193.29.224.20,3128,http,elite,FI,Helsinki,1350,42.5,true
 5.78.86.35,8080,http,,US,Hillsboro,1354,100.0,true
@@ -439,8 +432,8 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 206.123.156.220,5084,socks5,elite,IR,,1379,10.0,true
 72.56.106.186,1080,socks4|socks5,elite,DE,Frankfurt am Main,1380,20.7,true
 201.134.41.110,443,http,elite,MX,San Nicolas de los Garza,1381,58.9,true
-13.208.238.59,50947,http,,JP,Osaka,1382,31.5,true
 49.229.36.214,4153,socks4,elite,TH,Bangkok,1382,8.8,true
+13.208.238.59,50947,http,,JP,Osaka,1382,31.5,true
 13.208.238.59,47950,http,,JP,Osaka,1383,24.2,true
 213.170.133.43,8080,http,,NL,Amsterdam,1384,98.2,true
 13.208.238.59,43073,http,,JP,Osaka,1387,27.9,true
@@ -467,26 +460,29 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 124.65.144.38,7302,http,,CN,Beijing,1447,100.0,true
 198.58.120.206,80,http,,US,Richardson,1450,99.4,true
 182.53.216.73,4145,socks4,elite,TH,Mae Hong Son,1456,16.4,true
-193.43.159.167,8080,http,transparent,SY,,1460,10.3,true
 5.182.34.181,80,http,,DE,,1465,99.8,true
 103.30.31.209,32323,http,transparent,BD,,1468,28.5,true
 116.101.9.20,2090,http|https,elite,VN,Hanoi,1479,92.9,true
 79.174.12.190,80,http,elite,RU,,1482,53.8,true
 38.129.93.230,8888,https,elite,DO,Santo Domingo Oeste,1484,89.3,true
-163.61.70.4,9000,socks4,elite,VN,,1490,34.7,true
+183.6.7.103,4145,socks4,elite,CN,Guangzhou,1485,26.4,true
+94.198.218.123,1080,socks4|socks5,elite,RU,,1492,31.1,true
 174.75.211.193,4145,socks4|socks5,elite,US,,1504,97.6,true
 93.113.63.11,1080,socks4|socks5,elite,TR,,1504,89.4,true
 15.164.225.200,8000,http|https|socks4|socks5,,KR,Incheon,1507,27.7,true
-43.208.134.144,57909,http|socks4|socks5,,TH,Bangkok,1513,24.8,true
 43.208.134.144,8000,http|socks4|socks5,,TH,Bangkok,1513,31.6,true
+43.208.134.144,57909,http|socks4|socks5,,TH,Bangkok,1513,24.8,true
+206.123.156.223,5390,socks5,elite,IR,,1518,3.6,true
 200.215.160.210,5678,socks4,elite,BR,Sao Marcos,1526,17.3,true
 79.98.9.7,80,http,,RU,Moscow,1528,100.0,true
 121.200.60.122,4153,socks4,elite,BD,,1533,25.4,true
+206.123.156.227,5691,socks5,elite,IR,,1540,3.8,true
 154.62.127.166,999,http|https,transparent,VE,Valencia,1543,23.7,true
 103.210.22.17,3128,http,transparent,SG,,1544,66.6,true
 60.12.215.23,7302,http,,CN,Hangzhou,1546,100.0,true
 64.188.77.26,1080,socks5,elite,NL,Amsterdam,1550,34.1,true
 183.110.216.128,8090,http,anonymous,KR,,1556,55.6,true
+206.123.156.210,5164,socks5,elite,IR,,1559,15.3,true
 184.170.248.5,4145,socks4|socks5,elite,US,,1561,92.9,true
 18.222.132.180,57596,http|https|socks4|socks5,,US,Columbus,1564,27.2,true
 182.53.96.56,4145,socks4,elite,TH,Bangkok,1569,18.1,true
@@ -496,8 +492,8 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 93.171.157.249,8080,http,elite,UA,,1585,7.1,true
 43.208.243.207,28521,http|socks4|socks5,,TH,Bangkok,1590,33.0,true
 150.136.163.51,80,http,elite,US,Ashburn,1591,57.6,true
-56.155.73.215,23907,http|https|socks4|socks5,,JP,Osaka,1593,26.7,true
 43.208.243.207,15867,http|socks4|socks5,,TH,Bangkok,1593,23.6,true
+56.155.73.215,23907,http|https|socks4|socks5,,JP,Osaka,1593,26.7,true
 103.51.223.133,8080,http,elite,IN,,1594,87.1,true
 56.155.73.215,17428,http|https|socks4|socks5,,JP,Osaka,1594,23.4,true
 56.155.73.215,14233,http|https|socks4|socks5,,JP,Osaka,1596,19.8,true
@@ -528,7 +524,6 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 43.207.141.180,49411,http|socks4,,JP,Tokyo,1666,31.8,true
 203.95.196.174,8080,http,,KH,Phnom Penh,1666,98.6,true
 14.225.218.60,80,http,,VN,,1672,100.0,true
-142.54.235.9,4145,socks4|socks5,elite,US,,1674,94.5,true
 108.131.109.106,25109,http,,IE,Dublin,1680,21.8,true
 34.71.229.255,3128,http|https,transparent,US,Council Bluffs,1681,97.9,true
 157.20.207.66,1111,http,,ID,Kudus,1685,79.8,true
@@ -538,21 +533,21 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 104.154.186.48,80,http|https,anonymous,US,Council Bluffs,1692,48.6,true
 200.61.186.51,80,http,,AR,Rosario,1695,100.0,true
 141.0.8.24,80,http,,SG,,1695,100.0,true
-175.178.6.115,8080,http,,CN,Guangzhou,1706,89.6,true
-79.101.45.94,54037,http|https,elite,RS,Belgrade,1707,34.6,true
 50.114.33.229,8080,http,elite,KH,Phnom Penh,1707,84.8,true
 89.19.216.151,1080,socks4|socks5,elite,RU,,1708,51.7,true
-43.167.192.85,8080,http|https,transparent,JP,Tokyo,1713,97.5,true
 141.0.8.96,80,http,,SG,,1713,100.0,true
 209.18.49.62,8080,http,,US,Bethlehem,1717,100.0,true
 206.123.156.209,6209,socks5,elite,IR,,1722,9.4,true
 45.7.80.12,80,http,,BR,Itanhomi,1724,99.7,true
 87.239.28.2,8080,http,,RU,Moscow,1727,100.0,true
+203.95.196.69,8080,http,elite,KH,Phnom Penh,1732,92.9,true
 15.160.132.166,7581,http,,IT,Milan,1733,17.3,true
+178.16.140.119,1080,socks5,elite,US,Phoenix,1733,79.3,true
 193.25.215.182,22222,socks5,elite,US,,1734,91.8,true
 72.195.101.99,4145,socks4|socks5,elite,US,,1737,97.8,true
 117.175.168.195,1080,socks4|socks5,elite,CN,,1740,72.9,true
 34.101.184.164,3128,http,anonymous,ID,Jakarta,1741,39.0,true
+103.77.242.91,1,http|https|socks5,elite,VN,,1742,67.8,true
 109.71.244.97,1080,socks5,elite,NL,Amsterdam,1744,74.6,true
 72.249.191.37,80,http,,US,,1749,100.0,true
 112.78.138.164,5678,socks4,elite,ID,Madiun,1756,43.3,true
@@ -573,15 +568,16 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 50.210.166.34,80,http,elite,US,Detroit,1802,60.0,true
 36.147.78.166,80,http|https,elite,CN,,1802,96.0,true
 209.159.147.196,80,http,,US,,1806,100.0,true
-222.83.110.83,7302,http,,CN,,1815,99.7,true
+18.60.247.31,33780,http|socks4,,IN,Hyderabad,1811,23.4,true
+18.60.247.31,56839,http|socks4,,IN,Hyderabad,1812,26.4,true
 103.180.223.7,1080,socks4,elite,IN,,1815,26.4,true
+222.83.110.83,7302,http,,CN,,1815,99.7,true
 141.0.11.254,80,http,,SG,,1816,100.0,true
 120.92.211.211,7890,http|https,elite,CN,,1821,86.9,true
 139.167.218.162,3127,http|https,transparent,IN,,1834,84.2,true
 103.157.200.126,3128,http|https,transparent,PK,,1835,99.9,true
 142.54.226.214,4145,socks4|socks5,elite,US,,1840,90.9,true
-220.134.5.156,8080,http|https,transparent,TW,New Taipei City,1844,76.3,true
-103.227.187.241,6090,http|https,transparent,ID,,1853,18.7,true
+81.168.119.85,443,http|https|socks4|socks5,elite,GB,,1843,92.3,true
 107.174.107.161,2001,http|https,elite,US,Los Angeles,1855,21.5,true
 8.218.210.54,80,http|https|socks4|socks5,elite,HK,Hong Kong,1864,58.8,true
 182.253.181.10,8080,http,transparent,ID,Yogyakarta,1868,15.2,true
@@ -598,7 +594,6 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 157.66.20.106,8080,http|https,anonymous,ID,,1956,33.0,true
 18.163.33.4,17056,http|socks4|socks5,,HK,Hong Kong,1963,33.3,true
 103.169.254.9,8080,http,,ID,,1972,71.8,true
-122.224.198.218,808,http|https,elite,CN,,1987,89.0,true
 91.98.161.17,1080,socks5,elite,DE,Nuremberg,1991,77.5,true
 185.139.68.62,443,http|https,elite,RU,Moscow,2001,75.6,true
 16.26.143.154,31381,http,,AU,Melbourne,2005,28.3,true
@@ -611,21 +606,22 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 16.26.143.154,9080,http,,AU,Melbourne,2027,22.3,true
 50.87.225.64,443,http,,US,,2031,100.0,true
 102.0.33.14,8080,https,elite,KE,,2032,19.9,true
+185.230.190.195,1080,socks4|socks5,elite,FI,Helsinki,2034,70.2,true
 45.61.188.134,44499,socks4|socks5,elite,US,Miami,2044,75.4,true
 74.119.144.60,4145,socks4|socks5,elite,US,,2047,91.2,true
 8.211.51.115,202,http|https|socks4|socks5,,DE,Frankfurt am Main,2048,25.0,true
 116.101.9.20,2030,http|https,elite,VN,Hanoi,2050,84.6,true
 202.6.206.2,8082,https,elite,PH,Surigao City,2054,21.1,true
 8.211.195.173,20002,http|https|socks4|socks5,,GB,London,2056,22.5,true
-200.111.104.59,3129,http,transparent,CL,San Carlos,2060,56.3,true
 154.66.108.52,3629,socks4,elite,LS,,2061,18.7,true
 8.211.195.173,8072,http|https|socks4|socks5,,GB,London,2062,16.9,true
 8.211.195.173,3128,http|https|socks4|socks5,,GB,London,2063,20.3,true
 23.141.4.103,8080,http|https,elite,HK,Kwai Chung,2069,26.0,true
 61.230.49.80,80,http|https,elite,TW,Hsinchu,2080,100.0,true
+103.25.209.50,10101,socks4,elite,ID,,2081,16.7,true
 103.130.7.11,9898,socks4,elite,ID,,2085,29.1,true
-8.211.194.85,4002,http,,GB,London,2092,20.5,true
 115.136.121.54,9050,socks4|socks5,elite,KR,Songpa-gu,2093,55.5,true
+178.128.204.238,1080,socks5,elite,DE,Frankfurt am Main,2094,52.0,true
 54.206.129.120,15715,http|https|socks4|socks5,,AU,Sydney,2102,14.8,true
 103.174.64.255,8097,http,,ID,,2106,86.7,true
 38.191.204.39,999,http,transparent,CO,Villavicencio,2110,7.0,true
@@ -636,6 +632,7 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 37.16.81.138,1080,socks5,elite,RU,Moscow,2126,32.6,true
 103.247.23.33,1111,http,,ID,Bekasi,2149,83.3,true
 45.76.104.16,1080,socks4|socks5,elite,JP,Minamishinagawa,2158,42.0,true
+13.208.238.59,88,http|https|socks4,,JP,Osaka,2164,27.6,true
 183.88.219.206,34676,socks4,elite,TH,,2166,21.2,true
 202.70.80.153,5678,socks4,elite,NP,,2172,23.9,true
 58.247.113.130,5678,socks4,elite,CN,Shanghai,2176,26.7,true
@@ -646,52 +643,64 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 120.92.212.16,8890,http|https,elite,CN,,2196,94.4,true
 206.123.156.227,4608,socks5,elite,IR,,2196,36.4,true
 45.228.151.157,1088,socks4,elite,BR,Cuiaba,2199,9.0,true
-43.155.138.148,3128,http,transparent,KR,Seoul,2201,81.0,true
 103.179.253.25,1111,https,elite,ID,,2206,25.7,true
-47.252.18.37,9898,http|https|socks4|socks5,,US,,2212,15.8,true
 38.147.75.252,999,https,elite,VE,,2214,28.1,true
-47.252.18.37,14186,http|https|socks4,,US,,2215,18.5,true
 206.123.156.233,5893,socks5,elite,IR,,2216,28.2,true
-47.252.18.37,9098,http|https|socks4|socks5,,US,,2217,18.7,true
-47.252.18.37,999,http|https|socks4|socks5,,US,,2219,18.9,true
 206.123.156.233,6927,socks5,elite,IR,,2229,4.4,true
 103.106.231.75,8081,https,elite,AU,Sydney,2237,34.6,true
+43.205.125.76,34880,http,,IN,Mumbai,2240,24.4,true
 206.123.156.223,5058,socks5,elite,IR,,2244,10.4,true
 91.241.21.17,9812,http,transparent,IR,,2244,16.5,true
 62.133.62.207,1082,http|https|socks4|socks5,elite,FR,Paris,2250,80.9,true
+47.91.115.179,8118,http|https|socks4|socks5,,AE,Dubai,2255,17.6,true
+47.91.115.179,45,http|https|socks4|socks5,,AE,Dubai,2256,12.3,true
 54.253.167.61,4848,http|https|socks4,,AU,Sydney,2261,20.7,true
 47.91.110.148,9090,http|https|socks4|socks5,,AE,Dubai,2267,25.0,true
 206.123.156.221,7788,socks5,elite,IR,,2269,11.0,true
 39.102.208.236,10000,http|https|socks4|socks5,,CN,Beijing,2276,18.8,true
+47.91.115.179,10250,http|https|socks4|socks5,,AE,Dubai,2282,23.9,true
 14.143.222.113,57748,http,anonymous,IN,,2282,98.4,true
-39.102.209.163,10002,http|https|socks4|socks5,,CN,Beijing,2290,32.6,true
+47.91.115.179,4145,http|https|socks4|socks5,,AE,Dubai,2283,21.6,true
+47.91.115.179,18081,http|https|socks4|socks5,,AE,Dubai,2287,16.5,true
+47.91.115.179,1001,http|https|socks4|socks5,,AE,Dubai,2289,17.1,true
 167.250.137.129,1080,socks4,elite,BR,Pedra Branca,2290,21.3,true
+47.91.115.179,1025,http|https|socks4|socks5,,AE,Dubai,2290,23.1,true
+39.102.209.163,10002,http|https|socks4|socks5,,CN,Beijing,2290,32.6,true
 39.102.214.152,3333,http|https|socks4|socks5,,CN,Beijing,2291,23.8,true
+47.91.115.179,1081,http|https|socks4|socks5,,AE,Dubai,2295,26.3,true
 101.200.158.109,8808,http|https|socks4|socks5,,CN,Beijing,2295,20.2,true
+47.91.115.179,7878,http|https|socks4|socks5,,AE,Dubai,2296,12.8,true
+47.91.115.179,98,http|https|socks4|socks5,,AE,Dubai,2297,16.9,true
+47.91.115.179,8181,http|https|socks4|socks5,,AE,Dubai,2297,11.3,true
 102.208.166.30,8082,http,transparent,KE,Nairobi,2298,31.8,true
+39.102.214.192,8080,http|https|socks4|socks5,,CN,Beijing,2300,14.9,true
 206.123.156.210,4028,socks5,elite,IR,,2302,18.0,true
+47.91.115.179,9080,http|https|socks4|socks5,,AE,Dubai,2303,24.2,true
 38.210.3.40,999,http|https,transparent,PE,,2305,24.0,true
-39.102.210.176,8080,http|https|socks4|socks5,,CN,Beijing,2309,21.2,true
+16.26.99.200,57775,http|https|socks4|socks5,,AU,Melbourne,2313,26.6,true
 8.146.200.53,80,http|https|socks4,,CN,Beijing,2314,26.6,true
 39.102.213.3,9091,http|https|socks4|socks5,,CN,Beijing,2315,18.4,true
 47.251.73.54,9898,http|https|socks4|socks5,,US,,2318,22.9,true
 181.16.201.37,80,http,elite,AR,Cordoba,2318,85.0,true
 112.5.128.78,8060,http,elite,CN,Xiamen,2319,97.8,true
 148.230.15.198,999,http,transparent,MX,Frontera,2320,9.5,true
-185.230.190.195,1080,socks4,elite,FI,Helsinki,2323,70.2,true
-47.251.73.54,3128,http|https|socks4|socks5,,US,,2324,21.0,true
 41.209.14.123,8080,http|https,transparent,KE,Nairobi,2324,24.8,true
+47.251.73.54,3128,http|https|socks4|socks5,,US,,2324,21.0,true
 175.34.36.22,8888,http,elite,AU,Brisbane,2325,57.9,true
 47.251.73.54,808,http|https|socks4|socks5,,US,,2327,21.5,true
 39.102.209.163,8081,http|https|socks4|socks5,,CN,Beijing,2330,26.6,true
-39.102.209.163,5060,http|https|socks4|socks5,,CN,Beijing,2332,23.0,true
 47.238.203.170,50001,http|https|socks5,elite,HK,Hong Kong,2332,86.5,true
 47.254.36.213,20000,http|https|socks4|socks5,,US,,2332,17.6,true
+47.91.115.179,8080,http|https|socks4|socks5,,AE,Dubai,2332,15.9,true
+39.102.209.163,5060,http|https|socks4|socks5,,CN,Beijing,2332,23.0,true
 82.97.240.163,443,http|https|socks4,elite,AU,,2333,100.0,true
-47.250.159.65,9080,http|https|socks4|socks5,,MY,Kuala Lumpur,2333,14.3,true
 101.200.158.109,3128,http|https|socks4|socks5,,CN,Beijing,2334,19.4,true
-39.104.23.154,8088,http|https|socks4|socks5,,CN,Beijing,2336,25.2,true
+47.91.115.179,8443,http|https|socks4|socks5,,AE,Dubai,2338,22.5,true
+47.91.115.179,7890,http|https|socks4|socks5,,AE,Dubai,2338,13.8,true
 8.219.97.248,80,http,elite,SG,Singapore,2339,6.1,true
+47.91.115.179,5060,http|https|socks4|socks5,,AE,Dubai,2339,16.2,true
+47.91.115.179,9091,http|https|socks4|socks5,,AE,Dubai,2341,15.4,true
+47.91.115.179,8999,http|https|socks4|socks5,,AE,Dubai,2342,14.9,true
 36.71.68.42,8080,https,elite,ID,South Tangerang,2343,40.7,true
 39.102.214.199,3129,http|https|socks4|socks5,,CN,Beijing,2347,18.5,true
 47.104.27.249,3128,http|https|socks4|socks5,,CN,Qingdao,2352,33.8,true
@@ -700,6 +709,7 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 188.191.165.159,70,http,elite,RU,Moscow,2364,23.4,true
 47.254.36.213,104,http|https|socks4|socks5,,US,,2365,15.2,true
 223.130.11.151,8080,http,elite,VN,,2368,95.2,true
+206.123.156.233,5195,socks5,elite,IR,,2370,4.8,true
 103.120.76.82,8080,https,elite,ID,Kabupaten Tangerang,2371,11.5,true
 31.220.78.244,80,http,elite,FR,Lauterbourg,2372,57.7,true
 47.254.36.213,8181,http|https|socks4|socks5,,US,,2378,14.5,true
@@ -707,44 +717,44 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 39.102.208.236,80,http|https|socks4|socks5,,CN,Beijing,2380,19.9,true
 47.238.60.156,8123,http|https|socks4|socks5,,HK,Hong Kong,2381,21.2,true
 77.110.119.88,1080,socks5,elite,US,Charlotte,2384,99.7,true
-47.250.159.65,801,http|https|socks4|socks5,,MY,Kuala Lumpur,2386,13.3,true
 13.208.238.59,25722,http,,JP,Osaka,2389,33.7,true
-95.85.252.153,21064,http|https,elite,DE,Frankfurt am Main,2396,75.2,true
-8.212.151.166,111,http|https|socks4|socks5,,PH,Manila,2397,20.8,true
 103.46.11.91,3125,http|https,transparent,ID,,2397,20.3,true
+8.212.151.166,111,http|https|socks4|socks5,,PH,Manila,2397,20.8,true
 8.215.12.103,4153,http|https|socks4|socks5,,ID,Jakarta,2398,21.3,true
 39.102.214.199,8080,http|https|socks4|socks5,,CN,Beijing,2399,21.2,true
 8.215.12.103,8081,http|https|socks4|socks5,,ID,Jakarta,2400,13.5,true
 8.215.12.103,8445,http|https|socks4|socks5,,ID,Jakarta,2401,17.8,true
-8.215.12.103,5060,http|https|socks4|socks5,,ID,Jakarta,2401,14.8,true
 8.215.12.103,9797,http|https|socks4|socks5,,ID,Jakarta,2401,18.0,true
+8.215.12.103,5060,http|https|socks4|socks5,,ID,Jakarta,2401,14.8,true
 47.238.134.126,51,http|https|socks4|socks5,,HK,Hong Kong,2403,20.6,true
 8.215.12.103,8060,http|https|socks4|socks5,,ID,Jakarta,2404,16.4,true
 8.215.12.103,8008,http|https|socks4|socks5,,ID,Jakarta,2404,12.2,true
 8.215.12.103,9080,http|https|socks4|socks5,,ID,Jakarta,2406,19.4,true
 8.212.151.166,8006,http|https|socks4|socks5,,PH,Manila,2407,19.0,true
 8.212.151.166,1234,http|https|socks4|socks5,,PH,Manila,2409,25.0,true
-39.102.210.176,3128,http|https|socks4,,CN,Beijing,2409,20.2,true
 8.212.151.166,18081,http|https|socks4|socks5,,PH,Manila,2410,24.4,true
 8.215.12.103,9050,http|https|socks4|socks5,,ID,Jakarta,2411,18.7,true
 8.212.151.166,8080,http|https|socks4|socks5,,PH,Manila,2413,16.9,true
 8.212.165.164,3128,http|https|socks4|socks5,,PH,Manila,2413,21.7,true
-8.212.165.164,999,http|https|socks4|socks5,,PH,Manila,2415,21.7,true
 47.109.110.100,3128,http|https|socks4|socks5,,CN,Chengdu,2415,23.2,true
+8.212.165.164,999,http|https|socks4|socks5,,PH,Manila,2415,21.7,true
+104.237.152.124,3129,http,,US,Fremont,2416,92.0,true
 114.215.127.92,9797,http|https|socks4|socks5,,CN,Qingdao,2416,19.5,true
 154.62.127.106,999,http|https,transparent,VE,Valencia,2417,20.2,true
 8.215.12.103,8091,http|https|socks4|socks5,,ID,Jakarta,2417,19.0,true
+16.26.99.200,16630,http|socks4|socks5,,AU,Melbourne,2418,21.4,true
+47.108.159.113,6379,http|https|socks4|socks5,,CN,Chengdu,2420,21.9,true
 8.212.151.166,20000,http|https|socks4|socks5,,PH,Manila,2420,21.2,true
 62.133.62.12,1081,socks5,elite,FR,Paris,2420,75.9,true
-8.212.151.166,8081,http|https|socks4|socks5,,PH,Manila,2421,20.1,true
+8.212.151.166,3128,http|https|socks4|socks5,,PH,Manila,2421,20.0,true
 13.246.6.135,42186,http|https|socks4,,ZA,Cape Town,2421,25.7,true
 8.212.151.166,6969,http|https|socks4|socks5,,PH,Manila,2421,17.4,true
-8.212.151.166,3128,http|https|socks4|socks5,,PH,Manila,2421,20.0,true
+8.212.151.166,8081,http|https|socks4|socks5,,PH,Manila,2421,20.1,true
 47.92.82.167,7890,http|https|socks4|socks5,,CN,Beijing,2422,14.0,true
 39.102.208.236,34567,http|https|socks4|socks5,,CN,Beijing,2423,45.2,true
 8.212.151.166,45,http|https|socks4|socks5,,PH,Manila,2423,21.0,true
 13.246.6.135,32880,http|https|socks4,,ZA,Cape Town,2424,28.5,true
-39.102.210.176,9080,http|https|socks4|socks5,,CN,Beijing,2427,26.9,true
+150.230.194.118,555,socks5,elite,JP,Inzai,2427,25.9,true
 8.215.12.103,808,http|https|socks4|socks5,,ID,Jakarta,2430,16.5,true
 8.212.151.166,199,http|https|socks4|socks5,,PH,Manila,2433,17.9,true
 8.212.151.166,1024,http|https|socks4|socks5,,PH,Manila,2434,22.1,true
@@ -752,96 +762,110 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 121.43.154.123,9080,http|https|socks4|socks5,,CN,Hangzhou,2439,28.2,true
 190.2.214.147,999,http,transparent,CO,Bogota,2444,20.8,true
 8.130.74.114,80,http|https|socks4|socks5,,CN,Beijing,2445,22.1,true
-47.250.159.65,1081,http|https|socks4|socks5,,MY,Kuala Lumpur,2445,15.2,true
 8.212.151.166,1081,http|https|socks4|socks5,,PH,Manila,2446,16.9,true
-8.212.151.166,1080,http|https|socks4|socks5,,PH,Manila,2447,17.9,true
-47.116.181.146,9080,http|https|socks4,,CN,Shanghai,2447,19.0,true
+47.100.130.127,8082,http|https|socks4|socks5,,CN,Shanghai,2446,26.8,true
 8.212.151.166,8888,http|https|socks4|socks5,,PH,Manila,2447,18.8,true
+8.212.151.166,1080,http|https|socks4|socks5,,PH,Manila,2447,17.9,true
+122.224.198.218,808,http|https,elite,CN,,2447,89.0,true
 106.15.137.41,9090,http|https|socks4|socks5,,CN,Shanghai,2458,30.3,true
 190.52.110.43,999,https,elite,VE,Caracas,2461,12.7,true
 39.102.208.23,9098,http|https|socks4|socks5,,CN,Beijing,2461,21.6,true
+47.238.128.246,80,http|https|socks4|socks5,,HK,Hong Kong,2466,14.4,true
+63.181.83.210,51908,http,,DE,Frankfurt am Main,2467,29.7,true
 8.212.165.164,106,http|https|socks4|socks5,,PH,Manila,2469,12.8,true
+106.14.91.83,4000,http|https|socks4|socks5,,CN,Shanghai,2469,18.6,true
+63.181.83.210,15796,http|socks4,,DE,Frankfurt am Main,2471,22.0,true
 147.93.81.120,1080,socks4,elite,ID,Jakarta,2471,57.4,true
+106.14.91.83,100,http|https|socks4|socks5,,CN,Shanghai,2472,20.8,true
+63.181.83.210,32189,http,,DE,Frankfurt am Main,2473,30.6,true
 8.148.23.165,9098,http|https|socks4|socks5,,CN,Hangzhou,2477,28.2,true
-39.102.208.236,8081,http|https|socks4|socks5,,CN,Beijing,2479,19.4,true
+63.181.83.210,781,http|socks4,,DE,Frankfurt am Main,2478,25.8,true
 139.196.175.68,789,http|https|socks4|socks5,,CN,Shanghai,2479,46.7,true
+39.102.208.236,8081,http|https|socks4|socks5,,CN,Beijing,2479,19.4,true
 139.196.175.68,3128,http|https|socks4|socks5,,CN,Shanghai,2482,24.4,true
 47.74.46.81,6606,http|https|socks4|socks5,,JP,Tokyo,2484,18.8,true
 139.196.175.68,3129,http|https|socks4|socks5,,CN,Shanghai,2484,38.6,true
 8.148.23.165,8081,http|https|socks4|socks5,,CN,Hangzhou,2485,29.4,true
+63.181.83.210,57805,http,,DE,Frankfurt am Main,2488,25.7,true
 206.123.156.211,5557,socks5,elite,IR,,2489,11.1,true
-38.49.210.79,40000,socks5,elite,CA,Montreal,2489,93.4,true
 8.148.23.165,84,http|https|socks4|socks5,,CN,Hangzhou,2489,32.7,true
-162.214.3.183,3128,https,elite,US,,2492,85.0,true
-103.18.77.14,1111,http,transparent,ID,,2493,42.1,true
+104.248.191.18,10260,http,,US,Santa Clara,2491,85.4,true
 39.102.214.199,9098,http|https|socks4|socks5,,CN,Beijing,2495,22.6,true
 8.221.139.222,9992,http|https|socks4|socks5,,JP,Tokyo,2495,19.5,true
 8.221.141.88,11,http,,JP,Tokyo,2496,13.5,true
-8.212.165.164,1081,http|https|socks4|socks5,,PH,Manila,2498,19.9,true
 47.119.20.8,81,http|https|socks4|socks5,,CN,Shenzhen,2498,23.6,true
 8.212.151.166,9050,http|https|socks4|socks5,,PH,Manila,2498,21.3,true
+8.212.165.164,1081,http|https|socks4|socks5,,PH,Manila,2498,19.9,true
 8.221.141.88,5060,http,,JP,Tokyo,2499,11.9,true
-47.238.134.126,10804,http|https|socks4|socks5,,HK,Hong Kong,2500,21.9,true
+8.219.229.53,1026,http|https|socks4|socks5,,SG,,2499,22.0,true
 39.102.214.199,8443,http|https|socks4|socks5,,CN,Beijing,2500,22.0,true
+47.238.134.126,10804,http|https|socks4|socks5,,HK,Hong Kong,2500,21.9,true
 192.111.130.5,17002,socks4|socks5,elite,US,Hialeah,2501,96.2,true
 103.39.51.233,8085,http|https,transparent,ID,Kuningan,2502,16.7,true
 77.38.244.214,80,http,elite,LV,Riga,2502,62.6,true
 8.217.144.167,1080,socks5,elite,HK,Hong Kong,2503,71.4,true
 39.102.214.199,80,http|https|socks4|socks5,,CN,Beijing,2504,21.4,true
-62.133.62.17,1081,http|socks4|socks5,elite,FR,Paris,2504,75.8,true
 82.145.209.241,80,http,,NL,Amsterdam,2504,100.0,true
-62.84.245.79,80,http,elite,NL,,2504,55.1,true
+62.133.62.17,1081,http|socks4|socks5,elite,FR,Paris,2504,75.8,true
 120.27.224.64,3129,http,elite,CN,Hangzhou,2504,49.8,true
+62.84.245.79,80,http,elite,NL,,2504,55.1,true
 138.124.125.198,3128,http,,GB,Coventry,2505,37.5,true
-4.221.164.109,443,http|https,elite,ZA,Johannesburg,2505,96.0,true
 13.246.6.135,8447,http|https|socks4|socks5,,ZA,Cape Town,2505,25.5,true
-72.206.74.126,4145,socks4|socks5,elite,US,Fairfax,2506,98.3,true
+4.221.164.109,443,http|https,elite,ZA,Johannesburg,2505,96.0,true
+47.100.130.127,8090,http|https|socks4|socks5,,CN,Shanghai,2506,49.0,true
 47.238.134.126,8008,http|https|socks4|socks5,,HK,Hong Kong,2506,17.6,true
 8.221.141.88,9080,http,,JP,Tokyo,2506,16.3,true
+72.206.74.126,4145,socks4|socks5,elite,US,Fairfax,2506,98.3,true
 134.209.144.56,80,http,,IN,Bengaluru,2507,100.0,true
+47.100.130.127,6588,http|https|socks4|socks5,,CN,Shanghai,2507,33.5,true
 188.166.236.213,80,http,,SG,Singapore,2508,100.0,true
 18.60.247.31,48142,http|socks4,,IN,Hyderabad,2508,25.3,true
-18.163.33.4,42213,http|socks4,,HK,Hong Kong,2509,29.1,true
-63.181.83.210,34,http|https|socks4,,DE,Frankfurt am Main,2509,23.9,true
-1.14.217.36,80,http,,CN,Guangzhou,2509,99.8,true
 104.37.135.145,4145,socks4|socks5,elite,US,,2509,95.8,true
-18.163.33.4,38278,http,,HK,Hong Kong,2510,34.4,true
+1.14.217.36,80,http,,CN,Guangzhou,2509,99.8,true
+63.181.83.210,34,http|https|socks4,,DE,Frankfurt am Main,2509,23.9,true
+18.163.33.4,42213,http|socks4,,HK,Hong Kong,2509,29.1,true
+8.212.165.164,808,http|https|socks4|socks5,,PH,Manila,2510,17.8,true
 3.12.95.129,80,http,elite,US,Columbus,2510,50.5,true
 45.161.115.249,999,http|https,transparent,CL,Salamanca,2510,66.7,true
 72.223.188.92,4145,socks4|socks5,elite,US,,2510,98.7,true
+18.163.33.4,38278,http,,HK,Hong Kong,2510,34.4,true
 129.226.93.232,80,http,transparent,SG,Singapore,2510,86.1,true
-8.212.165.164,808,http|https|socks4|socks5,,PH,Manila,2510,17.8,true
-18.163.33.4,118,http|socks4,,HK,Hong Kong,2511,25.0,true
-192.252.211.197,14921,socks4|socks5,elite,US,,2511,94.6,true
 119.18.147.139,10001,http|https,transparent,BD,,2511,31.3,true
+192.252.211.197,14921,socks4|socks5,elite,US,,2511,94.6,true
+47.237.92.86,6379,http|https|socks4|socks5,,SG,,2511,17.4,true
+18.163.33.4,118,http|socks4,,HK,Hong Kong,2511,25.0,true
 212.47.232.28,80,http,elite,FR,Paris,2512,82.8,true
+204.13.42.194,8080,http,,US,South Burlington,2512,97.5,true
 63.181.83.210,43510,http|https|socks4,,DE,Frankfurt am Main,2512,27.4,true
 8.221.141.88,1027,http,,JP,Tokyo,2513,18.9,true
+47.100.130.127,8888,http|https|socks4|socks5,,CN,Shanghai,2513,28.1,true
 106.15.137.41,3129,http|https|socks4|socks5,,CN,Shanghai,2513,22.9,true
+192.252.216.81,4145,socks4|socks5,elite,US,,2513,94.2,true
 8.221.141.88,18080,http,,JP,Tokyo,2514,15.4,true
-18.163.33.4,15056,http|socks4,,HK,Hong Kong,2515,28.5,true
-47.109.110.100,9080,http|https|socks4|socks5,,CN,Chengdu,2515,25.7,true
 16.26.154.68,16254,http|https|socks4|socks5,,AU,Melbourne,2515,24.8,true
+47.109.110.100,9080,http|https|socks4|socks5,,CN,Chengdu,2515,25.7,true
+18.163.33.4,15056,http|socks4,,HK,Hong Kong,2515,28.5,true
+63.181.83.210,13768,http|https|socks4,,DE,Frankfurt am Main,2516,17.1,true
 182.16.171.101,8080,http,transparent,ID,Cipete Selatan,2516,14.7,true
 16.26.154.68,10045,http|socks4|socks5,,AU,Melbourne,2516,16.8,true
-63.181.83.210,13768,http|https|socks4,,DE,Frankfurt am Main,2516,17.1,true
-54.253.167.61,59375,http,,AU,Sydney,2517,21.9,true
-5.78.97.13,8080,http,,US,Hillsboro,2517,100.0,true
+8.219.229.53,3129,http|https|socks4|socks5,,SG,,2516,22.0,true
 18.60.247.31,40929,http|socks4,,IN,Hyderabad,2517,23.6,true
+5.78.97.13,8080,http,,US,Hillsboro,2517,100.0,true
+54.253.167.61,59375,http,,AU,Sydney,2517,21.9,true
 101.132.248.7,8082,http|https|socks4|socks5,,CN,Shanghai,2518,22.0,true
 120.26.123.95,8010,http,elite,CN,Hangzhou,2519,97.4,true
 8.148.23.165,6379,http|https|socks4|socks5,,CN,Hangzhou,2520,32.4,true
-54.206.129.120,6843,http|socks4,,AU,Sydney,2520,29.2,true
 8.212.151.166,3129,http|https|socks4|socks5,,PH,Manila,2520,24.0,true
+54.206.129.120,6843,http|socks4,,AU,Sydney,2520,29.2,true
+47.108.159.113,3128,http|https|socks4|socks5,,CN,Chengdu,2520,20.7,true
 47.116.210.163,8054,http|https|socks4|socks5,,CN,Shanghai,2521,25.2,true
-8.138.82.6,443,http|https|socks4|socks5,,CN,Guangzhou,2521,16.3,true
 47.112.19.200,8080,http|https|socks4|socks5,,CN,Shenzhen,2521,40.1,true
 8.221.141.88,9507,http,,JP,Tokyo,2521,17.4,true
+8.138.82.6,443,http|https|socks4|socks5,,CN,Guangzhou,2521,16.3,true
 18.60.247.31,26973,http|socks4,,IN,Hyderabad,2522,26.9,true
 16.26.154.68,22864,http|socks4|socks5,,AU,Melbourne,2523,28.8,true
 8.148.23.165,21025,http|https|socks4|socks5,,CN,Hangzhou,2524,24.0,true
 39.102.213.187,1081,http|https|socks4|socks5,,CN,Beijing,2524,50.0,true
-47.116.181.146,14,http|https|socks4|socks5,,CN,Shanghai,2524,19.2,true
 8.212.151.166,9098,http|https|socks4|socks5,,PH,Manila,2525,17.0,true
 47.116.210.163,80,http|https|socks4|socks5,,CN,Shanghai,2525,27.8,true
 39.102.208.236,9098,http|https|socks4|socks5,,CN,Beijing,2525,18.9,true
@@ -849,197 +873,222 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 54.188.236.206,28969,http|socks4|socks5,,US,Boardman,2525,18.0,true
 8.148.23.165,18080,http|https|socks4|socks5,,CN,Hangzhou,2525,23.6,true
 15.164.225.200,48172,http|socks4|socks5,,KR,Incheon,2526,28.1,true
+8.212.151.166,9797,http|https|socks4|socks5,,PH,Manila,2527,18.9,true
 63.181.83.210,47777,http|https|socks4|socks5,,DE,Frankfurt am Main,2527,24.1,true
+18.60.247.31,59920,http|socks4,,IN,Hyderabad,2527,18.1,true
 8.137.13.191,3129,http|https|socks4|socks5,,CN,Chengdu,2527,34.1,true
 8.148.23.165,1234,http|https|socks4|socks5,,CN,Hangzhou,2527,24.6,true
 47.120.0.231,8081,http|https|socks4|socks5,,CN,Shenzhen,2527,21.2,true
-8.212.151.166,9797,http|https|socks4|socks5,,PH,Manila,2527,18.9,true
-18.60.247.31,59920,http|socks4,,IN,Hyderabad,2527,18.1,true
-47.98.242.7,84,http,elite,CN,Hangzhou,2528,51.8,true
 18.60.247.31,6203,http|socks4,,IN,Hyderabad,2528,26.6,true
+47.98.242.7,84,http,elite,CN,Hangzhou,2528,51.8,true
+13.53.139.178,16118,http|https|socks4|socks5,,SE,Stockholm,2528,27.4,true
 141.0.13.236,80,http,,NL,Amsterdam,2528,100.0,true
 54.253.167.61,43261,http|https,,AU,Sydney,2529,27.0,true
+47.108.159.113,9080,http|https|socks4|socks5,,CN,Chengdu,2529,24.4,true
 18.60.247.31,5591,http|socks4,,IN,Hyderabad,2529,23.6,true
-47.121.183.107,8081,http|https|socks4|socks5,,CN,Shenzhen,2530,51.7,true
 190.7.138.78,8080,http|https,transparent,CO,Medellin,2530,59.7,true
+47.121.183.107,8081,http|https|socks4|socks5,,CN,Shenzhen,2530,51.7,true
 8.221.141.88,5400,http,,JP,Tokyo,2531,10.7,true
+47.108.159.113,8008,http|https|socks4|socks5,,CN,Chengdu,2531,42.9,true
 47.107.166.143,8000,http|https|socks4|socks5,,CN,Shenzhen,2531,50.5,true
-8.221.141.88,8003,http,,JP,Tokyo,2532,11.6,true
 8.221.141.88,999,http,,JP,Tokyo,2532,14.1,true
+8.221.141.88,8003,http,,JP,Tokyo,2532,11.6,true
 101.132.248.7,3129,http|https|socks4|socks5,,CN,Shanghai,2534,23.3,true
+8.219.229.53,8008,http|https|socks4|socks5,,SG,,2534,23.6,true
 8.221.141.88,541,http,,JP,Tokyo,2534,14.8,true
+63.181.83.210,55579,http|https|socks4,,DE,Frankfurt am Main,2534,22.8,true
+8.219.229.53,111,http|https|socks4|socks5,,SG,,2534,19.2,true
 184.185.2.12,4145,socks4|socks5,elite,US,Fort Walton Beach,2535,98.4,true
 103.126.173.231,8080,https,elite,ID,Bandar Lampung,2535,17.4,true
-47.120.0.231,1081,http|https|socks4|socks5,,CN,Shenzhen,2536,18.1,true
 47.109.110.100,8081,http|https|socks4|socks5,,CN,Chengdu,2536,21.0,true
+47.120.0.231,1081,http|https|socks4|socks5,,CN,Shenzhen,2536,18.1,true
 8.212.151.166,1337,http|https|socks4|socks5,,PH,Manila,2536,24.0,true
+46.150.9.111,8123,http,elite,UA,Kharkiv,2538,98.5,true
 8.212.151.166,8018,http|https|socks4|socks5,,PH,Manila,2539,20.7,true
 43.161.217.219,1080,socks5,elite,HK,Hong Kong,2539,99.1,true
 47.238.60.156,8118,http|https|socks4|socks5,,HK,Hong Kong,2540,13.3,true
-8.221.141.88,8499,http,,JP,Tokyo,2543,12.8,true
+47.112.11.170,8080,http|https|socks4|socks5,,CN,Shenzhen,2542,23.9,true
+47.107.166.143,8008,http|socks4|socks5,,CN,Shenzhen,2542,28.8,true
+212.127.95.235,8081,http,elite,PL,Wroclaw,2542,73.6,true
 54.206.129.120,43368,http,,AU,Sydney,2543,28.1,true
-8.213.222.247,8081,http,,TH,Bangkok,2543,15.4,true
 8.221.141.88,8010,http,,JP,Tokyo,2543,15.4,true
+8.213.222.247,8081,http,,TH,Bangkok,2543,15.4,true
+8.221.141.88,8499,http,,JP,Tokyo,2543,12.8,true
 8.221.141.88,4145,http,,JP,Tokyo,2544,16.7,true
 8.221.141.88,503,http,,JP,Tokyo,2544,16.3,true
-47.109.110.100,8888,http|https|socks4|socks5,,CN,Chengdu,2545,24.0,true
-8.221.141.88,8080,http,,JP,Tokyo,2545,11.8,true
-110.34.1.180,32650,http|https,transparent,NP,Patan,2545,12.2,true
 8.221.141.88,8820,http,,JP,Tokyo,2545,18.6,true
+8.221.141.88,8080,http,,JP,Tokyo,2545,11.8,true
+47.109.110.100,8888,http|https|socks4|socks5,,CN,Chengdu,2545,24.0,true
+110.34.1.180,32650,http|https,transparent,NP,Patan,2545,12.2,true
 8.221.141.88,4301,http,,JP,Tokyo,2545,14.9,true
+13.53.139.178,58944,http|socks4|socks5,,SE,Stockholm,2545,27.9,true
 52.59.218.12,17313,http|https|socks4|socks5,,DE,Frankfurt am Main,2546,28.8,true
 52.59.218.12,45579,http|https|socks4|socks5,,DE,Frankfurt am Main,2547,29.7,true
-47.120.0.231,3129,http|https|socks4|socks5,,CN,Shenzhen,2548,14.4,true
 8.221.141.88,1364,http,,JP,Tokyo,2548,13.1,true
+47.120.0.231,3129,http|https|socks4|socks5,,CN,Shenzhen,2548,14.4,true
 8.213.215.187,5269,http|https|socks4|socks5,,TH,Bangkok,2548,11.9,true
-8.221.141.88,4334,http,,JP,Tokyo,2549,17.9,true
 47.121.183.107,9999,http|https|socks4|socks5,,CN,Shenzhen,2549,22.7,true
-47.251.87.74,92,http|https|socks4|socks5,,US,,2550,24.4,true
+8.221.141.88,4334,http,,JP,Tokyo,2549,17.9,true
 8.213.195.191,4002,http|https|socks4|socks5,,TH,Bangkok,2550,19.3,true
+47.251.87.74,92,http|https|socks4|socks5,,US,,2550,24.4,true
 47.251.87.74,8081,http|https|socks4|socks5,,US,,2550,20.6,true
-39.104.23.154,9080,http|https|socks4|socks5,,CN,Beijing,2551,25.1,true
-8.221.141.88,6443,http,,JP,Tokyo,2552,13.3,true
 47.121.183.107,3129,http|https|socks4|socks5,,CN,Shenzhen,2552,22.1,true
-8.148.23.165,80,http|https|socks4|socks5,,CN,Hangzhou,2554,22.2,true
+8.221.141.88,6443,http,,JP,Tokyo,2552,13.3,true
 8.138.131.110,9999,http|socks4|socks5,,CN,Guangzhou,2554,24.6,true
 47.116.210.163,5060,http|https|socks4|socks5,,CN,Shanghai,2554,27.2,true
 8.213.195.191,3129,http|https|socks4|socks5,,TH,Bangkok,2554,19.8,true
+8.148.23.165,80,http|https|socks4|socks5,,CN,Hangzhou,2554,22.2,true
 47.121.183.107,20000,http|https|socks4|socks5,,CN,Shenzhen,2555,23.5,true
 8.221.141.88,8443,http,,JP,Tokyo,2555,9.4,true
-8.213.195.191,8095,http|https|socks4|socks5,,TH,Bangkok,2556,10.0,true
 8.213.195.191,8080,http|https|socks4|socks5,,TH,Bangkok,2556,11.9,true
-223.135.156.183,8080,http,,JP,Higashiyamato,2557,100.0,true
+8.213.195.191,8095,http|https|socks4|socks5,,TH,Bangkok,2556,10.0,true
 62.101.137.150,8080,https,elite,RS,Belgrade,2557,32.7,true
 47.251.87.74,10002,http|https|socks4|socks5,,US,,2557,24.6,true
+223.135.156.183,8080,http,,JP,Higashiyamato,2557,100.0,true
+63.181.83.210,19338,http|socks4,,DE,Frankfurt am Main,2557,20.7,true
 47.251.87.74,8983,http|https|socks4|socks5,,US,,2558,24.2,true
-8.213.195.191,104,http|https|socks4|socks5,,TH,Bangkok,2559,10.9,true
-54.253.167.61,80,http|https|socks4|socks5,,AU,Sydney,2559,20.6,true
+13.53.139.178,50758,http|socks4|socks5,,SE,Stockholm,2558,26.1,true
 8.212.165.164,37,http|https|socks4|socks5,,PH,Manila,2559,19.3,true
+62.133.62.184,1081,http|https|socks4|socks5,elite,FR,Paris,2559,78.8,true
+54.253.167.61,80,http|https|socks4|socks5,,AU,Sydney,2559,20.6,true
+8.213.195.191,104,http|https|socks4|socks5,,TH,Bangkok,2559,10.9,true
+47.108.159.113,8080,http|https|socks4|socks5,,CN,Chengdu,2560,21.4,true
+63.181.83.210,8028,http|https|socks4,,DE,Frankfurt am Main,2560,27.4,true
 177.128.123.121,8081,http,,BR,Maracaju,2560,97.8,true
 103.147.134.114,8082,http|https,transparent,ID,Surabaya,2560,55.0,true
-63.181.83.210,8028,http|https|socks4,,DE,Frankfurt am Main,2560,27.4,true
 130.49.218.108,1080,http|https|socks4|socks5,elite,RU,,2561,85.7,true
-8.213.195.191,202,http|https|socks4|socks5,,TH,Bangkok,2561,14.8,true
 47.120.0.231,80,http|https|socks4|socks5,,CN,Shenzhen,2561,21.9,true
-8.220.205.172,1234,http|https|socks4|socks5,,KR,Seoul,2563,17.6,true
+8.213.195.191,202,http|https|socks4|socks5,,TH,Bangkok,2561,14.8,true
 8.220.205.172,8181,http|https|socks4|socks5,,KR,Seoul,2563,17.6,true
-8.148.23.165,1111,http|https|socks4|socks5,,CN,Hangzhou,2566,20.5,true
-8.213.195.191,3000,http|https|socks4|socks5,,TH,Bangkok,2566,14.0,true
+8.220.205.172,1234,http|https|socks4|socks5,,KR,Seoul,2563,17.6,true
 8.137.38.48,39,http|https|socks4|socks5,,CN,Chengdu,2566,25.5,true
+8.213.195.191,3000,http|https|socks4|socks5,,TH,Bangkok,2566,14.0,true
+8.148.23.165,1111,http|https|socks4|socks5,,CN,Hangzhou,2566,20.5,true
 8.213.195.191,8060,http|https|socks4|socks5,,TH,Bangkok,2568,15.1,true
 43.208.134.144,30001,http|https|socks4|socks5,,TH,Bangkok,2569,21.3,true
 47.121.183.107,9098,http|https|socks4|socks5,,CN,Shenzhen,2569,17.3,true
-8.213.195.191,9191,http|https|socks4|socks5,,TH,Bangkok,2570,17.9,true
-47.116.181.146,8443,http|https|socks4|socks5,,CN,Shanghai,2570,20.1,true
-47.116.181.146,9090,http|https|socks4|socks5,,CN,Shanghai,2570,21.8,true
 106.15.137.41,1337,http|https|socks4|socks5,,CN,Shanghai,2570,20.6,true
-15.161.131.175,18738,http,,IT,Milan,2572,15.0,true
+8.213.195.191,9191,http|https|socks4|socks5,,TH,Bangkok,2570,17.9,true
+195.114.209.50,80,http,elite,ES,,2571,58.5,true
 95.179.247.153,80,http,,DE,Frankfurt am Main,2572,100.0,true
-43.208.134.144,9182,http|https|socks4|socks5,,TH,Bangkok,2573,27.7,true
+15.161.131.175,18738,http,,IT,Milan,2572,15.0,true
 38.94.73.10,999,http|https,transparent,MX,,2573,100.0,true
+43.208.134.144,9182,http|https|socks4|socks5,,TH,Bangkok,2573,27.7,true
 195.120.185.218,80,http,,IT,Pisa,2574,100.0,true
-8.221.141.88,2022,http,,JP,Tokyo,2576,15.7,true
 173.212.203.209,80,http,,FR,Lauterbourg,2576,100.0,true
 15.161.131.175,3207,http|https|socks4|socks5,,IT,Milan,2576,25.1,true
-149.129.255.179,10443,http|https|socks4|socks5,,ID,Jakarta,2576,21.9,true
-149.129.255.179,7890,http|https|socks4|socks5,,ID,Jakarta,2576,18.4,true
+8.221.141.88,2022,http,,JP,Tokyo,2576,15.7,true
 47.121.183.107,31281,http|https|socks4|socks5,,CN,Shenzhen,2576,19.6,true
+5.45.184.253,1080,socks5,elite,DE,Eschborn,2576,54.1,true
 8.221.141.88,544,http,,JP,Tokyo,2577,14.0,true
-149.129.255.179,808,http|https|socks4|socks5,,ID,Jakarta,2577,17.0,true
-47.112.15.44,80,http|https|socks4|socks5,,CN,Shenzhen,2577,34.8,true
 93.62.194.49,80,http,,IT,,2577,99.7,true
+47.112.15.44,80,http|https|socks4|socks5,,CN,Shenzhen,2577,34.8,true
 8.213.222.247,1081,http,,TH,Bangkok,2578,16.2,true
-206.123.156.218,4531,socks5,elite,IR,,2580,13.6,true
+184.178.172.18,15280,socks4|socks5,elite,US,Roanoke,2579,99.2,true
 8.213.215.187,5060,http|https|socks4|socks5,,TH,Bangkok,2580,18.4,true
+206.123.156.218,4531,socks5,elite,IR,,2580,13.6,true
 107.152.98.5,4145,socks4|socks5,elite,US,,2582,97.0,true
-34.211.239.140,9090,https,elite,US,Boardman,2582,98.8,true
+13.208.238.59,5678,http,,JP,Osaka,2582,27.1,true
 85.198.96.76,1080,https,elite,RU,Moscow,2583,19.6,true
 8.213.222.247,13,http,,TH,Bangkok,2583,14.0,true
-158.101.18.102,8888,https,elite,US,Phoenix,2585,85.5,true
-8.215.12.103,6379,http|https|socks4|socks5,,ID,Jakarta,2585,23.4,true
 8.213.195.191,37,http|https|socks4|socks5,,TH,Bangkok,2585,15.1,true
+8.215.12.103,6379,http|https|socks4|socks5,,ID,Jakarta,2585,23.4,true
+158.101.18.102,8888,https,elite,US,Phoenix,2585,85.5,true
 103.190.113.126,9000,http|https,anonymous,ID,Grobogan,2587,26.8,true
 47.119.164.33,2080,http|https|socks4|socks5,,CN,Shenzhen,2588,39.4,true
-149.129.255.179,2020,http|https|socks4|socks5,,ID,Jakarta,2591,14.5,true
 8.213.222.157,3128,http|https|socks4|socks5,,TH,Bangkok,2591,14.6,true
 43.208.134.144,999,http|https|socks4|socks5,,TH,Bangkok,2591,24.7,true
 54.188.236.206,8351,http|https|socks4|socks5,,US,Boardman,2595,16.8,true
 8.213.222.247,18080,http,,TH,Bangkok,2597,16.3,true
 38.191.204.253,999,https,elite,CO,Villavicencio,2601,12.5,true
-5.188.31.140,80,http,,RU,St Petersburg,2602,99.7,true
 16.26.143.154,8050,http,,AU,Melbourne,2602,20.1,true
+5.188.31.140,80,http,,RU,St Petersburg,2602,99.7,true
+8.215.12.103,8006,http|https|socks4|socks5,,ID,Jakarta,2603,18.3,true
 8.215.12.103,2012,http|https|socks4|socks5,,ID,Jakarta,2603,15.3,true
 47.120.0.231,9080,http|https|socks4|socks5,,CN,Shenzhen,2603,23.9,true
-8.215.12.103,8006,http|https|socks4|socks5,,ID,Jakarta,2603,18.3,true
 8.213.222.247,81,http,,TH,Bangkok,2604,22.1,true
 165.22.118.134,80,http,,GB,Slough,2605,97.8,true
 8.213.222.247,30000,http,,TH,Bangkok,2607,22.8,true
 8.213.222.247,9091,http,,TH,Bangkok,2607,16.1,true
 8.213.222.247,3333,http,,TH,Bangkok,2609,19.8,true
+110.78.159.245,8080,http,,TH,,2610,89.2,true
 8.213.222.247,80,http,,TH,Bangkok,2610,17.8,true
 47.109.110.100,8089,http|https|socks4|socks5,,CN,Chengdu,2611,28.9,true
 8.218.210.54,443,http|https|socks4|socks5,elite,HK,Hong Kong,2614,58.6,true
-8.148.23.202,3128,http|socks4,,CN,Hangzhou,2615,17.3,true
 5.180.241.126,80,http,,RU,Gelendzhik,2615,99.2,true
+8.148.23.202,3128,http|socks4,,CN,Hangzhou,2615,17.3,true
+43.167.192.85,8080,http,transparent,JP,Tokyo,2617,97.5,true
 121.176.159.109,80,http,,KR,Nam-gu,2619,86.6,true
 103.152.238.21,3125,https,elite,ID,,2620,14.4,true
 194.58.33.7,9564,socks4|socks5,elite,DE,Frankfurt am Main,2621,77.5,true
-8.213.222.247,5060,http,,TH,Bangkok,2623,17.9,true
 47.107.142.198,8081,http|https|socks4|socks5,,CN,Shenzhen,2623,22.0,true
+8.213.222.247,5060,http,,TH,Bangkok,2623,17.9,true
 52.200.75.202,8080,http,,US,Ashburn,2624,100.0,true
-47.107.166.143,3129,http|https|socks4|socks5,,CN,Shenzhen,2625,26.1,true
 47.107.142.198,8082,http|https|socks4|socks5,,CN,Shenzhen,2625,38.4,true
+47.107.166.143,3129,http|https|socks4|socks5,,CN,Shenzhen,2625,26.1,true
 47.107.142.198,8090,http|https|socks4|socks5,,CN,Shenzhen,2626,41.5,true
 47.119.164.33,6379,http|https|socks4|socks5,,CN,Shenzhen,2629,17.8,true
 157.66.50.55,8080,http,transparent,ID,,2630,12.9,true
-13.51.196.44,30921,http|https|socks4|socks5,,SE,Stockholm,2631,29.3,true
 47.119.164.33,9000,http|https|socks4|socks5,,CN,Shenzhen,2631,25.9,true
-5.255.117.127,1080,socks5,elite,NL,Dronten,2632,97.6,true
+13.51.196.44,30921,http|https|socks4|socks5,,SE,Stockholm,2631,29.3,true
 8.213.222.247,77,http,,TH,Bangkok,2632,24.5,true
+5.255.117.127,1080,socks5,elite,NL,Dronten,2632,97.6,true
 47.119.164.33,3128,http|https|socks4|socks5,,CN,Shenzhen,2633,17.7,true
-13.51.196.44,9002,http|https|socks4|socks5,,SE,Stockholm,2634,28.9,true
+204.13.42.195,8080,http,,US,South Burlington,2633,97.5,true
 51.92.173.133,36548,http,,ES,Zaragoza,2634,18.9,true
+13.51.196.44,9002,http|https|socks4|socks5,,SE,Stockholm,2634,28.9,true
 47.119.164.33,8899,http|https|socks4|socks5,,CN,Shenzhen,2634,24.6,true
 47.119.164.33,100,http|https|socks4|socks5,,CN,Shenzhen,2635,32.7,true
 47.119.164.33,8085,http|https|socks4|socks5,,CN,Shenzhen,2635,31.3,true
-47.119.164.33,8081,http|https|socks4|socks5,,CN,Shenzhen,2636,31.1,true
 13.51.196.44,45007,http|https|socks4|socks5,,SE,Stockholm,2636,20.0,true
+47.119.164.33,8081,http|https|socks4|socks5,,CN,Shenzhen,2636,31.1,true
 101.132.248.7,3128,http|https|socks4|socks5,,CN,Shanghai,2638,29.1,true
+47.108.159.113,3129,http|https|socks4|socks5,,CN,Chengdu,2639,21.2,true
 47.119.164.33,8080,http|https|socks4|socks5,,CN,Shenzhen,2639,27.1,true
+206.123.156.210,4565,socks5,elite,IR,,2648,21.6,true
 15.161.131.175,8200,http,,IT,Milan,2649,24.5,true
 47.119.19.221,80,http|https|socks4|socks5,,CN,Shenzhen,2650,46.7,true
+13.208.238.59,56918,http|socks4,,JP,Osaka,2650,26.6,true
 1.71.170.146,7302,http,,CN,,2652,100.0,true
+56.155.73.159,37890,http|socks4,,JP,Osaka,2652,18.4,true
 34.175.208.159,80,http,,ES,Madrid,2653,100.0,true
 15.161.131.175,7298,http|https|socks4,,IT,Milan,2657,31.6,true
 8.134.149.133,9080,http|https|socks4|socks5,,CN,Guangzhou,2658,30.6,true
 188.129.8.242,81,http,elite,HR,Rijeka,2662,30.1,true
 47.116.210.163,8123,http|https|socks4|socks5,,CN,Shanghai,2662,23.0,true
-47.116.210.163,1337,http|https|socks4|socks5,,CN,Shanghai,2663,17.9,true
 47.116.210.163,9098,http|https|socks4|socks5,,CN,Shanghai,2663,24.4,true
 198.23.135.45,9999,http,,US,Dallas,2663,99.9,true
+47.116.210.163,1337,http|https|socks4|socks5,,CN,Shanghai,2663,17.9,true
 47.116.210.163,8443,http|https|socks4|socks5,,CN,Shanghai,2663,22.0,true
 159.203.186.165,80,http,,US,North Bergen,2666,95.0,true
 154.65.39.8,80,http,elite,SN,Dakar,2668,48.1,true
-149.129.255.179,9080,http|https|socks4|socks5,,ID,Jakarta,2671,17.4,true
+175.178.6.115,8080,http,,CN,Guangzhou,2673,89.6,true
 198.23.135.240,9999,http,,US,Dallas,2675,99.9,true
-101.132.248.7,1337,http|https|socks4,,CN,Shanghai,2678,51.4,true
 206.123.156.231,7368,socks5,elite,IR,,2678,50.0,true
+101.132.248.7,1337,http|https|socks4,,CN,Shanghai,2678,51.4,true
 47.107.166.143,1337,http|https|socks4|socks5,,CN,Shenzhen,2679,27.3,true
 47.107.166.143,80,http|https|socks4|socks5,,CN,Shenzhen,2680,45.3,true
+56.155.73.159,51999,http|socks4,,JP,Osaka,2681,26.9,true
 15.161.131.175,56433,http|https|socks4,,IT,Milan,2688,23.6,true
+18.60.247.31,43107,http|socks4,,IN,Hyderabad,2688,28.9,true
 36.64.157.154,8080,http,transparent,ID,Jakarta,2689,12.0,true
 116.101.75.173,1082,socks4|socks5,elite,VN,Hanoi,2690,82.4,true
 13.206.73.237,12107,http,,IN,Mumbai,2691,23.1,true
 103.172.121.51,8080,http|https,transparent,ID,,2693,17.9,true
+206.123.156.218,5754,socks5,elite,IR,,2694,4.2,true
 102.209.0.138,8080,http,transparent,LY,Benghazi,2694,13.0,true
-47.116.210.163,8008,http|https|socks4|socks5,,CN,Shanghai,2697,36.0,true
-128.199.253.195,9090,https,elite,SG,Singapore,2697,62.1,true
-47.116.210.163,3129,http|socks4|socks5,,CN,Shanghai,2697,27.2,true
-47.116.210.163,9080,http|https|socks4|socks5,,CN,Shanghai,2697,22.6,true
 47.116.210.163,8081,http|https|socks4|socks5,,CN,Shanghai,2697,27.5,true
-47.116.210.163,8080,http|https|socks4|socks5,,CN,Shanghai,2698,25.5,true
+103.175.245.205,8080,http,transparent,BD,,2697,24.2,true
+47.116.210.163,9080,http|https|socks4|socks5,,CN,Shanghai,2697,22.6,true
+47.116.210.163,3129,http|socks4|socks5,,CN,Shanghai,2697,27.2,true
+128.199.253.195,9090,https,elite,SG,Singapore,2697,62.1,true
+47.116.210.163,8008,http|https|socks4|socks5,,CN,Shanghai,2697,36.0,true
 47.116.210.163,8888,http|https|socks4|socks5,,CN,Shanghai,2698,28.7,true
+47.116.210.163,8080,http|https|socks4|socks5,,CN,Shanghai,2698,25.5,true
+18.60.247.31,20441,http|socks4,,IN,Hyderabad,2698,24.5,true
+18.60.247.31,3128,http,,IN,Hyderabad,2699,22.9,true
 206.123.156.211,6075,socks5,elite,IR,,2702,14.4,true
+18.60.247.31,13746,http|socks4,,IN,Hyderabad,2702,18.8,true
 47.116.210.163,20002,http|https|socks4|socks5,,CN,Shanghai,2702,21.2,true
 103.169.138.23,8081,http,elite,ID,,2702,7.9,true
 163.172.167.48,80,http,elite,FR,Paris,2704,58.3,true
@@ -1048,13 +1097,15 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 47.119.164.33,8090,http|https|socks4|socks5,,CN,Shenzhen,2711,26.8,true
 61.49.87.3,80,http,elite,CN,,2711,75.9,true
 47.119.164.33,9080,http|https|socks4|socks5,,CN,Shenzhen,2711,18.8,true
+18.60.247.31,8181,http|socks4,,IN,Hyderabad,2712,34.5,true
 140.82.59.192,1080,socks4,elite,NL,Amsterdam,2718,56.0,true
+18.60.247.31,57115,http,,IN,Hyderabad,2719,24.1,true
+18.60.247.31,42281,http,,IN,Hyderabad,2720,27.8,true
 206.123.156.222,8146,socks5,elite,IR,,2721,24.7,true
 13.206.73.237,10871,http|https|socks4|socks5,,IN,Mumbai,2721,30.5,true
 13.206.73.237,8665,http|https|socks4|socks5,,IN,Mumbai,2722,31.4,true
 18.222.132.180,10450,http|https|socks4|socks5,,US,Columbus,2722,16.5,true
 39.105.27.30,3128,http|https,transparent,CN,Beijing,2727,92.9,true
-178.16.140.119,1080,socks5,elite,US,Phoenix,2728,78.6,true
 54.255.119.3,9090,http|https,elite,SG,Singapore,2729,73.5,true
 52.59.218.12,3128,socks4|socks5,elite,DE,Frankfurt am Main,2730,28.0,true
 15.161.131.175,45385,http,,IT,Milan,2733,22.2,true
@@ -1065,16 +1116,19 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 178.18.241.49,80,http,,FR,Lauterbourg,2749,100.0,true
 217.162.8.134,80,http,elite,CH,Bellach,2754,56.8,true
 206.123.156.210,4056,socks5,elite,IR,,2756,9.1,true
+54.180.117.151,40041,http|socks4|socks5,,KR,Incheon,2763,26.0,true
 195.19.51.20,1080,socks5,elite,RU,,2767,33.7,true
 206.123.156.231,15268,socks5,elite,IR,,2769,5.2,true
 79.110.200.27,8000,http,elite,PL,Wroclaw,2772,71.6,true
 103.155.196.47,8080,http,transparent,ID,Sukabumi,2772,14.4,true
 52.59.218.12,29442,http|https|socks4|socks5,,DE,Frankfurt am Main,2773,27.9,true
+169.61.46.13,7563,http,,US,,2776,99.8,true
 77.239.106.24,1080,socks5,elite,US,,2777,95.4,true
+138.199.25.13,3909,socks5,elite,SG,Singapore,2778,17.3,true
 167.71.181.243,80,http,,US,Clifton,2783,99.7,true
 3.221.105.1,80,http,,US,Ashburn,2784,100.0,true
-141.0.11.243,80,http,,SG,,2785,100.0,true
 159.203.75.156,8080,http,,US,Clifton,2785,100.0,true
+141.0.11.243,80,http,,SG,,2785,100.0,true
 152.53.137.180,1081,socks5,elite,AT,,2786,97.7,true
 3.219.153.200,80,http,,US,Ashburn,2787,100.0,true
 47.121.114.42,1080,socks4,elite,CN,Shenzhen,2787,56.2,true
@@ -1083,6 +1137,7 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 201.149.127.22,8080,http,transparent,BR,Parauapebas,2795,17.6,true
 45.84.175.149,80,http,,BG,Stara Zagora,2796,100.0,true
 138.68.59.191,80,http,,US,Santa Clara,2796,100.0,true
+95.165.152.252,3128,http|https,transparent,RU,Moscow,2800,90.9,true
 180.218.97.121,80,http,,TW,Kaohsiung,2801,99.7,true
 176.58.125.65,80,http,,GB,London,2801,100.0,true
 45.161.115.112,999,http|https,transparent,CL,Salamanca,2802,61.0,true
@@ -1092,39 +1147,38 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 3.71.26.7,14090,http|socks4,,DE,Frankfurt am Main,2806,27.4,true
 103.244.107.253,8080,https,elite,ID,,2806,13.0,true
 51.79.78.121,5678,http,,CA,Quebec,2808,100.0,true
-54.38.239.248,8080,http|https,transparent,FR,,2809,10.1,true
 212.77.75.25,3129,http|https,elite,IT,,2809,33.3,true
-192.252.216.81,4145,socks4|socks5,elite,US,,2811,94.2,true
+54.38.239.248,8080,http|https,transparent,FR,,2809,10.1,true
 54.206.129.120,57738,http|socks4,,AU,Sydney,2811,30.5,true
 18.163.33.4,45442,http,,HK,Hong Kong,2811,30.0,true
-38.10.91.119,8084,https,elite,PH,Iloilo City,2818,20.0,true
 112.213.87.154,8080,http,,VN,,2818,100.0,true
+38.10.91.119,8084,https,elite,PH,Iloilo City,2818,20.0,true
 206.123.156.210,6713,socks5,elite,IR,,2819,12.8,true
-51.34.28.236,41511,http,,CH,Zurich,2822,25.3,true
 62.133.62.207,1081,http|https|socks4|socks5,elite,FR,Paris,2822,82.4,true
+51.34.28.236,41511,http,,CH,Zurich,2822,25.3,true
 68.183.98.179,80,http,,US,North Bergen,2827,99.2,true
-51.79.68.26,8080,http,,CA,,2828,100.0,true
 54.206.129.120,4443,http,,AU,Sydney,2828,26.2,true
-176.12.72.62,1080,socks4,elite,KZ,Almaty,2830,22.9,true
+51.79.68.26,8080,http,,CA,,2828,100.0,true
 45.59.122.132,80,http|https,transparent,CH,Bern,2830,76.6,true
+176.12.72.62,1080,socks4,elite,KZ,Almaty,2830,22.9,true
 18.163.33.4,32162,http|socks4,,HK,Hong Kong,2831,30.5,true
 3.71.26.7,24197,http|socks4,,DE,Frankfurt am Main,2832,21.0,true
 3.71.26.7,21821,http|socks4,,DE,Frankfurt am Main,2834,34.0,true
 192.71.227.37,80,http,,CA,Montreal,2835,100.0,true
-3.71.26.7,44787,http|socks4,,DE,Frankfurt am Main,2836,21.2,true
-3.71.26.7,50109,http|socks4,,DE,Frankfurt am Main,2836,27.8,true
-220.133.185.155,100,http,,TW,Kaohsiung,2836,98.8,true
 51.92.173.133,40878,http,,ES,Zaragoza,2836,15.1,true
-15.161.131.175,1358,http,,IT,Milan,2836,27.4,true
+3.71.26.7,50109,http|socks4,,DE,Frankfurt am Main,2836,27.8,true
+3.71.26.7,44787,http|socks4,,DE,Frankfurt am Main,2836,21.2,true
 51.92.173.133,30720,http|socks4,,ES,Zaragoza,2836,10.1,true
-104.131.103.230,80,http,,US,Clifton,2839,100.0,true
+15.161.131.175,1358,http,,IT,Milan,2836,27.4,true
+220.133.185.155,100,http,,TW,Kaohsiung,2836,98.8,true
 51.92.173.133,13179,http|socks4,,ES,Zaragoza,2839,16.7,true
+104.131.103.230,80,http,,US,Clifton,2839,100.0,true
 54.206.129.120,1234,http|socks4,,AU,Sydney,2841,31.5,true
 54.206.129.120,8148,http|socks4,,AU,Sydney,2842,31.6,true
 185.79.243.153,31382,http|https,elite,PL,Myszkow,2843,83.6,true
-185.221.160.214,80,http,,RU,,2847,99.4,true
 13.41.196.179,268,http|socks4,,GB,City of London,2847,24.3,true
 3.71.26.7,40506,http|socks4,,DE,Frankfurt am Main,2847,29.3,true
+185.221.160.214,80,http,,RU,,2847,99.4,true
 13.41.196.179,9999,http|socks4,,GB,City of London,2848,23.6,true
 16.51.62.173,27371,http|https|socks4|socks5,,AU,Melbourne,2851,19.8,true
 49.0.2.54,8080,http|https,transparent,ID,,2853,20.9,true
@@ -1136,18 +1190,19 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 93.127.163.52,80,http,elite,FR,Paris,2861,58.6,true
 37.27.43.13,30544,socks4|socks5,elite,FI,Helsinki,2864,23.7,true
 36.64.37.18,9092,http|https,elite,ID,Jakarta,2866,32.9,true
-47.94.97.121,80,http,,CN,Beijing,2867,100.0,true
 160.250.4.90,1,http|https|socks5,elite,VN,,2867,70.0,true
+65.109.65.239,18080,https,elite,FI,Helsinki,2867,23.0,true
+47.94.97.121,80,http,,CN,Beijing,2867,100.0,true
 13.208.238.59,13640,http,,JP,Osaka,2868,29.0,true
 206.123.156.233,4276,socks5,elite,IR,,2869,12.0,true
 159.203.105.141,8080,http,,US,Clifton,2870,100.0,true
+51.92.173.133,3261,http,,ES,Zaragoza,2871,17.6,true
+13.208.238.59,42036,http,,JP,Osaka,2871,30.2,true
 144.124.227.88,3129,socks5,elite,NL,Amsterdam,2871,73.0,true
 167.99.122.154,3000,http,,US,Clifton,2871,99.6,true
-13.208.238.59,42036,http,,JP,Osaka,2871,30.2,true
-51.92.173.133,3261,http,,ES,Zaragoza,2871,17.6,true
 13.212.26.15,12629,http|socks4|socks5,,SG,Singapore,2872,19.1,true
-51.92.173.133,29938,http,,ES,Zaragoza,2873,18.9,true
 13.212.26.15,58006,http|socks5,,SG,Singapore,2873,18.3,true
+51.92.173.133,29938,http,,ES,Zaragoza,2873,18.9,true
 18.163.33.4,22140,http,,HK,Hong Kong,2874,34.5,true
 13.208.238.59,15751,http,,JP,Osaka,2874,27.5,true
 138.201.198.53,80,http,elite,DE,Falkenstein,2879,55.3,true
@@ -1157,14 +1212,14 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 13.208.238.59,7078,http|https|socks4|socks5,,JP,Osaka,2891,31.3,true
 54.188.236.206,28025,http|https|socks4|socks5,,US,Boardman,2892,23.4,true
 46.36.37.133,8080,http,,CZ,,2896,100.0,true
-13.208.238.59,5678,http|https|socks4|socks5,,JP,Osaka,2898,27.0,true
+56.155.73.159,11703,http,,JP,Osaka,2897,27.9,true
 24.249.199.12,4145,socks4|socks5,elite,US,Spring Valley,2900,97.3,true
 13.208.238.59,36749,http,,JP,Osaka,2901,26.1,true
 13.208.238.59,47213,http|https|socks4|socks5,,JP,Osaka,2902,27.0,true
 52.59.218.12,30975,http|https|socks4|socks5,,DE,Frankfurt am Main,2903,29.6,true
 51.34.28.236,3883,http|https|socks4|socks5,,CH,Zurich,2904,21.1,true
-13.208.238.59,194,http,,JP,Osaka,2905,23.9,true
 13.208.238.59,30625,http,,JP,Osaka,2905,27.2,true
+13.208.238.59,194,http,,JP,Osaka,2905,23.9,true
 15.161.131.175,49255,http,,IT,Milan,2910,20.8,true
 128.199.104.190,41354,socks4,elite,SG,Singapore,2911,30.3,true
 156.67.214.232,80,http,,SG,Singapore,2913,100.0,true
@@ -1176,15 +1231,16 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 52.59.218.12,43938,http,,DE,Frankfurt am Main,2926,28.4,true
 188.191.165.159,8080,http,elite,RU,Moscow,2928,42.5,true
 206.123.156.230,4206,socks5,elite,IR,,2929,11.8,true
+192.111.130.2,4145,socks4|socks5,elite,US,Hialeah,2929,96.3,true
 46.209.204.147,8080,http,transparent,IR,,2930,92.8,true
-103.166.8.238,1080,http|https,transparent,ID,Bekasi,2931,5.2,true
 34.100.207.41,80,http,,IN,Mumbai,2932,100.0,true
 103.155.196.20,8080,http|https,transparent,ID,Sukabumi,2939,14.5,true
 72.195.114.169,4145,socks5,elite,US,,2940,97.6,true
 103.106.115.118,8097,http,transparent,ID,,2941,19.9,true
+192.252.209.155,14455,socks4|socks5,elite,US,,2945,95.7,true
 89.43.86.165,80,http,,ES,Albox,2951,99.2,true
-45.239.175.60,8080,http,elite,BR,Lagarto,2952,58.9,true
 206.123.156.223,5112,socks5,elite,IR,,2952,50.0,true
+45.239.175.60,8080,http,elite,BR,Lagarto,2952,58.9,true
 101.200.60.183,8081,http,,CN,Beijing,2953,100.0,true
 37.120.189.106,80,http,,DE,Nuremberg,2956,91.1,true
 52.34.243.150,8080,http,,US,Boardman,2960,100.0,true
@@ -1192,70 +1248,72 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 119.93.53.24,8082,https,elite,PH,Pasig,2962,22.8,true
 180.189.163.102,8080,http,,TL,Dili,2965,98.6,true
 166.122.174.23,8080,http,,US,'Ewa Beach,2966,100.0,true
-89.108.78.32,1080,socks5,elite,RU,,2969,81.1,true
 16.26.143.154,156,http,,AU,Melbourne,2969,26.2,true
+89.108.78.32,1080,socks5,elite,RU,,2969,81.1,true
 157.20.252.203,8080,http,transparent,ID,Pati,2971,14.7,true
 16.26.143.154,111,http,,AU,Melbourne,2972,24.4,true
 16.26.143.154,24382,http,,AU,Melbourne,2973,22.3,true
 16.26.143.154,15816,http,,AU,Melbourne,2974,30.8,true
 103.156.16.189,8818,http|https,transparent,ID,,2978,22.2,true
-103.55.224.8,8181,https,elite,ID,,2981,45.0,true
 178.22.168.37,8081,http,,KZ,Almaty,2981,62.2,true
+103.55.224.8,8181,https,elite,ID,,2981,45.0,true
 178.22.168.39,8080,http,,KZ,Almaty,2982,58.7,true
 47.96.42.30,80,http,,CN,Hangzhou,2985,100.0,true
 72.37.217.3,4145,socks4|socks5,elite,US,,2989,93.4,true
 116.101.75.173,1111,socks4|socks5,elite,VN,Hanoi,2990,84.7,true
 16.51.148.102,9002,http,,AU,Melbourne,2992,80.6,true
 178.22.168.40,8081,http,,KZ,Almaty,2995,56.2,true
-38.127.179.19,37234,http|https,elite,US,Washington,2996,17.0,true
 41.65.55.27,1981,http|https,transparent,EG,Cairo,2996,9.9,true
+38.127.179.19,37234,http|https,elite,US,Washington,2996,17.0,true
 200.188.246.122,60606,socks4,elite,BR,Florianopolis,2997,18.6,true
 16.26.143.154,15240,http,,AU,Melbourne,2998,16.8,true
 82.115.60.51,80,http,elite,KZ,Almaty,2999,62.1,true
 37.235.22.91,8443,http|https,elite,IR,,3001,43.3,true
-47.91.65.12,80,http,,DE,Frankfurt am Main,3004,100.0,true
+38.49.133.226,999,http|https,transparent,MX,Guanajuato City,3002,11.3,true
 13.51.196.44,41078,http,,SE,Stockholm,3004,23.2,true
+47.91.65.12,80,http,,DE,Frankfurt am Main,3004,100.0,true
 13.51.196.44,16673,http,,SE,Stockholm,3005,29.1,true
 13.51.196.44,24423,http,,SE,Stockholm,3005,23.8,true
 87.76.1.80,8080,http|https,transparent,RU,Ulyanovsk,3006,12.6,true
 8.219.179.34,80,http,,SG,,3010,100.0,true
-47.89.159.212,8060,http|https|socks4|socks5,,US,,3011,24.5,true
 199.68.217.62,7890,http|https,elite,CA,,3011,64.1,true
+47.89.159.212,8060,http|https|socks4|socks5,,US,,3011,24.5,true
+176.12.66.148,1080,socks5,elite,RU,,3012,53.8,true
 167.235.232.44,8080,http,,DE,Falkenstein,3012,100.0,true
 205.164.192.115,999,http|https,transparent,MX,Yurecuaro,3013,97.6,true
 185.193.209.1,8080,http,transparent,IR,Bushehr,3014,24.0,true
 119.148.11.141,22122,socks5,elite,BD,Dhaka,3027,31.8,true
-13.246.6.135,52336,http|https|socks4|socks5,,ZA,Cape Town,3028,23.6,true
 118.163.254.16,80,http,,TW,,3028,100.0,true
 16.26.143.154,39964,http,,AU,Melbourne,3028,26.9,true
+13.246.6.135,52336,http|https|socks4|socks5,,ZA,Cape Town,3028,23.6,true
 70.166.65.160,4145,socks5,elite,US,Roanoke,3029,98.0,true
 206.123.156.236,5422,socks5,elite,IR,,3030,13.0,true
 8.148.23.165,10000,http|https|socks4|socks5,,CN,Hangzhou,3033,29.3,true
-180.191.138.172,8082,http,transparent,PH,,3035,17.1,true
 98.175.31.222,4145,socks4|socks5,elite,US,Norfolk,3037,97.8,true
 47.112.25.109,7890,http|https,elite,CN,Shenzhen,3039,89.8,true
 72.56.238.99,1080,http|https,elite,US,,3042,87.6,true
 37.18.73.60,5566,socks4|socks5,elite,RU,,3047,85.4,true
 183.61.28.254,8900,http,,CN,,3047,67.5,true
-81.168.119.85,443,https|socks4|socks5,elite,GB,,3051,92.3,true
 113.192.31.90,8080,https,elite,ID,Duren Tiga,3055,17.0,true
 65.109.29.104,1080,socks4|socks5,elite,FI,Helsinki,3056,94.8,true
+103.154.230.78,8090,https,elite,ID,Lamongan,3057,29.6,true
 195.9.238.35,8080,http|https,transparent,RU,Moscow,3058,40.2,true
 16.26.143.154,27447,http,,AU,Melbourne,3066,18.3,true
 103.173.138.201,8080,http,transparent,ID,,3068,37.6,true
 144.124.232.204,5222,socks5,elite,NL,Amsterdam,3069,44.8,true
 104.129.194.38,10801,http,,US,Reston,3070,100.0,true
-16.26.143.154,58111,http,,AU,Melbourne,3071,27.1,true
 209.18.52.160,8080,http,,US,Bethlehem,3071,100.0,true
+16.26.143.154,58111,http,,AU,Melbourne,3071,27.1,true
 72.2.102.228,8080,http,,US,Allentown,3072,100.0,true
 152.53.144.223,1080,socks5,elite,AT,,3076,96.3,true
 197.253.23.4,8080,https,elite,NG,Lagos,3084,19.3,true
 188.119.98.126,9999,http,transparent,CZ,Olomouc,3087,14.8,true
 103.169.254.75,6080,http,transparent,ID,,3087,12.2,true
 174.104.115.21,80,http,elite,US,Kent,3089,49.0,true
-54.206.129.120,47669,http,,AU,Sydney,3093,25.5,true
 37.49.224.15,3128,http|https,elite,EE,,3093,98.9,true
+54.206.129.120,47669,http,,AU,Sydney,3093,25.5,true
 8.216.32.38,1080,socks4|socks5,elite,JP,Tokyo,3095,79.4,true
+148.230.4.228,999,http,transparent,MX,Naranjos,3101,9.5,true
 85.237.206.150,1234,http|https|socks4|socks5,elite,TW,Taipei,3106,100.0,true
 5.255.113.177,1080,socks5,elite,NL,Dronten,3106,85.0,true
 93.113.63.11,3128,http|https,elite,TR,,3110,75.9,true
@@ -1263,20 +1321,24 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 63.181.83.210,25848,http|socks4,,DE,Frankfurt am Main,3115,20.1,true
 213.176.113.24,50001,http|https|socks4|socks5,elite,NL,Amsterdam,3116,97.0,true
 15.161.131.175,8447,http,,IT,Milan,3119,26.5,true
+192.111.129.150,4145,socks4|socks5,elite,US,Hialeah,3121,92.9,true
 15.161.131.175,18885,http,,IT,Milan,3121,26.5,true
 103.52.145.97,8080,http,transparent,ID,,3123,21.1,true
 15.161.131.175,44107,http,,IT,Milan,3125,21.4,true
 13.41.196.179,13323,http|socks4,,GB,City of London,3125,25.9,true
+45.190.76.16,999,http,transparent,MX,Zapopan,3127,7.1,true
 27.109.158.122,80,http,elite,MO,,3131,63.9,true
 45.144.49.156,1080,socks4,elite,PL,Warsaw,3132,49.6,true
 54.206.129.120,46055,http,,AU,Sydney,3135,30.1,true
 129.222.204.27,10000,http|https,transparent,NG,Lagos,3136,20.8,true
 156.226.176.87,1080,http,elite,HK,Hong Kong,3138,98.2,true
 185.209.29.226,1080,socks5,elite,RU,Moscow,3144,55.1,true
+43.161.239.147,11090,http|https,elite,HK,Hong Kong,3156,74.2,true
 37.49.224.243,1080,socks5,elite,EE,,3156,15.2,true
 15.160.132.166,4039,http|socks5,,IT,Milan,3157,23.8,true
-194.28.181.130,80,http,,UA,Kyiv,3158,92.9,true
+192.111.139.163,19404,socks4|socks5,elite,US,Hialeah,3157,97.3,true
 13.41.196.179,30961,http,,GB,City of London,3158,15.2,true
+194.28.181.130,80,http,,UA,Kyiv,3158,92.9,true
 135.125.154.103,8899,http,elite,FR,,3161,17.8,true
 15.160.132.166,9117,http|socks5,,IT,Milan,3164,17.3,true
 175.215.145.203,3168,http,transparent,KR,Changwon,3164,25.2,true
@@ -1287,19 +1349,21 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 13.41.196.179,10249,http|socks4,,GB,City of London,3184,23.4,true
 91.107.228.234,1052,socks5,elite,DE,Nuremberg,3185,25.4,true
 119.148.47.233,1048,https,elite,BD,Dhaka,3188,36.6,true
-103.118.44.251,8080,http,elite,KH,Phnom Penh,3189,100.0,true
 15.161.131.175,19780,http,,IT,Milan,3189,23.6,true
+70.166.167.55,57745,socks4|socks5,elite,US,,3189,97.9,true
+103.118.44.251,8080,http,elite,KH,Phnom Penh,3189,100.0,true
 103.247.23.10,8549,http,transparent,ID,Bekasi,3190,18.4,true
 34.2.9.137,1080,http|socks5,elite,MX,,3191,90.0,true
 36.92.51.132,8080,http|https,transparent,ID,Jakarta,3191,73.4,true
 8.215.47.191,10080,socks4|socks5,elite,ID,Jakarta,3193,96.6,true
 206.123.156.210,9241,socks5,elite,IR,,3195,16.7,true
-138.124.26.19,1080,http|https|socks4|socks5,elite,SE,Stockholm,3196,83.3,true
 138.197.155.38,80,http,,CA,Toronto,3196,98.4,true
+138.124.26.19,1080,http|https|socks4|socks5,elite,SE,Stockholm,3196,83.3,true
 195.83.197.177,80,http,,FR,Toulouse,3197,99.4,true
+199.102.107.145,4145,socks4|socks5,elite,US,,3199,96.8,true
 195.83.197.26,80,http,,FR,Toulouse,3199,99.4,true
-195.83.197.222,80,http,,FR,Toulouse,3200,99.7,true
 195.83.197.45,80,http,,FR,Toulouse,3200,99.4,true
+195.83.197.222,80,http,,FR,Toulouse,3200,99.7,true
 137.131.175.179,8080,http|https,transparent,BR,Sao Paulo,3206,50.0,true
 103.130.63.15,1080,http,transparent,ID,Cirebon,3209,37.8,true
 31.43.33.55,4153,socks4,elite,UA,,3209,29.2,true
@@ -1310,19 +1374,29 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 128.199.37.92,1080,socks4|socks5,elite,NL,Amsterdam,3221,54.4,true
 103.6.207.250,4153,socks4,elite,ID,,3222,41.1,true
 161.35.60.102,80,http,,US,North Bergen,3223,94.8,true
+142.54.235.9,4145,socks4|socks5,elite,US,,3223,94.6,true
 43.208.237.116,4192,http|socks5,,TH,Bangkok,3232,22.6,true
 45.89.63.172,1080,socks5,elite,GB,Coventry,3232,97.6,true
 154.90.48.254,2024,https,elite,ID,Jakarta,3233,72.0,true
 54.79.125.20,45622,http,,AU,Sydney,3234,25.4,true
 89.46.42.11,8080,http|https,transparent,SK,Bratislava,3237,90.0,true
+34.81.160.132,80,http,elite,TW,Taipei,3238,67.9,true
 16.26.143.154,46765,http,,AU,Melbourne,3238,27.1,true
 45.167.126.216,9992,http,transparent,CO,Popayan,3238,11.2,true
-34.81.160.132,80,http,elite,TW,Taipei,3238,67.9,true
-103.97.140.157,1080,socks4,elite,ID,,3249,12.5,true
+142.54.228.193,4145,socks4|socks5,elite,US,,3243,96.7,true
+68.71.243.14,4145,socks4|socks5,elite,US,,3243,94.9,true
+68.71.251.134,4145,socks4|socks5,elite,US,,3249,94.2,true
 206.123.156.231,5152,socks5,elite,IR,,3255,10.9,true
+198.8.94.170,4145,socks4|socks5,elite,US,,3257,97.0,true
+196.251.131.88,8080,http,elite,ZA,Johannesburg,3258,100.0,true
 190.97.230.146,999,http,transparent,VE,Caracas,3267,13.2,true
+47.91.115.179,8081,http|https|socks4|socks5,,AE,Dubai,3271,18.4,true
 208.91.196.195,80,http,,VG,,3271,99.7,true
+174.77.111.196,4145,socks4|socks5,elite,US,Tulsa,3272,98.6,true
+47.91.115.179,6969,http|https|socks4|socks5,,AE,Dubai,3272,19.4,true
+47.91.115.179,8090,http|https|socks4|socks5,,AE,Dubai,3273,18.7,true
 103.216.50.11,8080,http,elite,KH,Phnom Penh,3273,53.8,true
+47.91.115.179,9098,http|https|socks4|socks5,,AE,Dubai,3275,18.1,true
 104.248.172.185,80,http,,GB,Slough,3278,100.0,true
 200.110.173.240,999,https,elite,CO,Cali,3280,10.9,true
 54.79.125.20,1000,socks4,elite,AU,Sydney,3289,28.2,true
@@ -1333,8 +1407,10 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 165.225.72.38,10801,http,,DE,Frankfurt am Main,3298,99.8,true
 27.123.222.193,8080,http,transparent,ID,Jakarta,3300,18.2,true
 220.178.229.83,7302,http,,CN,,3303,100.0,true
+38.49.210.79,40000,socks5,elite,CA,Montreal,3303,93.4,true
 18.60.247.31,5261,http|https|socks4,,IN,Hyderabad,3304,23.4,true
 101.89.150.168,3128,http,transparent,CN,Shanghai,3306,93.8,true
+68.71.245.206,4145,socks4|socks5,elite,US,,3306,94.9,true
 39.102.209.163,8000,http|https|socks4|socks5,,CN,Beijing,3307,23.3,true
 203.25.208.163,1111,socks5,elite,CN,,3308,36.5,true
 109.224.242.21,8080,http,transparent,TR,,3310,16.1,true
@@ -1361,12 +1437,11 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 124.6.225.124,1088,socks4,elite,BD,,3364,10.7,true
 206.123.156.213,6903,socks5,elite,IR,,3368,10.6,true
 35.169.4.155,80,http,,US,Ashburn,3371,100.0,true
-34.87.80.221,30000,http|https,elite,SG,Singapore,3372,33.6,true
 206.220.175.2,4145,socks4|socks5,elite,US,,3372,96.1,true
+34.87.80.221,30000,http|https,elite,SG,Singapore,3372,33.6,true
 150.241.116.167,443,http|https,elite,US,,3373,92.3,true
 195.25.20.155,3128,http|https,anonymous,FR,,3374,83.1,true
 15.164.225.200,1364,socks5,elite,KR,Incheon,3375,28.1,true
-103.162.54.26,1111,http,transparent,ID,,3376,14.7,true
 129.226.92.241,80,http,transparent,SG,Singapore,3376,99.4,true
 208.91.197.6,80,http,,VG,,3376,99.7,true
 173.212.246.157,3128,http,transparent,FR,Lauterbourg,3377,84.1,true
@@ -1375,27 +1450,30 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 117.236.124.166,3128,http|https,elite,IN,Bengaluru,3378,95.5,true
 54.253.167.61,142,http,,AU,Sydney,3379,28.7,true
 181.119.84.212,8080,http,transparent,CO,Cali,3382,19.1,true
+110.77.149.227,4153,socks4,elite,TH,Krathum Baen,3384,20.0,true
 168.138.50.91,80,http,elite,JP,Osaka,3387,99.0,true
 91.108.243.203,3128,http|https,elite,DE,Frankfurt am Main,3390,75.0,true
-141.0.11.250,80,http,,SG,,3399,100.0,true
 18.180.59.181,80,http|https,transparent,JP,Tokyo,3399,100.0,true
+141.0.11.250,80,http,,SG,,3399,100.0,true
 35.237.129.172,80,http,,US,North Charleston,3400,91.4,true
-91.222.238.112,80,http,,RU,,3401,100.0,true
-194.233.71.16,8080,http,,SG,Singapore,3401,100.0,true
 50.173.118.209,3128,http,,US,York,3401,99.8,true
+194.233.71.16,8080,http,,SG,Singapore,3401,100.0,true
 114.94.148.37,18080,http|https,elite,CN,Hangzhou,3401,100.0,true
-103.105.196.30,80,http,,ID,,3402,99.4,true
+91.222.238.112,80,http,,RU,,3401,100.0,true
 200.24.153.79,8080,http|https,transparent,EC,Manta,3402,22.1,true
-185.200.188.234,10001,http|https,elite,RU,Moscow,3403,99.6,true
-78.186.146.140,3310,http,,TR,Istanbul,3403,97.1,true
+103.105.196.30,80,http,,ID,,3402,99.4,true
 85.192.28.47,7443,http|https,elite,DE,Frankfurt am Main,3403,97.9,true
-111.230.27.213,3128,http,transparent,CN,Guangzhou,3405,99.0,true
+78.186.146.140,3310,http,,TR,Istanbul,3403,97.1,true
+185.200.188.234,10001,http|https,elite,RU,Moscow,3403,99.6,true
 109.68.189.22,54643,socks4,elite,RU,,3405,14.6,true
+111.230.27.213,3128,http,transparent,CN,Guangzhou,3405,99.0,true
 202.28.194.139,31280,http|https,elite,TH,Chiang Mai,3406,99.4,true
+162.214.3.183,3128,https,elite,US,,3406,85.1,true
 208.91.196.182,80,http,,VG,,3407,100.0,true
 8.212.151.166,4100,http|https|socks4|socks5,,PH,Manila,3408,18.9,true
-47.253.211.16,1080,socks5,elite,US,,3410,99.3,true
+5.45.118.209,1080,socks5,elite,EE,Johvi,3409,89.0,true
 92.124.154.154,8080,http|https,elite,RU,Omsk,3410,100.0,true
+47.253.211.16,1080,socks5,elite,US,,3410,99.3,true
 104.236.78.102,3128,http,transparent,US,Clifton,3411,100.0,true
 8.130.74.114,9098,http|https|socks4|socks5,,CN,Beijing,3412,23.2,true
 82.145.209.242,80,http,,NL,Amsterdam,3413,100.0,true
@@ -1403,38 +1481,38 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 13.246.6.135,9844,http,,ZA,Cape Town,3419,29.5,true
 185.26.168.17,4153,socks4,elite,RU,,3419,26.2,true
 54.206.129.120,11714,http|socks4,,AU,Sydney,3420,31.4,true
-103.63.190.84,8080,http,,KH,Phnom Penh,3424,99.5,true
 206.123.156.213,5289,socks5,elite,IR,,3424,14.1,true
+103.63.190.84,8080,http,,KH,Phnom Penh,3424,99.5,true
 116.101.75.173,2079,http|https,elite,VN,Hanoi,3426,94.8,true
 141.0.11.241,80,http,,SG,,3428,100.0,true
-13.246.6.135,58262,http,,ZA,Cape Town,3431,20.5,true
 122.116.125.115,8888,http,elite,TW,Taipei,3431,21.6,true
+13.246.6.135,58262,http,,ZA,Cape Town,3431,20.5,true
 103.118.44.31,8080,http,elite,KH,Phnom Penh,3432,86.3,true
 216.36.236.39,80,http,,US,,3433,100.0,true
 8.154.21.175,3128,http,transparent,CN,Hangzhou,3435,44.8,true
 141.0.13.229,80,http,,NL,Amsterdam,3448,100.0,true
-62.133.62.184,1081,https|socks5,elite,FR,Paris,3452,78.8,true
-149.129.255.179,9050,https|socks4|socks5,elite,ID,Jakarta,3453,14.7,true
 35.239.196.218,1080,socks5,elite,US,Council Bluffs,3457,97.6,true
 192.252.215.2,4145,socks4|socks5,elite,US,,3462,97.0,true
+103.39.70.253,8181,http|https,transparent,ID,,3462,30.8,true
 192.252.208.67,14287,socks4|socks5,elite,US,,3463,95.2,true
 210.177.178.148,80,http,elite,HK,Kowloon,3468,62.0,true
 103.77.243.216,1,http|https|socks5,elite,VN,,3468,69.2,true
 199.102.105.242,4145,socks4|socks5,elite,US,,3470,94.5,true
 212.58.132.5,8888,http|https,transparent,US,,3471,88.7,true
-5.255.99.75,1080,socks5,elite,NL,Dronten,3473,92.5,true
 206.123.156.227,5097,socks5,elite,IR,,3473,13.4,true
+5.255.99.75,1080,socks5,elite,NL,Dronten,3473,92.5,true
 23.175.248.21,1080,socks4|socks5,elite,US,,3477,95.4,true
 16.51.62.173,46099,http|https|socks4|socks5,,AU,Melbourne,3478,13.7,true
 221.178.239.200,7302,http,,CN,,3482,100.0,true
 91.147.235.162,4153,socks4,elite,HU,Debrecen,3483,30.1,true
 103.68.214.129,1111,http,,ID,,3484,69.2,true
-140.83.37.145,80,http,,JP,Inzai,3489,100.0,true
 91.108.243.203,1080,socks4|socks5,elite,DE,Frankfurt am Main,3489,75.0,true
+140.83.37.145,80,http,,JP,Inzai,3489,100.0,true
 8.148.23.165,8080,http|https|socks4|socks5,,CN,Hangzhou,3491,24.5,true
 98.181.137.83,4145,socks4|socks5,elite,US,North Las Vegas,3493,98.2,true
 62.60.254.80,1080,socks5,elite,IR,,3499,21.0,true
 206.123.156.219,6335,socks5,elite,IR,,3503,9.3,true
+177.131.29.208,4153,socks4,elite,BR,Abaetetuba,3504,6.0,true
 94.247.231.172,8080,https,elite,UA,Kyiv,3505,15.5,true
 160.250.54.8,9000,socks4,elite,VN,,3506,36.6,true
 72.195.34.41,4145,socks4|socks5,elite,US,,3510,97.5,true
@@ -1445,6 +1523,7 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 163.172.53.142,80,http,elite,FR,Paris,3529,75.4,true
 193.233.139.106,1080,socks5,elite,RU,,3534,91.1,true
 101.33.76.248,1080,socks5,elite,SG,,3537,51.9,true
+47.237.92.86,104,http|https|socks4|socks5,,SG,,3539,21.0,true
 160.22.134.63,1111,http,transparent,ID,Tangerang,3540,19.1,true
 8.148.23.165,9080,http|https|socks4|socks5,,CN,Hangzhou,3543,34.5,true
 71.168.71.12,8888,http|https,elite,US,Salem,3543,9.9,true
@@ -1456,6 +1535,7 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 185.26.181.241,80,http,,NL,Amsterdam,3554,100.0,true
 178.79.129.126,80,http,,GB,London,3554,100.0,true
 72.2.102.226,8080,http,,US,Allentown,3558,99.7,true
+45.181.121.57,999,https,elite,CL,Santiago,3559,22.7,true
 15.161.131.175,55709,http|socks4,,IT,Milan,3560,18.4,true
 199.58.185.9,4145,socks4|socks5,elite,US,,3560,97.2,true
 184.178.172.17,4145,socks4|socks5,elite,US,Roanoke,3564,98.1,true
@@ -1467,14 +1547,13 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 85.239.247.109,2080,socks5,elite,US,St Louis,3579,32.5,true
 182.155.254.159,80,http,elite,,,3580,28.6,true
 15.161.131.175,31522,http|socks4,,IT,Milan,3585,26.4,true
-138.124.113.102,7443,http|https,elite,NL,Amsterdam,3585,97.3,true
 208.91.197.48,80,http,,VG,,3585,99.7,true
+138.124.113.102,7443,http|https,elite,NL,Amsterdam,3585,97.3,true
 139.59.105.64,1080,socks4|socks5,elite,SG,Singapore,3588,99.6,true
 16.51.62.173,11974,http|https|socks4|socks5,,AU,Melbourne,3590,16.0,true
 103.132.54.150,8080,http|https,transparent,ID,,3594,11.5,true
 103.75.118.84,1080,socks4|socks5,elite,JP,Tokyo,3598,92.3,true
 192.252.216.86,4145,socks4|socks5,elite,US,,3600,93.0,true
-47.116.181.146,6379,http|https|socks4|socks5,,CN,Shanghai,3601,17.9,true
 202.49.176.24,2080,http,elite,RU,Moscow,3602,85.8,true
 199.58.184.97,4145,socks4|socks5,elite,US,,3611,96.4,true
 177.22.89.95,80,http,,BR,Passo Fundo,3611,99.2,true
@@ -1500,7 +1579,6 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 216.68.128.121,4145,socks4|socks5,elite,US,Cincinnati,3711,95.7,true
 45.123.142.21,8181,http,transparent,ID,,3714,12.7,true
 72.195.114.184,4145,socks4|socks5,elite,US,,3718,97.7,true
-63.181.83.210,55579,http,,DE,Frankfurt am Main,3718,22.6,true
 62.133.62.17,1082,http|https|socks4|socks5,elite,FR,Paris,3730,77.2,true
 206.123.156.236,11416,socks5,elite,IR,,3731,9.1,true
 200.122.92.211,5678,socks4,elite,AR,Bell Ville,3736,11.4,true
@@ -1508,8 +1586,8 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 163.223.116.246,7777,http,transparent,ID,Kuningan,3742,15.2,true
 183.110.216.159,8091,http,anonymous,KR,,3743,52.9,true
 183.110.216.159,8090,http,anonymous,KR,,3747,53.9,true
-206.123.156.234,4563,socks5,elite,IR,,3748,6.2,true
 5.255.103.55,1080,socks5,elite,NL,Dronten,3748,91.7,true
+206.123.156.234,4563,socks5,elite,IR,,3748,6.2,true
 188.165.194.17,80,http,,FR,,3749,100.0,true
 45.123.142.84,1111,http|https,transparent,ID,,3750,30.6,true
 188.121.146.190,8080,http|https,transparent,IR,,3751,38.0,true
@@ -1548,7 +1626,7 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 123.147.190.222,20170,http|https|socks4|socks5,elite,CN,,3856,3.2,true
 119.235.112.42,3128,http,anonymous,TM,,3856,90.3,true
 206.123.156.231,9806,socks5,elite,IR,,3858,18.2,true
-103.173.139.22,8080,http|https,transparent,ID,Semarang,3861,18.4,true
+179.43.103.97,8080,https,elite,AR,San Fernando,3867,18.5,true
 77.222.58.239,14541,socks4|socks5,elite,RU,,3871,6.2,true
 200.125.169.116,999,https,elite,DO,Mejia de Navarrete,3881,8.5,true
 103.171.255.242,8086,http,transparent,ID,,3882,18.8,true
@@ -1568,6 +1646,7 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 174.77.111.198,49547,socks4|socks5,elite,US,Tulsa,3944,98.8,true
 184.181.178.33,4145,socks4|socks5,elite,US,,3945,98.0,true
 18.156.91.133,8118,https,elite,DE,Frankfurt am Main,3948,15.9,true
+103.227.187.241,6090,https,elite,ID,,3955,18.9,true
 85.234.100.149,1080,http,elite,DE,,3962,81.0,true
 91.107.182.124,83,socks5,elite,DE,Falkenstein,3963,56.6,true
 184.178.172.13,15311,socks4|socks5,elite,US,Roanoke,3969,99.6,true
@@ -1580,10 +1659,7 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 158.101.8.92,1080,socks4|socks5,elite,US,Phoenix,4009,53.9,true
 206.123.156.211,4992,socks5,elite,IR,,4009,8.8,true
 147.45.76.207,3128,http|https,elite,SE,Stockholm,4013,76.3,true
-46.161.4.163,3128,http|https,elite,RU,St Petersburg,4019,11.2,true
-47.254.153.78,10001,http|socks4,,DE,Frankfurt am Main,4019,23.1,true
 45.174.168.44,999,http,transparent,MX,Tulancingo,4038,15.3,true
-186.167.112.90,999,http,transparent,VE,Valencia,4039,12.0,true
 142.54.232.6,4145,socks4|socks5,elite,US,,4043,96.0,true
 137.59.47.73,3128,http,transparent,VN,,4052,68.4,true
 103.245.110.198,1452,http,elite,BD,,4054,18.0,true
@@ -1593,15 +1669,14 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 206.123.156.213,11288,socks5,elite,IR,,4064,33.3,true
 195.158.10.99,8080,http,transparent,UZ,Tashkent,4071,22.5,true
 191.252.111.160,7000,http|https,elite,BR,,4073,60.0,true
+206.123.156.210,6414,socks5,elite,IR,,4077,11.0,true
 202.47.185.180,8080,https,elite,ID,Jakarta,4077,20.1,true
 138.255.240.66,41466,http|https,elite,BR,Lauro de Freitas,4077,78.9,true
-206.123.156.210,6414,socks5,elite,IR,,4077,11.0,true
-81.16.245.179,53281,http,elite,GE,Tbilisi,4078,41.6,true
 13.246.6.135,33411,http,,ZA,Cape Town,4078,28.2,true
+81.16.245.179,53281,http,elite,GE,Tbilisi,4078,41.6,true
 202.154.18.65,8080,http,,ID,,4090,97.4,true
-45.88.174.195,8080,http|https,elite,NL,Amsterdam,4092,75.0,true
+8.208.26.210,80,http|socks4,,GB,London,4092,86.3,true
 103.146.185.169,1083,socks4,elite,ID,,4096,6.7,true
-8.208.26.210,80,http|socks4,,GB,London,4097,86.3,true
 188.127.224.164,2080,socks5,elite,RU,Moscow,4101,46.1,true
 206.123.156.231,5084,socks5,elite,IR,,4101,26.3,true
 98.170.57.249,4145,socks4,elite,US,,4105,98.1,true
@@ -1610,8 +1685,8 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 103.68.215.46,8080,https,elite,ID,,4122,19.0,true
 50.114.33.222,8080,http,elite,KH,Phnom Penh,4123,59.6,true
 95.105.28.76,1080,socks5,elite,RU,,4123,85.6,true
-137.66.1.45,80,http,transparent,US,,4133,98.7,true
 91.233.223.147,3128,http,transparent,RU,,4133,77.7,true
+137.66.1.45,80,http,transparent,US,,4133,98.7,true
 206.123.156.227,4996,socks5,elite,IR,,4139,8.2,true
 203.95.199.159,8080,http,elite,KH,Phnom Penh,4141,74.9,true
 103.75.54.230,8080,https,elite,ID,Ciracas,4143,13.3,true
@@ -1619,29 +1694,30 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 159.69.53.16,80,http,,DE,Falkenstein,4151,98.3,true
 45.63.116.177,1080,socks4|socks5,elite,DE,Frankfurt am Main,4153,100.0,true
 220.92.130.59,3088,http,transparent,KR,Gimhae,4159,19.8,true
+110.232.86.221,1080,socks5,elite,ID,Medan,4162,17.2,true
 103.80.214.243,1111,https,elite,ID,Sidoarjo,4163,14.9,true
 206.123.156.222,7047,socks5,elite,IR,,4169,14.0,true
 157.20.142.34,9595,http,transparent,PH,,4175,16.9,true
 103.238.232.38,8080,http,transparent,ID,,4182,21.9,true
 159.192.142.24,5678,socks4,elite,TH,Sing Buri,4183,35.0,true
-4.221.164.109,80,http|https,elite,ZA,Johannesburg,4183,96.3,true
 188.132.150.48,8080,https,elite,TR,,4183,20.6,true
+4.221.164.109,80,http|https,elite,ZA,Johannesburg,4183,96.3,true
 88.204.123.95,1080,socks4,elite,RU,Anzhero-Sudzhensk,4185,19.1,true
-72.56.107.247,80,http|socks4,elite,DE,Frankfurt am Main,4187,74.2,true
 206.123.156.218,4413,socks5,elite,IR,,4187,11.4,true
-47.252.18.37,45,http|https|socks4|socks5,,US,,4192,19.6,true
-47.252.18.37,13,http|https|socks4|socks5,,US,,4193,21.8,true
+72.56.107.247,80,http|socks4,elite,DE,Frankfurt am Main,4187,74.2,true
+47.252.1.180,111,http|socks4,,US,,4192,21.7,true
 212.58.132.5,1080,socks5,elite,US,,4195,99.7,true
-87.226.22.225,80,http,,LV,Riga,4208,89.3,true
 206.123.156.236,5074,socks5,elite,IR,,4208,5.4,true
+87.226.22.225,80,http,,LV,Riga,4208,89.3,true
 45.79.221.107,1080,http|socks4,,US,Atlanta,4209,79.1,true
 103.156.17.137,8818,https,elite,ID,,4211,22.8,true
 200.24.130.145,999,http,transparent,EC,,4217,7.7,true
 47.90.149.238,9090,http|https|socks4|socks5,,,,4219,100.0,true
 93.126.31.33,8080,https,elite,IR,,4220,16.2,true
-110.77.149.227,4153,socks4,elite,TH,Krathum Baen,4222,19.7,true
+206.123.156.210,4968,socks5,elite,IR,,4222,7.2,true
 103.247.23.239,8080,https,elite,ID,Bekasi,4223,21.8,true
-47.252.18.37,81,http|https|socks4|socks5,,US,,4231,17.8,true
+128.199.119.67,9090,https,elite,SG,Singapore,4224,39.4,true
+132.243.228.66,443,socks5,elite,CY,,4226,52.6,true
 103.169.132.70,8080,https,elite,ID,,4243,25.2,true
 43.208.237.116,8846,socks5,elite,TH,Bangkok,4250,26.6,true
 103.139.98.50,8080,http,transparent,ID,Bandar Lampung,4251,11.8,true
@@ -1649,7 +1725,6 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 54.253.167.61,22591,http,,AU,Sydney,4256,22.6,true
 72.195.34.58,4145,socks4|socks5,elite,US,,4257,97.6,true
 47.91.104.193,8081,http|socks4,,AE,Dubai,4258,26.3,true
-206.123.156.210,4276,socks5,elite,IR,,4262,3.6,true
 103.156.233.57,8080,http|https,transparent,ID,,4264,22.9,true
 13.246.6.135,28133,http,,ZA,Cape Town,4267,16.3,true
 206.123.156.234,4159,socks5,elite,IR,,4267,10.0,true
@@ -1660,6 +1735,7 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 162.253.68.97,4145,socks4|socks5,elite,US,,4276,96.5,true
 51.34.28.236,34715,http,,CH,Zurich,4277,12.1,true
 51.34.28.236,831,http|socks4,,CH,Zurich,4278,15.9,true
+103.173.139.22,8080,http|https,transparent,ID,Semarang,4279,18.6,true
 70.166.167.38,57728,socks4|socks5,elite,US,,4282,99.3,true
 72.207.33.64,4145,socks4|socks5,elite,US,Chula Vista,4283,97.9,true
 193.29.224.20,1080,socks4,elite,FI,Helsinki,4284,57.1,true
@@ -1675,10 +1751,11 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 38.12.23.9,3128,https,elite,US,San Jose,4298,23.8,true
 39.102.209.163,9999,http|https|socks4|socks5,,CN,Beijing,4299,25.0,true
 39.104.62.128,5000,http|socks4,,CN,Beijing,4301,53.6,true
+47.91.104.110,80,http|socks4,,AE,Dubai,4301,99.4,true
 39.102.209.163,2022,http|https|socks4|socks5,,CN,Beijing,4307,22.7,true
 103.155.130.241,8080,http|https,transparent,IN,Selu,4307,18.7,true
-14.224.218.210,8080,http,transparent,VN,Ho Chi Minh City,4308,16.3,true
 39.102.209.163,7777,http|https|socks4|socks5,,CN,Beijing,4308,22.2,true
+14.224.218.210,8080,http,transparent,VN,Ho Chi Minh City,4308,16.3,true
 47.251.87.74,8443,http|https|socks4|socks5,,US,,4316,19.7,true
 192.203.0.166,999,https,elite,PR,Las Piedras,4317,13.7,true
 47.251.87.74,1000,http|https|socks4|socks5,,US,,4320,21.1,true
@@ -1692,33 +1769,34 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 199.102.106.94,4145,socks4|socks5,elite,US,,4340,96.2,true
 13.51.196.44,33731,http,,SE,Stockholm,4340,24.8,true
 47.251.73.54,92,http|https|socks4|socks5,,US,,4340,24.8,true
-200.48.35.124,999,https,elite,PE,Tarma,4342,10.8,true
 47.251.73.54,8443,http|https|socks4|socks5,,US,,4342,22.4,true
+200.48.35.124,999,https,elite,PE,Tarma,4342,10.8,true
 221.231.13.198,1080,http,elite,CN,,4344,97.7,true
 47.251.73.54,1081,http|https|socks4|socks5,,US,,4346,23.9,true
+147.139.133.146,20201,http|socks4,,ID,Jakarta,4346,98.6,true
 47.251.73.54,9098,http|https|socks4|socks5,,US,,4348,19.6,true
 47.251.73.54,64,http|https|socks4|socks5,,US,,4349,24.2,true
-47.251.73.54,5060,http|https|socks4|socks5,,US,,4350,20.5,true
 47.251.73.54,4145,http|https|socks4|socks5,,US,,4350,19.6,true
 103.9.185.33,1080,socks5,elite,BD,,4350,32.3,true
+47.251.73.54,5060,http|https|socks4|socks5,,US,,4350,20.5,true
 47.251.73.54,3129,http|https|socks4|socks5,,US,,4351,21.1,true
 58.69.250.43,8082,https,elite,PH,Santa Maria,4351,21.6,true
 47.251.73.54,8080,http|https|socks4|socks5,,US,,4352,17.5,true
 142.54.236.97,4145,socks4|socks5,elite,US,,4353,95.9,true
+159.138.169.166,2080,http|socks4,,ZA,Johannesburg,4354,98.9,true
 206.123.156.222,7515,socks5,elite,IR,,4357,17.5,true
 82.137.90.253,80,http,elite,BG,Haskovo,4362,40.7,true
 39.104.62.128,8081,http|socks4,,CN,Beijing,4367,32.0,true
 206.123.156.234,7568,socks5,elite,IR,,4368,12.9,true
 95.66.138.21,8880,http,elite,RU,Vladimir,4373,76.5,true
-222.209.81.12,10800,socks4,elite,CN,Chengdu,4378,27.1,true
 125.25.57.57,4153,socks4,elite,TH,Bangkok,4378,18.5,true
+222.209.81.12,10800,socks4,elite,CN,Chengdu,4378,27.1,true
 206.123.156.232,6833,socks5,elite,IR,,4381,12.7,true
-103.112.234.33,5678,socks4,elite,IN,,4385,11.5,true
 206.123.156.231,36948,socks5,elite,IR,,4385,16.0,true
-47.91.104.110,80,http,,AE,Dubai,4386,99.4,true
 15.161.131.175,16690,http,,IT,Milan,4387,24.1,true
 103.19.78.125,7777,http|https,transparent,ID,,4388,27.3,true
 182.160.16.163,8019,http|socks4,,ZA,Johannesburg,4389,98.3,true
+47.243.175.55,9002,http|socks4,,HK,Hong Kong,4390,21.7,true
 206.123.156.222,9685,socks5,elite,IR,,4391,3.5,true
 18.61.3.91,8123,http,,IN,Hyderabad,4393,29.3,true
 39.102.209.163,8008,http|https|socks4|socks5,,CN,Beijing,4396,23.2,true
@@ -1727,8 +1805,8 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 58.220.95.8,10174,http,,CN,,4399,96.8,true
 195.19.52.147,1080,socks5,elite,RU,,4400,38.1,true
 15.161.131.175,11566,http,,IT,Milan,4401,20.8,true
-8.212.151.166,5060,http|https|socks4|socks5,,PH,Manila,4402,17.7,true
 177.200.239.141,999,http|https,transparent,DO,Cotui,4402,16.5,true
+8.212.151.166,5060,http|https|socks4|socks5,,PH,Manila,4402,17.7,true
 35.90.229.161,3128,http|https,transparent,US,Boardman,4402,75.0,true
 182.160.124.153,12331,https,elite,BD,Dhaka,4404,31.9,true
 8.220.141.8,13,http|https|socks4|socks5,,PH,Manila,4409,22.5,true
@@ -1742,17 +1820,17 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 47.238.134.126,14,http|https|socks4|socks5,,HK,Hong Kong,4428,22.9,true
 13.51.196.44,8300,http,,SE,Stockholm,4429,29.7,true
 149.129.213.200,80,http|socks4,,ID,Jakarta,4431,99.7,true
+39.104.26.204,8118,socks4,elite,CN,Beijing,4434,42.2,true
 8.220.141.8,9090,http|https|socks4|socks5,,PH,Manila,4438,21.2,true
 13.51.196.44,20864,http,,SE,Stockholm,4441,20.8,true
 177.126.89.63,4145,socks4,elite,BR,Palmas,4443,13.5,true
-159.138.169.166,2080,http,,ZA,Johannesburg,4445,98.9,true
 112.198.18.206,8080,http|https,transparent,PH,Makati City,4446,11.3,true
 47.104.28.135,8888,http|https|socks4|socks5,,CN,Qingdao,4447,34.1,true
 47.236.177.236,1080,socks5,elite,SG,,4452,65.9,true
 5.255.117.250,1080,socks5,elite,NL,Dronten,4463,84.9,true
+103.140.25.185,8080,http,transparent,BD,,4465,8.0,true
 64.227.174.134,9090,http|https,elite,IN,Bengaluru,4465,44.0,true
 13.51.196.44,17291,http,,SE,Stockholm,4465,28.6,true
-103.140.25.185,8080,http,transparent,BD,,4465,8.0,true
 188.166.249.234,3128,socks5,elite,SG,Singapore,4466,84.5,true
 122.9.151.210,6666,http|socks4,,CN,,4467,43.5,true
 200.10.28.240,999,https,elite,CO,Manizales,4468,7.3,true
@@ -1763,7 +1841,6 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 18.246.32.243,51,https,elite,US,Boardman,4477,25.7,true
 63.179.134.206,1429,http|socks4,,DE,Frankfurt am Main,4481,17.1,true
 103.156.14.54,8080,http,transparent,ID,,4481,18.8,true
-59.66.143.43,6382,http|https|socks4|socks5,elite,CN,,4482,5.4,true
 47.105.120.170,80,http,,CN,Qingdao,4483,99.9,true
 63.179.134.206,4928,http|https|socks4,,DE,Frankfurt am Main,4484,16.3,true
 36.248.214.42,1080,socks4|socks5,elite,CN,,4484,40.7,true
@@ -1773,24 +1850,35 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 8.208.84.236,1000,http|socks4,,GB,London,4487,30.1,true
 8.208.84.236,7657,http|socks4,,GB,London,4488,59.6,true
 47.245.34.161,50100,http|socks4,,JP,Tokyo,4489,31.6,true
+8.219.229.53,8443,http|https|socks4|socks5,,SG,,4491,20.4,true
 206.123.156.211,6233,socks5,elite,IR,,4492,18.4,true
 49.0.251.56,8084,http,,HK,Hong Kong,4493,98.6,true
 8.208.84.236,80,http|socks4,,GB,London,4494,33.5,true
 47.245.34.161,8080,http|socks4,,JP,Tokyo,4494,32.6,true
 8.208.84.236,8080,http,,GB,London,4494,32.2,true
 47.245.34.161,5566,http|socks4,,JP,Tokyo,4495,61.9,true
-147.139.133.146,20201,http|socks4,,ID,Jakarta,4495,98.6,true
-159.138.169.48,8080,http|socks4,,ZA,Johannesburg,4497,47.7,true
+47.113.219.226,9090,http|socks4,,CN,Shenzhen,4498,64.6,true
 47.238.134.126,1080,http|https|socks4|socks5,,HK,Hong Kong,4499,14.7,true
+8.219.229.53,9080,http|https|socks4|socks5,,SG,,4499,20.3,true
 152.0.56.131,8080,https,elite,DO,Santiago de los Caballeros,4503,25.2,true
 103.191.169.148,8080,http,transparent,ID,,4503,17.3,true
 34.2.6.70,1080,http|https|socks5,elite,MX,,4503,100.0,true
+8.219.229.53,8200,http|https|socks4|socks5,,SG,,4503,17.8,true
 120.79.7.173,8085,http|socks4,,CN,Shenzhen,4505,64.6,true
+8.219.229.53,11,http|https|socks4|socks5,,SG,,4507,20.0,true
+8.219.229.53,2000,http|https|socks4|socks5,,SG,,4509,20.1,true
 121.37.205.253,8085,socks4,elite,CN,Guangzhou,4511,97.8,true
+8.219.229.53,176,http|https|socks4|socks5,,SG,,4513,19.2,true
 47.112.19.200,8123,http|https|socks4|socks5,,CN,Shenzhen,4514,37.0,true
+8.219.229.53,84,http|https|socks4|socks5,,SG,,4516,27.0,true
 8.138.133.207,179,http|https|socks4|socks5,,CN,Guangzhou,4518,20.2,true
+8.219.229.53,8080,http|https|socks4|socks5,,SG,,4519,21.9,true
 149.129.232.50,80,socks4,elite,ID,Jakarta,4522,99.2,true
-138.199.25.13,3909,socks5,elite,SG,Singapore,4525,17.0,true
+8.219.229.53,80,http|https|socks4|socks5,,SG,,4524,19.6,true
+8.219.229.53,90,http|https|socks4|socks5,,SG,,4527,22.4,true
+8.219.229.53,1081,http|https|socks4|socks5,,SG,,4528,20.4,true
+8.219.229.53,20,http|https|socks4|socks5,,SG,,4531,18.4,true
+49.0.27.167,8080,http,transparent,ID,,4533,25.5,true
 125.135.163.211,3140,http,transparent,KR,Changwon,4536,11.5,true
 95.31.32.90,8080,https,elite,RU,Moscow,4546,19.7,true
 49.0.199.132,8088,http|socks4,,TH,Bangkok,4546,32.3,true
@@ -1800,25 +1888,33 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 121.37.201.60,8181,http|socks4,,CN,Guangzhou,4553,36.0,true
 103.125.36.120,8080,http,transparent,ID,Jakarta,4554,13.6,true
 147.15.92.152,1080,socks5,elite,BR,Sao Paulo,4555,34.9,true
-8.148.22.214,8081,http|https|socks4|socks5,,CN,Hangzhou,4557,18.0,true
 72.56.238.99,9090,http|https,elite,US,,4557,87.6,true
+8.148.22.214,8081,http|https|socks4|socks5,,CN,Hangzhou,4557,18.0,true
+8.219.229.53,4145,http|https|socks4|socks5,,SG,,4560,21.1,true
+217.52.247.85,1981,http,transparent,EG,,4560,9.4,true
+8.219.229.53,5060,http|https|socks4|socks5,,SG,,4564,21.1,true
 103.220.23.57,3128,https,elite,ID,Surabaya,4565,18.9,true
 8.148.22.214,4006,http|https|socks4|socks5,,CN,Hangzhou,4571,20.5,true
+8.219.229.53,3128,http|https|socks4|socks5,,SG,,4575,33.3,true
+8.219.229.53,443,http|https|socks4|socks5,,SG,,4580,19.5,true
 123.200.14.166,9797,http|https,transparent,BD,Dhaka,4580,56.5,true
+8.219.229.53,10000,http|https|socks4|socks5,,SG,,4583,18.5,true
+41.33.219.130,1981,http|https,anonymous,EG,Cairo,4585,85.6,true
+8.219.229.53,13,http|https|socks4|socks5,,SG,,4592,18.7,true
 141.0.11.253,80,http,,SG,,4596,100.0,true
 139.196.151.191,8090,http|socks4,,CN,Shanghai,4599,71.1,true
 15.235.193.159,10000,https,elite,SG,,4600,32.1,true
 103.147.247.171,8080,http,transparent,ID,,4609,9.4,true
 139.196.214.238,10001,http|socks4,,CN,Shanghai,4614,74.4,true
-120.79.21.48,3128,http|socks4,,CN,Shenzhen,4614,45.3,true
-139.196.214.238,10443,http|socks4,,CN,Shanghai,4615,36.5,true
 114.130.92.61,8090,http,transparent,BD,,4615,9.7,true
 92.113.32.17,1081,socks5,elite,BR,Sao Paulo,4615,41.9,true
+139.196.214.238,10443,http|socks4,,CN,Shanghai,4615,36.5,true
 98.190.239.3,4145,socks5,elite,US,Tulsa,4629,98.2,true
 80.150.246.98,443,https,elite,DE,Wegberg,4631,99.8,true
-13.208.238.59,88,http|socks4,,JP,Osaka,4631,27.4,true
+218.52.249.121,1080,socks5,elite,KR,Seo-gu,4639,79.3,true
 192.111.137.35,4145,socks4|socks5,elite,US,Hialeah,4640,95.6,true
 186.250.63.125,8080,http,transparent,BR,Medianeira,4643,40.4,true
+130.49.171.75,1080,http|https|socks4,elite,UZ,Tashkent,4645,59.9,true
 131.222.252.101,8080,http|https,transparent,TR,Istanbul,4645,25.4,true
 34.2.1.56,1080,http|https|socks5,elite,MX,,4646,90.0,true
 120.79.21.48,808,socks4,elite,CN,Shenzhen,4646,65.6,true
@@ -1828,6 +1924,7 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 103.191.251.197,8080,https,elite,ID,,4692,15.4,true
 103.120.221.169,8090,http,transparent,BD,,4693,13.7,true
 182.52.68.41,80,http,,TH,Bangkok,4695,100.0,true
+206.123.156.212,4288,socks5,elite,IR,,4697,14.3,true
 41.33.219.140,1981,http|https,anonymous,EG,Cairo,4701,16.7,true
 51.250.86.201,2080,http|https|socks4|socks5,elite,RU,,4701,95.3,true
 190.2.214.148,999,http,transparent,CO,Bogota,4706,17.7,true
@@ -1846,28 +1943,23 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 220.132.41.160,1088,socks4,elite,TW,Taichung,4776,25.0,true
 203.158.221.152,80,http,,TH,Nakhon Pathom,4779,97.4,true
 180.191.252.107,8082,https,elite,PH,General Trias,4782,17.3,true
-47.250.159.65,9098,http|https|socks4|socks5,,MY,Kuala Lumpur,4785,17.8,true
 103.1.50.63,3125,http|https,transparent,ID,,4785,19.4,true
-47.250.159.65,3129,http|https|socks4|socks5,,MY,Kuala Lumpur,4785,12.7,true
-47.250.159.65,6969,http|https|socks4|socks5,,MY,Kuala Lumpur,4787,13.4,true
 206.123.156.224,4980,socks5,elite,IR,,4789,7.5,true
 36.147.78.166,443,https,elite,CN,,4791,93.5,true
-206.123.156.209,6186,socks5,elite,IR,,4792,13.4,true
 206.123.156.210,4589,socks5,elite,IR,,4792,9.5,true
+206.123.156.209,6186,socks5,elite,IR,,4792,13.4,true
+206.123.156.223,4942,socks5,elite,IR,,4796,15.6,true
 13.235.42.151,46813,http,,IN,Mumbai,4803,22.3,true
 13.235.42.151,50974,http,,IN,Mumbai,4803,22.3,true
 206.135.55.224,999,https,elite,MX,,4806,72.8,true
-154.18.255.99,8080,http|https,transparent,ID,Karawang,4812,21.8,true
+206.123.156.219,17341,socks5,elite,IR,,4813,7.4,true
 116.101.9.20,1100,socks4|socks5,elite,VN,Hanoi,4816,84.7,true
 185.88.101.232,1080,socks4,elite,FI,Helsinki,4818,27.2,true
 98.178.72.30,4145,socks4|socks5,elite,US,Tulsa,4821,98.3,true
+38.194.224.26,999,http,transparent,MX,San Cristobal de las Casas,4821,15.7,true
 103.155.167.82,8082,https,elite,ID,,4825,18.3,true
-47.250.159.65,55443,http|https|socks4|socks5,,MY,Kuala Lumpur,4835,18.0,true
-47.250.159.65,50,http|https|socks4|socks5,,MY,Kuala Lumpur,4839,18.0,true
-47.250.159.65,8011,http|https|socks4|socks5,,MY,Kuala Lumpur,4839,16.7,true
 13.235.42.151,6762,http,,IN,Mumbai,4843,22.5,true
 101.71.143.237,8092,http,elite,CN,Hangzhou,4846,59.1,true
-174.64.199.79,4145,socks4|socks5,elite,US,,4851,97.7,true
 13.235.42.151,1080,http,,IN,Mumbai,4855,19.4,true
 201.230.121.86,999,http,transparent,PE,Lima,4856,15.8,true
 116.171.106.111,3000,http,elite,CN,,4857,55.7,true
@@ -1877,8 +1969,8 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 13.235.42.151,53165,http,,IN,Mumbai,4866,19.6,true
 13.235.42.151,26212,http,,IN,Mumbai,4868,24.3,true
 190.61.44.179,999,https,elite,CO,Medellin,4869,21.4,true
-167.172.27.39,9056,socks4|socks5,elite,US,Clifton,4873,14.8,true
 206.123.156.218,4861,socks5,elite,IR,,4873,13.1,true
+167.172.27.39,9056,socks4|socks5,elite,US,Clifton,4873,14.8,true
 34.44.49.215,80,http,elite,US,Council Bluffs,4875,99.0,true
 36.50.112.174,8070,http|https,transparent,ID,Bandung,4875,22.6,true
 167.71.176.220,9057,socks4|socks5,elite,US,Clifton,4881,29.1,true
@@ -1894,13 +1986,14 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 45.4.55.40,80,http,,BR,Santa Vitoria do Palmar,4926,99.4,true
 185.230.190.195,3128,http|https,elite,FI,Helsinki,4948,65.1,true
 206.123.156.233,4144,socks5,elite,IR,,4948,7.9,true
-103.38.100.85,8888,http,transparent,ID,,4950,12.8,true
 27.147.255.146,1080,socks5,elite,BD,,4950,18.2,true
+103.38.100.85,8888,http,transparent,ID,,4950,12.8,true
 103.185.43.242,8080,https,elite,ID,,4966,17.8,true
+180.191.231.149,5050,https,elite,PH,Santa Catalina,4968,33.5,true
 38.188.247.12,999,http|https,transparent,DO,,4970,55.5,true
 202.72.232.121,1080,socks5,elite,BD,Dhaka,4980,60.3,true
 94.156.114.132,524,socks4|socks5,elite,DE,Frankfurt am Main,4981,96.8,true
-198.200.39.238,9050,socks4|socks5,elite,US,San Jose,4989,13.2,true
+179.1.126.25,999,https,elite,CO,Quibdo,4981,17.2,true
 206.123.156.220,4594,socks5,elite,IR,,4993,6.7,true
 188.113.182.218,1080,socks5,elite,RU,Yuzhno-Sakhalinsk,4996,26.7,true
 184.170.245.148,4145,socks4|socks5,elite,US,,5000,96.3,true
@@ -1924,8 +2017,8 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 172.235.214.102,1080,https,elite,JP,Osaka,5046,58.3,true
 54.253.167.61,30798,http,,AU,Sydney,5047,25.4,true
 157.230.190.14,3128,http|https,transparent,US,North Bergen,5048,44.5,true
-181.114.230.37,8080,https,elite,AR,Balcarce,5050,14.9,true
 91.186.218.171,7443,http|https,elite,SE,Stockholm,5050,100.0,true
+181.114.230.37,8080,https,elite,AR,Balcarce,5050,14.9,true
 206.123.156.219,4684,socks5,elite,IR,,5051,12.1,true
 206.123.156.238,6581,socks5,elite,IR,,5058,5.5,true
 87.107.74.39,1028,socks4,elite,IR,,5059,75.0,true
@@ -1934,8 +2027,8 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 217.177.33.53,3128,http|https,transparent,FI,Helsinki,5091,12.8,true
 138.199.25.13,3903,socks5,elite,SG,Singapore,5093,24.9,true
 116.101.9.20,2050,http|https,elite,VN,Hanoi,5096,93.5,true
-206.123.156.220,5363,socks5,elite,IR,,5105,12.2,true
 220.158.234.84,1080,socks5,elite,KH,,5105,98.5,true
+206.123.156.220,5363,socks5,elite,IR,,5105,12.2,true
 38.127.179.161,37234,https,elite,US,Washington,5108,15.5,true
 5.182.34.242,80,http,,DE,,5112,99.8,true
 68.183.15.169,80,http,,NL,Amsterdam,5114,93.4,true
@@ -1947,8 +2040,8 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 180.180.214.246,8080,https,elite,TH,Rayong,5133,50.0,true
 206.123.156.220,12564,socks5,elite,IR,,5136,6.4,true
 167.172.124.69,1080,https,elite,US,Santa Clara,5138,70.7,true
-160.22.195.228,8097,http,,ID,,5142,85.3,true
 206.123.156.222,8142,socks5,elite,IR,,5142,16.4,true
+160.22.195.228,8097,http,,ID,,5142,85.3,true
 72.195.34.60,27391,socks4|socks5,elite,US,,5147,99.2,true
 212.68.59.66,8080,http,transparent,TR,,5155,22.9,true
 181.115.74.172,5678,socks4,elite,HN,San Pedro Sula,5156,23.9,true
@@ -1958,11 +2051,10 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 190.60.61.53,999,https,elite,CO,Galapa,5175,28.4,true
 206.123.156.220,4607,socks5,elite,IR,,5176,12.0,true
 168.181.151.168,8081,https,elite,BR,Bauru,5176,19.5,true
-31.76.13.237,1080,http|https|socks4|socks5,elite,GB,,5184,75.1,true
 192.252.220.89,4145,socks4|socks5,elite,US,,5184,94.0,true
+31.76.13.237,1080,http|https|socks4|socks5,elite,GB,,5184,75.1,true
 160.238.65.7,3128,http,transparent,HK,,5187,59.7,true
 192.111.139.165,4145,socks4|socks5,elite,US,Hialeah,5188,97.1,true
-54.255.249.161,33550,http|https|socks4,,SG,Singapore,5188,17.9,true
 192.252.214.20,15864,socks4|socks5,elite,US,,5188,98.0,true
 192.252.214.17,4145,socks4|socks5,elite,US,,5190,96.3,true
 185.26.180.180,80,http,,NL,Amsterdam,5190,100.0,true
@@ -1972,6 +2064,7 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 206.123.156.224,4644,socks5,elite,IR,,5202,7.8,true
 38.191.204.168,999,http,transparent,CO,Villavicencio,5204,6.8,true
 198.8.94.174,39078,socks4|socks5,elite,US,,5206,95.7,true
+103.18.77.14,1111,https,elite,ID,,5209,42.2,true
 206.123.156.224,7316,socks5,elite,IR,,5211,11.2,true
 47.253.71.33,9091,http|socks4,,US,,5211,44.4,true
 103.193.144.99,8080,http|https,transparent,ID,Batam,5216,23.1,true
@@ -1994,8 +2087,8 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 103.169.254.155,1080,socks5,elite,ID,,5286,13.0,true
 206.123.156.222,5468,socks5,elite,IR,,5287,18.6,true
 98.188.47.150,4145,socks4|socks5,elite,US,,5288,97.8,true
-184.181.217.210,4145,socks4|socks5,elite,US,,5291,97.2,true
 24.249.199.4,4145,socks4|socks5,elite,US,Spring Valley,5291,97.8,true
+184.181.217.210,4145,socks4|socks5,elite,US,,5291,97.2,true
 62.133.62.231,1082,http|https|socks4,elite,FR,Paris,5295,80.9,true
 103.234.35.159,8080,http,transparent,ID,Jember,5295,18.3,true
 114.111.151.41,80,http,elite,AU,,5300,72.0,true
@@ -2013,19 +2106,19 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 38.127.172.116,37234,http,elite,US,Washington,5369,17.2,true
 27.112.66.122,8181,https,elite,ID,Jakarta,5370,28.7,true
 206.123.156.223,4925,socks5,elite,IR,,5376,4.1,true
+122.3.87.41,8080,http,transparent,PH,Mandaluyong,5377,15.7,true
 206.123.156.231,4435,socks5,elite,IR,,5385,4.8,true
 206.123.156.224,6390,socks5,elite,IR,,5392,12.3,true
 43.153.82.179,8888,http,transparent,US,Santa Clara,5395,99.5,true
 192.111.135.18,18301,socks4|socks5,elite,US,Atlanta,5398,95.3,true
 196.200.29.94,8080,https,elite,KE,Nairobi,5399,19.5,true
 206.123.156.224,6047,socks5,elite,IR,,5400,20.0,true
-45.177.16.137,999,http,transparent,PY,Ciudad del Este,5401,14.5,true
 128.199.187.46,9090,https,elite,SG,Singapore,5405,50.7,true
 168.144.41.8,1080,socks4|socks5,elite,SG,Singapore,5417,92.9,true
 103.251.232.40,8090,https,elite,BD,,5421,23.3,true
 206.123.156.223,5028,socks5,elite,IR,,5425,9.5,true
-188.11.179.26,8443,http,transparent,IT,,5434,16.8,true
 45.89.82.210,8080,http,transparent,HN,,5434,16.8,true
+188.11.179.26,8443,http,transparent,IT,,5434,16.8,true
 38.252.217.32,999,http|https,transparent,PE,,5437,17.7,true
 146.190.77.70,1080,socks4|socks5,elite,US,North Bergen,5441,93.5,true
 103.175.238.193,8082,https,elite,ID,,5444,21.7,true
@@ -2040,13 +2133,13 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 103.124.137.150,20,https,elite,ID,,5478,13.1,true
 103.140.25.230,8080,https,elite,BD,,5479,27.6,true
 103.248.8.21,8090,https,elite,ID,Garut,5481,21.8,true
-63.181.83.210,19338,http|socks4,,DE,Frankfurt am Main,5490,20.4,true
 180.191.21.46,8081,http,transparent,PH,Cabanatuan City,5500,18.0,true
 206.123.156.220,4051,socks5,elite,IR,,5502,25.0,true
 8.137.127.197,9080,socks5,elite,CN,Chengdu,5503,32.1,true
 103.41.34.185,58080,https,elite,IN,Mumbai,5508,29.1,true
 187.190.114.40,999,http,transparent,MX,Papantla de Olarte,5540,22.8,true
 8.209.240.66,9999,http|socks4,,JP,Tokyo,5543,98.6,true
+160.250.54.9,9000,socks5,elite,VN,,5547,34.9,true
 203.95.196.15,8080,http,elite,KH,Phnom Penh,5547,91.5,true
 116.101.9.20,1119,socks4|socks5,elite,VN,Hanoi,5551,97.2,true
 45.225.206.1,999,http,transparent,CL,Las Cabras,5561,12.5,true
@@ -2055,17 +2148,19 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 75.84.71.14,80,http,elite,US,Van Nuys,5574,65.0,true
 195.9.238.34,8080,http|https,transparent,RU,Moscow,5579,35.1,true
 146.196.108.81,8080,https,elite,ID,Surabaya,5589,23.4,true
-177.19.167.242,80,http,elite,BR,Porto Alegre,5594,29.4,true
 103.40.226.126,26100,http|https,elite,BD,,5594,23.6,true
+177.19.167.242,80,http,elite,BR,Porto Alegre,5594,29.4,true
 47.79.79.35,10808,socks5,elite,HK,Hong Kong,5603,96.0,true
-103.158.97.83,8080,http,transparent,ID,,5604,11.4,true
 198.244.188.127,3128,http|https,transparent,,,5604,100.0,true
+103.158.97.83,8080,http,transparent,ID,,5604,11.4,true
+206.123.156.233,4018,socks5,elite,IR,,5614,14.4,true
 83.218.186.22,5678,socks4,elite,AT,,5624,19.5,true
 207.180.228.55,80,http,elite,FR,Lauterbourg,5633,23.2,true
 98.191.0.37,4145,socks4|socks5,elite,US,Tempe,5635,97.5,true
 38.19.36.37,999,http,transparent,MX,Villa de Cos,5636,20.1,true
 202.40.190.74,1080,socks5,elite,BD,Dhaka,5642,25.1,true
 115.191.40.196,7890,http,elite,CN,,5643,60.2,true
+43.155.138.148,3128,http,transparent,KR,Seoul,5648,81.0,true
 184.182.240.211,4145,socks4|socks5,elite,US,,5648,98.4,true
 38.19.236.55,1080,socks5,elite,ID,,5651,70.6,true
 119.110.75.230,3888,http,transparent,ID,Bekasi,5663,21.8,true
@@ -2080,12 +2175,10 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 177.93.59.66,999,http,transparent,CO,Quibdo,5696,27.7,true
 51.84.101.19,8181,http,,IL,Tel Aviv,5699,86.3,true
 103.145.34.65,8080,http,anonymous,ID,Umbulan Tebingsuluh,5703,26.9,true
-154.62.127.109,999,http|https,transparent,VE,Valencia,5707,18.6,true
 103.126.174.187,8080,http,anonymous,ID,Bandar Lampung,5710,11.8,true
 206.123.156.225,6200,socks5,elite,IR,,5711,4.2,true
 206.123.156.222,4922,socks5,elite,IR,,5721,8.7,true
 103.199.215.43,6262,https,elite,IN,,5722,16.2,true
-173.212.245.136,8888,http,elite,FR,Lauterbourg,5733,86.0,true
 181.129.252.124,999,https,elite,CO,Cali,5741,18.2,true
 178.128.20.207,80,http,,SG,Singapore,5746,100.0,true
 186.65.104.52,2024,https,elite,BR,Salvador,5750,11.3,true
@@ -2098,15 +2191,15 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 8.137.38.48,7890,http|https|socks4|socks5,,CN,Chengdu,5795,24.2,true
 206.123.156.211,5002,socks5,elite,IR,,5796,1.4,true
 208.87.201.22,1080,socks5,elite,HK,,5801,57.3,true
-63.181.83.210,51908,http,,DE,Frankfurt am Main,5806,29.6,true
 103.36.8.53,3125,http|https,transparent,ID,Pandeglang,5813,9.5,true
 101.255.119.25,8080,https,elite,ID,Bekasi,5817,9.3,true
 206.123.156.222,4019,socks5,elite,IR,,5818,14.3,true
 187.49.176.141,8080,https,elite,BR,Fortaleza,5822,10.2,true
 106.0.158.114,8080,http,transparent,TH,,5824,12.3,true
+206.123.156.219,4047,socks5,elite,IR,,5828,18.1,true
+206.123.156.212,4086,socks5,elite,IR,,5830,11.1,true
 218.64.163.226,7302,http,,CN,,5831,99.7,true
 113.11.2.118,7333,http,transparent,BD,Dhaka,5843,26.6,true
-63.181.83.210,57805,http,,DE,Frankfurt am Main,5847,25.5,true
 206.123.156.213,7542,socks5,elite,IR,,5851,1.4,true
 104.200.135.46,4145,socks4|socks5,elite,US,Los Angeles,5852,93.6,true
 202.179.2.250,8080,http|https,transparent,MN,Ulan Bator,5857,22.0,true
@@ -2118,21 +2211,19 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 220.158.232.118,1080,socks5,elite,KH,,5874,94.1,true
 190.217.19.121,999,http,transparent,CO,Cali,5874,23.2,true
 47.91.104.88,3128,http|https,transparent,AE,Dubai,5886,98.5,true
-8.137.38.48,8008,https|socks4|socks5,elite,CN,Chengdu,5887,17.5,true
 103.156.141.100,80,http,,ID,,5887,95.8,true
-206.123.156.233,6356,socks5,elite,IR,,5887,12.2,true
+8.137.38.48,8008,https|socks4|socks5,elite,CN,Chengdu,5887,17.5,true
 103.189.119.239,8080,https,elite,ID,,5890,13.6,true
 200.182.232.34,80,http,transparent,BR,Ribeirao Pires,5892,22.6,true
 85.117.63.207,8080,https,elite,GE,Tbilisi,5901,10.9,true
 221.120.218.66,8080,http,transparent,PK,,5913,20.1,true
-46.150.9.111,8123,http,elite,UA,Kharkiv,5917,98.5,true
 206.123.156.225,4287,socks5,elite,IR,,5918,6.9,true
 184.182.240.12,4145,socks4|socks5,elite,US,,5920,98.9,true
 8.137.38.48,8080,http|https|socks4,,CN,Chengdu,5922,23.8,true
 77.221.156.241,7443,http|https,elite,DE,Frankfurt am Main,5924,96.6,true
+202.40.186.70,1080,socks4,elite,BD,Dhaka,5926,19.5,true
 43.251.205.146,8080,http|https,transparent,TH,Bangkok,5928,20.5,true
 83.168.74.163,8080,http,elite,PL,Wroclaw,5929,86.7,true
-202.40.186.70,1080,socks4,elite,BD,Dhaka,5937,19.2,true
 206.123.156.211,5308,socks5,elite,IR,,5938,15.6,true
 190.223.41.250,999,https,elite,PE,Lima,5941,11.9,true
 221.220.131.56,1081,https|socks5,elite,CN,,5945,67.6,true
@@ -2140,46 +2231,43 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 160.250.6.68,8085,http,transparent,PH,,5955,8.1,true
 103.236.143.55,8080,http,transparent,ID,,5957,18.1,true
 181.78.20.11,999,http,transparent,CO,Medellin,5959,20.8,true
-18.60.247.31,8181,http,,IN,Hyderabad,5960,34.3,true
 5.128.120.101,8181,http,transparent,RU,Novosibirsk,5961,12.8,true
 213.169.33.7,8001,https,elite,BG,,5963,10.6,true
-103.160.56.127,10101,socks4,elite,ID,,5970,11.1,true
-200.71.111.156,999,https,elite,MX,San Felipe Orizatlan,5978,12.7,true
 206.123.156.220,6999,socks5,elite,IR,,5980,9.6,true
-206.123.156.220,5957,socks5,elite,IR,,5996,6.7,true
 206.123.156.211,6001,socks5,elite,IR,,5999,8.1,true
 206.123.156.233,7024,socks5,elite,IR,,6006,44.4,true
+206.123.156.222,7049,socks5,elite,IR,,6007,8.0,true
 206.123.156.210,5849,socks5,elite,IR,,6010,5.7,true
-45.174.168.54,999,http|https,transparent,MX,Tulancingo,6025,12.0,true
 1.245.175.180,1080,socks4,elite,KR,Yuseong-gu,6036,42.8,true
 203.175.127.240,8080,https,elite,ID,Pasuruan,6043,17.8,true
 185.200.38.221,8085,https,elite,TR,Antakya,6045,18.9,true
 101.66.198.87,8085,http,elite,,,6046,100.0,true
-13.53.139.178,50758,socks4,elite,SE,Stockholm,6058,25.8,true
 196.251.222.154,8080,https,elite,ZA,Brits,6059,15.5,true
-13.53.139.178,58944,http|socks4,,SE,Stockholm,6060,27.4,true
-190.97.254.254,999,http,transparent,VE,San Cristobal,6063,13.8,true
+38.194.246.34,999,http,transparent,MX,Leon,6067,43.0,true
 206.123.156.210,6716,socks5,elite,IR,,6073,11.5,true
+206.123.156.235,32642,socks5,elite,IR,,6074,6.1,true
 223.25.109.163,8199,socks5,elite,ID,,6084,17.1,true
 191.102.76.34,999,https,elite,CO,Garagoa,6092,15.1,true
 45.224.23.238,999,http,transparent,EC,Bahia de Caraquez,6102,21.5,true
 121.204.140.3,8081,http|https,elite,CN,,6106,81.1,true
 92.118.234.124,1080,http|https|socks4|socks5,elite,CY,,6111,95.4,true
 80.74.54.148,3128,http,anonymous,DE,Krefeld,6122,74.2,true
+206.123.156.211,6206,socks5,elite,IR,,6131,29.6,true
 8.220.216.57,3128,http|https,elite,KR,Seoul,6148,52.1,true
-82.69.119.68,49200,http,,GB,Wandsworth,6157,23.6,true
 192.111.138.29,4145,socks4|socks5,elite,US,Hialeah,6157,98.1,true
 182.52.131.116,8080,https,elite,,,6159,100.0,true
 181.225.107.53,999,http,transparent,CO,Bogota,6167,16.0,true
 120.92.212.16,7890,http|https,elite,CN,,6169,94.2,true
 103.81.194.162,8080,http|https,anonymous,ID,,6181,17.4,true
 176.192.41.172,4444,socks4|socks5,elite,RU,Moscow,6185,29.5,true
+47.252.1.180,8083,http|socks4,,US,,6185,21.7,true
 199.127.62.89,3129,http|https,elite,US,Miami,6189,94.3,true
 206.123.156.222,7486,socks5,elite,IR,,6191,14.4,true
 170.106.136.181,31002,http|socks4,elite,US,Santa Clara,6207,33.8,true
 206.123.156.209,4386,socks5,elite,IR,,6211,16.7,true
 38.19.42.176,999,http,transparent,CO,Pereira,6218,20.5,true
 170.82.194.134,3128,https,elite,BR,Itajai,6219,33.5,true
+103.39.70.97,8181,http,transparent,ID,,6231,20.6,true
 138.199.25.13,3906,socks5,elite,SG,Singapore,6232,23.9,true
 206.123.156.224,4758,socks5,elite,IR,,6240,5.6,true
 206.123.156.224,4602,socks5,elite,IR,,6241,9.3,true
@@ -2187,15 +2275,14 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 181.224.175.200,999,http,transparent,EC,Naranjal,6248,19.9,true
 206.123.156.233,4846,socks5,elite,IR,,6254,7.7,true
 38.49.142.174,999,http,transparent,MX,Juventino Rosas,6257,23.5,true
-206.123.156.231,5636,socks5,elite,IR,,6258,2.0,true
 45.79.9.246,1080,http|socks4,,US,Richardson,6267,78.8,true
+47.91.125.239,80,http,,AE,Dubai,6270,97.8,true
 177.93.36.153,999,http|https,transparent,CO,Tumaco,6282,11.3,true
 142.54.239.1,4145,socks4|socks5,elite,US,,6283,96.5,true
-37.187.92.9,1026,https,elite,FR,,6286,27.2,true
 159.203.112.20,9056,socks4|socks5,elite,US,Clifton,6286,28.8,true
+37.187.92.9,1026,https,elite,FR,,6286,27.2,true
 115.29.140.201,8080,http|socks4,,CN,Qingdao,6290,35.7,true
 47.91.107.139,8118,socks4,elite,AE,Dubai,6291,99.2,true
-206.123.156.224,19608,socks5,elite,IR,,6294,5.3,true
 206.123.156.233,4512,socks5,elite,IR,,6294,10.5,true
 160.22.26.28,8088,http,transparent,ID,,6299,31.5,true
 206.123.156.218,4535,socks5,elite,IR,,6307,11.5,true
@@ -2203,18 +2290,17 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 39.104.26.204,21025,http|socks4,,CN,Beijing,6310,62.6,true
 161.97.104.238,5005,socks5,elite,FR,Lauterbourg,6311,11.8,true
 47.109.56.77,8081,http|socks4,,CN,Chengdu,6311,44.3,true
-172.233.182.154,51517,https,elite,US,Miami,6327,56.6,true
 8.137.38.48,8081,http,,CN,Chengdu,6327,19.5,true
+172.233.182.154,51517,https,elite,US,Miami,6327,56.6,true
 182.48.66.154,8080,http|https,transparent,BD,Dhaka,6335,21.3,true
 47.254.195.196,82,http,,MY,Kuala Lumpur,6339,43.3,true
 103.124.137.69,8080,https,elite,ID,,6341,11.1,true
 103.72.137.209,8080,https,elite,BD,Dhaka,6344,13.4,true
-139.9.101.93,80,http,elite,CN,Guangzhou,6348,79.6,true
 38.49.133.178,999,https,elite,MX,Guanajuato City,6348,10.1,true
+139.9.101.93,80,http,elite,CN,Guangzhou,6348,79.6,true
 147.45.226.234,3128,http|https,anonymous,RU,,6351,47.4,true
 103.180.123.103,8090,https,elite,ID,Duren Tiga,6354,8.2,true
 43.129.80.138,18999,socks4,elite,HK,Hong Kong,6358,55.8,true
-47.91.125.239,80,http|socks4,,AE,Dubai,6358,97.8,true
 122.9.131.161,5001,http|socks4,,CN,,6362,98.6,true
 221.231.24.154,1031,http,elite,CN,,6368,10.3,true
 112.28.149.156,8443,http|socks5,elite,CN,,6383,42.6,true
@@ -2222,21 +2308,20 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 186.194.62.202,999,http|https,transparent,CO,Soacha,6396,21.3,true
 39.102.209.121,50000,http|https|socks4,,CN,Beijing,6398,22.5,true
 206.123.156.227,4286,socks5,elite,IR,,6401,9.0,true
+101.51.131.47,8080,http|https,transparent,TH,Nonthaburi,6401,13.8,true
 206.123.156.209,4148,socks5,elite,IR,,6406,2.1,true
 206.123.156.238,8284,socks5,elite,IR,,6414,9.0,true
-103.102.141.40,4145,socks4,elite,ID,,6416,19.1,true
-165.140.185.49,39593,socks4,elite,US,Golden,6416,8.5,true
 185.225.41.157,8080,http,transparent,SY,Damascus,6420,20.9,true
 8.137.38.48,1234,http|socks4,,CN,Chengdu,6421,23.0,true
 86.57.248.62,3128,http,transparent,BY,Minsk,6425,59.2,true
 103.174.237.190,3125,http,transparent,ID,,6429,43.6,true
-165.22.37.27,9054,socks4|socks5,elite,US,Clifton,6437,37.5,true
 39.102.209.121,3129,http|https|socks4,,CN,Beijing,6437,22.2,true
 131.222.246.219,8080,https,elite,TR,Istanbul,6441,15.4,true
 39.102.209.121,10002,http|https|socks4,,CN,Beijing,6446,24.8,true
 190.97.247.18,999,http,transparent,VE,San Cristobal,6449,16.5,true
-39.102.209.121,9098,http|https|socks4,,CN,Beijing,6452,26.8,true
 47.109.83.196,8443,http,,CN,Chengdu,6452,18.8,true
+39.102.209.121,9098,http|https|socks4,,CN,Beijing,6452,26.8,true
+157.66.26.151,1080,socks5,elite,VN,,6455,19.4,true
 206.123.156.211,4694,socks5,elite,IR,,6458,11.5,true
 39.102.209.121,8089,http|https|socks4,,CN,Beijing,6459,22.6,true
 47.109.83.196,8008,http,,CN,Chengdu,6461,22.5,true
@@ -2244,13 +2329,14 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 138.199.25.13,3908,socks5,elite,SG,Singapore,6464,27.4,true
 39.102.209.121,9080,http|https|socks4,,CN,Beijing,6475,20.8,true
 205.215.247.164,3128,http,transparent,US,Baltimore,6486,68.9,true
-206.123.156.218,4490,socks5,elite,IR,,6495,13.6,true
 222.252.144.246,8080,http,transparent,VN,Hanoi,6495,17.6,true
+206.123.156.218,4490,socks5,elite,IR,,6495,13.6,true
 47.113.221.120,8080,http|socks4,,CN,Shenzhen,6496,43.1,true
 154.18.239.181,8085,http,anonymous,SG,Jurong Town,6502,13.6,true
 147.45.76.207,8080,socks4|socks5,elite,SE,Stockholm,6505,83.5,true
 203.76.220.126,16464,https,elite,BD,,6507,23.4,true
 106.14.104.220,5060,http|https|socks4,,CN,Shanghai,6512,34.2,true
+8.134.139.219,3128,http|socks4,,CN,Guangzhou,6517,28.8,true
 47.237.113.119,1720,http|https|socks4,,SG,,6520,16.4,true
 206.123.156.218,5837,socks5,elite,IR,,6525,13.5,true
 203.175.103.169,8080,http|https,transparent,ID,,6525,17.0,true
@@ -2258,6 +2344,7 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 192.252.215.5,16137,socks4|socks5,elite,US,,6557,98.4,true
 124.106.173.56,8082,https,elite,PH,,6558,17.2,true
 206.123.156.225,5400,socks5,elite,IR,,6560,6.5,true
+120.79.21.48,3128,socks4,elite,CN,Shenzhen,6561,45.5,true
 110.238.116.82,4145,http|socks4,,TH,Bangkok,6562,33.1,true
 206.123.156.225,8308,socks5,elite,IR,,6569,6.3,true
 120.26.52.35,1111,http|https|socks4,,CN,Hangzhou,6571,19.8,true
@@ -2268,21 +2355,19 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 45.149.93.241,8090,http|https,anonymous,SG,Singapore,6585,29.8,true
 180.191.23.221,8081,http,transparent,PH,Cabanatuan City,6596,11.4,true
 206.123.156.225,7544,socks5,elite,IR,,6596,22.2,true
-206.123.156.211,10811,socks5,elite,IR,,6598,18.4,true
 47.237.113.119,10080,http|https|socks4,,SG,,6601,16.4,true
 47.237.113.119,8008,http|https|socks4,,SG,,6601,18.3,true
 206.123.156.206,5123,socks5,elite,IR,,6601,13.4,true
 47.237.113.119,3129,http|https|socks4,,SG,,6603,21.3,true
-163.223.78.137,8080,https,elite,ID,,6604,18.5,true
 47.237.113.119,9999,http|https|socks4,,SG,,6604,14.2,true
+167.71.115.224,80,http,,US,Santa Clara,6604,83.9,true
+163.223.78.137,8080,https,elite,ID,,6604,18.5,true
 47.237.113.119,81,http|https|socks4,,SG,,6605,17.5,true
 47.237.113.119,6379,http|https|socks4,,SG,,6613,25.1,true
 43.143.108.2,9701,http|socks5,elite,CN,Shanghai,6618,90.9,true
 8.212.151.166,10243,https|socks5,elite,PH,Manila,6636,19.2,true
 121.177.104.201,3040,http,transparent,KR,Changwon,6642,25.9,true
 206.123.156.232,4805,socks5,elite,IR,,6647,19.3,true
-76.144.40.133,9050,socks4|socks5,elite,US,Portland,6653,9.5,true
-110.78.159.245,8080,http,,TH,,6654,88.9,true
 107.172.46.245,10808,socks5,elite,US,Buffalo,6658,100.0,true
 119.93.170.95,8085,http,transparent,PH,Angeles City,6659,11.3,true
 115.136.121.54,3128,http|https,transparent,KR,Songpa-gu,6665,38.8,true
@@ -2311,39 +2396,36 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 36.75.51.223,8080,http,transparent,ID,Palangkaraya,6760,26.9,true
 206.123.156.206,4415,socks5,elite,IR,,6769,5.0,true
 206.123.156.227,4524,socks5,elite,IR,,6771,3.7,true
-47.116.181.146,30000,http,,CN,Shanghai,6773,27.2,true
-103.81.175.216,22311,http|https,transparent,BD,,6778,31.8,true
-195.24.65.4,1080,socks4|socks5,elite,RU,,6794,34.3,true
 152.231.27.54,999,https,elite,CO,Guacari,6813,10.7,true
 200.39.137.34,999,https,elite,CL,Valparaiso,6817,12.0,true
 18.60.247.31,39615,http,,IN,Hyderabad,6825,25.5,true
-45.38.19.11,443,http|https|socks4,elite,GB,London,6835,70.1,true
 103.247.23.11,8549,http,transparent,ID,Bekasi,6835,20.8,true
+45.38.19.11,443,http|https|socks4,elite,GB,London,6835,70.1,true
 45.174.168.40,999,http,transparent,MX,Tulancingo,6844,45.0,true
 8.217.112.43,1011,socks5,elite,HK,Hong Kong,6848,30.8,true
 157.66.51.201,8080,http,transparent,ID,,6852,15.1,true
+206.123.156.210,4069,socks5,elite,IR,,6852,37.5,true
 38.191.194.27,999,https,elite,CO,Medellin,6872,8.8,true
 176.191.124.3,80,http,anonymous,FR,Grenoble,6872,30.2,true
-206.123.156.238,4132,socks5,elite,IR,,6875,8.7,true
 103.110.10.174,3300,http,transparent,ID,,6876,14.4,true
 206.123.156.218,8830,socks5,elite,IR,,6887,11.8,true
+104.236.171.128,41047,socks4,elite,US,San Francisco,6888,26.1,true
 47.237.113.119,4145,http|https|socks4,,SG,,6888,16.3,true
 47.237.113.119,999,http|https|socks4,,SG,,6892,13.6,true
 112.208.160.17,8081,https,elite,PH,Pulilan,6899,15.3,true
 43.252.106.147,8080,https,elite,ID,,6903,17.7,true
 206.123.156.220,4020,socks5,elite,IR,,6906,13.3,true
-206.123.156.223,5039,socks5,elite,IR,,6909,9.0,true
-206.123.156.210,4381,socks5,elite,IR,,6911,8.5,true
-186.96.97.154,999,https,elite,CO,Medellin,6912,13.8,true
 206.123.156.222,4099,socks5,elite,IR,,6912,16.9,true
+186.96.97.154,999,https,elite,CO,Medellin,6912,13.8,true
 34.2.0.182,1080,https,elite,MX,,6919,100.0,true
 206.123.156.224,12763,socks5,elite,IR,,6922,14.4,true
-27.71.248.123,8080,https,elite,VN,,6923,32.0,true
-206.123.156.236,5930,socks5,elite,IR,,6928,2.5,true
 103.147.118.67,8080,https,elite,ID,,6928,21.6,true
+206.123.156.236,5930,socks5,elite,IR,,6928,2.5,true
 203.25.208.163,1145,socks5,elite,CN,,6930,37.3,true
 103.176.97.195,8082,https,elite,ID,Bandung,6931,31.1,true
 177.22.250.160,8080,http,transparent,BR,Monteiro,6939,15.8,true
+157.15.40.222,8080,http,transparent,ID,,6939,9.6,true
+206.123.156.218,4109,socks5,elite,IR,,6961,5.6,true
 203.30.9.8,8443,http|https,elite,AU,Brisbane,6972,71.8,true
 152.231.27.50,999,http,transparent,CO,Guacari,6985,49.2,true
 186.216.208.98,3128,https,elite,BR,Brasilia,6997,31.7,true
@@ -2356,17 +2438,15 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 206.123.156.225,6216,socks5,elite,IR,,7044,11.3,true
 206.123.156.218,4570,socks5,elite,IR,,7053,12.4,true
 206.123.156.238,4660,socks5,elite,IR,,7053,4.4,true
+47.82.64.30,3128,http,transparent,HK,Hong Kong,7059,50.2,true
 103.48.71.6,82,http,transparent,US,,7062,4.8,true
-119.93.139.196,8082,http,transparent,PH,,7074,16.4,true
-41.33.219.130,1981,http|https,anonymous,EG,Cairo,7082,85.6,true
-65.109.65.239,18080,http,elite,FI,Helsinki,7096,22.9,true
+103.106.119.217,8081,http,transparent,BD,,7095,14.8,true
 119.2.40.145,8080,https,elite,ID,,7099,13.9,true
 58.147.186.131,8080,https,elite,ID,,7106,16.3,true
 206.123.156.210,5606,socks5,elite,IR,,7112,12.5,true
 206.123.156.222,4692,socks5,elite,IR,,7131,25.0,true
+206.123.156.224,5057,socks5,elite,IR,,7140,4.7,true
 206.123.156.218,6102,socks5,elite,IR,,7142,14.3,true
-132.243.228.66,443,socks5,elite,CY,,7153,52.5,true
-118.69.183.149,8080,http,transparent,VN,Ho Chi Minh City,7157,13.5,true
 5.255.123.162,1080,socks5,elite,NL,Dronten,7158,95.3,true
 200.227.89.50,3128,https,elite,BR,,7159,44.4,true
 206.123.156.238,8950,socks5,elite,IR,,7164,7.4,true
@@ -2376,13 +2456,13 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 8.243.71.182,999,https,elite,CO,Medellin,7222,15.0,true
 103.162.16.7,8080,http,transparent,ID,,7224,16.4,true
 103.188.169.95,8080,https,elite,ID,,7228,26.2,true
+206.123.156.218,5950,socks5,elite,IR,,7231,4.7,true
 206.123.156.236,6007,socks5,elite,IR,,7245,13.8,true
 104.194.146.9,80,https,elite,GB,,7257,79.2,true
 165.154.227.39,1080,socks5,elite,TW,Taipei,7258,99.2,true
 160.22.195.244,8097,http,,ID,,7274,81.1,true
 177.26.112.65,5678,socks4,elite,BR,Sao Paulo,7290,12.9,true
 190.60.62.20,999,http|https,transparent,CO,Puerto Libertador,7292,8.0,true
-193.243.154.146,4145,socks4,elite,PL,Rzeszow,7302,20.6,true
 206.123.156.221,5141,socks5,elite,IR,,7311,9.6,true
 144.124.253.249,1080,socks5,elite,NL,Amsterdam,7321,19.1,true
 125.135.136.210,3140,http,transparent,KR,Changwon,7322,19.0,true
@@ -2392,44 +2472,35 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 206.123.156.233,4511,socks5,elite,IR,,7352,8.7,true
 206.123.156.229,5017,socks5,elite,IR,,7358,16.8,true
 68.183.52.128,9280,socks4|socks5,elite,US,Clifton,7363,11.8,true
-206.123.156.211,5329,socks5,elite,IR,,7364,6.0,true
 165.22.37.27,9052,socks4|socks5,elite,US,Clifton,7365,28.5,true
-103.101.216.70,8080,http,transparent,ID,Sungaibamban,7370,17.6,true
+190.60.34.250,999,http,transparent,CO,Andalucia,7394,29.4,true
 171.249.163.170,1452,https,elite,VN,Can Tho,7403,9.9,true
 190.94.212.43,999,http|https,transparent,VE,Caracas,7406,16.1,true
-56.155.73.159,51999,http|https|socks4,,JP,Osaka,7414,26.7,true
-36.64.181.82,8080,https,elite,ID,Jakarta,7424,12.2,true
 206.123.156.206,11724,socks5,elite,IR,,7426,13.2,true
 5.75.168.247,8042,socks4|socks5,elite,DE,Nuremberg,7429,5.9,true
+206.123.156.219,4497,socks5,elite,IR,,7435,6.7,true
 206.123.156.222,7202,socks5,elite,IR,,7444,11.1,true
-206.123.156.210,4076,socks5,elite,IR,,7445,10.1,true
 168.194.147.18,8080,http|https,transparent,BR,Igarapava,7449,23.0,true
 148.251.86.68,16379,http|https,elite,DE,Falkenstein,7453,50.0,true
 105.174.43.194,8080,https,elite,AO,Luanda,7453,15.4,true
 206.123.156.234,14287,socks5,elite,IR,,7454,12.5,true
 195.66.197.169,39724,http|https,elite,UA,Hrybivka,7459,26.1,true
 103.102.14.64,666,https,elite,ID,Rembang,7462,10.5,true
-43.208.237.116,20513,http|socks5,,TH,Bangkok,7467,19.2,true
 103.156.17.157,8818,http,transparent,ID,,7467,17.6,true
 78.186.40.188,3310,http,,TR,Ankara,7475,34.0,true
+206.123.156.233,4768,socks5,elite,IR,,7484,6.6,true
 45.158.10.98,8085,https,elite,SG,Singapore,7490,26.6,true
 206.123.156.223,4351,socks5,elite,IR,,7510,3.1,true
-31.172.133.253,4153,socks4,elite,RU,,7512,11.0,true
-18.60.247.31,43107,http,,IN,Hyderabad,7520,28.7,true
 185.248.128.216,18777,https,elite,UA,,7524,19.9,true
 38.19.41.228,999,https,elite,CO,Pereira,7526,10.4,true
-56.155.73.159,11703,http,,JP,Osaka,7532,27.8,true
-56.155.73.159,37890,http,,JP,Osaka,7535,18.0,true
 38.191.212.85,999,https,elite,CO,Cucuta,7536,22.2,true
 106.14.104.220,20000,https|socks4,elite,CN,Shanghai,7563,26.6,true
 206.123.156.219,5742,socks5,elite,IR,,7565,7.1,true
-103.194.175.51,7777,http,transparent,ID,,7569,12.5,true
 103.174.122.190,8085,https,elite,ID,Sumedang,7569,9.1,true
+103.194.175.51,7777,http,transparent,ID,,7569,12.5,true
 206.123.156.211,9142,socks5,elite,,,7594,100.0,true
 116.101.9.20,1082,socks4,elite,VN,Hanoi,7596,89.0,true
 160.22.17.4,9988,socks5,elite,VN,,7627,83.9,true
-92.247.31.130,1080,socks4,elite,BG,Sofia,7631,25.5,true
-122.3.87.41,8080,https,elite,PH,Mandaluyong,7634,15.4,true
 206.123.156.224,4649,socks5,elite,IR,,7636,8.6,true
 202.4.117.136,12321,socks5,elite,BD,,7640,29.9,true
 8.137.38.48,9080,http,,CN,Chengdu,7648,41.1,true
@@ -2437,23 +2508,22 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 130.162.168.55,1080,socks5,elite,GB,Slough,7651,24.9,true
 141.147.146.174,1080,socks5,elite,JP,Osaka,7657,25.7,true
 206.123.156.227,4715,socks5,elite,IR,,7659,7.4,true
-184.178.172.18,15280,socks4|socks5,elite,US,Roanoke,7674,99.2,true
-206.123.156.238,4730,socks5,elite,IR,,7685,1.1,true
+206.123.156.212,4167,socks5,elite,IR,,7690,18.2,true
 121.169.46.116,1090,socks5,elite,KR,Hwaseong-si,7694,93.6,true
-107.181.168.145,4145,socks4|socks5,elite,US,Miami,7695,94.2,true
 103.125.50.234,8080,http,transparent,ID,Tangerang,7696,7.4,true
+154.18.255.99,8080,https,elite,ID,Karawang,7697,22.0,true
 206.123.156.238,5361,socks5,elite,IR,,7698,8.9,true
 103.156.17.251,8818,http,transparent,ID,,7700,21.2,true
+103.120.76.158,8080,http,transparent,ID,Kabupaten Tangerang,7702,30.7,true
 168.138.210.69,1080,socks5,elite,JP,Inzai,7734,28.6,true
 83.56.15.57,5678,socks4,elite,ES,,7738,22.3,true
+103.126.119.110,8080,http,transparent,ID,Tangerang,7745,27.8,true
 129.151.130.247,1111,http|https|socks4,elite,AE,Masdar City,7755,13.6,true
 103.179.172.167,18888,socks5,elite,VN,,7756,36.5,true
 200.24.141.161,999,http,transparent,EC,Latacunga,7768,9.5,true
 103.220.23.113,8080,https,elite,ID,Surabaya,7794,15.4,true
 154.19.39.220,8090,http,transparent,ID,Tangerang,7796,15.7,true
-206.123.156.223,4163,socks5,elite,IR,,7810,8.9,true
 206.123.156.233,4249,socks5,elite,IR,,7815,15.9,true
-160.22.198.10,8082,http,transparent,ID,,7817,38.6,true
 159.203.167.231,9061,socks4|socks5,elite,US,Clifton,7817,24.1,true
 206.123.156.223,4047,socks5,elite,IR,,7822,12.0,true
 45.79.203.254,48388,socks5,elite,US,Atlanta,7824,33.3,true
@@ -2464,54 +2534,41 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 119.205.233.242,13128,http|https,transparent,KR,Wonju,7861,33.0,true
 182.253.102.202,8080,http,transparent,ID,Cikampek,7861,23.1,true
 103.125.117.54,8080,http,transparent,ID,Bandung,7866,15.2,true
-192.111.129.150,4145,socks4|socks5,elite,US,Hialeah,7868,92.9,true
-203.95.196.69,8080,http,elite,KH,Phnom Penh,7870,92.6,true
 206.123.156.218,4336,socks5,elite,IR,,7889,13.1,true
 152.32.67.243,10101,https,elite,PH,Quezon City,7899,11.9,true
+206.123.156.210,6715,socks5,elite,IR,,7901,16.2,true
+188.132.249.247,8080,https,elite,TR,Reyhanli,7909,24.4,true
 206.123.156.230,4097,socks5,elite,IR,,7917,4.1,true
 45.167.20.31,999,http|https,transparent,AR,Cruz del Eje,7919,13.3,true
 105.235.201.234,32639,socks4,elite,NG,,7920,16.3,true
 206.123.156.211,4698,socks5,elite,IR,,7930,11.1,true
 206.123.156.212,6989,socks5,elite,IR,,7938,28.6,true
-13.208.238.59,25643,http|socks4,,JP,Osaka,7951,26.5,true
-13.208.238.59,56918,http|socks4,,JP,Osaka,7954,26.4,true
 172.235.214.113,1080,socks5,elite,JP,Osaka,7955,67.4,true
 206.123.156.211,11618,socks5,elite,IR,,7958,4.5,true
 177.38.10.15,8080,https,elite,BR,Xanxere,7977,14.8,true
 167.71.176.220,9061,socks4|socks5,elite,US,Clifton,7988,18.5,true
-39.109.113.97,4090,http,elite,HK,,7991,91.0,true
-196.251.131.88,8080,http,elite,ZA,Johannesburg,7993,100.0,true
-35.183.127.162,58636,socks4|socks5,elite,CA,Montreal,8003,27.0,true
+103.144.103.154,8080,http,transparent,ID,,8005,19.3,true
 171.25.158.95,1080,socks5,elite,SE,Vaxjo,8005,96.3,true
 160.22.234.4,1111,http,transparent,ID,,8020,31.0,true
-103.247.23.201,8080,https,elite,ID,Ngawi,8026,11.4,true
 185.88.101.232,80,http,transparent,FI,Helsinki,8033,12.6,true
 206.123.156.210,10399,socks5,elite,IR,,8039,22.9,true
-56.155.73.159,34692,http,,JP,Osaka,8043,9.8,true
-188.166.179.50,3128,http|https,elite,SG,Singapore,8050,58.4,true
 45.84.222.25,1080,http|socks4,elite,NL,Amsterdam,8061,83.0,true
 186.101.49.211,8080,http,transparent,EC,Babahoyo,8082,37.0,true
 206.123.156.236,4114,socks5,elite,IR,,8088,4.1,true
 103.160.205.208,8097,http|https,transparent,ID,,8090,25.7,true
 45.249.78.177,5678,socks4,elite,IN,,8094,15.9,true
 45.228.77.78,999,https,elite,AR,Moreno,8095,15.6,true
-54.206.129.120,27258,http|socks4,,AU,Sydney,8096,28.4,true
-206.123.156.224,4661,socks5,elite,IR,,8102,10.7,true
-54.206.129.120,51144,http|socks4,,AU,Sydney,8102,24.2,true
-54.206.129.120,24501,http|socks4,,AU,Sydney,8107,31.7,true
-54.206.129.120,58291,http|socks4,,AU,Sydney,8107,31.5,true
 206.123.156.210,4176,socks5,elite,IR,,8115,6.2,true
-174.77.111.196,4145,socks4|socks5,elite,US,Tulsa,8118,98.6,true
+170.81.140.79,61437,socks4,elite,MX,Aguascalientes,8116,18.6,true
 186.3.76.227,999,https,elite,EC,Guayaquil,8127,7.7,true
-104.248.191.18,10957,http,,US,Santa Clara,8134,86.6,true
+103.76.201.85,3125,https,elite,ID,,8134,6.6,true
 196.216.133.18,1080,socks4,elite,ZA,Vryburg,8147,26.9,true
-13.206.73.237,20002,http|https|socks4|socks5,,IN,Mumbai,8153,26.2,true
 111.67.103.90,1080,socks5,elite,KH,,8156,30.7,true
 186.156.147.243,999,http,transparent,CL,Vina del Mar,8176,41.5,true
 202.79.47.159,10800,socks4,elite,NP,Kathmandu,8185,18.4,true
-54.206.129.120,278,http,,AU,Sydney,8190,23.9,true
-27.147.131.122,8090,http,transparent,BD,Narayanganj,8192,11.3,true
 144.31.215.191,1080,socks4,elite,DE,Frankfurt am Main,8198,6.8,true
+185.125.201.149,7443,socks5,elite,RU,,8198,65.7,true
+179.1.234.30,999,https,elite,CO,Medellin,8199,19.2,true
 179.125.61.201,8080,http,transparent,BR,Urania,8211,16.1,true
 206.123.156.235,5149,socks5,elite,IR,,8214,10.0,true
 206.123.156.211,5529,socks5,elite,IR,,8219,33.9,true
@@ -2521,18 +2578,19 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 168.138.147.179,3128,http,transparent,BR,Sao Paulo,8239,45.7,true
 206.123.156.233,4198,socks5,elite,IR,,8243,16.0,true
 159.65.181.194,9067,socks4|socks5,elite,US,Clifton,8246,24.4,true
+43.135.135.136,9050,socks4|socks5,elite,US,Santa Clara,8247,12.3,true
+103.97.140.110,8080,https,elite,ID,,8248,25.6,true
 38.10.90.134,8084,https,elite,PH,Iloilo City,8249,6.4,true
 122.3.103.17,8082,http,transparent,PH,Pasig,8251,13.1,true
 121.101.129.250,8080,https,elite,ID,Karanggayam,8257,24.3,true
+103.79.96.166,4153,socks4,elite,ID,,8266,5.5,true
 206.123.156.211,5681,socks5,elite,IR,,8266,13.2,true
+206.123.156.227,5801,socks5,elite,IR,,8267,4.2,true
 125.27.10.84,4153,socks4,elite,TH,Bangkok,8271,16.4,true
 103.173.139.220,8080,http,transparent,ID,Semarang,8271,16.0,true
-186.5.94.216,999,http,transparent,EC,Santo Domingo de los Colorados,8290,18.0,true
 122.52.108.244,8082,http,transparent,PH,Olongapo City,8302,13.5,true
 45.184.103.182,999,http,transparent,VE,Valencia,8305,25.7,true
-68.71.245.206,4145,socks4|socks5,elite,US,,8322,94.9,true
 200.201.134.184,8787,https,elite,BR,Sao Paulo,8329,13.2,true
-14.241.241.185,4145,socks4,elite,VN,Ho Chi Minh City,8368,18.6,true
 200.105.192.6,5678,socks4,elite,BO,La Paz,8369,23.9,true
 201.184.239.75,5678,socks4,elite,CO,Medellin,8369,17.8,true
 43.251.253.40,8080,https,elite,PK,Lahore,8370,28.2,true
@@ -2540,16 +2598,14 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 212.252.73.18,8080,https,elite,TR,Istanbul,8386,13.7,true
 39.104.57.170,3333,http,,CN,Beijing,8386,96.9,true
 182.160.16.234,8020,http,,ZA,Johannesburg,8387,98.7,true
-45.56.114.82,80,http,,US,Atlanta,8387,36.8,true
 36.94.27.65,8080,http,transparent,ID,Jakarta,8397,18.7,true
 46.185.34.136,8187,http,transparent,UA,Netishyn,8428,11.4,true
 179.49.113.230,999,http,transparent,HN,San Pedro Sula,8431,15.0,true
 182.160.114.106,12331,https,elite,BD,Dhaka,8434,25.7,true
 170.254.95.18,8080,https,elite,AR,,8441,24.0,true
 37.220.84.231,28016,socks4,elite,RU,,8447,11.1,true
-103.102.141.39,4145,socks4,elite,ID,,8452,19.1,true
+181.78.51.157,999,https,elite,GT,,8457,11.5,true
 205.177.85.130,39593,socks4,elite,JP,Tokyo,8459,20.3,true
-54.206.129.120,13866,http,,AU,Sydney,8461,28.3,true
 181.174.228.16,999,https,elite,CO,Pitalito,8468,19.0,true
 62.171.162.183,3128,http|https,transparent,FR,Lauterbourg,8474,61.9,true
 116.171.106.111,3443,http,elite,CN,,8474,63.4,true
@@ -2566,7 +2622,9 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 186.248.87.172,5678,socks4,elite,BR,Belo Horizonte,8528,17.9,true
 92.118.112.32,1081,https,elite,US,Atlanta,8538,80.1,true
 201.140.185.41,8081,http,elite,MX,,8552,56.4,true
+89.111.153.21,3128,http,transparent,RU,Moscow,8554,61.7,true
 103.48.181.189,4145,socks4,elite,IN,Bengaluru,8556,14.3,true
+103.43.128.123,5678,socks4,elite,ID,,8559,17.5,true
 206.123.156.222,6692,socks5,elite,IR,,8563,10.9,true
 45.116.230.79,8080,https,elite,IN,Kochi,8582,20.2,true
 206.123.156.236,46315,socks5,elite,IR,,8593,16.5,true
@@ -2578,12 +2636,9 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 131.221.43.221,8080,https,elite,CO,Paz de Ariporo,8619,53.3,true
 206.123.156.222,4320,socks5,elite,IR,,8623,15.6,true
 206.123.156.233,4775,socks5,elite,IR,,8630,11.4,true
-54.206.129.120,27539,http,,AU,Sydney,8633,23.3,true
-192.111.130.2,4145,socks4|socks5,elite,US,Hialeah,8650,96.3,true
-192.252.209.155,14455,socks4|socks5,elite,US,,8652,95.7,true
 207.246.102.111,8888,http,transparent,US,Los Angeles,8661,60.0,true
 79.76.121.87,3128,http,transparent,DE,Frankfurt am Main,8662,59.2,true
-192.111.139.163,19404,socks4|socks5,elite,US,Hialeah,8664,97.3,true
+193.43.140.85,8080,http,transparent,SY,,8691,6.4,true
 187.44.211.118,4153,socks4,elite,BR,Salvador,8710,15.2,true
 38.253.80.25,999,http,transparent,PE,Lima,8711,16.7,true
 157.10.51.84,3128,http,transparent,VN,,8722,59.5,true
@@ -2592,39 +2647,40 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 65.20.105.241,10001,socks5,elite,ES,Madrid,8766,36.8,true
 183.236.232.160,8080,https,elite,CN,,8768,9.8,true
 192.203.0.250,999,https,elite,PR,Las Piedras,8783,15.9,true
-185.125.201.149,7443,socks5,elite,RU,,8791,65.7,true
 103.26.176.99,8080,http,transparent,ID,,8794,13.5,true
 181.209.125.236,999,https,elite,AR,,8803,17.4,true
+186.251.253.53,31337,socks4,elite,BR,Carazinho,8803,17.2,true
 203.205.33.131,1452,http,elite,VN,Ho Chi Minh City,8803,10.3,true
+27.71.248.123,8080,https,elite,VN,,8819,32.3,true
 206.123.156.233,7812,socks5,elite,IR,,8839,11.8,true
 177.55.68.68,8080,https,elite,BR,Maraba,8840,18.6,true
 206.123.156.231,4103,socks5,elite,IR,,8847,9.4,true
 206.123.156.238,8336,socks5,elite,IR,,8856,14.1,true
-160.250.54.4,9000,socks4,elite,VN,,8868,35.1,true
 85.198.100.232,3128,https,elite,RU,Moscow,8881,37.8,true
 181.63.33.136,8080,https,elite,CO,Medellin,8903,12.4,true
 103.119.60.219,1080,socks5,elite,ID,Jakarta,8910,28.2,true
 47.89.184.18,3128,http|https,transparent,US,,8920,95.8,true
+146.56.110.131,8118,http|https,elite,KR,Chuncheon,8930,10.4,true
 103.158.252.66,8080,http|https,transparent,ID,Brebes Regency,8937,10.1,true
 103.119.101.59,8080,http,transparent,BD,Dhaka,8939,13.8,true
 64.225.64.39,3128,http|https,elite,NL,Amsterdam,8946,60.5,true
 184.178.172.5,15303,socks5,elite,US,Roanoke,8955,99.1,true
 98.181.137.80,4145,socks5,elite,US,North Las Vegas,8956,97.6,true
 163.61.38.127,3128,http,transparent,IN,Noida,8974,54.3,true
+34.211.239.140,9090,https,elite,US,Boardman,8974,98.8,true
 103.22.99.198,2025,https,elite,ID,,8986,16.7,true
 103.168.44.247,1111,https,elite,ID,Jepara,8990,11.2,true
 36.67.114.94,8187,http,transparent,ID,Depok,9009,6.3,true
-154.117.154.194,8080,http,elite,ZA,Cape Town,9020,9.8,true
-181.192.2.23,8080,https,elite,AR,Villa Gesell,9033,16.7,true
+79.101.45.94,54037,http|https,elite,RS,Belgrade,9025,34.8,true
 38.191.203.226,9992,https,elite,CO,Villavicencio,9033,22.6,true
 129.212.224.122,3128,http|https,anonymous,SG,Singapore,9034,50.8,true
 102.69.146.59,7080,socks5,elite,NG,Lagos,9039,21.0,true
 202.162.197.57,4145,socks4,elite,ID,Medan,9041,19.2,true
-201.139.115.38,8080,http|https,elite,MX,Puebla City,9056,13.3,true
 103.94.251.83,3125,http,transparent,ID,,9056,19.6,true
+201.139.115.38,8080,http|https,elite,MX,Puebla City,9056,13.3,true
 165.227.84.4,1080,http,elite,US,North Bergen,9064,80.0,true
 103.248.206.211,8090,https,elite,BD,Paltan,9065,33.8,true
-181.78.44.63,999,https,elite,HN,,9068,28.1,true
+206.123.156.222,6709,socks5,elite,IR,,9065,16.0,true
 41.128.72.147,8080,http,transparent,EG,Cairo,9089,30.1,true
 206.123.156.223,21618,socks5,elite,IR,,9093,23.1,true
 206.123.156.236,4643,socks5,elite,IR,,9112,4.0,true
@@ -2634,30 +2690,25 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 212.252.73.4,8080,https,elite,TR,Istanbul,9145,10.5,true
 192.206.202.1,8080,http,transparent,US,Espanola,9149,23.8,true
 109.127.82.4,8085,https,elite,IQ,Erbil,9150,15.8,true
-178.46.163.216,10808,socks5,elite,RU,Zlatoust,9180,24.9,true
+206.123.156.222,6762,socks5,elite,IR,,9180,13.8,true
 167.86.86.221,9080,https,elite,DE,Nuremberg,9181,25.0,true
-194.190.169.197,3701,socks4|socks5,elite,RU,Moscow,9196,28.8,true
+206.123.156.211,6565,socks5,elite,IR,,9197,5.6,true
 177.39.211.113,1080,socks4,elite,BR,Palotina,9202,9.2,true
 168.253.92.93,10808,socks5,elite,ZA,,9206,24.9,true
-206.123.156.232,4840,socks5,elite,IR,,9207,16.8,true
-68.71.251.134,4145,socks4|socks5,elite,US,,9208,94.2,true
 165.16.22.114,9999,https,elite,LY,Benghazi,9214,13.2,true
+186.194.161.201,999,https,elite,CO,Bogota,9220,15.3,true
 45.225.206.248,999,http,transparent,CL,Las Cabras,9220,9.8,true
-206.123.156.210,4968,socks5,elite,IR,,9228,6.9,true
 103.86.117.82,8080,http,transparent,ID,Lenteng,9229,21.4,true
 45.225.204.97,999,http,transparent,CL,Las Cabras,9240,8.8,true
+206.123.156.225,6591,socks5,elite,IR,,9258,9.2,true
 206.123.156.225,6393,socks5,elite,IR,,9277,11.6,true
-31.223.22.22,1080,socks4,elite,TR,,9288,1.4,true
 103.169.53.145,8080,https,elite,IN,Aizawl,9307,24.5,true
 103.193.145.3,8080,http,transparent,ID,Batam,9308,21.3,true
 49.146.227.57,9999,https,elite,PH,Cebu City,9312,13.4,true
-110.235.246.62,1080,socks5,elite,KH,Phnom Penh,9325,28.8,true
-175.29.127.158,2525,http,transparent,BD,Dhaka,9358,41.7,true
-34.222.118.149,23553,https,elite,US,Boardman,9363,31.3,true
 206.123.156.225,5335,socks5,elite,IR,,9371,8.6,true
+91.103.248.58,3128,http,elite,AM,Yerevan,9372,46.0,true
 38.94.74.11,999,http,transparent,MX,,9380,23.2,true
 2.26.124.123,3128,http,transparent,US,,9391,41.5,true
-200.108.50.254,4145,socks4,elite,PA,Panama City,9402,16.3,true
 103.24.214.190,8082,https,elite,ID,,9423,13.6,true
 103.129.200.129,8070,https,elite,BD,,9445,28.4,true
 206.123.156.230,4869,socks5,elite,IR,,9448,8.0,true
@@ -2665,66 +2716,61 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 163.223.37.71,7777,https,elite,ID,,9466,21.3,true
 102.0.21.148,8080,http,transparent,KE,Nairobi,9473,20.1,true
 103.184.62.23,8080,http,anonymous,ID,,9477,14.4,true
+13.140.164.179,3131,socks5,elite,DE,,9482,44.4,true
 45.169.148.2,999,https,elite,CL,Santiago,9491,8.7,true
 85.117.56.151,8080,http,,GE,Tbilisi,9495,23.2,true
+206.123.156.219,7026,socks5,elite,IR,,9507,8.3,true
 185.188.217.166,8080,http,transparent,XK,Pristina,9515,16.6,true
 124.248.191.83,1080,socks5,elite,KH,Phnom Penh,9528,26.4,true
 91.73.223.206,3128,http,elite,AE,Dubai,9544,93.3,true
 206.123.156.223,4507,socks5,elite,IR,,9549,14.8,true
 140.245.238.56,53,https,elite,IN,Hyderabad,9554,75.4,true
-180.191.235.152,8082,https,elite,PH,Davao City,9559,20.7,true
 206.123.156.219,4685,socks5,elite,IR,,9561,11.2,true
-179.51.199.80,8099,http,transparent,BR,Bom Principio do Piaui,9565,17.5,true
 39.102.208.189,8443,http|socks4,,CN,Beijing,9583,40.1,true
 115.127.44.14,4432,http|https,elite,BD,Dhaka,9584,9.9,true
 103.103.146.149,7080,socks5,elite,ID,Pangkalpinang,9585,17.0,true
 201.71.137.90,5128,https,elite,BR,Cuiaba,9586,19.9,true
 201.159.102.77,8081,http|https,transparent,MX,Monterrey,9597,10.5,true
+103.204.209.248,8090,http,transparent,BD,Dhaka,9605,15.2,true
 223.130.11.151,8888,http,elite,VN,,9620,97.0,true
 112.78.134.133,7777,http,transparent,ID,Madiun,9626,20.1,true
+193.43.140.100,8080,https,elite,SY,,9634,8.5,true
 202.165.232.238,8080,http,transparent,PK,Lahore,9635,22.0,true
 5.161.50.82,8118,http,elite,US,Ashburn,9635,53.8,true
 206.123.156.229,4042,socks5,elite,IR,,9638,4.6,true
+202.148.14.146,3003,https,elite,ID,,9641,47.8,true
 170.80.202.216,999,http,transparent,DO,Santiago de los Caballeros,9642,15.8,true
 58.69.217.221,5050,http,transparent,PH,Quezon City,9644,25.1,true
 8.243.68.187,999,http,transparent,CO,Medellin,9645,20.0,true
 201.230.121.228,999,http,transparent,PE,Lima,9650,18.1,true
 201.139.115.38,8081,http,elite,MX,Puebla City,9659,14.0,true
 5.202.191.225,8080,http,transparent,IR,,9661,30.0,true
-103.77.242.91,1,https|socks5,elite,VN,,9675,67.8,true
 206.123.156.236,4461,socks5,elite,IR,,9696,26.3,true
 103.139.138.65,8080,http,anonymous,ID,Balige,9699,26.9,true
 122.144.4.226,57413,http,transparent,ID,Bekasi,9701,30.9,true
 188.166.249.234,4000,socks5,elite,SG,Singapore,9717,69.5,true
 206.123.156.234,43110,socks5,elite,IR,,9722,5.3,true
+165.22.37.27,9054,socks4,elite,US,Clifton,9723,38.5,true
 216.75.6.246,3128,http,elite,US,,9730,60.0,true
 205.235.1.34,999,http,transparent,EC,Guayaquil,9748,12.3,true
 157.20.233.187,3125,http,transparent,ID,,9752,11.7,true
-103.180.126.242,8080,https,elite,ID,Jakarta,9769,11.5,true
-187.102.219.32,999,http,transparent,AR,Puerto Eldorado,9776,22.8,true
 209.14.109.157,999,https,elite,PE,,9778,10.1,true
 84.47.150.125,1080,https,elite,RU,,9779,81.9,true
 152.70.237.238,3128,socks4|socks5,elite,KR,Seoul,9792,31.6,true
 181.78.198.149,999,http,transparent,EC,Cuenca,9805,16.3,true
 206.123.156.233,4225,socks5,elite,IR,,9807,10.8,true
 110.76.147.29,1080,http,transparent,ID,,9815,15.9,true
-206.123.156.233,4018,socks5,elite,IR,,9820,13.8,true
-206.123.156.233,4253,socks5,elite,IR,,9821,17.1,true
 206.123.156.213,5133,socks5,elite,IR,,9821,9.7,true
 157.15.1.171,5555,http,anonymous,ID,Ngawi,9824,31.1,true
 206.123.156.227,5278,socks5,elite,IR,,9832,50.0,true
 13.140.164.60,3128,http,transparent,DE,,9845,89.6,true
-206.123.156.236,4596,socks5,elite,IR,,9848,9.9,true
-206.74.0.185,8888,https,elite,US,Clayton,9851,21.3,true
-206.123.156.231,5610,socks5,elite,IR,,9854,25.0,true
+206.123.156.211,4315,socks5,elite,IR,,9857,11.9,true
 206.123.156.209,4015,socks5,elite,IR,,9864,16.6,true
 66.240.236.210,3128,http,elite,US,,9865,60.1,true
-68.71.243.14,4145,socks4,elite,US,,9869,94.9,true
 179.1.182.23,999,http,transparent,CO,Soacha,9877,22.2,true
+213.244.95.175,8080,https,elite,PS,Gaza,9887,11.2,true
 45.171.111.255,999,https,elite,EC,Tena,9894,17.1,true
 103.175.236.221,3125,https,elite,ID,,9907,19.1,true
-142.54.228.193,4145,socks4,elite,US,,9914,96.7,true
-206.123.156.209,5782,socks5,elite,IR,,9921,5.2,true
 203.189.135.140,1080,socks5,elite,KH,Phnom Penh,9949,27.9,true
 190.60.32.66,999,http,transparent,CO,,9951,21.1,true
 24.152.58.107,999,https,elite,CO,Piedecuesta,9954,14.0,true
@@ -2734,22 +2780,20 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 45.125.67.136,8443,https,elite,HK,,9983,87.7,true
 188.136.208.253,8080,http,transparent,IR,,9994,26.9,true
 128.14.92.89,22881,http,elite,VN,,10002,23.1,true
-62.60.216.109,3128,http|https,transparent,DE,Frankfurt am Main,10007,72.9,true
 186.250.29.230,8080,https,elite,BR,Santa Helena,10020,16.3,true
-67.20.129.199,8080,https,elite,US,Okatie,10042,16.5,true
+206.123.156.231,4211,socks5,elite,IR,,10021,10.0,true
+175.29.127.158,2525,https,elite,BD,Dhaka,10044,41.8,true
 206.123.156.222,7393,socks5,elite,IR,,10052,7.7,true
 120.133.82.62,44205,socks5,elite,CN,,10063,13.0,true
 206.123.156.227,5020,socks5,elite,IR,,10066,13.5,true
-5.45.118.209,1080,socks5,elite,EE,Johvi,10068,88.9,true
 206.123.156.233,5864,socks5,elite,IR,,10090,10.3,true
 165.16.2.234,9999,http,transparent,LY,Benghazi,10094,17.0,true
 103.146.185.140,1111,http,transparent,ID,,10095,10.7,true
 103.51.205.117,8090,https,elite,ID,Surakarta,10096,10.4,true
 116.101.9.20,2103,http|https,elite,VN,Hanoi,10098,86.2,true
-103.156.17.132,8070,https,elite,ID,,10126,16.4,true
 36.50.56.11,8818,https,elite,ID,,10138,7.7,true
 206.123.156.211,4846,socks5,elite,IR,,10142,25.0,true
-168.121.242.91,999,http,transparent,MX,San Felipe,10155,15.2,true
+185.167.120.183,8080,http,transparent,RU,,10154,9.0,true
 103.184.180.204,8080,http,transparent,ID,,10166,21.5,true
 102.68.77.159,8080,http|https,transparent,KE,Nairobi,10171,23.0,true
 206.123.156.212,10011,socks5,elite,IR,,10173,21.1,true
@@ -2757,17 +2801,14 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 222.127.132.13,8080,https,elite,PH,Manila,10176,16.4,true
 103.84.177.28,8083,http,transparent,PH,Iloilo City,10180,13.9,true
 8.218.106.33,1011,socks5,elite,HK,Hong Kong,10193,100.0,true
-199.102.107.145,4145,socks4,elite,US,,10195,96.8,true
 102.211.145.31,8080,https,elite,KE,Nairobi,10223,16.2,true
-70.166.167.55,57745,socks4,elite,US,,10231,97.9,true
 103.167.170.70,1111,http,transparent,ID,Jakarta,10255,24.0,true
 138.117.231.133,999,https,elite,GT,Huehuetenango,10258,15.4,true
 202.5.53.145,9355,http,transparent,BD,Dhaka,10261,36.5,true
 201.140.209.33,3128,https,elite,BR,Janauba,10267,16.9,true
-195.86.215.2,3128,http,anonymous,PH,Manila,10275,32.9,true
 206.123.156.231,8944,socks5,elite,IR,,10276,25.0,true
 103.120.76.54,8080,http,transparent,ID,Kabupaten Tangerang,10303,24.1,true
-182.160.109.58,12331,https,elite,BD,,10331,16.7,true
+159.65.181.194,9065,socks4,elite,US,Clifton,10309,20.7,true
 38.65.175.70,3128,http,transparent,MX,Ezequiel Montes,10364,10.9,true
 216.75.6.247,3128,http|https,elite,US,,10373,55.6,true
 182.160.111.33,12331,https,elite,BD,,10374,11.4,true
@@ -2777,38 +2818,34 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 51.83.143.16,80,http,elite,PL,Warsaw,10438,34.1,true
 37.187.92.9,1024,http,elite,FR,,10461,20.8,true
 188.166.12.117,3128,http,transparent,NL,Amsterdam,10486,69.7,true
-180.191.139.164,8082,http,transparent,PH,,10488,12.3,true
 103.176.96.195,1111,http,transparent,ID,Bandung,10493,24.1,true
 62.171.161.88,2018,http,transparent,FR,Lauterbourg,10531,43.9,true
 149.202.47.125,3128,http,anonymous,FR,,10538,46.1,true
-5.101.5.160,2080,http|socks4,elite,RU,,10550,78.0,true
 206.123.156.218,8306,socks5,elite,IR,,10559,12.3,true
 181.78.208.227,999,http,transparent,CO,Medellin,10563,24.2,true
 206.123.156.231,7487,socks5,elite,IR,,10578,6.4,true
 41.169.150.194,8080,http,transparent,ZA,Johannesburg,10583,18.9,true
 138.204.12.65,999,http,transparent,PE,Lima,10598,13.7,true
 103.109.174.43,8080,http,transparent,ID,,10599,31.9,true
-160.22.197.157,8080,http,transparent,ID,,10654,31.5,true
 45.224.149.77,999,http,transparent,EC,Guayaquil,10654,29.2,true
 206.81.30.62,3128,http,elite,DE,Frankfurt am Main,10723,49.9,true
+148.224.12.75,999,http,transparent,MX,Uruapan,10725,39.1,true
 103.38.106.13,1111,http,transparent,ID,Tasikmalaya,10728,13.3,true
 36.111.205.203,6666,http,elite,CN,Shanghai,10739,73.9,true
 83.97.79.114,8443,http,elite,ES,Madrid,10745,33.4,true
-189.127.167.136,8080,http,transparent,VE,Barquisimeto,10757,20.4,true
 122.52.234.54,8081,http,transparent,PH,Cainta,10762,12.1,true
 38.158.83.233,999,http,transparent,PE,Arequipa,10782,17.3,true
 120.133.82.62,44115,socks5,elite,CN,,10794,13.9,true
 186.65.109.21,81,http,elite,AR,Rio Turbio,10849,91.3,true
 203.111.253.106,8080,http,transparent,ID,,10869,28.6,true
-103.158.126.43,57243,http,transparent,ID,Bekasi,10876,16.1,true
 208.67.248.62,3128,http,elite,US,,10877,61.8,true
-103.80.214.188,8080,https,elite,ID,Sidoarjo,10882,14.1,true
 190.43.59.75,999,http,transparent,PE,Viru,10886,28.9,true
 182.253.6.236,8080,http,transparent,ID,Jakarta,10890,22.1,true
 45.174.175.26,999,http,transparent,MX,Paraiso,10943,25.3,true
 167.172.27.39,9051,socks4,elite,US,Clifton,10970,23.3,true
 159.65.181.194,9068,socks4,elite,US,Clifton,11017,17.4,true
 206.123.156.234,7701,socks5,elite,IR,,11041,37.0,true
+20.23.171.158,3128,http,anonymous,NL,Amsterdam,11049,31.3,true
 175.215.147.63,3084,http,transparent,KR,Changwon,11049,5.5,true
 154.73.28.241,8080,http,transparent,LY,,11075,13.6,true
 45.5.119.17,999,http,transparent,GT,Guatemala City,11080,20.5,true
@@ -2817,12 +2854,12 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 36.95.27.91,8080,http,transparent,ID,Jakarta,11121,11.4,true
 202.154.18.8,8880,http,transparent,ID,,11130,14.0,true
 103.156.233.75,3125,http,transparent,ID,,11140,26.3,true
-5.189.161.47,3128,http,transparent,FR,Lauterbourg,11170,41.9,true
 103.173.214.187,8080,http,transparent,IN,Hyderabad,11178,21.0,true
 210.79.141.126,8080,http,transparent,ID,,11201,16.5,true
 181.78.205.161,999,http,transparent,EC,Cuenca,11208,22.3,true
 45.198.10.231,8080,http,transparent,ID,,11215,47.1,true
 179.1.128.57,999,http,transparent,CO,Medellin,11238,20.9,true
+157.10.184.115,8080,http,transparent,ID,,11242,14.7,true
 179.1.126.46,999,http,transparent,CO,Quibdo,11267,12.1,true
 154.73.29.157,8080,http,transparent,LY,,11269,8.6,true
 168.138.202.218,3128,http,transparent,JP,Inzai,11284,46.5,true
@@ -2835,6 +2872,7 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 103.132.53.42,8080,http,,ID,,11433,18.8,true
 198.52.243.3,9999,http,transparent,PR,San Juan,11551,11.9,true
 92.5.8.178,3128,http,transparent,DE,Frankfurt am Main,11567,48.3,true
+102.36.168.185,8080,http,elite,CD,,11588,25.3,true
 134.122.81.141,8081,http,,DE,Frankfurt am Main,11617,50.0,true
 188.235.21.247,8080,http,transparent,RU,Voronezh,11625,15.0,true
 170.84.147.216,8087,http,transparent,BR,Piracuruca,11644,18.4,true
@@ -2843,7 +2881,6 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 95.0.100.40,8085,http,transparent,TR,,11697,15.7,true
 58.84.16.214,1231,http,transparent,MY,,11777,13.5,true
 103.180.118.99,8044,http,transparent,ID,,11822,21.9,true
-181.78.194.249,999,http,transparent,EC,Cuenca,11828,21.3,true
 138.91.159.185,80,http,elite,US,San Jose,11829,36.8,true
 115.147.16.205,5050,http,transparent,PH,Caloocan,11837,17.4,true
 169.239.208.70,8080,http,transparent,ZA,Cape Town,11880,14.1,true
@@ -2852,8 +2889,8 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 49.147.105.181,8080,http,transparent,PH,Iloilo City,12004,25.1,true
 143.20.37.77,3128,http,elite,DE,Frankfurt am Main,12017,49.1,true
 95.129.101.73,80,http,elite,CZ,Brno,12024,51.2,true
+120.133.82.62,44153,socks5,elite,CN,,12054,6.3,true
 204.48.31.203,80,http,anonymous,US,North Bergen,12062,15.5,true
-103.146.38.121,8086,http,transparent,ID,Karawang,12078,14.0,true
 217.160.162.25,8888,http,transparent,DE,,12122,30.4,true
 103.236.142.41,8080,http,transparent,ID,Pati Regency,12135,84.3,true
 152.42.206.165,3128,http,transparent,SG,Singapore,12167,50.8,true
@@ -2870,23 +2907,22 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 212.67.10.252,5555,http,transparent,RU,St Petersburg,12625,53.4,true
 38.76.150.55,1080,http,elite,US,Los Angeles,12642,100.0,true
 103.137.193.55,8080,http,transparent,NL,Eygelshoven,12642,64.8,true
+5.189.161.47,3128,http,transparent,FR,Lauterbourg,12691,42.1,true
 128.14.92.94,3128,http,elite,VN,,12705,11.3,true
 150.107.29.165,3128,http,transparent,TH,,12745,40.1,true
-45.190.76.18,999,http,transparent,MX,Zapopan,12816,9.8,true
 103.255.132.215,1111,http,,ID,,12823,24.0,true
 163.61.38.126,3128,http,transparent,IN,Noida,12851,32.1,true
 64.188.63.249,3128,http,transparent,NL,Amsterdam,12860,45.2,true
 24.199.113.242,443,http,elite,US,Santa Clara,12873,29.1,true
 173.181.142.228,80,http,elite,CA,Surrey,12875,44.6,true
-58.33.109.114,2021,http,transparent,CN,,12893,16.9,true
 61.134.48.51,7302,http,,CN,,12902,99.0,true
 102.209.56.21,80,http,elite,KE,Nairobi,12933,50.4,true
 139.5.155.245,57412,http,transparent,ID,Denpasar,12995,16.6,true
+120.133.82.62,44019,socks5,elite,CN,,13024,9.2,true
 142.93.195.158,80,http,elite,US,North Bergen,13029,20.0,true
 181.78.79.41,999,http,transparent,CO,Planeta Rica,13030,10.7,true
-201.159.97.221,8081,http,transparent,MX,Monterrey,13051,9.3,true
 46.34.165.86,443,http,transparent,IR,,13060,40.4,true
-163.223.78.87,3127,http,transparent,ID,Jombang,13155,9.7,true
+167.99.144.185,3128,http,transparent,US,North Bergen,13148,41.4,true
 103.171.182.229,8080,http,anonymous,ID,,13253,8.7,true
 120.133.82.62,44017,socks5,elite,CN,,13293,17.8,true
 43.162.94.63,8888,http,anonymous,US,Santa Clara,13339,72.3,true
@@ -2894,7 +2930,7 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 134.199.200.21,3128,http,anonymous,US,Douglasville,13377,48.2,true
 147.45.175.151,3128,http,transparent,RU,,13433,55.5,true
 23.224.193.42,3128,http,transparent,US,,13466,57.2,true
-38.10.90.118,8084,http,transparent,PH,Iloilo City,13564,10.5,true
+140.245.255.83,3128,http,transparent,IN,Hyderabad,13584,55.6,true
 45.168.238.193,8443,http,transparent,MX,San Juan del Rio,13619,35.0,true
 139.198.113.42,10023,http,anonymous,CN,,13639,35.4,true
 170.81.102.168,6666,http,transparent,BR,Camacari,13643,16.8,true
@@ -2909,6 +2945,7 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 188.166.118.246,3128,http,elite,NL,Amsterdam,13952,34.7,true
 103.180.122.62,3125,http,transparent,ID,Bekasi,13988,6.1,true
 223.130.11.151,8443,http,elite,VN,,14005,95.5,true
+46.101.223.220,3124,http,transparent,DE,Frankfurt am Main,14077,89.7,true
 213.165.43.234,3128,http,transparent,DE,Frankfurt am Main,14112,58.5,true
 128.14.92.88,22890,http,elite,VN,,14264,39.7,true
 190.12.150.244,999,http,transparent,EC,Quininde,14271,61.2,true
@@ -2917,13 +2954,15 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 186.123.26.22,8080,http,transparent,AR,,14329,17.9,true
 157.15.66.13,3125,http,transparent,ID,Tulungagung,14399,10.1,true
 38.250.116.58,3128,http,elite,PE,,14429,42.3,true
+200.111.104.59,3129,http,transparent,CL,San Carlos,14454,56.5,true
 51.79.142.230,38414,http,elite,SG,Singapore,14478,43.8,true
 128.14.92.83,22892,http,elite,VN,,14539,16.4,true
 203.3.112.2,6666,http,elite,CN,Hangzhou,14569,66.7,true
 206.123.156.223,5533,socks5,elite,IR,,14577,12.0,true
 152.228.145.27,8080,http,transparent,FR,,14755,48.1,true
 103.175.227.159,3125,http,transparent,ID,Jakarta,14775,9.9,true
-160.20.38.134,3125,http,transparent,ID,Indramayu,14777,9.4,true
+157.66.3.20,1111,http,transparent,ID,,14784,19.0,true
+103.196.40.233,3125,http,anonymous,ID,,14795,15.4,true
 108.181.0.167,8080,http,transparent,US,Los Angeles,14862,46.2,true
 45.13.116.235,21537,http,elite,FR,Mathay,14889,34.8,true
 192.3.209.126,80,http,transparent,US,Buffalo,15065,53.1,true
@@ -2937,8 +2976,8 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 103.162.63.168,3125,http,anonymous,ID,,15947,6.9,true
 94.101.187.3,3128,http,transparent,IR,,15956,62.9,true
 157.20.239.191,3125,http,transparent,ID,,15961,19.6,true
+45.13.116.225,21537,http,elite,FR,Mathay,15988,39.8,true
 62.171.168.211,3128,http,transparent,FR,Lauterbourg,16018,44.4,true
-103.85.52.9,3128,http,transparent,ID,,16225,2.8,true
 167.71.196.178,80,http,elite,SG,Singapore,16273,21.3,true
 157.230.241.91,3128,http,transparent,SG,Singapore,16328,54.1,true
 124.243.150.41,3128,http,transparent,SG,Singapore,16398,44.9,true
@@ -2948,10 +2987,13 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 119.195.17.15,3056,http,transparent,KR,Changwon,16738,12.6,true
 138.68.3.159,3128,http,transparent,US,Santa Clara,16752,64.7,true
 45.77.148.203,9000,http,elite,US,Piscataway,16784,25.2,true
+38.75.82.217,999,http,transparent,DO,,16785,7.3,true
 47.105.98.23,3128,http,transparent,CN,Qingdao,16864,60.2,true
 103.1.50.17,3125,http,transparent,ID,,16870,5.2,true
 175.215.145.180,3048,http,transparent,KR,Changwon,16918,37.0,true
 68.183.93.236,3128,http,elite,IN,Bengaluru,16934,53.7,true
+38.199.26.21,999,http,transparent,CO,Montenegro,16973,16.3,true
+187.102.219.32,999,http,transparent,AR,Puerto Eldorado,17138,23.1,true
 23.224.193.44,3128,http,transparent,US,,17170,55.2,true
 23.224.193.45,3128,http,transparent,US,,17264,54.9,true
 38.242.212.16,3128,http,transparent,FR,Lauterbourg,17316,48.1,true
@@ -2963,19 +3005,18 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 34.60.224.203,3128,http,transparent,US,Council Bluffs,17604,59.3,true
 85.235.150.219,3128,http,transparent,IT,Arezzo,17653,42.5,true
 103.166.182.144,3128,http,transparent,VN,,17676,46.7,true
+159.65.221.25,80,http,anonymous,US,North Bergen,17692,52.2,true
 192.99.44.178,3128,http,transparent,CA,,17814,26.6,true
 208.67.248.60,3128,http,elite,US,,17871,67.9,true
-91.132.161.200,3128,http,transparent,DE,Frankfurt am Main,17924,72.3,true
 103.165.155.55,1111,http,transparent,ID,,17959,24.6,true
 45.4.200.67,999,http,transparent,EC,Jipijapa,18014,9.3,true
 46.62.172.245,3128,http,transparent,FI,Helsinki,18023,57.4,true
+45.12.255.106,3128,http,transparent,NL,Amsterdam,18055,42.3,true
 216.75.6.245,3128,http,elite,US,,18183,65.5,true
-144.31.157.210,3128,http,transparent,US,,18578,41.7,true
+181.78.82.211,999,http,transparent,CO,Bogota,18355,10.9,true
 213.169.33.10,8001,http,transparent,BG,,18710,10.4,true
-5.181.178.61,3125,http,anonymous,ID,Jakarta,18809,15.1,true
+180.191.230.53,8082,http,transparent,PH,Santa Catalina,18718,19.5,true
 194.158.205.142,3128,http,transparent,BY,Minsk,18883,44.1,true
-45.13.116.225,21537,http,elite,FR,Mathay,18996,39.6,true
-213.131.85.30,1981,http,transparent,EG,Cairo,19113,20.6,true
 20.204.175.243,3128,http,transparent,IN,Pune,19175,38.3,true
 185.228.137.178,3128,http,transparent,DE,Nuremberg,19177,48.1,true
 103.249.132.247,1080,socks4,elite,AE,,19226,44.3,true
@@ -2986,11 +3027,9 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 13.71.98.2,3128,http,transparent,IN,Chennai,19453,63.7,true
 83.212.72.114,3128,http,transparent,GR,,19511,51.9,true
 8.222.175.80,6128,http,transparent,SG,,19571,37.8,true
-161.97.131.23,8899,http,anonymous,FR,Lauterbourg,19652,25.9,true
-202.57.25.247,3125,http,transparent,ID,Semarang,19674,24.2,true
 148.251.86.76,16379,http,elite,DE,Falkenstein,19685,55.5,true
+112.198.22.122,80,http,elite,PH,Makati City,19726,51.5,true
 138.68.101.169,3128,http,transparent,DE,Frankfurt am Main,19969,29.0,true
-45.13.116.193,21537,http,elite,FR,Mathay,20024,54.9,true
 130.61.120.40,3128,http,elite,DE,Frankfurt am Main,20194,60.8,true
 41.33.219.140,1976,http,anonymous,EG,Cairo,20212,24.0,true
 113.160.115.254,8080,http,transparent,VN,Hanoi,20229,13.8,true
@@ -2998,15 +3037,13 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 103.25.110.66,1452,http,elite,ID,,20396,50.4,true
 103.150.218.162,3125,http,transparent,ID,,20474,7.6,true
 164.90.223.123,8080,http,transparent,DE,Frankfurt am Main,20754,53.7,true
-45.13.116.196,21537,http,elite,FR,Mathay,20762,38.1,true
-138.118.200.49,999,http,transparent,VE,San Francisco,20831,4.7,true
 135.125.159.16,3128,http,transparent,FR,,20952,45.3,true
 66.151.33.12,3128,http,transparent,NL,Amsterdam,21051,50.6,true
+149.104.4.88,10809,http|socks4,elite,HK,,21148,78.8,true
 157.15.67.163,3125,http,transparent,ID,Tulungagung,21208,11.4,true
-45.71.114.154,999,http,transparent,EC,Guayaquil,21230,5.9,true
 140.245.85.78,3128,http,transparent,JP,Inzai,21233,30.6,true
 36.111.205.239,6666,http,elite,CN,Shanghai,21598,76.2,true
-103.156.233.129,3125,http,transparent,ID,,21680,7.3,true
+157.10.97.163,3125,http,transparent,ID,Palembang,21604,4.8,true
 119.205.233.238,13128,http,transparent,KR,Wonju,21690,47.5,true
 31.57.172.220,10808,http,elite,JP,,21699,38.8,true
 42.96.19.211,1314,http,elite,VN,,21702,39.0,true
@@ -3014,30 +3051,29 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 104.248.146.217,3128,http,anonymous,SG,Singapore,21817,60.9,true
 43.245.224.148,3128,http,transparent,NL,Amsterdam,21873,46.1,true
 131.196.254.36,8080,http,transparent,MX,Merida,21984,50.4,true
-38.87.116.28,8080,http,transparent,US,,22055,55.4,true
-140.245.66.105,8081,http,transparent,KR,Chuncheon,22284,29.2,true
-112.198.22.122,80,http,elite,PH,Makati City,22344,51.4,true
 47.110.42.192,9003,http,anonymous,CN,Hangzhou,22373,12.6,true
 64.49.15.225,8443,http,transparent,TR,Istanbul,22441,57.4,true
 203.111.253.118,3125,http,transparent,ID,,22500,7.0,true
 175.215.148.171,3012,http,transparent,KR,Changwon,22506,14.7,true
 193.56.135.67,3128,http,elite,IQ,Erbil,22543,75.4,true
+38.87.116.28,8080,http,transparent,US,,22751,55.5,true
 98.83.211.100,3128,http,transparent,US,Ashburn,23080,67.4,true
 185.53.46.240,55555,http,transparent,MD,,23163,48.6,true
 130.61.139.145,3128,http,transparent,DE,Frankfurt am Main,23276,28.3,true
 176.12.73.250,3128,http,transparent,KZ,Almaty,23286,33.5,true
 103.235.67.190,80,http,elite,ID,,23538,45.3,true
 94.72.109.169,8080,http,transparent,GB,Portsmouth,23540,27.9,true
-50.84.107.94,8111,http,anonymous,US,Austin,23570,9.1,true
 83.229.73.113,13554,http,transparent,IL,Haifa,23702,41.1,true
 103.186.209.53,3125,http,transparent,SG,Singapore,23745,35.7,true
 144.91.111.48,3129,http,elite,FR,Lauterbourg,23754,27.2,true
 194.87.244.192,80,http,transparent,RU,Moscow,23815,54.1,true
 178.128.243.121,3128,http,transparent,NL,Amsterdam,23827,62.4,true
+201.230.121.244,999,http,transparent,PE,Lima,23883,20.7,true
 202.166.205.179,8080,http,,NP,Kathmandu,23885,48.4,true
 23.224.193.43,3128,http,transparent,US,,23921,52.0,true
 175.215.147.9,3120,http,transparent,KR,Changwon,23949,9.1,true
 103.3.59.208,8080,http,anonymous,ID,,24112,25.7,true
+103.136.82.252,82,http,transparent,IN,Ranchi,24278,6.4,true
 112.168.176.184,3128,http,transparent,KR,Suwon,24306,37.7,true
 217.149.30.214,8888,http,anonymous,RU,,24307,59.5,true
 217.182.195.221,30003,http,transparent,FR,,24695,58.1,true
@@ -3055,11 +3091,11 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 31.57.63.209,80,http,elite,US,Fremont,26306,33.7,true
 149.28.137.172,8888,http,transparent,SG,Singapore,26314,64.3,true
 200.37.209.195,3128,http,elite,PE,Lima,26395,40.6,true
-187.19.128.76,3131,http,transparent,BR,Campina Grande,26419,29.7,true
 154.223.77.54,10001,http,elite,HK,Hong Kong,26873,89.6,true
 107.172.46.245,1080,http,elite,US,Buffalo,27372,35.0,true
 43.110.40.117,8888,http,elite,US,,27406,81.9,true
 103.157.135.199,443,http,transparent,BD,,27881,50.2,true
+202.57.25.247,3125,http,transparent,ID,Semarang,28021,24.4,true
 51.15.241.34,3128,http,transparent,FR,Paris,28055,86.9,true
 152.228.163.79,80,http,elite,FR,,28814,34.9,true
 36.64.86.11,8080,http,transparent,ID,Jakarta,28913,14.2,true
@@ -3070,21 +3106,21 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 156.155.250.151,8080,http,elite,ZA,Johannesburg,29600,39.2,true
 145.241.249.192,80,http,elite,GB,Slough,29650,44.8,true
 156.155.250.151,3128,http,elite,ZA,Johannesburg,29739,70.8,true
-149.104.4.88,10809,socks4,elite,HK,,30310,78.7,true
 104.248.156.141,8888,http,elite,SG,Singapore,30421,59.2,true
 58.63.109.230,10817,http,elite,CN,Guangzhou,30425,69.3,true
 98.185.93.186,3128,http,transparent,US,Enfield,30658,32.4,true
+192.73.243.98,3128,http,transparent,US,Miami,30714,28.5,true
+45.160.74.1,999,http,transparent,CL,Santiago,31219,7.5,true
 103.105.78.207,3125,http,transparent,ID,,31702,11.1,true
 128.199.247.154,3128,http,transparent,SG,Singapore,31921,62.9,true
 103.82.93.219,3128,http,transparent,ID,,32808,38.3,true
 201.144.25.226,3128,http,transparent,MX,Atotonilco el Alto,32983,18.8,true
 125.135.136.210,3068,http,transparent,KR,Changwon,33170,15.6,true
-85.215.50.161,80,http,elite,DE,,33489,50.7,true
-45.12.255.106,3128,http,transparent,NL,Amsterdam,33499,42.2,true
 134.65.238.25,3129,http,transparent,BR,Vinhedo,33516,42.5,true
 217.154.71.75,3128,http,transparent,DE,,33674,51.4,true
 135.181.150.19,8118,http,elite,FI,Helsinki,34005,48.8,true
 160.187.1.225,8888,http,anonymous,VN,,34130,13.5,true
+116.63.160.98,8899,http,elite,CN,,34211,37.3,true
 51.254.133.152,3128,http,transparent,FR,,34743,55.8,true
 209.97.137.211,3128,http,transparent,GB,Slough,34833,80.5,true
 160.251.171.151,8080,http,transparent,JP,,34922,44.7,true
@@ -3093,8 +3129,8 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 107.191.58.81,1080,http,elite,US,Los Angeles,35849,39.9,true
 202.10.37.184,8888,http,elite,ID,,35949,92.8,true
 62.60.216.191,3128,http,elite,DE,Frankfurt am Main,36583,51.2,true
-145.241.249.192,8080,http,elite,GB,Slough,37519,59.0,true
 185.53.46.240,3128,http,transparent,MD,,39102,33.5,true
+85.215.50.161,80,http,elite,DE,,39197,50.8,true
 103.178.13.21,8085,http,transparent,ID,,39325,13.1,true
 168.195.102.12,4583,http,transparent,BR,Belo Horizonte,40094,60.5,true
 161.132.40.191,3128,http,transparent,PE,,40729,54.1,true
@@ -3106,30 +3142,32 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 200.164.28.168,8111,http,anonymous,BR,Salvador,41853,12.7,true
 121.177.104.154,3024,http,transparent,KR,Changwon,41973,7.2,true
 154.220.66.193,50165,socks4,elite,HK,,42534,10.5,true
-175.215.192.100,3020,http,transparent,KR,Changwon,43991,16.0,true
 109.169.72.251,3389,http,,AE,Sharjah,44181,46.0,true
 103.186.193.163,3125,http,transparent,ID,,44624,7.9,true
+138.2.239.213,10010,http,elite,US,San Jose,45143,38.0,true
 35.199.93.247,90,http,elite,BR,Sao Paulo,45176,23.1,true
 103.1.50.208,3125,http,transparent,ID,,45983,3.0,true
 159.65.129.62,8081,http,elite,SG,Singapore,46776,76.0,true
 130.61.179.77,1234,socks4,elite,DE,Frankfurt am Main,47423,56.4,true
 221.161.204.152,3140,http,transparent,KR,Yangsan,49247,27.8,true
-116.63.160.98,8899,http,elite,CN,,49301,37.0,true
+144.31.157.210,3128,http,transparent,US,,50165,41.9,true
 175.215.147.214,3132,http,transparent,KR,Changwon,50748,24.9,true
+163.223.116.236,3125,http,transparent,ID,Kuningan,51200,21.1,true
 47.76.189.189,8899,http,anonymous,HK,Hong Kong,52651,59.9,true
+103.188.50.85,3125,http,transparent,ID,,53189,8.9,true
 47.250.112.180,443,http,anonymous,MY,Kuala Lumpur,54498,25.9,true
 47.81.56.193,8888,http,elite,TH,Bangkok,54924,75.1,true
-46.101.223.220,3124,http,transparent,DE,Frankfurt am Main,56134,89.7,true
 178.238.117.178,8080,http,elite,RU,Moscow,56214,31.5,true
 103.191.196.71,3125,http,transparent,ID,,56679,12.5,true
 47.79.254.162,8888,http,elite,SG,,57628,83.4,true
+192.9.133.229,1081,socks4,elite,US,San Jose,59145,35.6,true
 167.234.224.70,37777,http,anonymous,BR,Sao Paulo,60074,29.6,true
 116.198.224.150,9000,http,anonymous,CN,,61153,29.4,true
 221.161.204.152,3136,http,transparent,KR,Yangsan,61496,7.5,true
 203.23.238.21,80,http,anonymous,AU,Canberra,62195,34.4,true
 82.65.27.56,80,http,elite,FR,,65448,8.6,true
+103.133.61.191,3125,http,transparent,ID,Bandar Lampung,66081,16.3,true
 36.152.150.243,8081,http,elite,CN,,69285,71.0,true
-103.48.68.139,84,http,transparent,US,,69948,6.2,true
 36.152.150.242,8081,http,elite,CN,,71498,71.4,true
 51.255.131.164,3002,http,anonymous,FR,,73578,52.2,true
 193.42.115.229,8080,http,elite,RU,St Petersburg,74449,51.9,true
@@ -3138,7 +3176,6 @@ ip,port,protocols,anonymity,country,city,latency_ms,uptime_pct,alive
 47.85.51.197,1080,http,elite,US,,78108,64.9,true
 155.212.208.36,1080,http,anonymous,RU,St Petersburg,78364,34.7,true
 125.135.163.211,3144,http,transparent,KR,Changwon,80023,22.5,true
-103.72.89.7,8097,http,anonymous,ID,Gorontalo,80841,9.0,true
 125.135.136.210,3024,http,transparent,KR,Changwon,81774,16.7,true
 167.234.224.70,7500,http,anonymous,BR,Sao Paulo,82453,34.2,true
 221.167.81.223,3124,http,transparent,KR,Suyeong-gu,83874,14.9,true
