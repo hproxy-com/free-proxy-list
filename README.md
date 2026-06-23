@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1782256439" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1782256565" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
@@ -19,11 +19,11 @@
 | List | Proxies | Formats |
 |------|--------:|---------|
 | **All** | 21,940 | [txt](all.txt) &middot; [json](all.json) &middot; [csv](all.csv) |
-| HTTP | 2,360 | [txt](http.txt) |
-| HTTPS | 1,433 | [txt](https.txt) |
-| SOCKS4 | 1,646 | [txt](socks4.txt) |
-| SOCKS5 | 1,700 | [txt](socks5.txt) |
-| Iran (IR) | 4,426 | [txt](by-country/IR.txt) &middot; [all &raquo;](by-country) |
+| HTTP | 2,365 | [txt](http.txt) |
+| HTTPS | 1,437 | [txt](https.txt) |
+| SOCKS4 | 1,670 | [txt](socks4.txt) |
+| SOCKS5 | 1,691 | [txt](socks5.txt) |
+| Iran (IR) | 4,427 | [txt](by-country/IR.txt) &middot; [all &raquo;](by-country) |
 
 Text files are one `ip:port` per line. `all.json` and `all.csv` add protocol, anonymity, country, city, latency and uptime per proxy.
 
@@ -44,18 +44,18 @@ Need live filtering by country, protocol and anonymity? Use the real-time API an
 
 | Country | Proxies | File |
 |---------|--------:|------|
-| Iran (IR) | 4,426 | [by-country/IR.txt](by-country/IR.txt) |
-| Indonesia (ID) | 2,619 | [by-country/ID.txt](by-country/ID.txt) |
-| United States (US) | 1,533 | [by-country/US.txt](by-country/US.txt) |
-| China (CN) | 1,411 | [by-country/CN.txt](by-country/CN.txt) |
-| India (IN) | 887 | [by-country/IN.txt](by-country/IN.txt) |
+| Iran (IR) | 4,427 | [by-country/IR.txt](by-country/IR.txt) |
+| Indonesia (ID) | 2,623 | [by-country/ID.txt](by-country/ID.txt) |
+| United States (US) | 1,531 | [by-country/US.txt](by-country/US.txt) |
+| China (CN) | 1,413 | [by-country/CN.txt](by-country/CN.txt) |
+| India (IN) | 888 | [by-country/IN.txt](by-country/IN.txt) |
 | Japan (JP) | 666 | [by-country/JP.txt](by-country/JP.txt) |
 | Germany (DE) | 657 | [by-country/DE.txt](by-country/DE.txt) |
-| Hong Kong (HK) | 646 | [by-country/HK.txt](by-country/HK.txt) |
+| Hong Kong (HK) | 647 | [by-country/HK.txt](by-country/HK.txt) |
 | South Korea (KR) | 640 | [by-country/KR.txt](by-country/KR.txt) |
-| Australia (AU) | 473 | [by-country/AU.txt](by-country/AU.txt) |
+| Australia (AU) | 472 | [by-country/AU.txt](by-country/AU.txt) |
 | Russia (RU) | 454 | [by-country/RU.txt](by-country/RU.txt) |
-| Thailand (TH) | 443 | [by-country/TH.txt](by-country/TH.txt) |
+| Thailand (TH) | 441 | [by-country/TH.txt](by-country/TH.txt) |
 | _+121 more countries_ | | [full by-country/ folder &raquo;](by-country) |
 
 </details>
@@ -81,4 +81,4 @@ Raw IPs cannot be added by pull request: the list regenerates every couple of mi
 
 These proxies are aggregated from publicly available sources. We do not scan, port-scan or collect them ourselves, and we store nothing about the devices behind them. They are provided as-is, with no warranty, for lawful use only. You are responsible for how you use them: follow the GitHub Acceptable Use Policy and your local laws, and never route passwords or sensitive data through a public proxy. If an IP address is yours and you want it removed, open an issue.
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; continuously updated &nbsp;&middot;&nbsp; 2026-06-23 23:13 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; continuously updated &nbsp;&middot;&nbsp; 2026-06-23 23:16 UTC</sub></p>
