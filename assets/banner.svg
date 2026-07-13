@@ -1,13 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="HProxy Free Proxy List">
-  <rect width="1000" height="260" rx="24" fill="#F5F2EA"/>
-  <g transform="translate(80,66) scale(4.35)" fill="#006039">
+  <defs>
+    <linearGradient id="hp-bg" x1="0" y1="0" x2="1000" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3D7BFF"/>
+      <stop offset="0.55" stop-color="#0158FF"/>
+      <stop offset="1" stop-color="#013599"/>
+    </linearGradient>
+    <radialGradient id="hp-glow" cx="0.16" cy="0.12" r="0.9">
+      <stop offset="0" stop-color="#8FB4FF" stop-opacity="0.5"/>
+      <stop offset="0.6" stop-color="#8FB4FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="260" rx="24" fill="url(#hp-bg)"/>
+  <rect width="1000" height="260" rx="24" fill="url(#hp-glow)"/>
+  <g transform="translate(80,66) scale(4.35)" fill="#FFFFFF">
     <path d="M0 0V0C3.98547 0 7.21633 3.23086 7.21633 7.21633V26H0V0Z"/>
     <rect x="14.2188" width="7.21633" height="26"/>
     <path d="M7.2349 26H0V15.9714C0 12.4548 2.85076 9.60408 6.36735 9.60408H14.2204V0H21.4367V10.4531C21.4367 13.9696 18.586 16.8204 15.0694 16.8204H7.2349V26Z"/>
   </g>
-  <text x="226" y="118" font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="72" font-weight="700" letter-spacing="-2.3"><tspan fill="#006039">H</tspan><tspan fill="#1A1918">Proxy</tspan></text>
-  <text x="228" y="168" font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="40" font-weight="400" letter-spacing="-0.5" fill="#006039">Free Proxy List</text>
-  <text x="920" y="112" text-anchor="end" font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="56" font-weight="700" letter-spacing="-2" fill="#006039">558,761</text>
-  <text x="920" y="143" text-anchor="end" font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="23" font-weight="500" fill="#1A1918" fill-opacity="0.55">proxies tracked</text>
-  <text x="920" y="191" text-anchor="end" font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="25" font-weight="400" fill="#1A1918" fill-opacity="0.62">updated 13.07.2026</text>
+  <text x="226" y="118" font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="72" font-weight="700" letter-spacing="-2.3" fill="#FFFFFF">HProxy</text>
+  <text x="228" y="168" font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="40" font-weight="400" letter-spacing="-0.5" fill="#FFFFFF" fill-opacity="0.88">Free Proxy List</text>
+  <text x="920" y="112" text-anchor="end" font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="56" font-weight="700" letter-spacing="-2" fill="#FFFFFF">558,785</text>
+  <text x="920" y="143" text-anchor="end" font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="23" font-weight="500" fill="#FFFFFF" fill-opacity="0.72">proxies tracked</text>
+  <text x="920" y="191" text-anchor="end" font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="25" font-weight="400" fill="#FFFFFF" fill-opacity="0.78">updated 13.07.2026</text>
 </svg>
