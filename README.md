@@ -1,29 +1,29 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1784168439" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1784168572" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
   <a href="https://hproxy.com"><img src="https://img.shields.io/badge/Website-hproxy.com-0158FF?style=for-the-badge&labelColor=0B1220" alt="Website"></a>
   <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-562,781-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live-30,206-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live-28,277-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live"></a>
   <a href="https://github.com/hproxy-com/free-proxy-list/commits/main"><img src="https://img.shields.io/badge/Updated-continuously-0158FF?style=for-the-badge&labelColor=0B1220" alt="Updated"></a>
   <a href="https://hproxy.com/proxy-checker"><img src="https://img.shields.io/badge/Proxy_Checker-Free-0158FF?style=for-the-badge&labelColor=0B1220" alt="Proxy Checker"></a>
   <a href="https://hproxy.com/residential"><img src="https://img.shields.io/badge/Premium_Proxies-from_$0.99_per_GB-0158FF?style=for-the-badge&labelColor=0B1220" alt="Premium Proxies"></a>
 </p>
 
-<p align="center"><b>The biggest free proxy list, continuously scanned 24/7.</b><br>562,781 proxies tracked all-time, 30,206 in the live working pool (alive within 48h).</p>
+<p align="center"><b>The biggest free proxy list, continuously scanned 24/7.</b><br>562,781 proxies tracked all-time, 28,277 in the live working pool (alive within 48h).</p>
 <p align="center"><sub>HTTP, HTTPS, SOCKS4 and SOCKS5 &middot; country, anonymity and latency on every IP &middot; updated 16.07.2026</sub></p>
 
 ## Download
 
 | List | Proxies | Formats |
 |------|--------:|---------|
-| **All** | 30,206 | [txt](all.txt) &middot; [json](all.json) &middot; [csv](all.csv) |
-| HTTP | 3,388 | [txt](http.txt) |
-| HTTPS | 2,068 | [txt](https.txt) |
-| SOCKS4 | 1,566 | [txt](socks4.txt) |
-| SOCKS5 | 1,614 | [txt](socks5.txt) |
-| Iran (IR) | 6,867 | [txt](by-country/IR.txt) &middot; [all &raquo;](by-country) |
+| **All** | 28,277 | [txt](all.txt) &middot; [json](all.json) &middot; [csv](all.csv) |
+| HTTP | 3,351 | [txt](http.txt) |
+| HTTPS | 2,041 | [txt](https.txt) |
+| SOCKS4 | 1,555 | [txt](socks4.txt) |
+| SOCKS5 | 1,587 | [txt](socks5.txt) |
+| Iran (IR) | 6,123 | [txt](by-country/IR.txt) &middot; [all &raquo;](by-country) |
 
 Text files are one `ip:port` per line. `all.json` and `all.csv` add protocol, anonymity, country, city, latency and uptime per proxy.
 
@@ -40,23 +40,23 @@ curl https://cdn.jsdelivr.net/gh/hproxy-com/free-proxy-list@main/all.json       
 Need live filtering by country, protocol and anonymity? Use the real-time API and full docs at **https://hproxy.com/docs**.
 
 <details>
-<summary><b>Free proxies by country</b> (134 countries)</summary>
+<summary><b>Free proxies by country</b> (133 countries)</summary>
 
 | Country | Proxies | File |
 |---------|--------:|------|
-| Iran (IR) | 6,867 | [by-country/IR.txt](by-country/IR.txt) |
-| Indonesia (ID) | 2,770 | [by-country/ID.txt](by-country/ID.txt) |
-| China (CN) | 1,960 | [by-country/CN.txt](by-country/CN.txt) |
-| United States (US) | 1,909 | [by-country/US.txt](by-country/US.txt) |
-| India (IN) | 1,502 | [by-country/IN.txt](by-country/IN.txt) |
-| Japan (JP) | 1,110 | [by-country/JP.txt](by-country/JP.txt) |
-| Australia (AU) | 1,033 | [by-country/AU.txt](by-country/AU.txt) |
-| South Korea (KR) | 872 | [by-country/KR.txt](by-country/KR.txt) |
-| Hong Kong (HK) | 819 | [by-country/HK.txt](by-country/HK.txt) |
-| Thailand (TH) | 699 | [by-country/TH.txt](by-country/TH.txt) |
-| France (FR) | 698 | [by-country/FR.txt](by-country/FR.txt) |
-| Germany (DE) | 626 | [by-country/DE.txt](by-country/DE.txt) |
-| _+122 more countries_ | | [full by-country/ folder &raquo;](by-country) |
+| Iran (IR) | 6,123 | [by-country/IR.txt](by-country/IR.txt) |
+| Indonesia (ID) | 2,668 | [by-country/ID.txt](by-country/ID.txt) |
+| China (CN) | 1,879 | [by-country/CN.txt](by-country/CN.txt) |
+| United States (US) | 1,820 | [by-country/US.txt](by-country/US.txt) |
+| India (IN) | 1,415 | [by-country/IN.txt](by-country/IN.txt) |
+| Japan (JP) | 1,046 | [by-country/JP.txt](by-country/JP.txt) |
+| Australia (AU) | 987 | [by-country/AU.txt](by-country/AU.txt) |
+| South Korea (KR) | 817 | [by-country/KR.txt](by-country/KR.txt) |
+| Hong Kong (HK) | 753 | [by-country/HK.txt](by-country/HK.txt) |
+| Thailand (TH) | 665 | [by-country/TH.txt](by-country/TH.txt) |
+| France (FR) | 657 | [by-country/FR.txt](by-country/FR.txt) |
+| Germany (DE) | 606 | [by-country/DE.txt](by-country/DE.txt) |
+| _+121 more countries_ | | [full by-country/ folder &raquo;](by-country) |
 
 </details>
 
@@ -81,4 +81,4 @@ Raw IPs cannot be added by pull request: the list regenerates every couple of mi
 
 These proxies are aggregated from publicly available sources. We do not scan, port-scan or collect them ourselves, and we store nothing about the devices behind them. They are provided as-is, with no warranty, for lawful use only. You are responsible for how you use them: follow the GitHub Acceptable Use Policy and your local laws, and never route passwords or sensitive data through a public proxy. If an IP address is yours and you want it removed, open an issue.
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; continuously updated &nbsp;&middot;&nbsp; 2026-07-16 02:20 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; continuously updated &nbsp;&middot;&nbsp; 2026-07-16 02:22 UTC</sub></p>
