@@ -1,84 +1,183 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1787766128" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1787768399" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
   <a href="https://hproxy.com"><img src="https://img.shields.io/badge/Website-hproxy.com-0158FF?style=for-the-badge&labelColor=0B1220" alt="Website"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-657,849-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live-37,250-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-659,684-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live-35,980-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live"></a>
   <a href="https://github.com/hproxy-com/free-proxy-list/commits/main"><img src="https://img.shields.io/badge/Updated-continuously-0158FF?style=for-the-badge&labelColor=0B1220" alt="Updated"></a>
+  <a href="https://apify.com/hproxy-owner/hproxy-free-proxy-list"><img src="https://img.shields.io/badge/Free_API-on_Apify-0158FF?style=for-the-badge&labelColor=0B1220" alt="Free API"></a>
   <a href="https://hproxy.com/proxy-checker"><img src="https://img.shields.io/badge/Proxy_Checker-Free-0158FF?style=for-the-badge&labelColor=0B1220" alt="Proxy Checker"></a>
-  <a href="https://hproxy.com/residential"><img src="https://img.shields.io/badge/Premium_Proxies-from_$0.99_per_GB-0158FF?style=for-the-badge&labelColor=0B1220" alt="Premium Proxies"></a>
+  <a href="https://hproxy.com/residential"><img src="https://img.shields.io/badge/Premium_Proxies-from_$0.44_per_GB-0158FF?style=for-the-badge&labelColor=0B1220" alt="Premium Proxies"></a>
 </p>
 
-<p align="center"><b>The biggest free proxy list, continuously scanned 24/7.</b><br>657,849 proxies tracked all-time, 37,250 in the live working pool (alive within 48h).</p>
-<p align="center"><sub>HTTP, HTTPS, SOCKS4 and SOCKS5 &middot; country, anonymity and latency on every IP &middot; updated 26.08.2026</sub></p>
+<p align="center"><b>The biggest free proxy list on the internet, continuously verified 24/7.</b></p>
+<p align="center"><sub>HTTP, HTTPS, SOCKS4 and SOCKS5 &middot; country, anonymity, latency and uptime on every IP &middot; updated 26.08.2026</sub></p>
+
+HProxy publishes the largest continuously verified list of free public proxies. We aggregate **100+ public sources** every few minutes, test every proxy through **HTTP, HTTPS, SOCKS4 and SOCKS5** around the clock, and enrich each working one with **country, anonymity grade, latency and uptime**. Over **659,684 proxies tracked all-time**, with **35,980** live and working in the pool right now. It is completely free, updated continuously, and needs no signup and no API key.
+
+If you have been copying proxies from a dozen different repos and sites, you do not need to any more: this list is their verified superset. See [Sources we aggregate](#sources-we-aggregate).
+
+## Quick facts
+
+- **659,684** proxies tracked all-time, **35,980** live right now
+- **4 protocols**: HTTP, HTTPS, SOCKS4, SOCKS5
+- Aggregated from **100+ public sources**, deduplicated and format-validated
+- **Verified around the clock**, list refreshed every few minutes
+- Every live proxy carries **country, city, anonymity, latency and uptime**
+- **Free**, no signup, no API key, no rate limits on the raw files
+- Formats: **txt, json, csv**, per protocol and per country
 
 ## Download
 
 | List | Proxies | Formats |
 |------|--------:|---------|
-| **All** | 37,250 | [txt](all.txt) &middot; [json](all.json) &middot; [csv](all.csv) |
-| HTTP | 4,140 | [txt](http.txt) |
-| HTTPS | 2,671 | [txt](https.txt) |
-| SOCKS4 | 2,496 | [txt](socks4.txt) |
-| SOCKS5 | 2,205 | [txt](socks5.txt) |
-| United States (US) | 4,921 | [txt](by-country/US.txt) &middot; [all &raquo;](by-country) |
+| **All** | 35,980 | [txt](all.txt) &middot; [json](all.json) &middot; [csv](all.csv) |
+| HTTP | 3,701 | [txt](http.txt) |
+| HTTPS | 2,677 | [txt](https.txt) |
+| SOCKS4 | 2,648 | [txt](socks4.txt) |
+| SOCKS5 | 2,208 | [txt](socks5.txt) |
+| United States (US) | 4,790 | [txt](by-country/US.txt) &middot; [all &raquo;](by-country) |
 
-Text files are one `ip:port` per line. `all.json` and `all.csv` add protocol, anonymity, country, city, latency and uptime per proxy.
-
-## Use as an API
-
-Every file is a raw endpoint, continuously refreshed (also on the jsDelivr CDN for no rate limits):
-
-```bash
-curl https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/all.txt              # every proxy, ip:port
-curl https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/by-country/US.txt    # one country
-curl https://cdn.jsdelivr.net/gh/hproxy-com/free-proxy-list@main/all.json            # via jsDelivr CDN
-```
-
-Need live filtering by country, protocol and anonymity? Use the real-time API and full docs at **https://hproxy.com/docs**.
+Text files are one `ip:port` per line. `all.json` and `all.csv` add protocol, anonymity, country, city, latency and uptime for every proxy.
 
 <details>
-<summary><b>Free proxies by country</b> (136 countries)</summary>
+<summary><b>Free proxies by country</b> (137 countries)</summary>
 
 | Country | Proxies | File |
 |---------|--------:|------|
-| United States (US) | 4,921 | [by-country/US.txt](by-country/US.txt) |
-| Indonesia (ID) | 3,481 | [by-country/ID.txt](by-country/ID.txt) |
-| China (CN) | 2,602 | [by-country/CN.txt](by-country/CN.txt) |
-| India (IN) | 2,518 | [by-country/IN.txt](by-country/IN.txt) |
-| Japan (JP) | 1,994 | [by-country/JP.txt](by-country/JP.txt) |
-| Australia (AU) | 1,902 | [by-country/AU.txt](by-country/AU.txt) |
-| Hong Kong (HK) | 1,350 | [by-country/HK.txt](by-country/HK.txt) |
-| Canada (CA) | 1,315 | [by-country/CA.txt](by-country/CA.txt) |
-| France (FR) | 1,265 | [by-country/FR.txt](by-country/FR.txt) |
-| South Korea (KR) | 1,263 | [by-country/KR.txt](by-country/KR.txt) |
-| Thailand (TH) | 1,177 | [by-country/TH.txt](by-country/TH.txt) |
-| Germany (DE) | 1,105 | [by-country/DE.txt](by-country/DE.txt) |
-| _+124 more countries_ | | [full by-country/ folder &raquo;](by-country) |
+| United States (US) | 4,790 | [by-country/US.txt](by-country/US.txt) |
+| Indonesia (ID) | 3,465 | [by-country/ID.txt](by-country/ID.txt) |
+| China (CN) | 2,536 | [by-country/CN.txt](by-country/CN.txt) |
+| India (IN) | 2,367 | [by-country/IN.txt](by-country/IN.txt) |
+| Japan (JP) | 1,877 | [by-country/JP.txt](by-country/JP.txt) |
+| Australia (AU) | 1,808 | [by-country/AU.txt](by-country/AU.txt) |
+| Hong Kong (HK) | 1,294 | [by-country/HK.txt](by-country/HK.txt) |
+| Canada (CA) | 1,252 | [by-country/CA.txt](by-country/CA.txt) |
+| South Korea (KR) | 1,215 | [by-country/KR.txt](by-country/KR.txt) |
+| France (FR) | 1,185 | [by-country/FR.txt](by-country/FR.txt) |
+| Thailand (TH) | 1,157 | [by-country/TH.txt](by-country/TH.txt) |
+| Germany (DE) | 1,056 | [by-country/DE.txt](by-country/DE.txt) |
+| _+125 more countries_ | | [full by-country/ folder &raquo;](by-country) |
 
 </details>
 
+## Every proxy is enriched
+
+Most free proxy lists hand you a bare `ip:port` and nothing else. We verify each proxy and attach the data that tells you whether it is actually worth using:
+
+| Field | What it tells you |
+|-------|-------------------|
+| `protocols` | Which of HTTP / HTTPS / SOCKS4 / SOCKS5 it actually speaks |
+| `anonymity` | transparent, anonymous, or elite (does it leak your IP) |
+| `country` / `city` | Where the exit is |
+| `latency_ms` | Real measured response time |
+| `uptime_24h` / `uptime_7d` | How reliable it has been, not just alive once |
+
+All of it lives in [all.json](all.json) and [all.csv](all.csv).
+
+## Use it in your code
+
+**Python (requests):**
+
+```python
+import random, requests
+
+proxies = requests.get(
+    "https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/all.txt"
+).text.split()
+
+proxy = random.choice(proxies)
+r = requests.get("https://api.ipify.org",
+                 proxies={"http": f"http://{proxy}", "https": f"http://{proxy}"},
+                 timeout=10)
+print(r.text)
+```
+
+**curl:**
+
+```bash
+curl -x http://$(curl -s https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/http.txt | head -1) https://api.ipify.org
+```
+
+**Node.js:**
+
+```js
+const list = await fetch("https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/all.txt")
+  .then(r => r.text());
+const proxies = list.trim().split("\n");
+```
+
+## Use as an API
+
+Every file is a raw endpoint, refreshed continuously (also mirrored on the jsDelivr CDN so there are no rate limits):
+
+```bash
+curl https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/all.txt            # every proxy, ip:port
+curl https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/by-country/US.txt  # one country
+curl https://cdn.jsdelivr.net/gh/hproxy-com/free-proxy-list@main/all.json           # full details via CDN
+```
+
+Prefer a hosted API with country and protocol filtering and no repo cloning? Run the free **[HProxy Free Proxy List actor on Apify](https://apify.com/hproxy-owner/hproxy-free-proxy-list)** (no key, no signup), or use the real-time API and full docs at **[hproxy.com/docs](https://hproxy.com/docs)**.
+
+## FAQ
+
+**How many free proxies are in this list?**
+Over 659,684 have been tracked all-time, and 35,980 are live and verified in the working pool right now. The published files hold the proxies confirmed working within the last 48 hours.
+
+**Which protocols are supported?**
+HTTP, HTTPS, SOCKS4 and SOCKS5. Each proxy is labelled with the protocols it actually answered on, not just the ones it was listed under.
+
+**How often is the list updated?**
+Continuously. New candidates are pulled from 100+ sources every few minutes, verified around the clock, and the files here are regenerated as results come in.
+
+**Are the proxies anonymous?**
+Each one is graded transparent, anonymous or elite based on whether it leaks your real IP. Filter on the `anonymity` field in `all.json` or `all.csv`.
+
+**How do I use a proxy in Python?**
+See [Use it in your code](#use-it-in-your-code) above. Pull `all.txt`, pick a line, and pass it to `requests` as an `http`/`https` proxy.
+
+**Do I need an API key or an account?**
+No. The raw files and the [Apify actor](https://apify.com/hproxy-owner/hproxy-free-proxy-list) are free with no signup.
+
+**Are free proxies safe to use?**
+Treat them as public and untrusted. They are great for web scraping, testing, and reaching geo-restricted content, but you should never send passwords, logins or sensitive data through a public proxy. For anything that matters, use dedicated proxies (see below).
+
+**How is this different from other free proxy lists?**
+Two things. First, every proxy here is actually verified and enriched (country, anonymity, latency, uptime), not just scraped and dumped. Second, this list is the superset of the ecosystem: we already aggregate the sources other lists pull from, so one file replaces all of them.
+
+## Sources we aggregate
+
+We continuously pull from 100+ public proxy sources, then dedupe, verify and enrich everything in one place. You do not need to check these individually: this list is their verified superset. A representative sample of what feeds it:
+
+- Large community lists: TheSpeedX/PROXY-List, monosans/proxy-list, proxifly/free-proxy-list, clarketm/proxy-list, roosterkid/openproxylist, databay-labs/free-proxy-list, hookzof/socks5_list, zloi-user/hideip.me
+- Aggregators and APIs: ProxyScrape, GeoNode, fyvri/fresh-proxy-list, vakhov/fresh-proxy-list
+- Checked archives: the checker.net public archive of user-verified working proxies
+- Public tables: free-proxy-list.net, hide.mn, proxydb.net, proxynova.com
+- ...and many more, added as new maintained sources appear.
+
+Found a public source we are not pulling from yet? [Open an issue](https://github.com/hproxy-com/free-proxy-list/issues) and we will add it to the engine.
+
 ## How it works
 
-1. **Aggregate** fresh candidates from 90+ public sources, around the clock.
+1. **Aggregate** fresh candidates from 100+ public sources, around the clock.
 2. **Verify** every proxy through HTTP, HTTPS, SOCKS4 and SOCKS5, 24/7.
-3. **Enrich** each live proxy with country, anonymity grade and latency.
+3. **Enrich** each live proxy with country, anonymity grade, latency and uptime.
 4. **Publish** the freshly verified list here, continuously.
 
 ## Powered by HProxy
 
-Free proxies die fast and are often already blocked. For proxies that stay up, [**HProxy**](https://hproxy.com) does residential, ISP, mobile and datacenter, billed by the gigabyte, from $0.99/GB.
+Free proxies die fast and are often already blocked. When you need proxies that stay up, [**HProxy**](https://hproxy.com) does residential, ISP, mobile and datacenter, billed by the gigabyte, from $0.44/GB.
 
-[Live list](https://hproxy.com/free-proxy-list) &nbsp;&middot;&nbsp; [Proxy checker](https://hproxy.com/proxy-checker) &nbsp;&middot;&nbsp; [Pricing](https://hproxy.com/residential)
+[Live list](https://hproxy.com/free-proxy-list) &nbsp;&middot;&nbsp; [Proxy checker](https://hproxy.com/proxy-checker) &nbsp;&middot;&nbsp; [Pricing](https://hproxy.com/residential) &nbsp;&middot;&nbsp; [Free API on Apify](https://apify.com/hproxy-owner/hproxy-free-proxy-list)
 
 ## Contributing
 
-Raw IPs cannot be added by pull request: the list regenerates every couple of minutes from the verification engine, so committed entries would be overwritten on the next update. The useful way to help is to [suggest a public proxy source](CONTRIBUTING.md) for the engine to pull from.
+Raw IPs cannot be added by pull request: the list regenerates every few minutes from the verification engine, so committed entries would be overwritten on the next update. The useful way to help is to [suggest a public proxy source](CONTRIBUTING.md) for the engine to pull from.
 
 ## Legal
 
 These proxies are aggregated from publicly available sources. We do not scan, port-scan or collect them ourselves, and we store nothing about the devices behind them. They are provided as-is, with no warranty, for lawful use only. You are responsible for how you use them: follow the GitHub Acceptable Use Policy and your local laws, and never route passwords or sensitive data through a public proxy. If an IP address is yours and you want it removed, open an issue.
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; continuously updated &nbsp;&middot;&nbsp; 2026-08-26 17:42 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; continuously updated &nbsp;&middot;&nbsp; 2026-08-26 18:19 UTC</sub></p>
