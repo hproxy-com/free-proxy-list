@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1788357283" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1788365741" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
   <a href="https://hproxy.com"><img src="https://img.shields.io/badge/Website-hproxy.com-0158FF?style=for-the-badge&labelColor=0B1220" alt="Website"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-749,823-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live-74,907-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-749,933-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live-74,354-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live"></a>
   <a href="https://github.com/hproxy-com/free-proxy-list/commits/main"><img src="https://img.shields.io/badge/Updated-continuously-0158FF?style=for-the-badge&labelColor=0B1220" alt="Updated"></a>
   <a href="https://apify.com/hproxy-owner/hproxy-free-proxy-list"><img src="https://img.shields.io/badge/Free_API-on_Apify-0158FF?style=for-the-badge&labelColor=0B1220" alt="Free API"></a>
   <a href="https://hproxy.com/proxy-checker"><img src="https://img.shields.io/badge/Proxy_Checker-Free-0158FF?style=for-the-badge&labelColor=0B1220" alt="Proxy Checker"></a>
@@ -15,13 +15,13 @@
 <p align="center"><b>The biggest free proxy list on the internet, continuously verified 24/7.</b></p>
 <p align="center"><sub>HTTP, HTTPS, SOCKS4 and SOCKS5 &middot; country, anonymity, latency and uptime on every IP &middot; updated 02.09.2026</sub></p>
 
-HProxy publishes the largest continuously verified list of free public proxies. We aggregate **100+ public sources** every few minutes, test every proxy through **HTTP, HTTPS, SOCKS4 and SOCKS5** around the clock, and enrich each working one with **country, anonymity grade, latency and uptime**. Over **749,823 proxies tracked all-time**, with **11,372** live right now and **74,907** working in the last 48h. Both are published: take `live.txt` if every entry must be up this second, `all.txt` if you want the wider pool that free proxies revive into. It is completely free, updated continuously, and needs no signup and no API key.
+HProxy publishes the largest continuously verified list of free public proxies. We aggregate **100+ public sources** every few minutes, test every proxy through **HTTP, HTTPS, SOCKS4 and SOCKS5** around the clock, and enrich each working one with **country, anonymity grade, latency and uptime**. Over **749,933 proxies tracked all-time**, with **10,860** live right now and **74,354** working in the last 48h. Both are published: take `live.txt` if every entry must be up this second, `all.txt` if you want the wider pool that free proxies revive into. It is completely free, updated continuously, and needs no signup and no API key.
 
 If you have been copying proxies from a dozen different repos and sites, you do not need to any more: this list is their verified superset. See [Sources we aggregate](#sources-we-aggregate).
 
 ## Quick facts
 
-- **749,823** proxies tracked all-time, **74,907** working in the last 48h
+- **749,933** proxies tracked all-time, **74,354** working in the last 48h
 - **4 protocols**: HTTP, HTTPS, SOCKS4, SOCKS5
 - Aggregated from **100+ public sources**, deduplicated and format-validated
 - **Verified around the clock**, list refreshed every few minutes
@@ -34,16 +34,16 @@ If you have been copying proxies from a dozen different repos and sites, you do 
 
 | List | Proxies | Formats |
 |------|--------:|---------|
-| **Live now** | 11,372 | [txt](live.txt) &middot; [json](live.json) &middot; [csv](live.csv) |
-| **All** (working in 48h) | 74,907 | [txt](all.txt) &middot; [json](all.json) &middot; [csv](all.csv) |
-| HTTP | 3,876 | [txt](http.txt) |
-| HTTPS | 2,930 | [txt](https.txt) |
-| SOCKS4 | 3,490 | [txt](socks4.txt) |
-| SOCKS5 | 6,357 | [txt](socks5.txt) |
-| Elite (high-anonymity) | 9,157 | [txt](elite.txt) |
-| Anonymous | 281 | [txt](anonymous.txt) |
-| Fast (under 2s) | 6,832 | [txt](fast.txt) |
-| United States (US) | 31,889 | [txt](by-country/US.txt) &middot; [all &raquo;](by-country) |
+| **Live now** | 10,860 | [txt](live.txt) &middot; [json](live.json) &middot; [csv](live.csv) |
+| **All** (working in 48h) | 74,354 | [txt](all.txt) &middot; [json](all.json) &middot; [csv](all.csv) |
+| HTTP | 3,706 | [txt](http.txt) |
+| HTTPS | 2,905 | [txt](https.txt) |
+| SOCKS4 | 3,433 | [txt](socks4.txt) |
+| SOCKS5 | 6,396 | [txt](socks5.txt) |
+| Elite (high-anonymity) | 8,447 | [txt](elite.txt) |
+| Anonymous | 602 | [txt](anonymous.txt) |
+| Fast (under 2s) | 6,717 | [txt](fast.txt) |
+| United States (US) | 31,364 | [txt](by-country/US.txt) &middot; [all &raquo;](by-country) |
 
 Text files are one `ip:port` per line. `all.json` and `all.csv` add protocol, anonymity, country, city, latency and uptime for every proxy.
 
@@ -52,18 +52,18 @@ Text files are one `ip:port` per line. `all.json` and `all.csv` add protocol, an
 
 | Country | Proxies | File |
 |---------|--------:|------|
-| United States (US) | 31,889 | [by-country/US.txt](by-country/US.txt) |
-| Indonesia (ID) | 4,239 | [by-country/ID.txt](by-country/ID.txt) |
+| United States (US) | 31,364 | [by-country/US.txt](by-country/US.txt) |
+| Indonesia (ID) | 4,238 | [by-country/ID.txt](by-country/ID.txt) |
 | China (CN) | 3,185 | [by-country/CN.txt](by-country/CN.txt) |
-| India (IN) | 2,869 | [by-country/IN.txt](by-country/IN.txt) |
-| Japan (JP) | 2,815 | [by-country/JP.txt](by-country/JP.txt) |
-| Australia (AU) | 2,703 | [by-country/AU.txt](by-country/AU.txt) |
-| Hong Kong (HK) | 1,964 | [by-country/HK.txt](by-country/HK.txt) |
-| Canada (CA) | 1,932 | [by-country/CA.txt](by-country/CA.txt) |
-| South Korea (KR) | 1,784 | [by-country/KR.txt](by-country/KR.txt) |
+| India (IN) | 2,873 | [by-country/IN.txt](by-country/IN.txt) |
+| Japan (JP) | 2,817 | [by-country/JP.txt](by-country/JP.txt) |
+| Australia (AU) | 2,708 | [by-country/AU.txt](by-country/AU.txt) |
+| Hong Kong (HK) | 1,968 | [by-country/HK.txt](by-country/HK.txt) |
+| Canada (CA) | 1,875 | [by-country/CA.txt](by-country/CA.txt) |
+| South Korea (KR) | 1,787 | [by-country/KR.txt](by-country/KR.txt) |
 | France (FR) | 1,728 | [by-country/FR.txt](by-country/FR.txt) |
-| Thailand (TH) | 1,566 | [by-country/TH.txt](by-country/TH.txt) |
-| South Africa (ZA) | 1,559 | [by-country/ZA.txt](by-country/ZA.txt) |
+| Thailand (TH) | 1,564 | [by-country/TH.txt](by-country/TH.txt) |
+| South Africa (ZA) | 1,561 | [by-country/ZA.txt](by-country/ZA.txt) |
 | _+124 more countries_ | | [full by-country/ folder &raquo;](by-country) |
 
 </details>
@@ -129,7 +129,7 @@ Prefer a hosted API with country and protocol filtering and no repo cloning? Run
 ## FAQ
 
 **How many free proxies are in this list?**
-Over 749,823 have been tracked all-time, and 74,907 were working within the last 48h. The published files hold exactly those proxies.
+Over 749,933 have been tracked all-time, and 74,354 were working within the last 48h. The published files hold exactly those proxies.
 
 **Which protocols are supported?**
 HTTP, HTTPS, SOCKS4 and SOCKS5. Each proxy is labelled with the protocols it actually answered on, not just the ones it was listed under.
@@ -179,4 +179,4 @@ Raw IPs cannot be added by pull request: the list regenerates every few minutes 
 
 These proxies are aggregated from publicly available sources. We do not scan, port-scan or collect them ourselves, and we store nothing about the devices behind them. They are provided as-is, with no warranty, for lawful use only. You are responsible for how you use them: follow the GitHub Acceptable Use Policy and your local laws, and never route passwords or sensitive data through a public proxy. If an IP address is yours and you want it removed, open an issue.
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; continuously updated &nbsp;&middot;&nbsp; 2026-09-02 13:54 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; continuously updated &nbsp;&middot;&nbsp; 2026-09-02 16:15 UTC</sub></p>
