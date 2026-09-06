@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="120" viewBox="0 0 760 120" role="img" aria-label="A teljes lista megtekintése a hproxy.com oldalon">
+  <defs>
+    <linearGradient id="cta-bg" x1="0" y1="0" x2="760" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3D7BFF"/>
+      <stop offset="0.55" stop-color="#0158FF"/>
+      <stop offset="1" stop-color="#013599"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="758" height="118" rx="22" fill="url(#cta-bg)" stroke="#8FB4FF" stroke-opacity="0.35" stroke-width="2"/>
+  <g transform="translate(36,34) scale(2)" fill="#FFFFFF">
+    <path d="M0 0V0C3.98547 0 7.21633 3.23086 7.21633 7.21633V26H0V0Z"/>
+    <rect x="14.2188" width="7.21633" height="26"/>
+    <path d="M7.2349 26H0V15.9714C0 12.4548 2.85076 9.60408 6.36735 9.60408H14.2204V0H21.4367V10.4531C21.4367 13.9696 18.586 16.8204 15.0694 16.8204H7.2349V26Z"/>
+  </g>
+  <text x="395" y="49" text-anchor="middle" font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="-0.3" fill="#FFFFFF">A teljes lista megtekintése</text>
+  <text x="395" y="92" text-anchor="middle" font-family="'Geist','Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="-0.3" fill="#FFFFFF">a hproxy.com oldalon</text>
+  <path d="M700 46 L714 60 L700 74" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.9"/>
+</svg>
