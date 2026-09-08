@@ -1,46 +1,46 @@
 # Free proxies by country
 
-26,145 working proxies across 135 countries, updated 08.09.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
+26,067 working proxies across 135 countries, updated 08.09.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
 
 | Flag | Country | Code | Alive proxies |
 |:----:|---------|:----:|--------------:|
-| 🇺🇸 | United States | [US](US.txt) | 13,154 |
-| 🇮🇩 | Indonesia | [ID](ID.txt) | 3,462 |
-| 🇨🇳 | China | [CN](CN.txt) | 501 |
-| 🇵🇭 | Philippines | [PH](PH.txt) | 495 |
-| 🇳🇱 | Netherlands | [NL](NL.txt) | 483 |
-| 🇮🇳 | India | [IN](IN.txt) | 473 |
+| 🇺🇸 | United States | [US](US.txt) | 13,155 |
+| 🇮🇩 | Indonesia | [ID](ID.txt) | 3,453 |
+| 🇨🇳 | China | [CN](CN.txt) | 500 |
+| 🇵🇭 | Philippines | [PH](PH.txt) | 493 |
+| 🇮🇳 | India | [IN](IN.txt) | 474 |
+| 🇳🇱 | Netherlands | [NL](NL.txt) | 473 |
 | 🇷🇺 | Russia | [RU](RU.txt) | 459 |
-| 🇨🇴 | Colombia | [CO](CO.txt) | 449 |
-| 🇧🇩 | Bangladesh | [BD](BD.txt) | 416 |
-| 🇲🇽 | Mexico | [MX](MX.txt) | 391 |
-| 🇩🇪 | Germany | [DE](DE.txt) | 378 |
-| 🇧🇷 | Brazil | [BR](BR.txt) | 357 |
-| 🇭🇰 | Hong Kong | [HK](HK.txt) | 272 |
-| 🇹🇭 | Thailand | [TH](TH.txt) | 268 |
+| 🇨🇴 | Colombia | [CO](CO.txt) | 450 |
+| 🇧🇩 | Bangladesh | [BD](BD.txt) | 406 |
+| 🇲🇽 | Mexico | [MX](MX.txt) | 390 |
+| 🇩🇪 | Germany | [DE](DE.txt) | 375 |
+| 🇧🇷 | Brazil | [BR](BR.txt) | 358 |
+| 🇭🇰 | Hong Kong | [HK](HK.txt) | 273 |
+| 🇹🇭 | Thailand | [TH](TH.txt) | 265 |
 | 🇻🇪 | Venezuela | [VE](VE.txt) | 243 |
-| 🇸🇬 | Singapore | [SG](SG.txt) | 233 |
+| 🇸🇬 | Singapore | [SG](SG.txt) | 230 |
 | 🇻🇳 | Vietnam | [VN](VN.txt) | 227 |
 | 🇫🇷 | France | [FR](FR.txt) | 224 |
 | 🇩🇴 | Dominican Republic | [DO](DO.txt) | 188 |
-| 🇦🇷 | Argentina | [AR](AR.txt) | 177 |
-| 🇪🇨 | Ecuador | [EC](EC.txt) | 169 |
+| 🇦🇷 | Argentina | [AR](AR.txt) | 176 |
+| 🇪🇨 | Ecuador | [EC](EC.txt) | 170 |
 | 🇰🇷 | South Korea | [KR](KR.txt) | 158 |
 | 🇵🇪 | Peru | [PE](PE.txt) | 148 |
-| 🇬🇧 | United Kingdom | [GB](GB.txt) | 142 |
-| 🇯🇵 | Japan | [JP](JP.txt) | 132 |
-| 🇲🇾 | Malaysia | [MY](MY.txt) | 131 |
+| 🇬🇧 | United Kingdom | [GB](GB.txt) | 138 |
 | 🇹🇷 | Turkey | [TR](TR.txt) | 129 |
+| 🇲🇾 | Malaysia | [MY](MY.txt) | 128 |
+| 🇯🇵 | Japan | [JP](JP.txt) | 125 |
 | 🇮🇷 | Iran | [IR](IR.txt) | 123 |
 | 🇵🇰 | Pakistan | [PK](PK.txt) | 120 |
 | 🇿🇦 | South Africa | [ZA](ZA.txt) | 98 |
 | 🇨🇱 | Chile | [CL](CL.txt) | 96 |
-| 🇦🇪 | United Arab Emirates | [AE](AE.txt) | 94 |
-| 🇫🇮 | Finland | [FI](FI.txt) | 92 |
+| 🇦🇪 | United Arab Emirates | [AE](AE.txt) | 93 |
 | 🇺🇦 | Ukraine | [UA](UA.txt) | 91 |
 | 🇰🇭 | Cambodia | [KH](KH.txt) | 82 |
 | 🇪🇬 | Egypt | [EG](EG.txt) | 75 |
-| 🇱🇾 | Libya | [LY](LY.txt) | 74 |
+| 🇫🇮 | Finland | [FI](FI.txt) | 74 |
+| 🇱🇾 | Libya | [LY](LY.txt) | 73 |
 | 🇰🇪 | Kenya | [KE](KE.txt) | 66 |
 | 🇵🇱 | Poland | [PL](PL.txt) | 64 |
 | 🇨🇦 | Canada | [CA](CA.txt) | 52 |
@@ -57,9 +57,9 @@
 | 🇭🇺 | Hungary | [HU](HU.txt) | 37 |
 | 🇹🇼 | Taiwan | [TW](TW.txt) | 33 |
 | 🇰🇿 | Kazakhstan | [KZ](KZ.txt) | 32 |
+| 🇳🇬 | Nigeria | [NG](NG.txt) | 29 |
 | 🇬🇪 | Georgia | [GE](GE.txt) | 28 |
-| 🇳🇬 | Nigeria | [NG](NG.txt) | 28 |
-| 🇸🇨 | Seychelles | [SC](SC.txt) | 27 |
+| 🇸🇨 | Seychelles | [SC](SC.txt) | 26 |
 | 🇮🇶 | Iraq | [IQ](IQ.txt) | 24 |
 | 🇦🇹 | Austria | [AT](AT.txt) | 23 |
 | 🇨🇭 | Switzerland | [CH](CH.txt) | 22 |
@@ -77,16 +77,16 @@
 | 🇧🇴 | Bolivia | [BO](BO.txt) | 13 |
 | 🇲🇳 | Mongolia | [MN](MN.txt) | 13 |
 | 🇱🇻 | Latvia | [LV](LV.txt) | 12 |
-| 🇲🇦 | Morocco | [MA](MA.txt) | 12 |
+| 🇲🇦 | Morocco | [MA](MA.txt) | 11 |
 | 🇵🇦 | Panama | [PA](PA.txt) | 11 |
 | 🇧🇼 | Botswana | [BW](BW.txt) | 10 |
 | 🇬🇷 | Greece | [GR](GR.txt) | 9 |
 | 🇱🇧 | Lebanon | [LB](LB.txt) | 9 |
-| 🇱🇹 | Lithuania | [LT](LT.txt) | 9 |
 | 🇽🇰 | Kosovo | [XK](XK.txt) | 9 |
 | 🇾🇪 | Yemen | [YE](YE.txt) | 9 |
 | 🇪🇪 | Estonia | [EE](EE.txt) | 8 |
 | 🇬🇭 | Ghana | [GH](GH.txt) | 8 |
+| 🇱🇹 | Lithuania | [LT](LT.txt) | 8 |
 | 🇦🇫 | Afghanistan | [AF](AF.txt) | 7 |
 | 🇭🇷 | Croatia | [HR](HR.txt) | 7 |
 | 🇦🇿 | Azerbaijan | [AZ](AZ.txt) | 6 |
