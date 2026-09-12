@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1789205232" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1789206914" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
   <a href="https://hproxy.com"><img src="https://img.shields.io/badge/Website-hproxy.com-0158FF?style=for-the-badge&labelColor=0B1220" alt="Website"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-774,814-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-6,233-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-30,193-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-774,828-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-5,744-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-30,068-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
   <a href="https://github.com/hproxy-com/free-proxy-list/commits/main"><img src="https://img.shields.io/badge/Updated-several_times_a_day-0158FF?style=for-the-badge&labelColor=0B1220" alt="Updated"></a>
   <a href="https://hproxy.com/docs/free-proxy-list"><img src="https://img.shields.io/badge/Free_API-no_key-0158FF?style=for-the-badge&labelColor=0B1220" alt="Free API"></a>
   <a href="https://hproxy.com/proxy-checker"><img src="https://img.shields.io/badge/Proxy_Checker-Free-0158FF?style=for-the-badge&labelColor=0B1220" alt="Proxy Checker"></a>
@@ -17,17 +17,17 @@
 
 # รายการพร็อกซีฟรี ตรวจสอบตลอด 24 ชั่วโมง
 
-<p align="center"><b>ตอนนี้มีพร็อกซีฟรี 6,233 ตัวที่ใช้งานได้ 30,193 ตัวทำงานใน 48 ชั่วโมงที่ผ่านมา และทุกตัวผ่านการทดสอบและติดป้ายกำกับแล้ว</b></p>
+<p align="center"><b>ตอนนี้มีพร็อกซีฟรี 5,744 ตัวที่ใช้งานได้ 30,068 ตัวทำงานใน 48 ชั่วโมงที่ผ่านมา และทุกตัวผ่านการทดสอบและติดป้ายกำกับแล้ว</b></p>
 <p align="center"><sub>HTTP, HTTPS, SOCKS4 และ SOCKS5 &middot; ประเทศ ความนิรนาม ความหน่วง และอัปไทม์ในทุกแถว &middot; อัปเดต 12.09.2026</sub></p>
-<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/th.svg?v=1789205232" alt="ดูรายการทั้งหมดที่ hproxy.com" width="520"></a></p>
+<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/th.svg?v=1789206914" alt="ดูรายการทั้งหมดที่ hproxy.com" width="520"></a></p>
 
-นี่คือรายการพร็อกซีฟรีที่เผยแพร่โดย [HProxy](https://hproxy.com/free-proxy-list) เอนจินจะดึงตัวเลือกจากแหล่งสาธารณะมากกว่า 100 แห่งทุกสองสามนาที ทดสอบแต่ละตัวผ่าน HTTP, HTTPS, SOCKS4 และ SOCKS5 แล้วบันทึกประเทศ ระดับความนิรนาม ความหน่วง และอัปไทม์ของทุกพร็อกซีที่ตอบกลับ จนถึงตอนนี้ติดตามพร็อกซีไปแล้ว **774,814** ตัว **6,233** ตัวใช้งานได้ในนาทีนี้ และ **30,193** ตัวตอบกลับใน 48 ชั่วโมงที่ผ่านมา และเผยแพร่ทั้งสองชุด: `live.txt` มีเฉพาะที่ใช้งานได้ตอนนี้ ส่วน `all.txt` มีกลุ่มที่กว้างกว่าซึ่งพร็อกซีฟรีเข้าออกอยู่เสมอ ไม่ต้องสมัคร ไม่ต้องใช้คีย์ API และดึงไฟล์ได้บ่อยเท่าที่ต้องการ
+นี่คือรายการพร็อกซีฟรีที่เผยแพร่โดย [HProxy](https://hproxy.com/free-proxy-list) เอนจินจะดึงตัวเลือกจากแหล่งสาธารณะมากกว่า 100 แห่งทุกสองสามนาที ทดสอบแต่ละตัวผ่าน HTTP, HTTPS, SOCKS4 และ SOCKS5 แล้วบันทึกประเทศ ระดับความนิรนาม ความหน่วง และอัปไทม์ของทุกพร็อกซีที่ตอบกลับ จนถึงตอนนี้ติดตามพร็อกซีไปแล้ว **774,828** ตัว **5,744** ตัวใช้งานได้ในนาทีนี้ และ **30,068** ตัวตอบกลับใน 48 ชั่วโมงที่ผ่านมา และเผยแพร่ทั้งสองชุด: `live.txt` มีเฉพาะที่ใช้งานได้ตอนนี้ ส่วน `all.txt` มีกลุ่มที่กว้างกว่าซึ่งพร็อกซีฟรีเข้าออกอยู่เสมอ ไม่ต้องสมัคร ไม่ต้องใช้คีย์ API และดึงไฟล์ได้บ่อยเท่าที่ต้องการ
 
 หากคุณเก็บพร็อกซีจากรีโปและเว็บไซต์เป็นโหล รายการนี้มีอยู่ครบแล้ว มันสร้างจากแหล่งสาธารณะเดียวกันแล้วนำมาตรวจสอบ ดู [แหล่งที่เรารวบรวม](#แหลงทีเรารวบรวม)
 
 ## สรุปสั้น ๆ
 
-- ติดตามแล้ว **774,814** ตัว **6,233** ตัวใช้งานได้ตอนนี้ **30,193** ตัวทำงานใน 48 ชั่วโมงที่ผ่านมา
+- ติดตามแล้ว **774,828** ตัว **5,744** ตัวใช้งานได้ตอนนี้ **30,068** ตัวทำงานใน 48 ชั่วโมงที่ผ่านมา
 - **4 โปรโตคอล**: HTTP, HTTPS, SOCKS4 และ SOCKS5 และทุกพร็อกซีติดป้ายด้วยโปรโตคอลที่มันตอบกลับจริง
 - ดึงจาก **แหล่งสาธารณะมากกว่า 100 แห่ง** ตัดข้อมูลซ้ำ และทดสอบซ้ำตลอด 24 ชั่วโมง
 - รีโปนี้รีเฟรชวันละหลายครั้ง (รายการคอมมิตแสดงทุกการรีเฟรช) ส่วน[รายการสดที่ hproxy.com](https://hproxy.com/free-proxy-list) รีเฟรชทุกสองสามนาที
@@ -40,16 +40,16 @@
 
 | รายการ | พร็อกซี | รูปแบบ | ที่ hproxy.com |
 |------|--------:|---------|---------|
-| **ใช้งานได้ตอนนี้** | 6,233 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| **ทั้งหมด** (ตอบกลับใน 48 ชั่วโมงที่ผ่านมา) | 30,193 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| HTTP | 3,776 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
-| HTTPS | 1,979 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
-| SOCKS4 | 505 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
-| SOCKS5 | 953 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
-| Elite (นิรนามสูง) | 3,590 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
-| Anonymous (นิรนาม) | 1,742 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
-| Fast (ต่ำกว่า 2 วินาที) | 805 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| United States (US) | 16,896 | [txt](../by-country/US.txt) &middot; [ทั้งหมด &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| **ใช้งานได้ตอนนี้** | 5,744 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| **ทั้งหมด** (ตอบกลับใน 48 ชั่วโมงที่ผ่านมา) | 30,068 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| HTTP | 3,338 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
+| HTTPS | 1,763 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
+| SOCKS4 | 467 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
+| SOCKS5 | 973 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
+| Elite (นิรนามสูง) | 3,377 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
+| Anonymous (นิรนาม) | 1,635 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
+| Fast (ต่ำกว่า 2 วินาที) | 827 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| United States (US) | 16,920 | [txt](../by-country/US.txt) &middot; [ทั้งหมด &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
 
 ไฟล์ข้อความมี `ip:port` หนึ่งรายการต่อบรรทัด ส่วน `all.json` และ `all.csv` เพิ่มโปรโตคอล ระดับความนิรนาม ประเทศ เมือง ความหน่วง และอัปไทม์ของทุกพร็อกซี
 
@@ -58,18 +58,18 @@
 
 | ประเทศ | พร็อกซี | ไฟล์ | ที่ hproxy.com |
 |---------|--------:|------|------|
-| United States (US) | 16,896 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
-| Indonesia (ID) | 3,525 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
-| India (IN) | 616 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
-| China (CN) | 523 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
+| United States (US) | 16,920 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| Indonesia (ID) | 3,519 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
+| India (IN) | 608 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
+| China (CN) | 522 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
 | Russia (RU) | 458 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
 | Colombia (CO) | 449 | [by-country/CO.txt](../by-country/CO.txt) | [hproxy.com/free-proxy-list/colombia](https://hproxy.com/free-proxy-list/colombia) |
 | Philippines (PH) | 444 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
-| Mexico (MX) | 433 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
-| Brazil (BR) | 406 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
-| Bangladesh (BD) | 396 | [by-country/BD.txt](../by-country/BD.txt) | [hproxy.com/free-proxy-list/bangladesh](https://hproxy.com/free-proxy-list/bangladesh) |
-| Germany (DE) | 383 | [by-country/DE.txt](../by-country/DE.txt) | [hproxy.com/free-proxy-list/germany](https://hproxy.com/free-proxy-list/germany) |
-| France (FR) | 323 | [by-country/FR.txt](../by-country/FR.txt) | [hproxy.com/free-proxy-list/france](https://hproxy.com/free-proxy-list/france) |
+| Mexico (MX) | 429 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
+| Brazil (BR) | 405 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
+| Bangladesh (BD) | 395 | [by-country/BD.txt](../by-country/BD.txt) | [hproxy.com/free-proxy-list/bangladesh](https://hproxy.com/free-proxy-list/bangladesh) |
+| Germany (DE) | 376 | [by-country/DE.txt](../by-country/DE.txt) | [hproxy.com/free-proxy-list/germany](https://hproxy.com/free-proxy-list/germany) |
+| France (FR) | 311 | [by-country/FR.txt](../by-country/FR.txt) | [hproxy.com/free-proxy-list/france](https://hproxy.com/free-proxy-list/france) |
 | _อีก 122 ประเทศ_ | | [โฟลเดอร์ by-country ทั้งหมด &raquo;](../by-country) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
 
 </details>
@@ -153,7 +153,7 @@ curl https://cdn.jsdelivr.net/gh/hproxy-com/free-proxy-list@main/all.json       
 ## คำถามที่พบบ่อย
 
 **รายการนี้มีพร็อกซีฟรีกี่ตัว?**
-ติดตามแล้ว 774,814 ตัว 6,233 ตัวใช้งานได้ในนาทีนี้ และ 30,193 ตัวตอบกลับใน 48 ชั่วโมงที่ผ่านมา และไฟล์ที่เผยแพร่มีจำนวนเท่านี้พอดี
+ติดตามแล้ว 774,828 ตัว 5,744 ตัวใช้งานได้ในนาทีนี้ และ 30,068 ตัวตอบกลับใน 48 ชั่วโมงที่ผ่านมา และไฟล์ที่เผยแพร่มีจำนวนเท่านี้พอดี
 
 **รองรับโปรโตคอลใดบ้าง?**
 HTTP, HTTPS, SOCKS4 และ SOCKS5 ทุกพร็อกซีติดป้ายด้วยโปรโตคอลที่มันตอบกลับจริง ไม่ใช่โปรโตคอลที่ถูกลงรายการไว้
@@ -206,4 +206,4 @@ HTTP, HTTPS, SOCKS4 และ SOCKS5 ทุกพร็อกซีติดป�
 
 พร็อกซีเหล่านี้รวบรวมจากแหล่งที่เปิดเผยต่อสาธารณะ เราไม่สแกนหาพวกมัน และไม่เก็บข้อมูลใด ๆ เกี่ยวกับอุปกรณ์เบื้องหลัง พวกมันถูกให้ตามสภาพ ไม่มีการรับประกัน สำหรับการใช้งานที่ถูกกฎหมายเท่านั้น คุณรับผิดชอบวิธีการใช้งานเอง: ปฏิบัติตามนโยบายการใช้งานที่ยอมรับได้ของ GitHub และกฎหมายท้องถิ่นของคุณ และอย่าส่งรหัสผ่านหรือข้อมูลอ่อนไหวผ่านพร็อกซีสาธารณะ หากที่อยู่ IP เป็นของคุณและต้องการให้ลบออก โปรดเปิด issue
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; รีเฟรชวันละหลายครั้ง &nbsp;&middot;&nbsp; 2026-09-12 09:27 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; รีเฟรชวันละหลายครั้ง &nbsp;&middot;&nbsp; 2026-09-12 09:55 UTC</sub></p>
