@@ -1,71 +1,71 @@
 # Free proxies by country
 
-32,183 working proxies across 135 countries, updated 14.09.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
+32,152 working proxies across 135 countries, updated 15.09.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
 
 | Flag | Country | Code | Alive proxies |
 |:----:|---------|:----:|--------------:|
-| 🇺🇸 | United States | [US](US.txt) | 19,674 |
+| 🇺🇸 | United States | [US](US.txt) | 19,683 |
 | 🇮🇩 | Indonesia | [ID](ID.txt) | 3,502 |
-| 🇨🇳 | China | [CN](CN.txt) | 563 |
-| 🇮🇳 | India | [IN](IN.txt) | 540 |
-| 🇷🇺 | Russia | [RU](RU.txt) | 505 |
-| 🇨🇴 | Colombia | [CO](CO.txt) | 445 |
-| 🇵🇭 | Philippines | [PH](PH.txt) | 426 |
-| 🇧🇩 | Bangladesh | [BD](BD.txt) | 384 |
+| 🇨🇳 | China | [CN](CN.txt) | 565 |
+| 🇮🇳 | India | [IN](IN.txt) | 539 |
+| 🇷🇺 | Russia | [RU](RU.txt) | 503 |
+| 🇨🇴 | Colombia | [CO](CO.txt) | 446 |
+| 🇵🇭 | Philippines | [PH](PH.txt) | 425 |
+| 🇧🇩 | Bangladesh | [BD](BD.txt) | 385 |
 | 🇧🇷 | Brazil | [BR](BR.txt) | 382 |
-| 🇲🇽 | Mexico | [MX](MX.txt) | 382 |
-| 🇩🇪 | Germany | [DE](DE.txt) | 314 |
+| 🇲🇽 | Mexico | [MX](MX.txt) | 381 |
+| 🇩🇪 | Germany | [DE](DE.txt) | 313 |
 | 🇰🇷 | South Korea | [KR](KR.txt) | 310 |
-| 🇻🇳 | Vietnam | [VN](VN.txt) | 248 |
-| 🇳🇱 | Netherlands | [NL](NL.txt) | 234 |
+| 🇻🇳 | Vietnam | [VN](VN.txt) | 249 |
+| 🇳🇱 | Netherlands | [NL](NL.txt) | 235 |
+| 🇫🇷 | France | [FR](FR.txt) | 234 |
 | 🇻🇪 | Venezuela | [VE](VE.txt) | 234 |
-| 🇫🇷 | France | [FR](FR.txt) | 233 |
 | 🇩🇴 | Dominican Republic | [DO](DO.txt) | 191 |
-| 🇭🇰 | Hong Kong | [HK](HK.txt) | 183 |
-| 🇦🇷 | Argentina | [AR](AR.txt) | 177 |
+| 🇭🇰 | Hong Kong | [HK](HK.txt) | 184 |
+| 🇦🇷 | Argentina | [AR](AR.txt) | 178 |
 | 🇪🇨 | Ecuador | [EC](EC.txt) | 172 |
-| 🇹🇭 | Thailand | [TH](TH.txt) | 172 |
+| 🇹🇭 | Thailand | [TH](TH.txt) | 171 |
 | 🇸🇬 | Singapore | [SG](SG.txt) | 146 |
 | 🇵🇪 | Peru | [PE](PE.txt) | 141 |
-| 🇮🇷 | Iran | [IR](IR.txt) | 126 |
+| 🇮🇷 | Iran | [IR](IR.txt) | 125 |
 | 🇵🇰 | Pakistan | [PK](PK.txt) | 123 |
 | 🇹🇷 | Turkey | [TR](TR.txt) | 121 |
 | 🇿🇦 | South Africa | [ZA](ZA.txt) | 100 |
-| 🇲🇦 | Morocco | [MA](MA.txt) | 99 |
-| 🇨🇱 | Chile | [CL](CL.txt) | 95 |
+| 🇨🇱 | Chile | [CL](CL.txt) | 96 |
 | 🇺🇦 | Ukraine | [UA](UA.txt) | 95 |
-| 🇬🇧 | United Kingdom | [GB](GB.txt) | 86 |
+| 🇬🇧 | United Kingdom | [GB](GB.txt) | 85 |
 | 🇪🇬 | Egypt | [EG](EG.txt) | 84 |
 | 🇰🇭 | Cambodia | [KH](KH.txt) | 77 |
-| 🇫🇮 | Finland | [FI](FI.txt) | 74 |
 | 🇱🇾 | Libya | [LY](LY.txt) | 74 |
+| 🇫🇮 | Finland | [FI](FI.txt) | 72 |
 | 🇰🇪 | Kenya | [KE](KE.txt) | 70 |
-| 🇯🇵 | Japan | [JP](JP.txt) | 69 |
-| 🇵🇱 | Poland | [PL](PL.txt) | 69 |
-| 🇲🇾 | Malaysia | [MY](MY.txt) | 65 |
+| 🇵🇱 | Poland | [PL](PL.txt) | 70 |
+| 🇯🇵 | Japan | [JP](JP.txt) | 67 |
+| 🇲🇾 | Malaysia | [MY](MY.txt) | 66 |
+| 🇲🇦 | Morocco | [MA](MA.txt) | 64 |
 | 🇨🇦 | Canada | [CA](CA.txt) | 59 |
 | 🇧🇬 | Bulgaria | [BG](BG.txt) | 49 |
 | 🇬🇹 | Guatemala | [GT](GT.txt) | 47 |
 | 🇵🇾 | Paraguay | [PY](PY.txt) | 46 |
-| 🇭🇳 | Honduras | [HN](HN.txt) | 42 |
+| 🇭🇳 | Honduras | [HN](HN.txt) | 41 |
 | 🇨🇿 | Czechia | [CZ](CZ.txt) | 40 |
-| 🇦🇪 | United Arab Emirates | [AE](AE.txt) | 38 |
 | 🇳🇵 | Nepal | [NP](NP.txt) | 38 |
 | 🇸🇾 | Syria | [SY](SY.txt) | 38 |
+| 🇦🇪 | United Arab Emirates | [AE](AE.txt) | 37 |
 | 🇭🇺 | Hungary | [HU](HU.txt) | 37 |
 | 🇮🇹 | Italy | [IT](IT.txt) | 37 |
 | 🇸🇪 | Sweden | [SE](SE.txt) | 37 |
 | 🇪🇸 | Spain | [ES](ES.txt) | 33 |
 | 🇳🇬 | Nigeria | [NG](NG.txt) | 33 |
-| 🇰🇿 | Kazakhstan | [KZ](KZ.txt) | 29 |
 | 🇹🇼 | Taiwan | [TW](TW.txt) | 29 |
 | 🇬🇪 | Georgia | [GE](GE.txt) | 28 |
 | 🇮🇶 | Iraq | [IQ](IQ.txt) | 28 |
+| 🇰🇿 | Kazakhstan | [KZ](KZ.txt) | 28 |
 | 🇨🇭 | Switzerland | [CH](CH.txt) | 24 |
 | 🇦🇱 | Albania | [AL](AL.txt) | 23 |
 | 🇦🇲 | Armenia | [AM](AM.txt) | 20 |
 | 🇵🇷 | Puerto Rico | [PR](PR.txt) | 20 |
-| 🇦🇺 | Australia | [AU](AU.txt) | 19 |
+| 🇦🇺 | Australia | [AU](AU.txt) | 18 |
 | 🇷🇴 | Romania | [RO](RO.txt) | 18 |
 | 🇵🇸 | Palestine | [PS](PS.txt) | 17 |
 | 🇦🇹 | Austria | [AT](AT.txt) | 16 |
