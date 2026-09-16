@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1789577480" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1789585971" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
   <a href="https://hproxy.com"><img src="https://img.shields.io/badge/Website-hproxy.com-0158FF?style=for-the-badge&labelColor=0B1220" alt="Website"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-785,101-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-6,905-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-36,395-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-785,145-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-4,092-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-36,405-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
   <a href="https://github.com/hproxy-com/free-proxy-list/commits/main"><img src="https://img.shields.io/badge/Updated-several_times_a_day-0158FF?style=for-the-badge&labelColor=0B1220" alt="Updated"></a>
   <a href="https://hproxy.com/docs/free-proxy-list"><img src="https://img.shields.io/badge/Free_API-no_key-0158FF?style=for-the-badge&labelColor=0B1220" alt="Free API"></a>
   <a href="https://hproxy.com/proxy-checker"><img src="https://img.shields.io/badge/Proxy_Checker-Free-0158FF?style=for-the-badge&labelColor=0B1220" alt="Proxy Checker"></a>
@@ -17,17 +17,17 @@
 
 # Danh sách proxy miễn phí, được kiểm tra suốt ngày đêm
 
-<p align="center"><b>6,905 proxy miễn phí đang hoạt động ngay lúc này, 36,395 đã hoạt động trong 48 giờ qua, và mỗi proxy đều được kiểm tra và gắn nhãn.</b></p>
+<p align="center"><b>4,092 proxy miễn phí đang hoạt động ngay lúc này, 36,405 đã hoạt động trong 48 giờ qua, và mỗi proxy đều được kiểm tra và gắn nhãn.</b></p>
 <p align="center"><sub>HTTP, HTTPS, SOCKS4 và SOCKS5 &middot; quốc gia, mức ẩn danh, độ trễ và thời gian hoạt động trên mỗi dòng &middot; cập nhật 16.09.2026</sub></p>
-<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/vi.svg?v=1789577480" alt="Xem danh sách đầy đủ trên hproxy.com" width="520"></a></p>
+<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/vi.svg?v=1789585971" alt="Xem danh sách đầy đủ trên hproxy.com" width="520"></a></p>
 
-Đây là danh sách proxy miễn phí do [HProxy](https://hproxy.com/free-proxy-list) công bố. Một công cụ thu thập ứng viên từ hơn 100 nguồn công khai vài phút một lần, kiểm tra từng proxy qua HTTP, HTTPS, SOCKS4 và SOCKS5, rồi ghi lại quốc gia, mức ẩn danh, độ trễ và thời gian hoạt động của mọi proxy có phản hồi. Đến nay nó đã theo dõi **785,101** proxy. **6,905** đang hoạt động ngay phút này và **36,395** đã phản hồi trong 48 giờ qua, và cả hai tập đều được công bố: `live.txt` chỉ chứa những gì đang chạy lúc này, `all.txt` chứa nhóm rộng hơn mà các proxy miễn phí ra vào liên tục. Không cần đăng ký, không cần khóa API, và bạn có thể tải các tệp bao nhiêu lần tùy ý.
+Đây là danh sách proxy miễn phí do [HProxy](https://hproxy.com/free-proxy-list) công bố. Một công cụ thu thập ứng viên từ hơn 100 nguồn công khai vài phút một lần, kiểm tra từng proxy qua HTTP, HTTPS, SOCKS4 và SOCKS5, rồi ghi lại quốc gia, mức ẩn danh, độ trễ và thời gian hoạt động của mọi proxy có phản hồi. Đến nay nó đã theo dõi **785,145** proxy. **4,092** đang hoạt động ngay phút này và **36,405** đã phản hồi trong 48 giờ qua, và cả hai tập đều được công bố: `live.txt` chỉ chứa những gì đang chạy lúc này, `all.txt` chứa nhóm rộng hơn mà các proxy miễn phí ra vào liên tục. Không cần đăng ký, không cần khóa API, và bạn có thể tải các tệp bao nhiêu lần tùy ý.
 
 Nếu bạn đang gom proxy từ hàng chục kho và trang web, danh sách này đã có sẵn chúng. Nó được xây từ cùng những nguồn công khai đó, rồi được kiểm tra. Xem [Các nguồn chúng tôi tổng hợp](#các-nguồn-chúng-tôi-tổng-hợp).
 
 ## Tóm tắt
 
-- **785,101** proxy đã theo dõi, **6,905** đang hoạt động ngay lúc này, **36,395** đã hoạt động trong 48 giờ qua
+- **785,145** proxy đã theo dõi, **4,092** đang hoạt động ngay lúc này, **36,405** đã hoạt động trong 48 giờ qua
 - **4 giao thức**: HTTP, HTTPS, SOCKS4 và SOCKS5, và mỗi proxy được gắn nhãn với những giao thức mà nó thực sự phản hồi
 - Thu thập từ **hơn 100 nguồn công khai**, loại bỏ trùng lặp và kiểm tra lại suốt ngày đêm
 - Kho này được làm mới nhiều lần mỗi ngày (danh sách commit cho thấy mỗi lần làm mới); [danh sách trực tiếp trên hproxy.com](https://hproxy.com/free-proxy-list) làm mới vài phút một lần
@@ -40,16 +40,16 @@ Nếu bạn đang gom proxy từ hàng chục kho và trang web, danh sách này
 
 | Danh sách | Proxy | Định dạng | Trên hproxy.com |
 |------|--------:|---------|---------|
-| **Đang hoạt động** | 6,905 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| **Tất cả** (đã phản hồi trong 48 giờ qua) | 36,395 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| HTTP | 3,774 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
-| HTTPS | 1,962 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
-| SOCKS4 | 640 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
-| SOCKS5 | 1,595 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
-| Elite (ẩn danh cao) | 4,241 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
-| Anonymous (ẩn danh) | 1,866 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
-| Fast (dưới 2 giây) | 975 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| United States (US) | 24,231 | [txt](../by-country/US.txt) &middot; [tất cả &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| **Đang hoạt động** | 4,092 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| **Tất cả** (đã phản hồi trong 48 giờ qua) | 36,405 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| HTTP | 1,733 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
+| HTTPS | 1,314 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
+| SOCKS4 | 629 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
+| SOCKS5 | 1,182 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
+| Elite (ẩn danh cao) | 2,699 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
+| Anonymous (ẩn danh) | 777 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
+| Fast (dưới 2 giây) | 959 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| United States (US) | 24,145 | [txt](../by-country/US.txt) &middot; [tất cả &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
 
 Tệp văn bản chứa một `ip:port` mỗi dòng. `all.json` và `all.csv` bổ sung giao thức, mức ẩn danh, quốc gia, thành phố, độ trễ và thời gian hoạt động của mỗi proxy.
 
@@ -58,17 +58,17 @@ Tệp văn bản chứa một `ip:port` mỗi dòng. `all.json` và `all.csv` b�
 
 | Quốc gia | Proxy | Tệp | Trên hproxy.com |
 |---------|--------:|------|------|
-| United States (US) | 24,231 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
-| Indonesia (ID) | 3,523 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
-| China (CN) | 572 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
-| Russia (RU) | 525 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
-| India (IN) | 485 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
+| United States (US) | 24,145 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| Indonesia (ID) | 3,521 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
+| China (CN) | 574 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
+| Russia (RU) | 524 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
+| India (IN) | 508 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
 | Colombia (CO) | 450 | [by-country/CO.txt](../by-country/CO.txt) | [hproxy.com/free-proxy-list/colombia](https://hproxy.com/free-proxy-list/colombia) |
-| Philippines (PH) | 412 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
-| Bangladesh (BD) | 388 | [by-country/BD.txt](../by-country/BD.txt) | [hproxy.com/free-proxy-list/bangladesh](https://hproxy.com/free-proxy-list/bangladesh) |
+| Philippines (PH) | 408 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
+| Bangladesh (BD) | 390 | [by-country/BD.txt](../by-country/BD.txt) | [hproxy.com/free-proxy-list/bangladesh](https://hproxy.com/free-proxy-list/bangladesh) |
 | Mexico (MX) | 385 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
-| Brazil (BR) | 374 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
-| Germany (DE) | 319 | [by-country/DE.txt](../by-country/DE.txt) | [hproxy.com/free-proxy-list/germany](https://hproxy.com/free-proxy-list/germany) |
+| Brazil (BR) | 375 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
+| Germany (DE) | 318 | [by-country/DE.txt](../by-country/DE.txt) | [hproxy.com/free-proxy-list/germany](https://hproxy.com/free-proxy-list/germany) |
 | Vietnam (VN) | 249 | [by-country/VN.txt](../by-country/VN.txt) | [hproxy.com/free-proxy-list/vietnam](https://hproxy.com/free-proxy-list/vietnam) |
 | _+124 quốc gia khác_ | | [toàn bộ thư mục by-country &raquo;](../by-country) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
 
@@ -153,7 +153,7 @@ Trong thực tế: dùng proxy miễn phí cho các trang công khai, kiểm th�
 ## Câu hỏi thường gặp
 
 **Danh sách này có bao nhiêu proxy miễn phí?**
-Đến nay đã theo dõi 785,101. 6,905 đang hoạt động ngay phút này và 36,395 đã phản hồi trong 48 giờ qua, và các tệp công bố chứa đúng những proxy đó.
+Đến nay đã theo dõi 785,145. 4,092 đang hoạt động ngay phút này và 36,405 đã phản hồi trong 48 giờ qua, và các tệp công bố chứa đúng những proxy đó.
 
 **Hỗ trợ những giao thức nào?**
 HTTP, HTTPS, SOCKS4 và SOCKS5. Mỗi proxy được gắn nhãn với những giao thức mà nó thực sự phản hồi, không phải những giao thức nó từng được liệt kê.
@@ -206,4 +206,4 @@ Không thể thêm proxy bằng pull request: danh sách được tạo lại t�
 
 Các proxy này được tổng hợp từ những nguồn công khai. Chúng tôi không quét để tìm chúng và không lưu gì về các thiết bị đứng sau. Chúng được cung cấp nguyên trạng, không bảo đảm, chỉ cho mục đích hợp pháp. Bạn chịu trách nhiệm về cách sử dụng: tuân thủ Chính sách sử dụng chấp nhận được của GitHub và luật pháp địa phương, và đừng bao giờ chuyển mật khẩu hay dữ liệu nhạy cảm qua proxy công khai. Nếu một địa chỉ IP là của bạn và bạn muốn gỡ bỏ, hãy mở một issue.
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; làm mới nhiều lần mỗi ngày &nbsp;&middot;&nbsp; 2026-09-16 16:51 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; làm mới nhiều lần mỗi ngày &nbsp;&middot;&nbsp; 2026-09-16 19:12 UTC</sub></p>
