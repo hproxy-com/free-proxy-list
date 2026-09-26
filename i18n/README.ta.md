@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1790416324" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1790424885" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
   <a href="https://hproxy.com"><img src="https://img.shields.io/badge/Website-hproxy.com-0158FF?style=for-the-badge&labelColor=0B1220" alt="Website"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-821,624-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-17,140-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-56,586-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-821,789-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-13,387-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-57,730-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
   <a href="https://github.com/hproxy-com/free-proxy-list/commits/main"><img src="https://img.shields.io/badge/Updated-several_times_a_day-0158FF?style=for-the-badge&labelColor=0B1220" alt="Updated"></a>
   <a href="https://hproxy.com/docs/free-proxy-list"><img src="https://img.shields.io/badge/Free_API-no_key-0158FF?style=for-the-badge&labelColor=0B1220" alt="Free API"></a>
   <a href="https://hproxy.com/proxy-checker"><img src="https://img.shields.io/badge/Proxy_Checker-Free-0158FF?style=for-the-badge&labelColor=0B1220" alt="Proxy Checker"></a>
@@ -17,17 +17,17 @@
 
 # இலவச ப்ராக்ஸி பட்டியல், நாள் முழுவதும் சரிபார்க்கப்படுகிறது
 
-<p align="center"><b>இந்த நொடியில் 17,140 இலவச ப்ராக்ஸிகள் இயங்குகின்றன, கடந்த 48 மணி நேரத்தில் 56,586 வேலை செய்தன, ஒவ்வொன்றும் சோதிக்கப்பட்டு லேபிளிடப்பட்டவை.</b></p>
+<p align="center"><b>இந்த நொடியில் 13,387 இலவச ப்ராக்ஸிகள் இயங்குகின்றன, கடந்த 48 மணி நேரத்தில் 57,730 வேலை செய்தன, ஒவ்வொன்றும் சோதிக்கப்பட்டு லேபிளிடப்பட்டவை.</b></p>
 <p align="center"><sub>HTTP, HTTPS, SOCKS4 மற்றும் SOCKS5 &middot; ஒவ்வொரு வரிசையிலும் நாடு, அநாமதேயம், தாமதம் மற்றும் அப்டைம் &middot; புதுப்பிப்பு 26.09.2026</sub></p>
-<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/ta.svg?v=1790416324" alt="முழுப் பட்டியலை hproxy.com இல் காண்க" width="520"></a></p>
+<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/ta.svg?v=1790424885" alt="முழுப் பட்டியலை hproxy.com இல் காண்க" width="520"></a></p>
 
-இது [HProxy](https://hproxy.com/free-proxy-list) வெளியிடும் இலவச ப்ராக்ஸி பட்டியல். ஒரு இயந்திரம் சில நிமிடங்களுக்கு ஒருமுறை 100க்கும் மேற்பட்ட பொது மூலங்களிலிருந்து வேட்பாளர்களைச் சேகரித்து, ஒவ்வொன்றையும் HTTP, HTTPS, SOCKS4 மற்றும் SOCKS5 வழியாகச் சோதித்து, பதிலளிக்கும் ஒவ்வொரு ப்ராக்ஸியின் நாடு, அநாமதேய நிலை, தாமதம் மற்றும் அப்டைமைப் பதிவு செய்கிறது. இதுவரை அது **821,624** ப்ராக்ஸிகளைக் கண்காணித்துள்ளது. **17,140** இந்த நிமிடத்தில் இயங்குகின்றன, **56,586** கடந்த 48 மணி நேரத்தில் பதிலளித்தன, இரு தொகுப்புகளும் வெளியிடப்படுகின்றன: `live.txt` இப்போது இயங்குவதை மட்டும் கொண்டுள்ளது, `all.txt` இலவச ப்ராக்ஸிகள் வந்து போகும் பெரிய தொகுப்பைக் கொண்டுள்ளது. பதிவு தேவையில்லை, API சாவி தேவையில்லை, கோப்புகளைத் தேவைப்படும் அளவு எடுக்கலாம்.
+இது [HProxy](https://hproxy.com/free-proxy-list) வெளியிடும் இலவச ப்ராக்ஸி பட்டியல். ஒரு இயந்திரம் சில நிமிடங்களுக்கு ஒருமுறை 100க்கும் மேற்பட்ட பொது மூலங்களிலிருந்து வேட்பாளர்களைச் சேகரித்து, ஒவ்வொன்றையும் HTTP, HTTPS, SOCKS4 மற்றும் SOCKS5 வழியாகச் சோதித்து, பதிலளிக்கும் ஒவ்வொரு ப்ராக்ஸியின் நாடு, அநாமதேய நிலை, தாமதம் மற்றும் அப்டைமைப் பதிவு செய்கிறது. இதுவரை அது **821,789** ப்ராக்ஸிகளைக் கண்காணித்துள்ளது. **13,387** இந்த நிமிடத்தில் இயங்குகின்றன, **57,730** கடந்த 48 மணி நேரத்தில் பதிலளித்தன, இரு தொகுப்புகளும் வெளியிடப்படுகின்றன: `live.txt` இப்போது இயங்குவதை மட்டும் கொண்டுள்ளது, `all.txt` இலவச ப்ராக்ஸிகள் வந்து போகும் பெரிய தொகுப்பைக் கொண்டுள்ளது. பதிவு தேவையில்லை, API சாவி தேவையில்லை, கோப்புகளைத் தேவைப்படும் அளவு எடுக்கலாம்.
 
 நீங்கள் டஜன் கணக்கான களஞ்சியங்களிலிருந்தும் தளங்களிலிருந்தும் ப்ராக்ஸிகளைச் சேகரித்து வந்திருந்தால், இந்தப் பட்டியலில் அவை ஏற்கனவே உள்ளன. அதே பொது மூலங்களிலிருந்து கட்டப்பட்டு, பின்னர் சரிபார்க்கப்பட்டது. பார்க்க: [நாங்கள் ஒருங்கிணைக்கும் மூலங்கள்](#நாஙகள-ஒருஙகிணைககும-மூலஙகள).
 
 ## சுருக்கமாக
 
-- இதுவரை **821,624** ப்ராக்ஸிகள் கண்காணிக்கப்பட்டன, **17,140** இப்போது இயங்குகின்றன, **56,586** கடந்த 48 மணி நேரத்தில் வேலை செய்தன
+- இதுவரை **821,789** ப்ராக்ஸிகள் கண்காணிக்கப்பட்டன, **13,387** இப்போது இயங்குகின்றன, **57,730** கடந்த 48 மணி நேரத்தில் வேலை செய்தன
 - **4 நெறிமுறைகள்**: HTTP, HTTPS, SOCKS4 மற்றும் SOCKS5; ஒவ்வொரு ப்ராக்ஸியும் உண்மையில் பதிலளித்த நெறிமுறைகளுடன் லேபிளிடப்பட்டுள்ளது
 - **100க்கும் மேற்பட்ட பொது மூலங்களிலிருந்து** சேகரிக்கப்பட்டு, நகல்கள் நீக்கப்பட்டு, நாள் முழுவதும் மீண்டும் சோதிக்கப்படுகிறது
 - இந்தக் களஞ்சியம் நாளொன்றுக்குப் பல முறை புதுப்பிக்கப்படுகிறது (commit பட்டியல் ஒவ்வொரு புதுப்பிப்பையும் காட்டுகிறது); [hproxy.com இல் உள்ள நேரடிப் பட்டியல்](https://hproxy.com/free-proxy-list) சில நிமிடங்களுக்கு ஒருமுறை புதுப்பிக்கப்படுகிறது
@@ -40,37 +40,37 @@
 
 | பட்டியல் | ப்ராக்ஸிகள் | வடிவங்கள் | hproxy.com இல் |
 |------|--------:|---------|---------|
-| **இப்போது இயங்குபவை** | 17,140 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| **அனைத்தும்** (கடந்த 48 மணி நேரத்தில் பதிலளித்தவை) | 56,586 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| HTTP | 11,329 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
-| HTTPS | 6,316 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
-| SOCKS4 | 701 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
-| SOCKS5 | 3,963 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
-| Elite (உயர் அநாமதேயம்) | 11,250 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
-| Anonymous (அநாமதேயம்) | 4,127 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
-| Fast (2 விநாடிகளுக்குள்) | 2,449 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| United States (US) | 38,968 | [txt](../by-country/US.txt) &middot; [அனைத்தும் &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| **இப்போது இயங்குபவை** | 13,387 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| **அனைத்தும்** (கடந்த 48 மணி நேரத்தில் பதிலளித்தவை) | 57,730 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| HTTP | 7,557 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
+| HTTPS | 4,080 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
+| SOCKS4 | 673 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
+| SOCKS5 | 4,015 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
+| Elite (உயர் அநாமதேயம்) | 9,027 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
+| Anonymous (அநாமதேயம்) | 3,298 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
+| Fast (2 விநாடிகளுக்குள்) | 1,591 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| United States (US) | 40,114 | [txt](../by-country/US.txt) &middot; [அனைத்தும் &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
 
 உரைக் கோப்புகளில் ஒரு வரிக்கு ஒரு `ip:port` உள்ளது. `all.json` மற்றும் `all.csv` ஒவ்வொரு ப்ராக்ஸியின் நெறிமுறை, அநாமதேய நிலை, நாடு, நகரம், தாமதம் மற்றும் அப்டைமைச் சேர்க்கின்றன.
 
 <details>
-<summary><b>நாடு வாரியாக இலவச ப்ராக்ஸிகள் (138 நாடுகள்)</b></summary>
+<summary><b>நாடு வாரியாக இலவச ப்ராக்ஸிகள் (137 நாடுகள்)</b></summary>
 
 | நாடு | ப்ராக்ஸிகள் | கோப்பு | hproxy.com இல் |
 |---------|--------:|------|------|
-| United States (US) | 38,968 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
-| Indonesia (ID) | 3,791 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
-| China (CN) | 899 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
-| India (IN) | 844 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
-| Brazil (BR) | 623 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
-| Canada (CA) | 584 | [by-country/CA.txt](../by-country/CA.txt) | [hproxy.com/free-proxy-list/canada](https://hproxy.com/free-proxy-list/canada) |
-| Russia (RU) | 575 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
+| United States (US) | 40,114 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| Indonesia (ID) | 3,790 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
+| China (CN) | 901 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
+| India (IN) | 843 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
+| Brazil (BR) | 624 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
+| Canada (CA) | 589 | [by-country/CA.txt](../by-country/CA.txt) | [hproxy.com/free-proxy-list/canada](https://hproxy.com/free-proxy-list/canada) |
+| Russia (RU) | 572 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
 | Japan (JP) | 520 | [by-country/JP.txt](../by-country/JP.txt) | [hproxy.com/free-proxy-list/japan](https://hproxy.com/free-proxy-list/japan) |
-| Mexico (MX) | 452 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
-| South Africa (ZA) | 451 | [by-country/ZA.txt](../by-country/ZA.txt) | [hproxy.com/free-proxy-list/south-africa](https://hproxy.com/free-proxy-list/south-africa) |
-| Philippines (PH) | 449 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
-| Germany (DE) | 436 | [by-country/DE.txt](../by-country/DE.txt) | [hproxy.com/free-proxy-list/germany](https://hproxy.com/free-proxy-list/germany) |
-| _மேலும் 126 நாடுகள்_ | | [முழு by-country கோப்புறை &raquo;](../by-country) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| Mexico (MX) | 456 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
+| Philippines (PH) | 450 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
+| South Africa (ZA) | 447 | [by-country/ZA.txt](../by-country/ZA.txt) | [hproxy.com/free-proxy-list/south-africa](https://hproxy.com/free-proxy-list/south-africa) |
+| Germany (DE) | 437 | [by-country/DE.txt](../by-country/DE.txt) | [hproxy.com/free-proxy-list/germany](https://hproxy.com/free-proxy-list/germany) |
+| _மேலும் 125 நாடுகள்_ | | [முழு by-country கோப்புறை &raquo;](../by-country) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
 
 </details>
 
@@ -153,7 +153,7 @@ curl https://cdn.jsdelivr.net/gh/hproxy-com/free-proxy-list@main/all.json       
 ## அடிக்கடி கேட்கப்படும் கேள்விகள்
 
 **இந்தப் பட்டியலில் எத்தனை இலவச ப்ராக்ஸிகள் உள்ளன?**
-இதுவரை 821,624 கண்காணிக்கப்பட்டுள்ளன. 17,140 இந்த நிமிடத்தில் இயங்குகின்றன, 56,586 கடந்த 48 மணி நேரத்தில் பதிலளித்தன, வெளியிடப்பட்ட கோப்புகளில் சரியாக அவையே உள்ளன.
+இதுவரை 821,789 கண்காணிக்கப்பட்டுள்ளன. 13,387 இந்த நிமிடத்தில் இயங்குகின்றன, 57,730 கடந்த 48 மணி நேரத்தில் பதிலளித்தன, வெளியிடப்பட்ட கோப்புகளில் சரியாக அவையே உள்ளன.
 
 **எந்த நெறிமுறைகள் ஆதரிக்கப்படுகின்றன?**
 HTTP, HTTPS, SOCKS4 மற்றும் SOCKS5. ஒவ்வொரு ப்ராக்ஸியும் பட்டியலிடப்பட்ட நெறிமுறைகளுடன் அல்ல, உண்மையில் பதிலளித்த நெறிமுறைகளுடன் லேபிளிடப்பட்டுள்ளது.
@@ -206,4 +206,4 @@ pull request மூலம் ப்ராக்ஸிகளைச் சேர�
 
 இந்த ப்ராக்ஸிகள் பொதுவில் கிடைக்கும் மூலங்களிலிருந்து ஒருங்கிணைக்கப்பட்டவை. அவற்றைத் தேட நாங்கள் scan செய்வதில்லை, அவற்றின் பின்னால் உள்ள சாதனங்கள் பற்றி எதையும் சேமிப்பதில்லை. அவை உள்ளபடியே, உத்தரவாதமின்றி, சட்டப்பூர்வ பயன்பாட்டிற்கு மட்டுமே வழங்கப்படுகின்றன. அவற்றை எப்படிப் பயன்படுத்துகிறீர்கள் என்பதற்கு நீங்களே பொறுப்பு: GitHub இன் ஏற்கத்தக்க பயன்பாட்டுக் கொள்கையையும் உங்கள் உள்ளூர்ச் சட்டங்களையும் பின்பற்றுங்கள், கடவுச்சொற்களையோ முக்கியத் தரவையோ ஒருபோதும் பொது ப்ராக்ஸி வழியாக அனுப்பாதீர்கள். ஒரு IP முகவரி உங்களுடையது என்றால், அதை நீக்க விரும்பினால், ஒரு issue திறங்கள்.
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; நாளொன்றுக்குப் பல முறை புதுப்பிக்கப்படுகிறது &nbsp;&middot;&nbsp; 2026-09-26 09:52 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; நாளொன்றுக்குப் பல முறை புதுப்பிக்கப்படுகிறது &nbsp;&middot;&nbsp; 2026-09-26 12:14 UTC</sub></p>
