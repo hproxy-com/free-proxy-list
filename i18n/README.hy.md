@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1791264995" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1791273148" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
   <a href="https://hproxy.com"><img src="https://img.shields.io/badge/Website-hproxy.com-0158FF?style=for-the-badge&labelColor=0B1220" alt="Website"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-893,472-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-5,767-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-36,086-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-893,548-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-6,059-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-36,227-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
   <a href="https://github.com/hproxy-com/free-proxy-list/commits/main"><img src="https://img.shields.io/badge/Updated-several_times_a_day-0158FF?style=for-the-badge&labelColor=0B1220" alt="Updated"></a>
   <a href="https://hproxy.com/docs/free-proxy-list"><img src="https://img.shields.io/badge/Free_API-no_key-0158FF?style=for-the-badge&labelColor=0B1220" alt="Free API"></a>
   <a href="https://hproxy.com/proxy-checker"><img src="https://img.shields.io/badge/Proxy_Checker-Free-0158FF?style=for-the-badge&labelColor=0B1220" alt="Proxy Checker"></a>
@@ -17,17 +17,17 @@
 
 # Անվճար պրոքսիների ցանկ՝ ստուգված շուրջօրյա
 
-<p align="center"><b>Այս պահին 5,767 անվճար պրոքսի աշխատում է, վերջին 48 ժամում 36,086-ն աշխատել է, և յուրաքանչյուրը փորձարկված ու պիտակավորված է։</b></p>
+<p align="center"><b>Այս պահին 6,059 անվճար պրոքսի աշխատում է, վերջին 48 ժամում 36,227-ն աշխատել է, և յուրաքանչյուրը փորձարկված ու պիտակավորված է։</b></p>
 <p align="center"><sub>HTTP, HTTPS, SOCKS4 և SOCKS5 &middot; երկիր, անանունություն, ուշացում և աշխատաժամանակ ամեն տողում &middot; թարմացվել է 06.10.2026</sub></p>
-<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/hy.svg?v=1791264995" alt="Դիտեք ամբողջական ցանկը hproxy.com-ում" width="520"></a></p>
+<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/hy.svg?v=1791273148" alt="Դիտեք ամբողջական ցանկը hproxy.com-ում" width="520"></a></p>
 
-Սա [HProxy](https://hproxy.com/free-proxy-list)-ի հրապարակած անվճար պրոքսիների ցանկն է։ Շարժիչը մի քանի րոպեն մեկ ավելի քան 100 հանրային աղբյուրից թեկնածուներ է հավաքում, յուրաքանչյուրը ստուգում է HTTP, HTTPS, SOCKS4 և SOCKS5 արձանագրություններով և գրանցում է պատասխանող ամեն պրոքսիի երկիրը, անանունության աստիճանը, ուշացումն ու աշխատաժամանակը։ Առայժմ այն հետևել է **893,472** պրոքսիի։ **5,767**-ն այս րոպեին աշխատում է, իսկ **36,086**-ը պատասխանել է վերջին 48 ժամում, և երկու բազմությունն էլ հրապարակվում է․ `live.txt`-ը պարունակում է միայն այն, ինչ հիմա աշխատում է, `all.txt`-ը՝ ավելի լայն լողավազանը, որտեղ անվճար պրոքսիները մտնում-ելնում են։ Ոչ գրանցում, ոչ API բանալի, և ֆայլերը կարող եք ներբեռնել այնքան հաճախ, որքան պետք է։
+Սա [HProxy](https://hproxy.com/free-proxy-list)-ի հրապարակած անվճար պրոքսիների ցանկն է։ Շարժիչը մի քանի րոպեն մեկ ավելի քան 100 հանրային աղբյուրից թեկնածուներ է հավաքում, յուրաքանչյուրը ստուգում է HTTP, HTTPS, SOCKS4 և SOCKS5 արձանագրություններով և գրանցում է պատասխանող ամեն պրոքսիի երկիրը, անանունության աստիճանը, ուշացումն ու աշխատաժամանակը։ Առայժմ այն հետևել է **893,548** պրոքսիի։ **6,059**-ն այս րոպեին աշխատում է, իսկ **36,227**-ը պատասխանել է վերջին 48 ժամում, և երկու բազմությունն էլ հրապարակվում է․ `live.txt`-ը պարունակում է միայն այն, ինչ հիմա աշխատում է, `all.txt`-ը՝ ավելի լայն լողավազանը, որտեղ անվճար պրոքսիները մտնում-ելնում են։ Ոչ գրանցում, ոչ API բանալի, և ֆայլերը կարող եք ներբեռնել այնքան հաճախ, որքան պետք է։
 
 Եթե պրոքսիներ եք հավաքել տասնյակ պահոցներից ու կայքերից, այս ցանկն արդեն պարունակում է դրանք։ Այն կառուցված է նույն հանրային աղբյուրներից, ապա ստուգված։ Տես [Աղբյուրները, որոնք համախմբում ենք](#աղբյուրները-որոնք-համախմբում-ենք)։
 
 ## Համառոտ
 
-- Առայժմ **893,472** պրոքսի է հետևված, **5,767**-ն այս պահին աշխատում է, **36,086**-ն աշխատել է վերջին 48 ժամում
+- Առայժմ **893,548** պրոքսի է հետևված, **6,059**-ն այս պահին աշխատում է, **36,227**-ն աշխատել է վերջին 48 ժամում
 - **4 արձանագրություն**՝ HTTP, HTTPS, SOCKS4 և SOCKS5, և ամեն պրոքսի պիտակավորված է այն արձանագրություններով, որոնցով իսկապես պատասխանել է
 - Հավաքված **ավելի քան 100 հանրային աղբյուրից**, առանց կրկնօրինակների, շուրջօրյա վերաստուգված
 - Այս պահոցը օրական մի քանի անգամ թարմացվում է (կոմիտների ցանկը ցույց է տալիս ամեն թարմացումը), [կենդանի ցանկը hproxy.com-ում](https://hproxy.com/free-proxy-list) թարմացվում է մի քանի րոպեն մեկ
@@ -40,16 +40,16 @@
 
 | Ցանկ | Պրոքսիներ | Ձևաչափեր | hproxy.com-ում |
 |------|--------:|---------|---------|
-| **Հիմա աշխատող** | 5,767 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| **Բոլորը** (պատասխանել են վերջին 48 ժամում) | 36,086 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| HTTP | 1,995 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
-| HTTPS | 1,473 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
-| SOCKS4 | 763 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
-| SOCKS5 | 2,414 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
-| Elite (բարձր անանունություն) | 4,116 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
-| Anonymous (անանուն) | 879 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
-| Fast (2 վայրկյանից պակաս) | 1,074 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| United States (US) | 21,462 | [txt](../by-country/US.txt) &middot; [բոլորը &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| **Հիմա աշխատող** | 6,059 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| **Բոլորը** (պատասխանել են վերջին 48 ժամում) | 36,227 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| HTTP | 1,895 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
+| HTTPS | 1,398 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
+| SOCKS4 | 695 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
+| SOCKS5 | 2,903 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
+| Elite (բարձր անանունություն) | 4,484 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
+| Anonymous (անանուն) | 867 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
+| Fast (2 վայրկյանից պակաս) | 1,045 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| United States (US) | 21,510 | [txt](../by-country/US.txt) &middot; [բոլորը &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
 
 Տեքստային ֆայլերում ամեն տողում մեկ `ip:port` է։ `all.json`-ը և `all.csv`-ն ավելացնում են ամեն պրոքսիի արձանագրությունը, անանունության աստիճանը, երկիրը, քաղաքը, ուշացումն ու աշխատաժամանակը։
 
@@ -58,18 +58,18 @@
 
 | Երկիր | Պրոքսիներ | Ֆայլ | hproxy.com-ում |
 |---------|--------:|------|------|
-| United States (US) | 21,462 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
-| Indonesia (ID) | 3,753 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
+| United States (US) | 21,510 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| Indonesia (ID) | 3,760 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
 | China (CN) | 897 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
-| India (IN) | 592 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
-| Russia (RU) | 570 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
-| Brazil (BR) | 529 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
-| Philippines (PH) | 475 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
-| Colombia (CO) | 474 | [by-country/CO.txt](../by-country/CO.txt) | [hproxy.com/free-proxy-list/colombia](https://hproxy.com/free-proxy-list/colombia) |
-| Mexico (MX) | 472 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
+| India (IN) | 596 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
+| Russia (RU) | 572 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
+| Brazil (BR) | 532 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
+| Colombia (CO) | 475 | [by-country/CO.txt](../by-country/CO.txt) | [hproxy.com/free-proxy-list/colombia](https://hproxy.com/free-proxy-list/colombia) |
+| Mexico (MX) | 475 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
+| Philippines (PH) | 473 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
 | Vietnam (VN) | 408 | [by-country/VN.txt](../by-country/VN.txt) | [hproxy.com/free-proxy-list/vietnam](https://hproxy.com/free-proxy-list/vietnam) |
-| Bangladesh (BD) | 358 | [by-country/BD.txt](../by-country/BD.txt) | [hproxy.com/free-proxy-list/bangladesh](https://hproxy.com/free-proxy-list/bangladesh) |
-| France (FR) | 293 | [by-country/FR.txt](../by-country/FR.txt) | [hproxy.com/free-proxy-list/france](https://hproxy.com/free-proxy-list/france) |
+| Bangladesh (BD) | 357 | [by-country/BD.txt](../by-country/BD.txt) | [hproxy.com/free-proxy-list/bangladesh](https://hproxy.com/free-proxy-list/bangladesh) |
+| Canada (CA) | 306 | [by-country/CA.txt](../by-country/CA.txt) | [hproxy.com/free-proxy-list/canada](https://hproxy.com/free-proxy-list/canada) |
 | _+125 այլ երկիր_ | | [ամբողջական by-country թղթապանակը &raquo;](../by-country) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
 
 </details>
@@ -158,7 +158,7 @@ gemini extensions install https://github.com/hproxy-com/hproxy-mcp
 ## Հաճախ տրվող հարցեր
 
 **Քանի՞ անվճար պրոքսի կա այս ցանկում։**
-Առայժմ հետևված է 893,472-ը։ 5,767-ն այս րոպեին աշխատում է, 36,086-ը պատասխանել է վերջին 48 ժամում, և հրապարակված ֆայլերը պարունակում են հենց դրանք։
+Առայժմ հետևված է 893,548-ը։ 6,059-ն այս րոպեին աշխատում է, 36,227-ը պատասխանել է վերջին 48 ժամում, և հրապարակված ֆայլերը պարունակում են հենց դրանք։
 
 **Ո՞ր արձանագրություններն են աջակցվում։**
 HTTP, HTTPS, SOCKS4 և SOCKS5։ Ամեն պրոքսի պիտակավորված է այն արձանագրություններով, որոնցով իսկապես պատասխանել է, ոչ թե այն, որոնց տակ թվարկված էր։
@@ -211,4 +211,4 @@ HTTP, HTTPS, SOCKS4 և SOCKS5։ Ամեն պրոքսի պիտակավորված �
 
 Այս պրոքսիները հավաքված են հանրայնորեն հասանելի աղբյուրներից։ Մենք դրանք չենք որոնում սկանավորմամբ և ոչինչ չենք պահում դրանց ետևի սարքերի մասին։ Դրանք տրամադրվում են այնպես, ինչպես կան, առանց երաշխիքի, միայն օրինական օգտագործման համար։ Դրանց օգտագործման պատասխանատվությունը ձերն է․ հետևեք GitHub-ի ընդունելի օգտագործման քաղաքականությանը և ձեր տեղական օրենքներին և երբեք գաղտնաբառեր կամ զգայուն տվյալներ մի անցկացրեք հանրային պրոքսիով։ Եթե IP հասցեն ձերն է և ուզում եք հեռացնել, բացեք issue։
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; թարմացվում է օրական մի քանի անգամ &nbsp;&middot;&nbsp; 2026-10-06 05:36 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; թարմացվում է օրական մի քանի անգամ &nbsp;&middot;&nbsp; 2026-10-06 07:52 UTC</sub></p>
