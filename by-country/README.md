@@ -1,57 +1,57 @@
 # Free proxies by country
 
-36,250 working proxies across 137 countries, updated 06.10.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
+36,409 working proxies across 137 countries, updated 06.10.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
 
 | Flag | Country | Code | Alive proxies |
 |:----:|---------|:----:|--------------:|
-| 🇺🇸 | United States | [US](US.txt) | 21,517 |
-| 🇮🇩 | Indonesia | [ID](ID.txt) | 3,761 |
-| 🇨🇳 | China | [CN](CN.txt) | 897 |
-| 🇮🇳 | India | [IN](IN.txt) | 596 |
-| 🇷🇺 | Russia | [RU](RU.txt) | 573 |
-| 🇧🇷 | Brazil | [BR](BR.txt) | 532 |
-| 🇲🇽 | Mexico | [MX](MX.txt) | 476 |
-| 🇨🇴 | Colombia | [CO](CO.txt) | 475 |
-| 🇵🇭 | Philippines | [PH](PH.txt) | 475 |
-| 🇻🇳 | Vietnam | [VN](VN.txt) | 408 |
+| 🇺🇸 | United States | [US](US.txt) | 21,598 |
+| 🇮🇩 | Indonesia | [ID](ID.txt) | 3,767 |
+| 🇨🇳 | China | [CN](CN.txt) | 901 |
+| 🇮🇳 | India | [IN](IN.txt) | 600 |
+| 🇷🇺 | Russia | [RU](RU.txt) | 576 |
+| 🇧🇷 | Brazil | [BR](BR.txt) | 533 |
+| 🇨🇴 | Colombia | [CO](CO.txt) | 477 |
+| 🇲🇽 | Mexico | [MX](MX.txt) | 477 |
+| 🇵🇭 | Philippines | [PH](PH.txt) | 474 |
+| 🇻🇳 | Vietnam | [VN](VN.txt) | 409 |
 | 🇧🇩 | Bangladesh | [BD](BD.txt) | 357 |
-| 🇨🇦 | Canada | [CA](CA.txt) | 307 |
-| 🇯🇵 | Japan | [JP](JP.txt) | 302 |
+| 🇨🇦 | Canada | [CA](CA.txt) | 318 |
+| 🇯🇵 | Japan | [JP](JP.txt) | 311 |
 | 🇫🇷 | France | [FR](FR.txt) | 297 |
 | 🇩🇪 | Germany | [DE](DE.txt) | 266 |
-| 🇳🇱 | Netherlands | [NL](NL.txt) | 257 |
-| 🇸🇬 | Singapore | [SG](SG.txt) | 238 |
-| 🇭🇰 | Hong Kong | [HK](HK.txt) | 229 |
-| 🇻🇪 | Venezuela | [VE](VE.txt) | 228 |
+| 🇳🇱 | Netherlands | [NL](NL.txt) | 254 |
+| 🇸🇬 | Singapore | [SG](SG.txt) | 245 |
+| 🇭🇰 | Hong Kong | [HK](HK.txt) | 238 |
+| 🇻🇪 | Venezuela | [VE](VE.txt) | 231 |
+| 🇿🇦 | South Africa | [ZA](ZA.txt) | 209 |
 | 🇩🇴 | Dominican Republic | [DO](DO.txt) | 208 |
-| 🇿🇦 | South Africa | [ZA](ZA.txt) | 207 |
 | 🇪🇨 | Ecuador | [EC](EC.txt) | 197 |
 | 🇦🇷 | Argentina | [AR](AR.txt) | 191 |
-| 🇹🇭 | Thailand | [TH](TH.txt) | 189 |
+| 🇹🇭 | Thailand | [TH](TH.txt) | 191 |
 | 🇵🇰 | Pakistan | [PK](PK.txt) | 172 |
-| 🇵🇪 | Peru | [PE](PE.txt) | 168 |
-| 🇦🇺 | Australia | [AU](AU.txt) | 150 |
-| 🇰🇷 | South Korea | [KR](KR.txt) | 145 |
+| 🇵🇪 | Peru | [PE](PE.txt) | 166 |
+| 🇦🇺 | Australia | [AU](AU.txt) | 157 |
+| 🇰🇷 | South Korea | [KR](KR.txt) | 150 |
 | 🇹🇷 | Turkey | [TR](TR.txt) | 138 |
-| 🇬🇧 | United Kingdom | [GB](GB.txt) | 117 |
+| 🇬🇧 | United Kingdom | [GB](GB.txt) | 114 |
 | 🇮🇷 | Iran | [IR](IR.txt) | 112 |
 | 🇨🇱 | Chile | [CL](CL.txt) | 105 |
 | 🇺🇦 | Ukraine | [UA](UA.txt) | 102 |
-| 🇲🇾 | Malaysia | [MY](MY.txt) | 97 |
+| 🇲🇾 | Malaysia | [MY](MY.txt) | 99 |
 | 🇵🇱 | Poland | [PL](PL.txt) | 82 |
-| 🇰🇭 | Cambodia | [KH](KH.txt) | 80 |
+| 🇰🇭 | Cambodia | [KH](KH.txt) | 81 |
+| 🇪🇬 | Egypt | [EG](EG.txt) | 74 |
 | 🇱🇾 | Libya | [LY](LY.txt) | 74 |
+| 🇮🇱 | Israel | [IL](IL.txt) | 73 |
 | 🇰🇪 | Kenya | [KE](KE.txt) | 73 |
-| 🇪🇬 | Egypt | [EG](EG.txt) | 72 |
 | 🇫🇮 | Finland | [FI](FI.txt) | 69 |
-| 🇮🇱 | Israel | [IL](IL.txt) | 66 |
 | 🇨🇭 | Switzerland | [CH](CH.txt) | 57 |
 | 🇸🇪 | Sweden | [SE](SE.txt) | 51 |
 | 🇵🇾 | Paraguay | [PY](PY.txt) | 49 |
-| 🇧🇬 | Bulgaria | [BG](BG.txt) | 48 |
+| 🇧🇬 | Bulgaria | [BG](BG.txt) | 47 |
+| 🇮🇹 | Italy | [IT](IT.txt) | 45 |
 | 🇬🇹 | Guatemala | [GT](GT.txt) | 44 |
-| 🇮🇹 | Italy | [IT](IT.txt) | 44 |
-| 🇭🇳 | Honduras | [HN](HN.txt) | 43 |
+| 🇭🇳 | Honduras | [HN](HN.txt) | 44 |
 | 🇪🇸 | Spain | [ES](ES.txt) | 41 |
 | 🇸🇾 | Syria | [SY](SY.txt) | 41 |
 | 🇳🇬 | Nigeria | [NG](NG.txt) | 40 |
@@ -60,13 +60,13 @@
 | 🇭🇺 | Hungary | [HU](HU.txt) | 35 |
 | 🇬🇪 | Georgia | [GE](GE.txt) | 31 |
 | 🇹🇼 | Taiwan | [TW](TW.txt) | 30 |
-| 🇲🇦 | Morocco | [MA](MA.txt) | 29 |
 | 🇮🇶 | Iraq | [IQ](IQ.txt) | 27 |
+| 🇲🇦 | Morocco | [MA](MA.txt) | 27 |
 | 🇦🇱 | Albania | [AL](AL.txt) | 26 |
 | 🇦🇲 | Armenia | [AM](AM.txt) | 23 |
-| 🇷🇴 | Romania | [RO](RO.txt) | 22 |
 | 🇷🇸 | Serbia | [RS](RS.txt) | 22 |
 | 🇵🇷 | Puerto Rico | [PR](PR.txt) | 21 |
+| 🇷🇴 | Romania | [RO](RO.txt) | 21 |
 | 🇵🇸 | Palestine | [PS](PS.txt) | 20 |
 | 🇦🇪 | United Arab Emirates | [AE](AE.txt) | 19 |
 | 🇰🇿 | Kazakhstan | [KZ](KZ.txt) | 19 |
@@ -78,13 +78,13 @@
 | 🇹🇿 | Tanzania | [TZ](TZ.txt) | 14 |
 | 🇨🇲 | Cameroon | [CM](CM.txt) | 13 |
 | 🇧🇴 | Bolivia | [BO](BO.txt) | 12 |
-| 🇲🇲 | Myanmar | [MM](MM.txt) | 12 |
 | 🇦🇫 | Afghanistan | [AF](AF.txt) | 11 |
+| 🇲🇲 | Myanmar | [MM](MM.txt) | 11 |
 | 🇧🇼 | Botswana | [BW](BW.txt) | 10 |
 | 🇬🇷 | Greece | [GR](GR.txt) | 10 |
 | 🇵🇦 | Panama | [PA](PA.txt) | 10 |
+| 🇸🇮 | Slovenia | [SI](SI.txt) | 10 |
 | 🇽🇰 | Kosovo | [XK](XK.txt) | 10 |
-| 🇸🇮 | Slovenia | [SI](SI.txt) | 9 |
 | 🇪🇪 | Estonia | [EE](EE.txt) | 8 |
 | 🇱🇹 | Lithuania | [LT](LT.txt) | 8 |
 | 🇸🇰 | Slovakia | [SK](SK.txt) | 8 |
