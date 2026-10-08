@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1791452720" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1791461030" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
   <a href="https://hproxy.com"><img src="https://img.shields.io/badge/Website-hproxy.com-0158FF?style=for-the-badge&labelColor=0B1220" alt="Website"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-896,864-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-4,742-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-35,304-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-896,972-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-3,791-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-34,238-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
   <a href="https://github.com/hproxy-com/free-proxy-list/commits/main"><img src="https://img.shields.io/badge/Updated-several_times_a_day-0158FF?style=for-the-badge&labelColor=0B1220" alt="Updated"></a>
   <a href="https://hproxy.com/docs/free-proxy-list"><img src="https://img.shields.io/badge/Free_API-no_key-0158FF?style=for-the-badge&labelColor=0B1220" alt="Free API"></a>
   <a href="https://hproxy.com/proxy-checker"><img src="https://img.shields.io/badge/Proxy_Checker-Free-0158FF?style=for-the-badge&labelColor=0B1220" alt="Proxy Checker"></a>
@@ -17,17 +17,17 @@
 
 # Orodha ya proksi za bure, inayothibitishwa saa zote
 
-<p align="center"><b>Proksi za bure 4,742 zinafanya kazi sasa hivi, 35,304 zilifanya kazi katika saa 48 zilizopita, na kila moja imejaribiwa na kuwekewa lebo.</b></p>
+<p align="center"><b>Proksi za bure 3,791 zinafanya kazi sasa hivi, 34,238 zilifanya kazi katika saa 48 zilizopita, na kila moja imejaribiwa na kuwekewa lebo.</b></p>
 <p align="center"><sub>HTTP, HTTPS, SOCKS4 na SOCKS5 &middot; nchi, kutokujulikana, ucheleweshaji na muda wa kufanya kazi katika kila safu &middot; imesasishwa 08.10.2026</sub></p>
-<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/sw.svg?v=1791452720" alt="Tazama orodha kamili kwenye hproxy.com" width="520"></a></p>
+<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/sw.svg?v=1791461030" alt="Tazama orodha kamili kwenye hproxy.com" width="520"></a></p>
 
-Hii ni orodha ya proksi za bure inayochapishwa na [HProxy](https://hproxy.com/free-proxy-list). Injini huvuta wagombea kutoka vyanzo vya umma zaidi ya 100 kila baada ya dakika chache, hujaribu kila mmoja kupitia HTTP, HTTPS, SOCKS4 na SOCKS5, na hurekodi nchi, daraja la kutokujulikana, ucheleweshaji na muda wa kufanya kazi wa kila proksi inayojibu. Hadi sasa imefuatilia proksi **896,864**. **4,742** zinafanya kazi dakika hii na **35,304** zilijibu katika saa 48 zilizopita, na seti zote mbili huchapishwa: `live.txt` ina zile zinazofanya kazi sasa hivi tu, `all.txt` ina kundi pana ambalo proksi za bure huingia na kutoka. Hakuna usajili na hakuna ufunguo wa API, na unaweza kuvuta faili mara nyingi upendavyo.
+Hii ni orodha ya proksi za bure inayochapishwa na [HProxy](https://hproxy.com/free-proxy-list). Injini huvuta wagombea kutoka vyanzo vya umma zaidi ya 100 kila baada ya dakika chache, hujaribu kila mmoja kupitia HTTP, HTTPS, SOCKS4 na SOCKS5, na hurekodi nchi, daraja la kutokujulikana, ucheleweshaji na muda wa kufanya kazi wa kila proksi inayojibu. Hadi sasa imefuatilia proksi **896,972**. **3,791** zinafanya kazi dakika hii na **34,238** zilijibu katika saa 48 zilizopita, na seti zote mbili huchapishwa: `live.txt` ina zile zinazofanya kazi sasa hivi tu, `all.txt` ina kundi pana ambalo proksi za bure huingia na kutoka. Hakuna usajili na hakuna ufunguo wa API, na unaweza kuvuta faili mara nyingi upendavyo.
 
 Ikiwa umekuwa ukikusanya proksi kutoka hazina na tovuti kadhaa, orodha hii tayari inazo. Imejengwa kutoka vyanzo vya umma vilevile, kisha ikakaguliwa. Tazama [Vyanzo tunavyokusanya](#vyanzo-tunavyokusanya).
 
 ## Kwa kifupi
 
-- Proksi **896,864** zimefuatiliwa hadi sasa, **4,742** zinafanya kazi sasa hivi, **35,304** zilifanya kazi katika saa 48 zilizopita
+- Proksi **896,972** zimefuatiliwa hadi sasa, **3,791** zinafanya kazi sasa hivi, **34,238** zilifanya kazi katika saa 48 zilizopita
 - **Itifaki 4**: HTTP, HTTPS, SOCKS4 na SOCKS5, na kila proksi imewekewa lebo ya zile ilizojibu kweli
 - Zimevutwa kutoka **vyanzo vya umma zaidi ya 100**, nakala zimeondolewa, na zinajaribiwa upya saa zote
 - Hazina hii husasishwa mara kadhaa kwa siku (orodha ya commit inaonyesha kila usasishaji); [orodha ya moja kwa moja kwenye hproxy.com](https://hproxy.com/free-proxy-list) husasishwa kila baada ya dakika chache
@@ -40,16 +40,16 @@ Ikiwa umekuwa ukikusanya proksi kutoka hazina na tovuti kadhaa, orodha hii tayar
 
 | Orodha | Proksi | Miundo | Kwenye hproxy.com |
 |------|--------:|---------|---------|
-| **Zinafanya kazi sasa** | 4,742 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| **Zote** (zilijibu katika saa 48 zilizopita) | 35,304 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| HTTP | 1,965 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
-| HTTPS | 1,449 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
-| SOCKS4 | 560 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
-| SOCKS5 | 1,681 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
-| Elite (kutokujulikana kwa juu) | 3,254 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
-| Anonymous (zisizojulikana) | 811 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
-| Fast (chini ya sekunde 2) | 917 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| United States (US) | 19,702 | [txt](../by-country/US.txt) &middot; [zote &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| **Zinafanya kazi sasa** | 3,791 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| **Zote** (zilijibu katika saa 48 zilizopita) | 34,238 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| HTTP | 1,977 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
+| HTTPS | 1,330 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
+| SOCKS4 | 453 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
+| SOCKS5 | 867 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
+| Elite (kutokujulikana kwa juu) | 2,208 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
+| Anonymous (zisizojulikana) | 880 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
+| Fast (chini ya sekunde 2) | 770 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| United States (US) | 18,656 | [txt](../by-country/US.txt) &middot; [zote &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
 
 Faili za maandishi zina `ip:port` moja kwa kila mstari. `all.json` na `all.csv` huongeza itifaki, daraja la kutokujulikana, nchi, jiji, ucheleweshaji na muda wa kufanya kazi wa kila proksi.
 
@@ -58,18 +58,18 @@ Faili za maandishi zina `ip:port` moja kwa kila mstari. `all.json` na `all.csv` 
 
 | Nchi | Proksi | Faili | Kwenye hproxy.com |
 |---------|--------:|------|------|
-| United States (US) | 19,702 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| United States (US) | 18,656 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
 | Indonesia (ID) | 3,806 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
-| China (CN) | 899 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
-| India (IN) | 623 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
-| Brazil (BR) | 583 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
+| China (CN) | 891 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
+| India (IN) | 621 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
+| Brazil (BR) | 581 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
 | Russia (RU) | 550 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
-| Vietnam (VN) | 535 | [by-country/VN.txt](../by-country/VN.txt) | [hproxy.com/free-proxy-list/vietnam](https://hproxy.com/free-proxy-list/vietnam) |
+| Vietnam (VN) | 537 | [by-country/VN.txt](../by-country/VN.txt) | [hproxy.com/free-proxy-list/vietnam](https://hproxy.com/free-proxy-list/vietnam) |
 | Colombia (CO) | 496 | [by-country/CO.txt](../by-country/CO.txt) | [hproxy.com/free-proxy-list/colombia](https://hproxy.com/free-proxy-list/colombia) |
 | Mexico (MX) | 484 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
 | Philippines (PH) | 464 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
-| Canada (CA) | 412 | [by-country/CA.txt](../by-country/CA.txt) | [hproxy.com/free-proxy-list/canada](https://hproxy.com/free-proxy-list/canada) |
-| Japan (JP) | 394 | [by-country/JP.txt](../by-country/JP.txt) | [hproxy.com/free-proxy-list/japan](https://hproxy.com/free-proxy-list/japan) |
+| Canada (CA) | 410 | [by-country/CA.txt](../by-country/CA.txt) | [hproxy.com/free-proxy-list/canada](https://hproxy.com/free-proxy-list/canada) |
+| Japan (JP) | 397 | [by-country/JP.txt](../by-country/JP.txt) | [hproxy.com/free-proxy-list/japan](https://hproxy.com/free-proxy-list/japan) |
 | _+nchi 126 zaidi_ | | [folda kamili ya by-country &raquo;](../by-country) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
 
 </details>
@@ -158,7 +158,7 @@ Kwa vitendo: tumia proksi za bure kwa kurasa za umma, majaribio na ukaguzi wa ma
 ## Maswali yanayoulizwa mara kwa mara
 
 **Kuna proksi ngapi za bure kwenye orodha hii?**
-896,864 zimefuatiliwa hadi sasa. 4,742 zinafanya kazi dakika hii na 35,304 zilijibu katika saa 48 zilizopita, na faili zilizochapishwa zina hizo hasa.
+896,972 zimefuatiliwa hadi sasa. 3,791 zinafanya kazi dakika hii na 34,238 zilijibu katika saa 48 zilizopita, na faili zilizochapishwa zina hizo hasa.
 
 **Itifaki zipi zinatumika?**
 HTTP, HTTPS, SOCKS4 na SOCKS5. Kila proksi imewekewa lebo ya itifaki ilizojibu kweli, si zile ilizoorodheshwa chini yake.
@@ -211,4 +211,4 @@ Proksi haziwezi kuongezwa kwa pull request: orodha huzalishwa upya kutoka injini
 
 Proksi hizi zimekusanywa kutoka vyanzo vinavyopatikana hadharani. Hatuzitafuti kwa kuchanganua, na hatuhifadhi chochote kuhusu vifaa vilivyo nyuma yake. Zinatolewa jinsi zilivyo, bila dhamana, kwa matumizi halali pekee. Wewe ndiye unayewajibika kwa jinsi unavyozitumia: fuata Sera ya Matumizi Yanayokubalika ya GitHub na sheria za eneo lako, na usiwahi kupitisha nywila au data nyeti kupitia proksi ya umma. Ikiwa anwani ya IP ni yako na unataka iondolewe, fungua issue.
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; husasishwa mara kadhaa kwa siku &nbsp;&middot;&nbsp; 2026-10-08 09:45 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; husasishwa mara kadhaa kwa siku &nbsp;&middot;&nbsp; 2026-10-08 12:03 UTC</sub></p>
