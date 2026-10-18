@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1792352842" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1792361098" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
   <a href="https://hproxy.com"><img src="https://img.shields.io/badge/Website-hproxy.com-0158FF?style=for-the-badge&labelColor=0B1220" alt="Website"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-933,023-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-7,538-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-43,569-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-933,100-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-8,002-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-43,508-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
   <a href="https://github.com/hproxy-com/free-proxy-list/commits/main"><img src="https://img.shields.io/badge/Updated-several_times_a_day-0158FF?style=for-the-badge&labelColor=0B1220" alt="Updated"></a>
   <a href="https://hproxy.com/docs/free-proxy-list"><img src="https://img.shields.io/badge/Free_API-no_key-0158FF?style=for-the-badge&labelColor=0B1220" alt="Free API"></a>
   <a href="https://hproxy.com/proxy-checker"><img src="https://img.shields.io/badge/Proxy_Checker-Free-0158FF?style=for-the-badge&labelColor=0B1220" alt="Proxy Checker"></a>
@@ -17,17 +17,17 @@
 
 # Lista besplatnih proksija, proveravana bez prestanka
 
-<p align="center"><b>7,538 besplatnih proksija je živo u ovom trenutku, 43,569 je radilo u poslednjih 48 sati, a svaki od njih je testiran i označen.</b></p>
+<p align="center"><b>8,002 besplatnih proksija je živo u ovom trenutku, 43,508 je radilo u poslednjih 48 sati, a svaki od njih je testiran i označen.</b></p>
 <p align="center"><sub>HTTP, HTTPS, SOCKS4 i SOCKS5 &middot; zemlja, anonimnost, kašnjenje i dostupnost u svakom redu &middot; ažurirano 18.10.2026</sub></p>
-<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/sr.svg?v=1792352842" alt="Pogledajte celu listu na hproxy.com" width="520"></a></p>
+<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/sr.svg?v=1792361098" alt="Pogledajte celu listu na hproxy.com" width="520"></a></p>
 
-Ovo je lista besplatnih proksija koju objavljuje [HProxy](https://hproxy.com/free-proxy-list). Mašina svakih nekoliko minuta prikuplja kandidate iz više od 100 javnih izvora, testira svaki preko HTTP, HTTPS, SOCKS4 i SOCKS5 i beleži zemlju, stepen anonimnosti, kašnjenje i dostupnost svakog proksija koji odgovori. Do sada je pratila **933,023** proksija. **7,538** je živo u ovom minutu, a **43,569** je odgovorilo u poslednjih 48 sati, i oba skupa se objavljuju: `live.txt` sadrži samo ono što radi upravo sada, `all.txt` širi skup u koji besplatni proksiji ulaze i iz kojeg ispadaju. Nema registracije i nema API ključa, a fajlove možete preuzimati koliko god često želite.
+Ovo je lista besplatnih proksija koju objavljuje [HProxy](https://hproxy.com/free-proxy-list). Mašina svakih nekoliko minuta prikuplja kandidate iz više od 100 javnih izvora, testira svaki preko HTTP, HTTPS, SOCKS4 i SOCKS5 i beleži zemlju, stepen anonimnosti, kašnjenje i dostupnost svakog proksija koji odgovori. Do sada je pratila **933,100** proksija. **8,002** je živo u ovom minutu, a **43,508** je odgovorilo u poslednjih 48 sati, i oba skupa se objavljuju: `live.txt` sadrži samo ono što radi upravo sada, `all.txt` širi skup u koji besplatni proksiji ulaze i iz kojeg ispadaju. Nema registracije i nema API ključa, a fajlove možete preuzimati koliko god često želite.
 
 Ako ste sakupljali proksije sa desetak repozitorijuma i sajtova, ova lista ih već sadrži. Napravljena je iz istih javnih izvora, a zatim proverena. Pogledajte [Izvori koje objedinjujemo](#izvori-koje-objedinjujemo).
 
 ## Ukratko
 
-- **933,023** proksija praćeno do sada, **7,538** živo u ovom trenutku, **43,569** radilo u poslednjih 48 sati
+- **933,100** proksija praćeno do sada, **8,002** živo u ovom trenutku, **43,508** radilo u poslednjih 48 sati
 - **4 protokola**: HTTP, HTTPS, SOCKS4 i SOCKS5, a svaki proksi je označen onima na kojima je zaista odgovorio
 - Prikupljeno iz **više od 100 javnih izvora**, bez duplikata i ponovo testirano bez prestanka
 - Ovaj repozitorijum se osvežava više puta dnevno (lista komitova prikazuje svako osvežavanje); [lista uživo na hproxy.com](https://hproxy.com/free-proxy-list) osvežava se svakih nekoliko minuta
@@ -40,16 +40,16 @@ Ako ste sakupljali proksije sa desetak repozitorijuma i sajtova, ova lista ih ve
 
 | Lista | Proksiji | Formati | Na hproxy.com |
 |------|--------:|---------|---------|
-| **Živi sada** | 7,538 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| **Svi** (odgovorili u poslednjih 48 sati) | 43,569 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| HTTP | 3,518 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
-| HTTPS | 3,290 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
-| SOCKS4 | 745 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
-| SOCKS5 | 2,095 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
-| Elite (visoka anonimnost) | 4,484 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
-| Anonymous (anonimni) | 1,506 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
-| Fast (ispod 2 sekunde) | 1,080 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| United States (US) | 28,331 | [txt](../by-country/US.txt) &middot; [svi &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| **Živi sada** | 8,002 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| **Svi** (odgovorili u poslednjih 48 sati) | 43,508 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| HTTP | 3,886 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
+| HTTPS | 3,579 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
+| SOCKS4 | 782 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
+| SOCKS5 | 2,147 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
+| Elite (visoka anonimnost) | 4,600 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
+| Anonymous (anonimni) | 1,652 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
+| Fast (ispod 2 sekunde) | 1,196 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| United States (US) | 28,401 | [txt](../by-country/US.txt) &middot; [svi &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
 
 Tekstualni fajlovi sadrže po jedan `ip:port` u redu. `all.json` i `all.csv` dodaju protokol, stepen anonimnosti, zemlju, grad, kašnjenje i dostupnost svakog proksija.
 
@@ -58,18 +58,18 @@ Tekstualni fajlovi sadrže po jedan `ip:port` u redu. `all.json` i `all.csv` dod
 
 | Zemlja | Proksiji | Fajl | Na hproxy.com |
 |---------|--------:|------|------|
-| United States (US) | 28,331 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
-| Indonesia (ID) | 3,744 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
-| China (CN) | 678 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
-| India (IN) | 635 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
-| Vietnam (VN) | 623 | [by-country/VN.txt](../by-country/VN.txt) | [hproxy.com/free-proxy-list/vietnam](https://hproxy.com/free-proxy-list/vietnam) |
-| Brazil (BR) | 553 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
-| Russia (RU) | 512 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
-| Colombia (CO) | 509 | [by-country/CO.txt](../by-country/CO.txt) | [hproxy.com/free-proxy-list/colombia](https://hproxy.com/free-proxy-list/colombia) |
-| Mexico (MX) | 504 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
-| Philippines (PH) | 468 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
-| Canada (CA) | 345 | [by-country/CA.txt](../by-country/CA.txt) | [hproxy.com/free-proxy-list/canada](https://hproxy.com/free-proxy-list/canada) |
-| Bangladesh (BD) | 341 | [by-country/BD.txt](../by-country/BD.txt) | [hproxy.com/free-proxy-list/bangladesh](https://hproxy.com/free-proxy-list/bangladesh) |
+| United States (US) | 28,401 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| Indonesia (ID) | 3,750 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
+| China (CN) | 679 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
+| India (IN) | 632 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
+| Vietnam (VN) | 622 | [by-country/VN.txt](../by-country/VN.txt) | [hproxy.com/free-proxy-list/vietnam](https://hproxy.com/free-proxy-list/vietnam) |
+| Brazil (BR) | 543 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
+| Russia (RU) | 511 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
+| Colombia (CO) | 508 | [by-country/CO.txt](../by-country/CO.txt) | [hproxy.com/free-proxy-list/colombia](https://hproxy.com/free-proxy-list/colombia) |
+| Mexico (MX) | 497 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
+| Philippines (PH) | 470 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
+| Bangladesh (BD) | 340 | [by-country/BD.txt](../by-country/BD.txt) | [hproxy.com/free-proxy-list/bangladesh](https://hproxy.com/free-proxy-list/bangladesh) |
+| Canada (CA) | 323 | [by-country/CA.txt](../by-country/CA.txt) | [hproxy.com/free-proxy-list/canada](https://hproxy.com/free-proxy-list/canada) |
 | _+124 drugih zemalja_ | | [ceo by-country folder &raquo;](../by-country) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
 
 </details>
@@ -158,7 +158,7 @@ U praksi: koristite besplatne proksije za javne stranice, testove i provere loka
 ## Česta pitanja
 
 **Koliko besplatnih proksija ima na ovoj listi?**
-Do sada je praćeno 933,023. 7,538 je živo u ovom minutu, a 43,569 je odgovorilo u poslednjih 48 sati, i objavljeni fajlovi sadrže tačno njih.
+Do sada je praćeno 933,100. 8,002 je živo u ovom minutu, a 43,508 je odgovorilo u poslednjih 48 sati, i objavljeni fajlovi sadrže tačno njih.
 
 **Koji protokoli su podržani?**
 HTTP, HTTPS, SOCKS4 i SOCKS5. Svaki proksi je označen protokolima na kojima je zaista odgovorio, a ne onima pod kojima je bio naveden.
@@ -211,4 +211,4 @@ Proksiji se ne mogu dodati kroz pull request: lista se pri svakom osvežavanju p
 
 Ovi proksiji su prikupljeni iz javno dostupnih izvora. Ne skeniramo mrežu da bismo ih našli i ne čuvamo ništa o uređajima iza njih. Daju se takvi kakvi jesu, bez garancije, samo za zakonitu upotrebu. Vi ste odgovorni za to kako ih koristite: poštujte GitHub politiku prihvatljive upotrebe i lokalne zakone i nikada ne provlačite lozinke ili osetljive podatke kroz javni proksi. Ako je IP adresa vaša i želite da bude uklonjena, otvorite issue.
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; osvežava se više puta dnevno &nbsp;&middot;&nbsp; 2026-10-18 19:47 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; osvežava se više puta dnevno &nbsp;&middot;&nbsp; 2026-10-18 22:04 UTC</sub></p>
