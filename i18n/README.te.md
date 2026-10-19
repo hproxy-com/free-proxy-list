@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1792369815" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1792377311" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
   <a href="https://hproxy.com"><img src="https://img.shields.io/badge/Website-hproxy.com-0158FF?style=for-the-badge&labelColor=0B1220" alt="Website"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-933,148-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-8,165-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-43,155-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-935,031-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-8,837-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-43,824-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
   <a href="https://github.com/hproxy-com/free-proxy-list/commits/main"><img src="https://img.shields.io/badge/Updated-several_times_a_day-0158FF?style=for-the-badge&labelColor=0B1220" alt="Updated"></a>
   <a href="https://hproxy.com/docs/free-proxy-list"><img src="https://img.shields.io/badge/Free_API-no_key-0158FF?style=for-the-badge&labelColor=0B1220" alt="Free API"></a>
   <a href="https://hproxy.com/proxy-checker"><img src="https://img.shields.io/badge/Proxy_Checker-Free-0158FF?style=for-the-badge&labelColor=0B1220" alt="Proxy Checker"></a>
@@ -17,17 +17,17 @@
 
 # ఉచిత ప్రాక్సీ జాబితా, రోజంతా ధృవీకరించబడుతుంది
 
-<p align="center"><b>ఈ క్షణంలో 8,165 ఉచిత ప్రాక్సీలు పనిచేస్తున్నాయి, గత 48 గంటల్లో 43,155 పనిచేశాయి, ప్రతి ఒక్కటీ పరీక్షించి లేబుల్ చేయబడింది.</b></p>
+<p align="center"><b>ఈ క్షణంలో 8,837 ఉచిత ప్రాక్సీలు పనిచేస్తున్నాయి, గత 48 గంటల్లో 43,824 పనిచేశాయి, ప్రతి ఒక్కటీ పరీక్షించి లేబుల్ చేయబడింది.</b></p>
 <p align="center"><sub>HTTP, HTTPS, SOCKS4 మరియు SOCKS5 &middot; ప్రతి వరుసలో దేశం, అనామకత్వం, జాప్యం మరియు అప్‌టైమ్ &middot; నవీకరణ 19.10.2026</sub></p>
-<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/te.svg?v=1792369815" alt="పూర్తి జాబితాను hproxy.comలో చూడండి" width="520"></a></p>
+<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/te.svg?v=1792377311" alt="పూర్తి జాబితాను hproxy.comలో చూడండి" width="520"></a></p>
 
-ఇది [HProxy](https://hproxy.com/free-proxy-list) ప్రచురించే ఉచిత ప్రాక్సీ జాబితా. ఒక ఇంజిన్ ప్రతి కొన్ని నిమిషాలకు 100కు పైగా బహిరంగ మూలాల నుంచి అభ్యర్థులను సేకరించి, ప్రతి దాన్నీ HTTP, HTTPS, SOCKS4 మరియు SOCKS5 ద్వారా పరీక్షించి, స్పందించే ప్రతి ప్రాక్సీ దేశం, అనామకత్వ స్థాయి, జాప్యం మరియు అప్‌టైమ్‌ను నమోదు చేస్తుంది. ఇప్పటివరకు అది **933,148** ప్రాక్సీలను ట్రాక్ చేసింది. **8,165** ఈ నిమిషంలో పనిచేస్తున్నాయి, **43,155** గత 48 గంటల్లో స్పందించాయి, రెండు సెట్లూ ప్రచురించబడతాయి: `live.txt`లో ఇప్పుడు పనిచేస్తున్నవి మాత్రమే ఉంటాయి, `all.txt`లో ఉచిత ప్రాక్సీలు వచ్చిపోయే విస్తృత పూల్ ఉంటుంది. సైన్అప్ లేదు, API కీ లేదు, ఫైళ్లను అవసరమైనన్ని సార్లు తీసుకోవచ్చు.
+ఇది [HProxy](https://hproxy.com/free-proxy-list) ప్రచురించే ఉచిత ప్రాక్సీ జాబితా. ఒక ఇంజిన్ ప్రతి కొన్ని నిమిషాలకు 100కు పైగా బహిరంగ మూలాల నుంచి అభ్యర్థులను సేకరించి, ప్రతి దాన్నీ HTTP, HTTPS, SOCKS4 మరియు SOCKS5 ద్వారా పరీక్షించి, స్పందించే ప్రతి ప్రాక్సీ దేశం, అనామకత్వ స్థాయి, జాప్యం మరియు అప్‌టైమ్‌ను నమోదు చేస్తుంది. ఇప్పటివరకు అది **935,031** ప్రాక్సీలను ట్రాక్ చేసింది. **8,837** ఈ నిమిషంలో పనిచేస్తున్నాయి, **43,824** గత 48 గంటల్లో స్పందించాయి, రెండు సెట్లూ ప్రచురించబడతాయి: `live.txt`లో ఇప్పుడు పనిచేస్తున్నవి మాత్రమే ఉంటాయి, `all.txt`లో ఉచిత ప్రాక్సీలు వచ్చిపోయే విస్తృత పూల్ ఉంటుంది. సైన్అప్ లేదు, API కీ లేదు, ఫైళ్లను అవసరమైనన్ని సార్లు తీసుకోవచ్చు.
 
 మీరు డజను రిపోజిటరీలు, సైట్ల నుంచి ప్రాక్సీలు సేకరిస్తూ ఉంటే, ఈ జాబితాలో అవి ఇప్పటికే ఉన్నాయి. అదే బహిరంగ మూలాల నుంచి నిర్మించి, ఆపై పరీక్షించబడింది. చూడండి: [మేము సమీకరించే మూలాలు](#మేము-సమీకరించే-మూలాలు).
 
 ## క్లుప్తంగా
 
-- ఇప్పటివరకు **933,148** ప్రాక్సీలు ట్రాక్ చేయబడ్డాయి, **8,165** ఇప్పుడు పనిచేస్తున్నాయి, **43,155** గత 48 గంటల్లో పనిచేశాయి
+- ఇప్పటివరకు **935,031** ప్రాక్సీలు ట్రాక్ చేయబడ్డాయి, **8,837** ఇప్పుడు పనిచేస్తున్నాయి, **43,824** గత 48 గంటల్లో పనిచేశాయి
 - **4 ప్రోటోకాల్‌లు**: HTTP, HTTPS, SOCKS4 మరియు SOCKS5; ప్రతి ప్రాక్సీ నిజంగా స్పందించిన ప్రోటోకాల్‌లతో లేబుల్ చేయబడింది
 - **100కు పైగా బహిరంగ మూలాల** నుంచి సేకరించి, నకిలీలు తొలగించి, రోజంతా మళ్లీ పరీక్షించబడతాయి
 - ఈ రిపోజిటరీ రోజుకు చాలాసార్లు రిఫ్రెష్ అవుతుంది (commit జాబితా ప్రతి రిఫ్రెష్‌ను చూపుతుంది); [hproxy.comలోని లైవ్ జాబితా](https://hproxy.com/free-proxy-list) ప్రతి కొన్ని నిమిషాలకు రిఫ్రెష్ అవుతుంది
@@ -40,16 +40,16 @@
 
 | జాబితా | ప్రాక్సీలు | ఫార్మాట్లు | hproxy.comలో |
 |------|--------:|---------|---------|
-| **ఇప్పుడు పనిచేస్తున్నవి** | 8,165 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| **అన్నీ** (గత 48 గంటల్లో స్పందించినవి) | 43,155 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| HTTP | 3,466 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
-| HTTPS | 3,146 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
-| SOCKS4 | 788 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
-| SOCKS5 | 2,693 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
-| Elite (అధిక అనామకత్వం) | 5,133 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
-| Anonymous (అనామక) | 1,514 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
-| Fast (2 సెకన్ల లోపు) | 1,033 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| United States (US) | 28,217 | [txt](../by-country/US.txt) &middot; [అన్నీ &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| **ఇప్పుడు పనిచేస్తున్నవి** | 8,837 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| **అన్నీ** (గత 48 గంటల్లో స్పందించినవి) | 43,824 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| HTTP | 3,561 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
+| HTTPS | 3,385 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
+| SOCKS4 | 751 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
+| SOCKS5 | 3,186 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
+| Elite (అధిక అనామకత్వం) | 5,692 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
+| Anonymous (అనామక) | 1,605 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
+| Fast (2 సెకన్ల లోపు) | 1,117 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| United States (US) | 29,057 | [txt](../by-country/US.txt) &middot; [అన్నీ &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
 
 టెక్స్ట్ ఫైళ్లలో ప్రతి పంక్తికి ఒక `ip:port` ఉంటుంది. `all.json` మరియు `all.csv` ప్రతి ప్రాక్సీ ప్రోటోకాల్, అనామకత్వ స్థాయి, దేశం, నగరం, జాప్యం మరియు అప్‌టైమ్‌ను జోడిస్తాయి.
 
@@ -58,18 +58,18 @@
 
 | దేశం | ప్రాక్సీలు | ఫైల్ | hproxy.comలో |
 |---------|--------:|------|------|
-| United States (US) | 28,217 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
-| Indonesia (ID) | 3,749 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
-| China (CN) | 677 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
-| India (IN) | 629 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
-| Vietnam (VN) | 627 | [by-country/VN.txt](../by-country/VN.txt) | [hproxy.com/free-proxy-list/vietnam](https://hproxy.com/free-proxy-list/vietnam) |
-| Brazil (BR) | 533 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
-| Russia (RU) | 513 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
-| Colombia (CO) | 506 | [by-country/CO.txt](../by-country/CO.txt) | [hproxy.com/free-proxy-list/colombia](https://hproxy.com/free-proxy-list/colombia) |
-| Mexico (MX) | 490 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
-| Philippines (PH) | 471 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
-| Bangladesh (BD) | 341 | [by-country/BD.txt](../by-country/BD.txt) | [hproxy.com/free-proxy-list/bangladesh](https://hproxy.com/free-proxy-list/bangladesh) |
-| Germany (DE) | 322 | [by-country/DE.txt](../by-country/DE.txt) | [hproxy.com/free-proxy-list/germany](https://hproxy.com/free-proxy-list/germany) |
+| United States (US) | 29,057 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| Indonesia (ID) | 3,752 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
+| China (CN) | 684 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
+| Vietnam (VN) | 635 | [by-country/VN.txt](../by-country/VN.txt) | [hproxy.com/free-proxy-list/vietnam](https://hproxy.com/free-proxy-list/vietnam) |
+| India (IN) | 618 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
+| Brazil (BR) | 517 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
+| Colombia (CO) | 512 | [by-country/CO.txt](../by-country/CO.txt) | [hproxy.com/free-proxy-list/colombia](https://hproxy.com/free-proxy-list/colombia) |
+| Russia (RU) | 512 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
+| Mexico (MX) | 486 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
+| Philippines (PH) | 472 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
+| Bangladesh (BD) | 343 | [by-country/BD.txt](../by-country/BD.txt) | [hproxy.com/free-proxy-list/bangladesh](https://hproxy.com/free-proxy-list/bangladesh) |
+| Germany (DE) | 316 | [by-country/DE.txt](../by-country/DE.txt) | [hproxy.com/free-proxy-list/germany](https://hproxy.com/free-proxy-list/germany) |
 | _మరో 124 దేశాలు_ | | [పూర్తి by-country ఫోల్డర్ &raquo;](../by-country) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
 
 </details>
@@ -158,7 +158,7 @@ gemini extensions install https://github.com/hproxy-com/hproxy-mcp
 ## తరచుగా అడిగే ప్రశ్నలు
 
 **ఈ జాబితాలో ఎన్ని ఉచిత ప్రాక్సీలు ఉన్నాయి?**
-ఇప్పటివరకు 933,148 ట్రాక్ చేయబడ్డాయి. 8,165 ఈ నిమిషంలో పనిచేస్తున్నాయి, 43,155 గత 48 గంటల్లో స్పందించాయి, ప్రచురించిన ఫైళ్లలో సరిగ్గా అవే ఉన్నాయి.
+ఇప్పటివరకు 935,031 ట్రాక్ చేయబడ్డాయి. 8,837 ఈ నిమిషంలో పనిచేస్తున్నాయి, 43,824 గత 48 గంటల్లో స్పందించాయి, ప్రచురించిన ఫైళ్లలో సరిగ్గా అవే ఉన్నాయి.
 
 **ఏ ప్రోటోకాల్‌లకు మద్దతు ఉంది?**
 HTTP, HTTPS, SOCKS4 మరియు SOCKS5. ప్రతి ప్రాక్సీ జాబితాలో పెట్టిన ప్రోటోకాల్‌లతో కాదు, నిజంగా స్పందించిన ప్రోటోకాల్‌లతో లేబుల్ చేయబడింది.
@@ -211,4 +211,4 @@ pull request ద్వారా ప్రాక్సీలను జోడి�
 
 ఈ ప్రాక్సీలు బహిరంగంగా లభించే మూలాల నుంచి సమీకరించబడ్డాయి. వాటిని వెతకడానికి మేము scan చేయము, వాటి వెనుక ఉన్న పరికరాల గురించి ఏమీ నిల్వ చేయము. అవి ఉన్నవి ఉన్నట్లుగా, హామీ లేకుండా, చట్టబద్ధమైన వినియోగానికి మాత్రమే అందించబడతాయి. వాటిని ఎలా వాడతారనేది మీ బాధ్యత: GitHub ఆమోదయోగ్య వినియోగ విధానాన్ని, మీ స్థానిక చట్టాలను పాటించండి, పాస్‌వర్డ్‌లు లేదా సున్నితమైన డేటాను ఎప్పుడూ బహిరంగ ప్రాక్సీ ద్వారా పంపకండి. ఒక IP చిరునామా మీదైతే, దాన్ని తొలగించాలనుకుంటే, ఒక issue తెరవండి.
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; రోజుకు చాలాసార్లు రిఫ్రెష్ &nbsp;&middot;&nbsp; 2026-10-19 00:30 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; రోజుకు చాలాసార్లు రిఫ్రెష్ &nbsp;&middot;&nbsp; 2026-10-19 02:35 UTC</sub></p>
