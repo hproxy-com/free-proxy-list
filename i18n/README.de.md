@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1792920303" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1792928534" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
   <a href="https://hproxy.com"><img src="https://img.shields.io/badge/Website-hproxy.com-0158FF?style=for-the-badge&labelColor=0B1220" alt="Website"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-944,188-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-5,757-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-38,632-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-944,272-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-4,730-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-38,591-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
   <a href="https://github.com/hproxy-com/free-proxy-list/commits/main"><img src="https://img.shields.io/badge/Updated-several_times_a_day-0158FF?style=for-the-badge&labelColor=0B1220" alt="Updated"></a>
   <a href="https://hproxy.com/docs/free-proxy-list"><img src="https://img.shields.io/badge/Free_API-no_key-0158FF?style=for-the-badge&labelColor=0B1220" alt="Free API"></a>
   <a href="https://hproxy.com/proxy-checker"><img src="https://img.shields.io/badge/Proxy_Checker-Free-0158FF?style=for-the-badge&labelColor=0B1220" alt="Proxy Checker"></a>
@@ -17,17 +17,17 @@
 
 # Kostenlose Proxy-Liste, rund um die Uhr geprüft
 
-<p align="center"><b>5,757 kostenlose Proxys sind gerade jetzt erreichbar, 38,632 haben in den letzten 48 Stunden funktioniert, und jeder einzelne ist getestet und beschriftet.</b></p>
+<p align="center"><b>4,730 kostenlose Proxys sind gerade jetzt erreichbar, 38,591 haben in den letzten 48 Stunden funktioniert, und jeder einzelne ist getestet und beschriftet.</b></p>
 <p align="center"><sub>HTTP, HTTPS, SOCKS4 und SOCKS5 &middot; Land, Anonymität, Latenz und Verfügbarkeit in jeder Zeile &middot; aktualisiert am 25.10.2026</sub></p>
-<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/de.svg?v=1792920303" alt="Die vollständige Liste auf hproxy.com ansehen" width="520"></a></p>
+<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/de.svg?v=1792928534" alt="Die vollständige Liste auf hproxy.com ansehen" width="520"></a></p>
 
-Dies ist die kostenlose Proxy-Liste, die [HProxy](https://hproxy.com/free-proxy-list) veröffentlicht. Eine Engine holt alle paar Minuten Kandidaten aus mehr als 100 öffentlichen Quellen, testet jeden über HTTP, HTTPS, SOCKS4 und SOCKS5 und hält Land, Anonymitätsstufe, Latenz und Verfügbarkeit jedes Proxys fest, der antwortet. Bisher hat sie **944,188** Proxys erfasst. **5,757** sind in dieser Minute erreichbar und **38,632** haben in den letzten 48 Stunden geantwortet, und beide Mengen werden veröffentlicht: `live.txt` enthält nur, was gerade läuft, `all.txt` den größeren Pool, in den kostenlose Proxys hinein- und wieder herausfallen. Keine Anmeldung, kein API-Schlüssel, und die Dateien lassen sich so oft abrufen, wie nötig.
+Dies ist die kostenlose Proxy-Liste, die [HProxy](https://hproxy.com/free-proxy-list) veröffentlicht. Eine Engine holt alle paar Minuten Kandidaten aus mehr als 100 öffentlichen Quellen, testet jeden über HTTP, HTTPS, SOCKS4 und SOCKS5 und hält Land, Anonymitätsstufe, Latenz und Verfügbarkeit jedes Proxys fest, der antwortet. Bisher hat sie **944,272** Proxys erfasst. **4,730** sind in dieser Minute erreichbar und **38,591** haben in den letzten 48 Stunden geantwortet, und beide Mengen werden veröffentlicht: `live.txt` enthält nur, was gerade läuft, `all.txt` den größeren Pool, in den kostenlose Proxys hinein- und wieder herausfallen. Keine Anmeldung, kein API-Schlüssel, und die Dateien lassen sich so oft abrufen, wie nötig.
 
 Wer Proxys aus einem Dutzend Repos und Seiten zusammengesucht hat, findet sie in dieser Liste bereits. Sie ist aus denselben öffentlichen Quellen gebaut und danach geprüft. Siehe [Quellen, die wir bündeln](#quellen-die-wir-bündeln).
 
 ## Auf einen Blick
 
-- **944,188** Proxys bisher erfasst, **5,757** gerade jetzt erreichbar, **38,632** in den letzten 48 Stunden funktionierend
+- **944,272** Proxys bisher erfasst, **4,730** gerade jetzt erreichbar, **38,591** in den letzten 48 Stunden funktionierend
 - **4 Protokolle**: HTTP, HTTPS, SOCKS4 und SOCKS5, und jeder Proxy trägt die Protokolle, auf denen er tatsächlich geantwortet hat
 - Aus **mehr als 100 öffentlichen Quellen** gezogen, dedupliziert und rund um die Uhr erneut getestet
 - Dieses Repository wird mehrmals täglich aktualisiert (die Commit-Liste zeigt jede Aktualisierung); die [Live-Liste auf hproxy.com](https://hproxy.com/free-proxy-list) aktualisiert sich alle paar Minuten
@@ -40,16 +40,16 @@ Wer Proxys aus einem Dutzend Repos und Seiten zusammengesucht hat, findet sie in
 
 | Liste | Proxys | Formate | Auf hproxy.com |
 |------|--------:|---------|---------|
-| **Jetzt erreichbar** | 5,757 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| **Alle** (haben in den letzten 48 Stunden geantwortet) | 38,632 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| HTTP | 1,803 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
-| HTTPS | 1,617 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
-| SOCKS4 | 635 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
-| SOCKS5 | 2,804 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
-| Elite (hohe Anonymität) | 4,277 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
-| Anonymous (anonym) | 719 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
-| Fast (unter 2 Sekunden) | 1,093 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| United States (US) | 21,505 | [txt](../by-country/US.txt) &middot; [alle &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| **Jetzt erreichbar** | 4,730 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| **Alle** (haben in den letzten 48 Stunden geantwortet) | 38,591 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| HTTP | 1,584 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
+| HTTPS | 1,374 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
+| SOCKS4 | 653 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
+| SOCKS5 | 2,053 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
+| Elite (hohe Anonymität) | 3,410 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
+| Anonymous (anonym) | 661 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
+| Fast (unter 2 Sekunden) | 1,042 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| United States (US) | 21,509 | [txt](../by-country/US.txt) &middot; [alle &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
 
 Textdateien enthalten ein `ip:port` pro Zeile. `all.json` und `all.csv` ergänzen Protokoll, Anonymitätsstufe, Land, Stadt, Latenz und Verfügbarkeit jedes Proxys.
 
@@ -58,18 +58,18 @@ Textdateien enthalten ein `ip:port` pro Zeile. `all.json` und `all.csv` ergänze
 
 | Land | Proxys | Datei | Auf hproxy.com |
 |---------|--------:|------|------|
-| United States (US) | 21,505 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
-| Indonesia (ID) | 3,877 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
-| Vietnam (VN) | 838 | [by-country/VN.txt](../by-country/VN.txt) | [hproxy.com/free-proxy-list/vietnam](https://hproxy.com/free-proxy-list/vietnam) |
-| China (CN) | 717 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
+| United States (US) | 21,509 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| Indonesia (ID) | 3,870 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
+| Vietnam (VN) | 846 | [by-country/VN.txt](../by-country/VN.txt) | [hproxy.com/free-proxy-list/vietnam](https://hproxy.com/free-proxy-list/vietnam) |
 | India (IN) | 705 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
-| Brazil (BR) | 641 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
-| Mexico (MX) | 572 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
-| Colombia (CO) | 551 | [by-country/CO.txt](../by-country/CO.txt) | [hproxy.com/free-proxy-list/colombia](https://hproxy.com/free-proxy-list/colombia) |
-| Russia (RU) | 519 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
-| Philippines (PH) | 474 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
-| Japan (JP) | 464 | [by-country/JP.txt](../by-country/JP.txt) | [hproxy.com/free-proxy-list/japan](https://hproxy.com/free-proxy-list/japan) |
-| Canada (CA) | 436 | [by-country/CA.txt](../by-country/CA.txt) | [hproxy.com/free-proxy-list/canada](https://hproxy.com/free-proxy-list/canada) |
+| China (CN) | 680 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
+| Brazil (BR) | 623 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
+| Mexico (MX) | 574 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
+| Colombia (CO) | 550 | [by-country/CO.txt](../by-country/CO.txt) | [hproxy.com/free-proxy-list/colombia](https://hproxy.com/free-proxy-list/colombia) |
+| Russia (RU) | 521 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
+| Philippines (PH) | 472 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
+| Japan (JP) | 467 | [by-country/JP.txt](../by-country/JP.txt) | [hproxy.com/free-proxy-list/japan](https://hproxy.com/free-proxy-list/japan) |
+| Canada (CA) | 438 | [by-country/CA.txt](../by-country/CA.txt) | [hproxy.com/free-proxy-list/canada](https://hproxy.com/free-proxy-list/canada) |
 | _+120 weitere Länder_ | | [der vollständige by-country-Ordner &raquo;](../by-country) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
 
 </details>
@@ -158,7 +158,7 @@ In der Praxis: Kostenlose Proxys für öffentliche Seiten, Tests und Standortpr�
 ## FAQ
 
 **Wie viele kostenlose Proxys enthält diese Liste?**
-944,188 wurden bisher erfasst. 5,757 sind in dieser Minute erreichbar und 38,632 haben in den letzten 48 Stunden geantwortet, und die veröffentlichten Dateien enthalten genau diese.
+944,272 wurden bisher erfasst. 4,730 sind in dieser Minute erreichbar und 38,591 haben in den letzten 48 Stunden geantwortet, und die veröffentlichten Dateien enthalten genau diese.
 
 **Welche Protokolle werden unterstützt?**
 HTTP, HTTPS, SOCKS4 und SOCKS5. Jeder Proxy trägt die Protokolle, auf denen er tatsächlich geantwortet hat, nicht die, unter denen er gelistet war.
@@ -211,4 +211,4 @@ Proxys lassen sich nicht per Pull Request hinzufügen: Die Liste wird bei jeder 
 
 Diese Proxys sind aus öffentlich zugänglichen Quellen zusammengetragen. Wir scannen nicht nach ihnen und speichern nichts über die Geräte dahinter. Sie werden bereitgestellt, wie sie sind, ohne Gewähr, nur für rechtmäßige Nutzung. Für die Nutzung sind Sie verantwortlich: Halten Sie sich an die GitHub Acceptable Use Policy und Ihre lokalen Gesetze, und leiten Sie niemals Passwörter oder sensible Daten durch einen öffentlichen Proxy. Gehört eine IP-Adresse Ihnen und soll sie entfernt werden, öffnen Sie ein Issue.
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; mehrmals täglich aktualisiert &nbsp;&middot;&nbsp; 2026-10-25 09:25 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; mehrmals täglich aktualisiert &nbsp;&middot;&nbsp; 2026-10-25 11:42 UTC</sub></p>
