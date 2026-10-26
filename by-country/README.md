@@ -1,64 +1,64 @@
 # Free proxies by country
 
-37,718 working proxies across 132 countries, updated 26.10.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
+37,781 working proxies across 132 countries, updated 26.10.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
 
 | Flag | Country | Code | Alive proxies |
 |:----:|---------|:----:|--------------:|
-| 🇺🇸 | United States | [US](US.txt) | 20,672 |
-| 🇮🇩 | Indonesia | [ID](ID.txt) | 3,849 |
-| 🇻🇳 | Vietnam | [VN](VN.txt) | 843 |
-| 🇮🇳 | India | [IN](IN.txt) | 705 |
+| 🇺🇸 | United States | [US](US.txt) | 20,714 |
+| 🇮🇩 | Indonesia | [ID](ID.txt) | 3,846 |
+| 🇻🇳 | Vietnam | [VN](VN.txt) | 853 |
+| 🇮🇳 | India | [IN](IN.txt) | 702 |
 | 🇨🇳 | China | [CN](CN.txt) | 653 |
-| 🇧🇷 | Brazil | [BR](BR.txt) | 619 |
-| 🇲🇽 | Mexico | [MX](MX.txt) | 578 |
-| 🇨🇴 | Colombia | [CO](CO.txt) | 555 |
+| 🇧🇷 | Brazil | [BR](BR.txt) | 616 |
+| 🇲🇽 | Mexico | [MX](MX.txt) | 582 |
+| 🇨🇴 | Colombia | [CO](CO.txt) | 554 |
 | 🇷🇺 | Russia | [RU](RU.txt) | 513 |
-| 🇯🇵 | Japan | [JP](JP.txt) | 484 |
-| 🇵🇭 | Philippines | [PH](PH.txt) | 472 |
-| 🇨🇦 | Canada | [CA](CA.txt) | 433 |
-| 🇸🇬 | Singapore | [SG](SG.txt) | 386 |
-| 🇿🇦 | South Africa | [ZA](ZA.txt) | 369 |
-| 🇩🇪 | Germany | [DE](DE.txt) | 365 |
-| 🇹🇭 | Thailand | [TH](TH.txt) | 356 |
-| 🇫🇷 | France | [FR](FR.txt) | 340 |
-| 🇧🇩 | Bangladesh | [BD](BD.txt) | 336 |
-| 🇰🇷 | South Korea | [KR](KR.txt) | 324 |
-| 🇦🇺 | Australia | [AU](AU.txt) | 308 |
-| 🇭🇰 | Hong Kong | [HK](HK.txt) | 280 |
+| 🇯🇵 | Japan | [JP](JP.txt) | 486 |
+| 🇵🇭 | Philippines | [PH](PH.txt) | 474 |
+| 🇨🇦 | Canada | [CA](CA.txt) | 437 |
+| 🇸🇬 | Singapore | [SG](SG.txt) | 387 |
+| 🇿🇦 | South Africa | [ZA](ZA.txt) | 367 |
+| 🇩🇪 | Germany | [DE](DE.txt) | 363 |
+| 🇹🇭 | Thailand | [TH](TH.txt) | 357 |
+| 🇫🇷 | France | [FR](FR.txt) | 338 |
+| 🇧🇩 | Bangladesh | [BD](BD.txt) | 337 |
+| 🇰🇷 | South Korea | [KR](KR.txt) | 326 |
+| 🇦🇺 | Australia | [AU](AU.txt) | 309 |
+| 🇭🇰 | Hong Kong | [HK](HK.txt) | 282 |
 | 🇻🇪 | Venezuela | [VE](VE.txt) | 255 |
 | 🇳🇱 | Netherlands | [NL](NL.txt) | 252 |
-| 🇦🇷 | Argentina | [AR](AR.txt) | 232 |
-| 🇩🇴 | Dominican Republic | [DO](DO.txt) | 223 |
-| 🇮🇱 | Israel | [IL](IL.txt) | 211 |
+| 🇦🇷 | Argentina | [AR](AR.txt) | 233 |
+| 🇩🇴 | Dominican Republic | [DO](DO.txt) | 225 |
+| 🇮🇱 | Israel | [IL](IL.txt) | 210 |
 | 🇪🇨 | Ecuador | [EC](EC.txt) | 197 |
-| 🇪🇸 | Spain | [ES](ES.txt) | 184 |
-| 🇬🇧 | United Kingdom | [GB](GB.txt) | 172 |
-| 🇵🇪 | Peru | [PE](PE.txt) | 163 |
-| 🇲🇾 | Malaysia | [MY](MY.txt) | 151 |
-| 🇵🇰 | Pakistan | [PK](PK.txt) | 150 |
-| 🇹🇷 | Turkey | [TR](TR.txt) | 120 |
+| 🇪🇸 | Spain | [ES](ES.txt) | 183 |
+| 🇬🇧 | United Kingdom | [GB](GB.txt) | 174 |
+| 🇵🇪 | Peru | [PE](PE.txt) | 164 |
+| 🇵🇰 | Pakistan | [PK](PK.txt) | 151 |
+| 🇲🇾 | Malaysia | [MY](MY.txt) | 150 |
+| 🇹🇷 | Turkey | [TR](TR.txt) | 121 |
 | 🇮🇷 | Iran | [IR](IR.txt) | 108 |
 | 🇺🇦 | Ukraine | [UA](UA.txt) | 107 |
-| 🇮🇪 | Ireland | [IE](IE.txt) | 104 |
+| 🇮🇪 | Ireland | [IE](IE.txt) | 101 |
 | 🇨🇱 | Chile | [CL](CL.txt) | 93 |
 | 🇪🇬 | Egypt | [EG](EG.txt) | 81 |
-| 🇰🇭 | Cambodia | [KH](KH.txt) | 80 |
+| 🇰🇭 | Cambodia | [KH](KH.txt) | 78 |
 | 🇨🇭 | Switzerland | [CH](CH.txt) | 72 |
 | 🇵🇱 | Poland | [PL](PL.txt) | 71 |
-| 🇱🇾 | Libya | [LY](LY.txt) | 68 |
-| 🇸🇪 | Sweden | [SE](SE.txt) | 65 |
+| 🇱🇾 | Libya | [LY](LY.txt) | 69 |
+| 🇸🇪 | Sweden | [SE](SE.txt) | 68 |
 | 🇰🇪 | Kenya | [KE](KE.txt) | 63 |
 | 🇵🇾 | Paraguay | [PY](PY.txt) | 59 |
 | 🇫🇮 | Finland | [FI](FI.txt) | 53 |
 | 🇧🇬 | Bulgaria | [BG](BG.txt) | 44 |
+| 🇸🇾 | Syria | [SY](SY.txt) | 44 |
 | 🇬🇹 | Guatemala | [GT](GT.txt) | 43 |
-| 🇸🇾 | Syria | [SY](SY.txt) | 42 |
 | 🇭🇳 | Honduras | [HN](HN.txt) | 41 |
 | 🇳🇬 | Nigeria | [NG](NG.txt) | 38 |
 | 🇬🇪 | Georgia | [GE](GE.txt) | 37 |
 | 🇭🇺 | Hungary | [HU](HU.txt) | 36 |
 | 🇮🇹 | Italy | [IT](IT.txt) | 36 |
-| 🇳🇵 | Nepal | [NP](NP.txt) | 35 |
+| 🇳🇵 | Nepal | [NP](NP.txt) | 36 |
 | 🇹🇼 | Taiwan | [TW](TW.txt) | 30 |
 | 🇨🇿 | Czechia | [CZ](CZ.txt) | 29 |
 | 🇮🇶 | Iraq | [IQ](IQ.txt) | 28 |
