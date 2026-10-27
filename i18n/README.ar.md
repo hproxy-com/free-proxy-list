@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1793084823" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1793093575" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
   <a href="https://hproxy.com"><img src="https://img.shields.io/badge/Website-hproxy.com-0158FF?style=for-the-badge&labelColor=0B1220" alt="Website"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-946,069-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-6,945-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-37,712-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-946,166-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-7,622-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-37,570-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
   <a href="https://github.com/hproxy-com/free-proxy-list/commits/main"><img src="https://img.shields.io/badge/Updated-several_times_a_day-0158FF?style=for-the-badge&labelColor=0B1220" alt="Updated"></a>
   <a href="https://hproxy.com/docs/free-proxy-list"><img src="https://img.shields.io/badge/Free_API-no_key-0158FF?style=for-the-badge&labelColor=0B1220" alt="Free API"></a>
   <a href="https://hproxy.com/proxy-checker"><img src="https://img.shields.io/badge/Proxy_Checker-Free-0158FF?style=for-the-badge&labelColor=0B1220" alt="Proxy Checker"></a>
@@ -17,17 +17,17 @@
 
 # قائمة بروكسيات مجانية، تُفحص على مدار الساعة
 
-<p align="center"><b>6,945 بروكسي مجاني يعمل الآن، و37,712 عمل خلال آخر 48 ساعة، وكل واحد منها مُختبَر ومُصنَّف.</b></p>
+<p align="center"><b>7,622 بروكسي مجاني يعمل الآن، و37,570 عمل خلال آخر 48 ساعة، وكل واحد منها مُختبَر ومُصنَّف.</b></p>
 <p align="center"><sub>HTTP وHTTPS وSOCKS4 وSOCKS5 &middot; الدولة وإخفاء الهوية وزمن الاستجابة ونسبة التشغيل في كل صف &middot; تم التحديث في 27.10.2026</sub></p>
-<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/ar.svg?v=1793084823" alt="شاهد القائمة الكاملة على hproxy.com" width="520"></a></p>
+<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/ar.svg?v=1793093575" alt="شاهد القائمة الكاملة على hproxy.com" width="520"></a></p>
 
-هذه قائمة البروكسيات المجانية التي تنشرها [HProxy](https://hproxy.com/free-proxy-list). يجمع محرك المرشحين من أكثر من 100 مصدر عام كل بضع دقائق، ويختبر كل واحد عبر HTTP وHTTPS وSOCKS4 وSOCKS5، ويسجل الدولة ودرجة إخفاء الهوية وزمن الاستجابة ونسبة التشغيل لكل بروكسي يستجيب. تتبّع حتى الآن **946,069** بروكسي. **6,945** منها يعمل في هذه الدقيقة و**37,712** استجاب خلال آخر 48 ساعة، وتُنشر المجموعتان: يحوي `live.txt` ما يعمل الآن فقط، ويحوي `all.txt` المجمّع الأوسع الذي تدخله البروكسيات المجانية وتخرج منه. لا تسجيل ولا مفتاح API، ويمكنك سحب الملفات كلما احتجت.
+هذه قائمة البروكسيات المجانية التي تنشرها [HProxy](https://hproxy.com/free-proxy-list). يجمع محرك المرشحين من أكثر من 100 مصدر عام كل بضع دقائق، ويختبر كل واحد عبر HTTP وHTTPS وSOCKS4 وSOCKS5، ويسجل الدولة ودرجة إخفاء الهوية وزمن الاستجابة ونسبة التشغيل لكل بروكسي يستجيب. تتبّع حتى الآن **946,166** بروكسي. **7,622** منها يعمل في هذه الدقيقة و**37,570** استجاب خلال آخر 48 ساعة، وتُنشر المجموعتان: يحوي `live.txt` ما يعمل الآن فقط، ويحوي `all.txt` المجمّع الأوسع الذي تدخله البروكسيات المجانية وتخرج منه. لا تسجيل ولا مفتاح API، ويمكنك سحب الملفات كلما احتجت.
 
 إن كنت تجمع البروكسيات من عشرات المستودعات والمواقع، فهذه القائمة تحويها بالفعل. فهي مبنية من المصادر العامة نفسها ثم مفحوصة. انظر [المصادر التي نجمعها](#المصادر-التي-نجمعها).
 
 ## باختصار
 
-- **946,069** بروكسي مُتتبَّع حتى الآن، **6,945** يعمل الآن، **37,712** عمل خلال آخر 48 ساعة
+- **946,166** بروكسي مُتتبَّع حتى الآن، **7,622** يعمل الآن، **37,570** عمل خلال آخر 48 ساعة
 - **4 بروتوكولات**: HTTP وHTTPS وSOCKS4 وSOCKS5، وكل بروكسي مُصنَّف بالبروتوكولات التي استجاب عبرها فعلاً
 - مجموعة من **أكثر من 100 مصدر عام**، بلا تكرار، ويُعاد اختبارها على مدار الساعة
 - يُحدَّث هذا المستودع عدة مرات يومياً (تُظهر قائمة الإيداعات كل تحديث)؛ وتُحدَّث [القائمة الحية على hproxy.com](https://hproxy.com/free-proxy-list) كل بضع دقائق
@@ -40,37 +40,37 @@
 
 | القائمة | البروكسيات | الصيغ | على hproxy.com |
 |------|--------:|---------|---------|
-| **يعمل الآن** | 6,945 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| **الكل** (استجاب خلال آخر 48 ساعة) | 37,712 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| HTTP | 3,277 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
-| HTTPS | 2,826 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
-| SOCKS4 | 776 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
-| SOCKS5 | 1,795 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
-| Elite (إخفاء هوية عالٍ) | 4,134 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
-| Anonymous (مجهول) | 1,411 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
-| Fast (أقل من ثانيتين) | 1,003 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| United States (US) | 20,497 | [txt](../by-country/US.txt) &middot; [الكل &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| **يعمل الآن** | 7,622 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| **الكل** (استجاب خلال آخر 48 ساعة) | 37,570 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| HTTP | 3,126 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
+| HTTPS | 2,960 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
+| SOCKS4 | 760 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
+| SOCKS5 | 2,508 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
+| Elite (إخفاء هوية عالٍ) | 4,944 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
+| Anonymous (مجهول) | 1,356 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
+| Fast (أقل من ثانيتين) | 1,038 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| United States (US) | 20,381 | [txt](../by-country/US.txt) &middot; [الكل &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
 
 تحوي الملفات النصية `ip:port` واحداً في كل سطر. ويضيف `all.json` و`all.csv` البروتوكول ودرجة إخفاء الهوية والدولة والمدينة وزمن الاستجابة ونسبة التشغيل لكل بروكسي.
 
 <details>
-<summary><b>بروكسيات مجانية حسب الدولة (132 دولة)</b></summary>
+<summary><b>بروكسيات مجانية حسب الدولة (131 دولة)</b></summary>
 
 | الدولة | البروكسيات | الملف | على hproxy.com |
 |---------|--------:|------|------|
-| United States (US) | 20,497 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
-| Indonesia (ID) | 3,858 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
-| Vietnam (VN) | 874 | [by-country/VN.txt](../by-country/VN.txt) | [hproxy.com/free-proxy-list/vietnam](https://hproxy.com/free-proxy-list/vietnam) |
-| India (IN) | 696 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
+| United States (US) | 20,381 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| Indonesia (ID) | 3,852 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
+| Vietnam (VN) | 820 | [by-country/VN.txt](../by-country/VN.txt) | [hproxy.com/free-proxy-list/vietnam](https://hproxy.com/free-proxy-list/vietnam) |
+| India (IN) | 694 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
 | China (CN) | 664 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
-| Brazil (BR) | 606 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
-| Mexico (MX) | 583 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
-| Colombia (CO) | 557 | [by-country/CO.txt](../by-country/CO.txt) | [hproxy.com/free-proxy-list/colombia](https://hproxy.com/free-proxy-list/colombia) |
-| Russia (RU) | 519 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
-| Japan (JP) | 486 | [by-country/JP.txt](../by-country/JP.txt) | [hproxy.com/free-proxy-list/japan](https://hproxy.com/free-proxy-list/japan) |
+| Brazil (BR) | 607 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
+| Mexico (MX) | 581 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
+| Colombia (CO) | 556 | [by-country/CO.txt](../by-country/CO.txt) | [hproxy.com/free-proxy-list/colombia](https://hproxy.com/free-proxy-list/colombia) |
+| Russia (RU) | 521 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
+| Japan (JP) | 488 | [by-country/JP.txt](../by-country/JP.txt) | [hproxy.com/free-proxy-list/japan](https://hproxy.com/free-proxy-list/japan) |
 | Philippines (PH) | 472 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
-| Canada (CA) | 456 | [by-country/CA.txt](../by-country/CA.txt) | [hproxy.com/free-proxy-list/canada](https://hproxy.com/free-proxy-list/canada) |
-| _+120 دولة أخرى_ | | [مجلد by-country الكامل &raquo;](../by-country) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| Canada (CA) | 460 | [by-country/CA.txt](../by-country/CA.txt) | [hproxy.com/free-proxy-list/canada](https://hproxy.com/free-proxy-list/canada) |
+| _+119 دولة أخرى_ | | [مجلد by-country الكامل &raquo;](../by-country) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
 
 </details>
 
@@ -158,7 +158,7 @@ gemini extensions install https://github.com/hproxy-com/hproxy-mcp
 ## الأسئلة الشائعة
 
 **كم عدد البروكسيات المجانية في هذه القائمة؟**
-تُتبِّع 946,069 حتى الآن. 6,945 يعمل في هذه الدقيقة و37,712 استجاب خلال آخر 48 ساعة، والملفات المنشورة تحوي هذه بالضبط.
+تُتبِّع 946,166 حتى الآن. 7,622 يعمل في هذه الدقيقة و37,570 استجاب خلال آخر 48 ساعة، والملفات المنشورة تحوي هذه بالضبط.
 
 **ما البروتوكولات المدعومة؟**
 HTTP وHTTPS وSOCKS4 وSOCKS5. كل بروكسي مُصنَّف بالبروتوكولات التي استجاب عبرها فعلاً، لا التي أُدرج تحتها.
@@ -211,4 +211,4 @@ HTTP وHTTPS وSOCKS4 وSOCKS5. كل بروكسي مُصنَّف بالبروت�
 
 هذه البروكسيات مجمّعة من مصادر متاحة للعموم. نحن لا نمسح الشبكة بحثاً عنها ولا نخزن شيئاً عن الأجهزة وراءها. وتُقدَّم كما هي، دون ضمان، للاستخدام المشروع فقط. أنت مسؤول عن كيفية استخدامك لها: التزم بسياسة الاستخدام المقبول في GitHub وقوانينك المحلية، ولا تمرر أبداً كلمات مرور أو بيانات حساسة عبر بروكسي عام. وإن كان عنوان IP ملكك وأردت إزالته، فافتح issue.
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; يُحدَّث عدة مرات يومياً &nbsp;&middot;&nbsp; 2026-10-27 07:07 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; يُحدَّث عدة مرات يومياً &nbsp;&middot;&nbsp; 2026-10-27 09:32 UTC</sub></p>
