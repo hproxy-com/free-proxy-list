@@ -1,45 +1,45 @@
 # Free proxies by country
 
-34,721 working proxies across 133 countries, updated 29.10.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
+34,454 working proxies across 133 countries, updated 29.10.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
 
 | Flag | Country | Code | Alive proxies |
 |:----:|---------|:----:|--------------:|
-| 🇺🇸 | United States | [US](US.txt) | 17,204 |
-| 🇮🇩 | Indonesia | [ID](ID.txt) | 3,860 |
-| 🇻🇳 | Vietnam | [VN](VN.txt) | 828 |
-| 🇮🇳 | India | [IN](IN.txt) | 703 |
-| 🇨🇳 | China | [CN](CN.txt) | 633 |
-| 🇧🇷 | Brazil | [BR](BR.txt) | 621 |
-| 🇲🇽 | Mexico | [MX](MX.txt) | 598 |
-| 🇨🇴 | Colombia | [CO](CO.txt) | 543 |
-| 🇷🇺 | Russia | [RU](RU.txt) | 522 |
-| 🇯🇵 | Japan | [JP](JP.txt) | 502 |
+| 🇺🇸 | United States | [US](US.txt) | 16,923 |
+| 🇮🇩 | Indonesia | [ID](ID.txt) | 3,862 |
+| 🇻🇳 | Vietnam | [VN](VN.txt) | 830 |
+| 🇮🇳 | India | [IN](IN.txt) | 706 |
+| 🇨🇳 | China | [CN](CN.txt) | 631 |
+| 🇧🇷 | Brazil | [BR](BR.txt) | 623 |
+| 🇲🇽 | Mexico | [MX](MX.txt) | 600 |
+| 🇨🇴 | Colombia | [CO](CO.txt) | 544 |
+| 🇷🇺 | Russia | [RU](RU.txt) | 520 |
+| 🇯🇵 | Japan | [JP](JP.txt) | 499 |
 | 🇨🇦 | Canada | [CA](CA.txt) | 482 |
-| 🇵🇭 | Philippines | [PH](PH.txt) | 469 |
-| 🇸🇬 | Singapore | [SG](SG.txt) | 389 |
+| 🇵🇭 | Philippines | [PH](PH.txt) | 470 |
+| 🇸🇬 | Singapore | [SG](SG.txt) | 387 |
 | 🇿🇦 | South Africa | [ZA](ZA.txt) | 376 |
-| 🇹🇭 | Thailand | [TH](TH.txt) | 367 |
-| 🇩🇪 | Germany | [DE](DE.txt) | 362 |
-| 🇦🇺 | Australia | [AU](AU.txt) | 338 |
-| 🇰🇷 | South Korea | [KR](KR.txt) | 332 |
-| 🇧🇩 | Bangladesh | [BD](BD.txt) | 329 |
-| 🇫🇷 | France | [FR](FR.txt) | 327 |
-| 🇨🇭 | Switzerland | [CH](CH.txt) | 322 |
-| 🇭🇰 | Hong Kong | [HK](HK.txt) | 288 |
-| 🇳🇱 | Netherlands | [NL](NL.txt) | 260 |
+| 🇹🇭 | Thailand | [TH](TH.txt) | 368 |
+| 🇩🇪 | Germany | [DE](DE.txt) | 364 |
+| 🇦🇺 | Australia | [AU](AU.txt) | 342 |
+| 🇧🇩 | Bangladesh | [BD](BD.txt) | 330 |
+| 🇰🇷 | South Korea | [KR](KR.txt) | 330 |
+| 🇫🇷 | France | [FR](FR.txt) | 329 |
+| 🇨🇭 | Switzerland | [CH](CH.txt) | 325 |
+| 🇭🇰 | Hong Kong | [HK](HK.txt) | 285 |
+| 🇳🇱 | Netherlands | [NL](NL.txt) | 261 |
 | 🇻🇪 | Venezuela | [VE](VE.txt) | 252 |
-| 🇦🇷 | Argentina | [AR](AR.txt) | 240 |
-| 🇮🇱 | Israel | [IL](IL.txt) | 233 |
+| 🇦🇷 | Argentina | [AR](AR.txt) | 237 |
+| 🇮🇱 | Israel | [IL](IL.txt) | 234 |
 | 🇩🇴 | Dominican Republic | [DO](DO.txt) | 220 |
-| 🇪🇸 | Spain | [ES](ES.txt) | 204 |
+| 🇪🇸 | Spain | [ES](ES.txt) | 202 |
 | 🇪🇨 | Ecuador | [EC](EC.txt) | 197 |
 | 🇬🇧 | United Kingdom | [GB](GB.txt) | 183 |
 | 🇵🇪 | Peru | [PE](PE.txt) | 167 |
+| 🇲🇾 | Malaysia | [MY](MY.txt) | 156 |
 | 🇵🇰 | Pakistan | [PK](PK.txt) | 154 |
-| 🇲🇾 | Malaysia | [MY](MY.txt) | 153 |
-| 🇹🇷 | Turkey | [TR](TR.txt) | 125 |
-| 🇮🇪 | Ireland | [IE](IE.txt) | 112 |
-| 🇮🇷 | Iran | [IR](IR.txt) | 109 |
+| 🇹🇷 | Turkey | [TR](TR.txt) | 126 |
+| 🇮🇷 | Iran | [IR](IR.txt) | 111 |
+| 🇮🇪 | Ireland | [IE](IE.txt) | 110 |
 | 🇺🇦 | Ukraine | [UA](UA.txt) | 103 |
 | 🇨🇱 | Chile | [CL](CL.txt) | 100 |
 | 🇸🇪 | Sweden | [SE](SE.txt) | 84 |
@@ -66,9 +66,9 @@
 | 🇦🇲 | Armenia | [AM](AM.txt) | 21 |
 | 🇵🇷 | Puerto Rico | [PR](PR.txt) | 21 |
 | 🇦🇪 | United Arab Emirates | [AE](AE.txt) | 20 |
+| 🇰🇿 | Kazakhstan | [KZ](KZ.txt) | 20 |
 | 🇵🇸 | Palestine | [PS](PS.txt) | 20 |
 | 🇷🇸 | Serbia | [RS](RS.txt) | 20 |
-| 🇰🇿 | Kazakhstan | [KZ](KZ.txt) | 19 |
 | 🇷🇴 | Romania | [RO](RO.txt) | 19 |
 | 🇸🇨 | Seychelles | [SC](SC.txt) | 19 |
 | 🇱🇻 | Latvia | [LV](LV.txt) | 16 |
@@ -78,11 +78,11 @@
 | 🇨🇲 | Cameroon | [CM](CM.txt) | 13 |
 | 🇬🇷 | Greece | [GR](GR.txt) | 13 |
 | 🇵🇦 | Panama | [PA](PA.txt) | 12 |
+| 🇧🇴 | Bolivia | [BO](BO.txt) | 11 |
 | 🇪🇪 | Estonia | [EE](EE.txt) | 11 |
-| 🇺🇿 | Uzbekistan | [UZ](UZ.txt) | 11 |
 | 🇦🇫 | Afghanistan | [AF](AF.txt) | 10 |
-| 🇧🇴 | Bolivia | [BO](BO.txt) | 10 |
 | 🇧🇼 | Botswana | [BW](BW.txt) | 10 |
+| 🇺🇿 | Uzbekistan | [UZ](UZ.txt) | 10 |
 | 🇱🇧 | Lebanon | [LB](LB.txt) | 9 |
 | 🇲🇲 | Myanmar | [MM](MM.txt) | 8 |
 | 🇸🇰 | Slovakia | [SK](SK.txt) | 8 |
