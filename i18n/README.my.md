@@ -1,33 +1,34 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1793624433" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1793626379" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
   <a href="https://hproxy.com"><img src="https://img.shields.io/badge/Website-hproxy.com-0158FF?style=for-the-badge&labelColor=0B1220" alt="Website"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-954,206-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-7,183-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-33,351-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-954,208-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-6,562-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-33,359-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
   <a href="https://github.com/hproxy-com/free-proxy-list/commits/main"><img src="https://img.shields.io/badge/Updated-several_times_a_day-0158FF?style=for-the-badge&labelColor=0B1220" alt="Updated"></a>
   <a href="https://hproxy.com/docs/free-proxy-list"><img src="https://img.shields.io/badge/Free_API-no_key-0158FF?style=for-the-badge&labelColor=0B1220" alt="Free API"></a>
   <a href="https://hproxy.com/proxy-checker"><img src="https://img.shields.io/badge/Proxy_Checker-Free-0158FF?style=for-the-badge&labelColor=0B1220" alt="Proxy Checker"></a>
   <a href="https://hproxy.com/residential"><img src="https://img.shields.io/badge/Premium_Proxies-from_$0.44_per_GB-0158FF?style=for-the-badge&labelColor=0B1220" alt="Premium Proxies"></a>
+  <a href="https://hproxy.com/discord"><img src="https://img.shields.io/badge/Discord-win_1_GB_daily-0158FF?style=for-the-badge&labelColor=0B1220" alt="Discord"></a>
 </p>
 
 <p align="center"><sub>အခြားဘာသာစကားဖြင့် ဖတ်ရန်: <a href="../README.md">English</a> &middot; <a href="README.zh-CN.md">简体中文</a> &middot; <a href="README.zh-TW.md">繁體中文</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.ko.md">한국어</a> &middot; <a href="README.ru.md">Русский</a> &middot; <a href="README.uk.md">Українська</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.pt-BR.md">Português (Brasil)</a> &middot; <a href="README.it.md">Italiano</a> &middot; <a href="README.nl.md">Nederlands</a> &middot; <a href="README.pl.md">Polski</a> &middot; <a href="README.cs.md">Čeština</a> &middot; <a href="README.sk.md">Slovenčina</a> &middot; <a href="README.hu.md">Magyar</a> &middot; <a href="README.ro.md">Română</a> &middot; <a href="README.bg.md">Български</a> &middot; <a href="README.sr.md">Srpski</a> &middot; <a href="README.hr.md">Hrvatski</a> &middot; <a href="README.el.md">Ελληνικά</a> &middot; <a href="README.tr.md">Türkçe</a> &middot; <a href="README.az.md">Azərbaycanca</a> &middot; <a href="README.kk.md">Қазақша</a> &middot; <a href="README.uz.md">Oʻzbekcha</a> &middot; <a href="README.fa.md">فارسی</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.he.md">עברית</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.bn.md">বাংলা</a> &middot; <a href="README.ur.md">اردو</a> &middot; <a href="README.ta.md">தமிழ்</a> &middot; <a href="README.te.md">తెలుగు</a> &middot; <a href="README.mr.md">मराठी</a> &middot; <a href="README.ml.md">മലയാളം</a> &middot; <a href="README.th.md">ไทย</a> &middot; <a href="README.vi.md">Tiếng Việt</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ms.md">Bahasa Melayu</a> &middot; <a href="README.tl.md">Filipino</a> &middot; <b>မြန်မာ</b> &middot; <a href="README.sw.md">Kiswahili</a> &middot; <a href="README.sv.md">Svenska</a> &middot; <a href="README.da.md">Dansk</a> &middot; <a href="README.nb.md">Norsk</a> &middot; <a href="README.fi.md">Suomi</a> &middot; <a href="README.ka.md">ქართული</a> &middot; <a href="README.hy.md">Հայերեն</a> &middot; <a href="README.ne.md">नेपाली</a></sub></p>
 
 # အခမဲ့ proxy စာရင်း၊ နေ့ရောညပါ စစ်ဆေးထားသည်
 
-<p align="center"><b>ယခုအချိန်တွင် အခမဲ့ proxy 7,183 ခု အသက်ဝင်နေပြီး လွန်ခဲ့သော 48 နာရီအတွင်း 33,351 ခု အလုပ်လုပ်ခဲ့ကာ တစ်ခုချင်းစီကို စမ်းသပ်၍ အမှတ်အသားပြုထားသည်။</b></p>
+<p align="center"><b>ယခုအချိန်တွင် အခမဲ့ proxy 6,562 ခု အသက်ဝင်နေပြီး လွန်ခဲ့သော 48 နာရီအတွင်း 33,359 ခု အလုပ်လုပ်ခဲ့ကာ တစ်ခုချင်းစီကို စမ်းသပ်၍ အမှတ်အသားပြုထားသည်။</b></p>
 <p align="center"><sub>HTTP၊ HTTPS၊ SOCKS4 နှင့် SOCKS5 &middot; အတန်းတိုင်းတွင် နိုင်ငံ၊ အမည်ဝှက်မှု၊ နှောင့်နှေးချိန်နှင့် uptime &middot; အသစ်ပြင်ဆင်ချိန် 02.11.2026</sub></p>
-<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/my.svg?v=1793624433" alt="စာရင်းအပြည့်အစုံကို hproxy.com တွင် ကြည့်ရန်" width="520"></a></p>
+<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/my.svg?v=1793626379" alt="စာရင်းအပြည့်အစုံကို hproxy.com တွင် ကြည့်ရန်" width="520"></a></p>
 
-ဤသည်မှာ [HProxy](https://hproxy.com/free-proxy-list) က ထုတ်ပြန်သော အခမဲ့ proxy စာရင်း ဖြစ်သည်။ engine တစ်ခုက မိနစ်အနည်းငယ်တိုင်း အများပြည်သူ ရင်းမြစ် ၁၀၀ ကျော်မှ ကိုယ်စားလှယ်လောင်းများကို ဆွဲယူပြီး တစ်ခုချင်းစီကို HTTP၊ HTTPS၊ SOCKS4 နှင့် SOCKS5 ဖြင့် စမ်းသပ်ကာ တုံ့ပြန်သော proxy တိုင်း၏ နိုင်ငံ၊ အမည်ဝှက်မှုအဆင့်၊ နှောင့်နှေးချိန်နှင့် uptime ကို မှတ်တမ်းတင်သည်။ ယခုအထိ proxy **954,206** ခုကို ခြေရာခံခဲ့သည်။ **7,183** ခုသည် ဤမိနစ်တွင် အသက်ဝင်နေပြီး **33,351** ခုသည် လွန်ခဲ့သော 48 နာရီအတွင်း တုံ့ပြန်ခဲ့ကာ အစုနှစ်စုလုံးကို ထုတ်ပြန်သည်- `live.txt` တွင် ယခု အလုပ်လုပ်နေသည်များသာ ပါဝင်ပြီး `all.txt` တွင် အခမဲ့ proxy များ ဝင်ထွက်နေသော ပိုကျယ်သော အစုအဝေး ပါဝင်သည်။ အကောင့်ဖွင့်ရန် မလို၊ API key မလို၊ ဖိုင်များကို လိုသလောက် ဆွဲယူနိုင်သည်။
+ဤသည်မှာ [HProxy](https://hproxy.com/free-proxy-list) က ထုတ်ပြန်သော အခမဲ့ proxy စာရင်း ဖြစ်သည်။ engine တစ်ခုက မိနစ်အနည်းငယ်တိုင်း အများပြည်သူ ရင်းမြစ် ၁၀၀ ကျော်မှ ကိုယ်စားလှယ်လောင်းများကို ဆွဲယူပြီး တစ်ခုချင်းစီကို HTTP၊ HTTPS၊ SOCKS4 နှင့် SOCKS5 ဖြင့် စမ်းသပ်ကာ တုံ့ပြန်သော proxy တိုင်း၏ နိုင်ငံ၊ အမည်ဝှက်မှုအဆင့်၊ နှောင့်နှေးချိန်နှင့် uptime ကို မှတ်တမ်းတင်သည်။ ယခုအထိ proxy **954,208** ခုကို ခြေရာခံခဲ့သည်။ **6,562** ခုသည် ဤမိနစ်တွင် အသက်ဝင်နေပြီး **33,359** ခုသည် လွန်ခဲ့သော 48 နာရီအတွင်း တုံ့ပြန်ခဲ့ကာ အစုနှစ်စုလုံးကို ထုတ်ပြန်သည်- `live.txt` တွင် ယခု အလုပ်လုပ်နေသည်များသာ ပါဝင်ပြီး `all.txt` တွင် အခမဲ့ proxy များ ဝင်ထွက်နေသော ပိုကျယ်သော အစုအဝေး ပါဝင်သည်။ အကောင့်ဖွင့်ရန် မလို၊ API key မလို၊ ဖိုင်များကို လိုသလောက် ဆွဲယူနိုင်သည်။
 
 repo နှင့် site တစ်ဒါဇင်မှ proxy များ စုဆောင်းနေပါက ဤစာရင်းတွင် ၎င်းတို့ ပါပြီးဖြစ်သည်။ တူညီသော အများပြည်သူ ရင်းမြစ်များမှ တည်ဆောက်ပြီး စစ်ဆေးထားသည်။ [ကျွန်ုပ်တို့ စုစည်းသော ရင်းမြစ်များ](#ကျွနုပတို-စုစညးသော-ရငးမြစများ) ကို ကြည့်ပါ။
 
 ## အကျဉ်းချုပ်
 
-- ယခုအထိ proxy **954,206** ခု ခြေရာခံပြီး၊ **7,183** ခု ယခု အသက်ဝင်နေ၊ **33,351** ခု လွန်ခဲ့သော 48 နာရီအတွင်း အလုပ်လုပ်ခဲ့
+- ယခုအထိ proxy **954,208** ခု ခြေရာခံပြီး၊ **6,562** ခု ယခု အသက်ဝင်နေ၊ **33,359** ခု လွန်ခဲ့သော 48 နာရီအတွင်း အလုပ်လုပ်ခဲ့
 - **protocol ၄ မျိုး**- HTTP၊ HTTPS၊ SOCKS4 နှင့် SOCKS5၊ proxy တိုင်းကို အမှန်တကယ် တုံ့ပြန်ခဲ့သော protocol များဖြင့် အမှတ်အသားပြုထား
 - **အများပြည်သူ ရင်းမြစ် ၁၀၀ ကျော်** မှ ဆွဲယူ၊ ထပ်နေသည်များ ဖယ်ရှား၊ နေ့ရောညပါ ပြန်စစ်ဆေး
 - ဤ repository ကို တစ်နေ့လျှင် အကြိမ်များစွာ ပြန်လည်ဆန်းသစ်သည် (commit စာရင်းတွင် ဆန်းသစ်မှုတိုင်း ပြသည်)၊ [hproxy.com ရှိ တိုက်ရိုက်စာရင်း](https://hproxy.com/free-proxy-list) သည် မိနစ်အနည်းငယ်တိုင်း ဆန်းသစ်သည်
@@ -40,16 +41,16 @@ repo နှင့် site တစ်ဒါဇင်မှ proxy များ စ�
 
 | စာရင်း | Proxy | ဖော်မတ် | hproxy.com တွင် |
 |------|--------:|---------|---------|
-| **ယခု အသက်ဝင်နေ** | 7,183 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| **အားလုံး** (လွန်ခဲ့သော 48 နာရီအတွင်း တုံ့ပြန်ခဲ့) | 33,351 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| HTTP | 3,901 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
-| HTTPS | 3,536 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
-| SOCKS4 | 688 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
-| SOCKS5 | 1,125 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
-| Elite (အမည်ဝှက်မှု မြင့်) | 4,001 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
-| Anonymous (အမည်ဝှက်) | 1,658 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
-| Fast (၂ စက္ကန့်အောက်) | 1,006 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| United States (US) | 15,070 | [txt](../by-country/US.txt) &middot; [အားလုံး &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| **ယခု အသက်ဝင်နေ** | 6,562 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| **အားလုံး** (လွန်ခဲ့သော 48 နာရီအတွင်း တုံ့ပြန်ခဲ့) | 33,359 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| HTTP | 3,571 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
+| HTTPS | 3,044 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
+| SOCKS4 | 660 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
+| SOCKS5 | 1,041 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
+| Elite (အမည်ဝှက်မှု မြင့်) | 3,648 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
+| Anonymous (အမည်ဝှက်) | 1,602 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
+| Fast (၂ စက္ကန့်အောက်) | 796 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| United States (US) | 15,074 | [txt](../by-country/US.txt) &middot; [အားလုံး &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
 
 စာသားဖိုင်များတွင် တစ်ကြောင်းလျှင် `ip:port` တစ်ခု ပါသည်။ `all.json` နှင့် `all.csv` တွင် proxy တိုင်း၏ protocol၊ အမည်ဝှက်မှုအဆင့်၊ နိုင်ငံ၊ မြို့၊ နှောင့်နှေးချိန်နှင့် uptime ကို ထပ်ဖြည့်ထားသည်။
 
@@ -58,17 +59,17 @@ repo နှင့် site တစ်ဒါဇင်မှ proxy များ စ�
 
 | နိုင်ငံ | Proxy | ဖိုင် | hproxy.com တွင် |
 |---------|--------:|------|------|
-| United States (US) | 15,070 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
-| Indonesia (ID) | 3,848 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
+| United States (US) | 15,074 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| Indonesia (ID) | 3,849 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
 | Vietnam (VN) | 1,086 | [by-country/VN.txt](../by-country/VN.txt) | [hproxy.com/free-proxy-list/vietnam](https://hproxy.com/free-proxy-list/vietnam) |
 | Switzerland (CH) | 854 | [by-country/CH.txt](../by-country/CH.txt) | [hproxy.com/free-proxy-list/switzerland](https://hproxy.com/free-proxy-list/switzerland) |
-| China (CN) | 770 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
+| China (CN) | 767 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
 | India (IN) | 737 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
-| Brazil (BR) | 607 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
-| Mexico (MX) | 571 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
+| Brazil (BR) | 605 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
+| Mexico (MX) | 570 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
 | Colombia (CO) | 534 | [by-country/CO.txt](../by-country/CO.txt) | [hproxy.com/free-proxy-list/colombia](https://hproxy.com/free-proxy-list/colombia) |
-| Japan (JP) | 505 | [by-country/JP.txt](../by-country/JP.txt) | [hproxy.com/free-proxy-list/japan](https://hproxy.com/free-proxy-list/japan) |
-| Russia (RU) | 496 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
+| Japan (JP) | 503 | [by-country/JP.txt](../by-country/JP.txt) | [hproxy.com/free-proxy-list/japan](https://hproxy.com/free-proxy-list/japan) |
+| Russia (RU) | 495 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
 | Canada (CA) | 489 | [by-country/CA.txt](../by-country/CA.txt) | [hproxy.com/free-proxy-list/canada](https://hproxy.com/free-proxy-list/canada) |
 | _နောက်ထပ် နိုင်ငံ 119 ခု_ | | [by-country ဖိုလ်ဒါ အပြည့်အစုံ &raquo;](../by-country) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
 
@@ -158,7 +159,7 @@ engine သည် တွေ့ဖူးသမျှ proxy တိုင်း၏ �
 ## မေးလေ့ရှိသော မေးခွန်းများ
 
 **ဤစာရင်းတွင် အခမဲ့ proxy ဘယ်နှစ်ခု ရှိသလဲ။**
-ယခုအထိ 954,206 ခု ခြေရာခံခဲ့သည်။ 7,183 ခုသည် ဤမိနစ်တွင် အသက်ဝင်နေပြီး 33,351 ခုသည် လွန်ခဲ့သော 48 နာရီအတွင်း တုံ့ပြန်ခဲ့ကာ ထုတ်ပြန်ထားသော ဖိုင်များတွင် ၎င်းတို့ အတိအကျ ပါဝင်သည်။
+ယခုအထိ 954,208 ခု ခြေရာခံခဲ့သည်။ 6,562 ခုသည် ဤမိနစ်တွင် အသက်ဝင်နေပြီး 33,359 ခုသည် လွန်ခဲ့သော 48 နာရီအတွင်း တုံ့ပြန်ခဲ့ကာ ထုတ်ပြန်ထားသော ဖိုင်များတွင် ၎င်းတို့ အတိအကျ ပါဝင်သည်။
 
 **မည်သည့် protocol များကို ပံ့ပိုးသလဲ။**
 HTTP၊ HTTPS၊ SOCKS4 နှင့် SOCKS5။ proxy တိုင်းကို စာရင်းသွင်းခံရသော protocol များဖြင့် မဟုတ်ဘဲ အမှန်တကယ် တုံ့ပြန်ခဲ့သော protocol များဖြင့် အမှတ်အသားပြုထားသည်။
@@ -211,4 +212,4 @@ proxy များကို pull request ဖြင့် ထည့်၍ မရ�
 
 ဤ proxy များကို အများပြည်သူ ရရှိနိုင်သော ရင်းမြစ်များမှ စုစည်းထားသည်။ ၎င်းတို့ကို ရှာရန် ကျွန်ုပ်တို့ scan မလုပ်ပါ၊ နောက်ကွယ်ရှိ စက်ပစ္စည်းများအကြောင်း ဘာမှ မသိမ်းဆည်းပါ။ ရှိသည့်အတိုင်း၊ အာမခံချက် မရှိဘဲ၊ ဥပဒေနှင့်အညီ အသုံးပြုရန်သာ ပေးထားသည်။ ၎င်းတို့ကို မည်သို့ အသုံးပြုသည်မှာ သင့်တာဝန် ဖြစ်သည်- GitHub ၏ လက်ခံနိုင်သော အသုံးပြုမှု မူဝါဒနှင့် ဒေသဆိုင်ရာ ဥပဒေများကို လိုက်နာပြီး စကားဝှက် သို့မဟုတ် အရေးကြီး ဒေတာကို အများပြည်သူ proxy မှတစ်ဆင့် ဘယ်တော့မှ မပို့ပါနှင့်။ IP လိပ်စာတစ်ခုသည် သင့်ပိုင်ဖြစ်ပြီး ဖယ်ရှားလိုပါက issue တစ်ခု ဖွင့်ပါ။
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; တစ်နေ့လျှင် အကြိမ်များစွာ ဆန်းသစ်သည် &nbsp;&middot;&nbsp; 2026-11-02 13:00 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; တစ်နေ့လျှင် အကြိမ်များစွာ ဆန်းသစ်သည် &nbsp;&middot;&nbsp; 2026-11-02 13:32 UTC</sub></p>
