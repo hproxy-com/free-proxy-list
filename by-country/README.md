@@ -1,51 +1,51 @@
 # Free proxies by country
 
-35,697 working proxies across 131 countries, updated 06.11.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
+35,981 working proxies across 131 countries, updated 06.11.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
 
 | Flag | Country | Code | Alive proxies |
 |:----:|---------|:----:|--------------:|
-| 🇺🇸 | United States | [US](US.txt) | 17,910 |
-| 🇮🇩 | Indonesia | [ID](ID.txt) | 3,850 |
-| 🇨🇭 | Switzerland | [CH](CH.txt) | 1,120 |
-| 🇮🇳 | India | [IN](IN.txt) | 763 |
+| 🇺🇸 | United States | [US](US.txt) | 18,173 |
+| 🇮🇩 | Indonesia | [ID](ID.txt) | 3,853 |
+| 🇨🇭 | Switzerland | [CH](CH.txt) | 1,132 |
+| 🇮🇳 | India | [IN](IN.txt) | 762 |
 | 🇧🇷 | Brazil | [BR](BR.txt) | 617 |
-| 🇨🇳 | China | [CN](CN.txt) | 570 |
-| 🇲🇽 | Mexico | [MX](MX.txt) | 562 |
-| 🇨🇴 | Colombia | [CO](CO.txt) | 542 |
-| 🇻🇳 | Vietnam | [VN](VN.txt) | 524 |
-| 🇨🇦 | Canada | [CA](CA.txt) | 502 |
-| 🇷🇺 | Russia | [RU](RU.txt) | 490 |
-| 🇯🇵 | Japan | [JP](JP.txt) | 484 |
-| 🇵🇭 | Philippines | [PH](PH.txt) | 425 |
-| 🇿🇦 | South Africa | [ZA](ZA.txt) | 380 |
-| 🇹🇭 | Thailand | [TH](TH.txt) | 371 |
-| 🇸🇬 | Singapore | [SG](SG.txt) | 352 |
-| 🇦🇺 | Australia | [AU](AU.txt) | 351 |
-| 🇩🇪 | Germany | [DE](DE.txt) | 351 |
-| 🇫🇷 | France | [FR](FR.txt) | 324 |
+| 🇨🇳 | China | [CN](CN.txt) | 569 |
+| 🇲🇽 | Mexico | [MX](MX.txt) | 565 |
+| 🇨🇴 | Colombia | [CO](CO.txt) | 543 |
+| 🇻🇳 | Vietnam | [VN](VN.txt) | 511 |
+| 🇨🇦 | Canada | [CA](CA.txt) | 501 |
+| 🇯🇵 | Japan | [JP](JP.txt) | 489 |
+| 🇷🇺 | Russia | [RU](RU.txt) | 489 |
+| 🇵🇭 | Philippines | [PH](PH.txt) | 426 |
+| 🇿🇦 | South Africa | [ZA](ZA.txt) | 381 |
+| 🇹🇭 | Thailand | [TH](TH.txt) | 370 |
+| 🇦🇺 | Australia | [AU](AU.txt) | 354 |
+| 🇩🇪 | Germany | [DE](DE.txt) | 352 |
+| 🇸🇬 | Singapore | [SG](SG.txt) | 349 |
+| 🇫🇷 | France | [FR](FR.txt) | 325 |
 | 🇧🇩 | Bangladesh | [BD](BD.txt) | 310 |
-| 🇮🇱 | Israel | [IL](IL.txt) | 284 |
-| 🇰🇷 | South Korea | [KR](KR.txt) | 278 |
-| 🇳🇱 | Netherlands | [NL](NL.txt) | 272 |
-| 🇭🇰 | Hong Kong | [HK](HK.txt) | 240 |
+| 🇮🇱 | Israel | [IL](IL.txt) | 286 |
+| 🇰🇷 | South Korea | [KR](KR.txt) | 283 |
+| 🇳🇱 | Netherlands | [NL](NL.txt) | 271 |
+| 🇭🇰 | Hong Kong | [HK](HK.txt) | 243 |
 | 🇦🇷 | Argentina | [AR](AR.txt) | 234 |
 | 🇻🇪 | Venezuela | [VE](VE.txt) | 232 |
 | 🇩🇴 | Dominican Republic | [DO](DO.txt) | 224 |
-| 🇪🇸 | Spain | [ES](ES.txt) | 202 |
-| 🇬🇧 | United Kingdom | [GB](GB.txt) | 181 |
-| 🇪🇨 | Ecuador | [EC](EC.txt) | 178 |
+| 🇪🇸 | Spain | [ES](ES.txt) | 199 |
+| 🇬🇧 | United Kingdom | [GB](GB.txt) | 182 |
+| 🇪🇨 | Ecuador | [EC](EC.txt) | 179 |
 | 🇵🇪 | Peru | [PE](PE.txt) | 170 |
 | 🇵🇰 | Pakistan | [PK](PK.txt) | 158 |
 | 🇲🇾 | Malaysia | [MY](MY.txt) | 151 |
 | 🇹🇷 | Turkey | [TR](TR.txt) | 137 |
-| 🇮🇪 | Ireland | [IE](IE.txt) | 109 |
+| 🇮🇪 | Ireland | [IE](IE.txt) | 110 |
 | 🇨🇱 | Chile | [CL](CL.txt) | 108 |
-| 🇺🇦 | Ukraine | [UA](UA.txt) | 105 |
+| 🇺🇦 | Ukraine | [UA](UA.txt) | 106 |
 | 🇮🇷 | Iran | [IR](IR.txt) | 104 |
 | 🇪🇬 | Egypt | [EG](EG.txt) | 89 |
 | 🇰🇭 | Cambodia | [KH](KH.txt) | 77 |
 | 🇸🇪 | Sweden | [SE](SE.txt) | 76 |
-| 🇰🇪 | Kenya | [KE](KE.txt) | 70 |
+| 🇰🇪 | Kenya | [KE](KE.txt) | 69 |
 | 🇱🇾 | Libya | [LY](LY.txt) | 69 |
 | 🇵🇱 | Poland | [PL](PL.txt) | 69 |
 | 🇫🇮 | Finland | [FI](FI.txt) | 60 |
@@ -55,7 +55,7 @@
 | 🇭🇳 | Honduras | [HN](HN.txt) | 42 |
 | 🇭🇺 | Hungary | [HU](HU.txt) | 42 |
 | 🇸🇾 | Syria | [SY](SY.txt) | 41 |
-| 🇧🇬 | Bulgaria | [BG](BG.txt) | 39 |
+| 🇧🇬 | Bulgaria | [BG](BG.txt) | 40 |
 | 🇳🇬 | Nigeria | [NG](NG.txt) | 38 |
 | 🇬🇪 | Georgia | [GE](GE.txt) | 35 |
 | 🇳🇵 | Nepal | [NP](NP.txt) | 35 |
@@ -87,9 +87,9 @@
 | 🇸🇰 | Slovakia | [SK](SK.txt) | 8 |
 | 🇽🇰 | Kosovo | [XK](XK.txt) | 8 |
 | 🇨🇩 | DR Congo | [CD](CD.txt) | 7 |
+| 🇪🇪 | Estonia | [EE](EE.txt) | 7 |
 | 🇱🇧 | Lebanon | [LB](LB.txt) | 7 |
 | 🇨🇬 | Congo | [CG](CG.txt) | 6 |
-| 🇪🇪 | Estonia | [EE](EE.txt) | 6 |
 | 🇬🇭 | Ghana | [GH](GH.txt) | 6 |
 | 🇱🇹 | Lithuania | [LT](LT.txt) | 6 |
 | 🇸🇮 | Slovenia | [SI](SI.txt) | 6 |
