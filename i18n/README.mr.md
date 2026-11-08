@@ -1,16 +1,16 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1794167963" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1794169522" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
   <a href="https://hproxy.com"><img src="https://img.shields.io/badge/Website-hproxy.com-0158FF?style=for-the-badge&labelColor=0B1220" alt="Website"></a>
   <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-959,951-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-7,190-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-35,344-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-7,182-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-35,395-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
   <a href="https://github.com/hproxy-com/free-proxy-list/commits/main"><img src="https://img.shields.io/badge/Updated-several_times_a_day-0158FF?style=for-the-badge&labelColor=0B1220" alt="Updated"></a>
   <a href="https://hproxy.com/docs/free-proxy-list"><img src="https://img.shields.io/badge/Free_API-no_key-0158FF?style=for-the-badge&labelColor=0B1220" alt="Free API"></a>
   <a href="https://hproxy.com/proxy-checker"><img src="https://img.shields.io/badge/Proxy_Checker-Free-0158FF?style=for-the-badge&labelColor=0B1220" alt="Proxy Checker"></a>
-  <a href="https://hproxy.com/residential"><img src="https://img.shields.io/badge/Premium_Proxies-from_$0.44_per_GB-0158FF?style=for-the-badge&labelColor=0B1220" alt="Premium Proxies"></a>
+  <a href="https://hproxy.com/residential-proxies?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=free-proxy-list"><img src="https://img.shields.io/badge/Residential_Proxies-from_$0.44_per_GB-0158FF?style=for-the-badge&labelColor=0B1220" alt="Residential Proxies"></a>
   <a href="https://hproxy.com/discord"><img src="https://img.shields.io/badge/Discord-win_1_GB_daily-0158FF?style=for-the-badge&labelColor=0B1220" alt="Discord"></a>
 </p>
 
@@ -18,17 +18,17 @@
 
 # मोफत प्रॉक्सी यादी, चोवीस तास तपासलेली
 
-<p align="center"><b>या क्षणी 7,190 मोफत प्रॉक्सी चालू आहेत, गेल्या 48 तासांत 35,344 चालल्या, आणि प्रत्येकाची चाचणी व लेबलिंग झाली आहे.</b></p>
+<p align="center"><b>या क्षणी 7,182 मोफत प्रॉक्सी चालू आहेत, गेल्या 48 तासांत 35,395 चालल्या, आणि प्रत्येकाची चाचणी व लेबलिंग झाली आहे.</b></p>
 <p align="center"><sub>HTTP, HTTPS, SOCKS4 आणि SOCKS5 &middot; प्रत्येक ओळीत देश, निनावीपणा, विलंब आणि अपटाइम &middot; अद्ययावत 08.11.2026</sub></p>
-<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/mr.svg?v=1794167963" alt="संपूर्ण यादी hproxy.com वर पाहा" width="520"></a></p>
+<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/mr.svg?v=1794169522" alt="संपूर्ण यादी hproxy.com वर पाहा" width="520"></a></p>
 
-ही [HProxy](https://hproxy.com/free-proxy-list) ने प्रकाशित केलेली मोफत प्रॉक्सी यादी आहे. एक इंजिन दर काही मिनिटांनी 100 हून अधिक सार्वजनिक स्रोतांमधून उमेदवार गोळा करते, प्रत्येकाची HTTP, HTTPS, SOCKS4 आणि SOCKS5 वर चाचणी करते, आणि प्रतिसाद देणाऱ्या प्रत्येक प्रॉक्सीचा देश, निनावीपणाचा दर्जा, विलंब आणि अपटाइम नोंदवते. आतापर्यंत त्याने **959,951** प्रॉक्सी ट्रॅक केल्या आहेत. **7,190** या मिनिटाला चालू आहेत आणि **35,344** ने गेल्या 48 तासांत प्रतिसाद दिला, आणि दोन्ही संच प्रकाशित होतात: `live.txt` मध्ये फक्त आत्ता चालू असलेल्या आहेत, `all.txt` मध्ये तो मोठा पूल आहे ज्यात मोफत प्रॉक्सी येत-जात राहतात. साइनअप नाही, API की नाही, आणि फाइली हव्या तितक्या वेळा घेता येतात.
+ही [HProxy](https://hproxy.com/free-proxy-list) ने प्रकाशित केलेली मोफत प्रॉक्सी यादी आहे. एक इंजिन दर काही मिनिटांनी 100 हून अधिक सार्वजनिक स्रोतांमधून उमेदवार गोळा करते, प्रत्येकाची HTTP, HTTPS, SOCKS4 आणि SOCKS5 वर चाचणी करते, आणि प्रतिसाद देणाऱ्या प्रत्येक प्रॉक्सीचा देश, निनावीपणाचा दर्जा, विलंब आणि अपटाइम नोंदवते. आतापर्यंत त्याने **959,951** प्रॉक्सी ट्रॅक केल्या आहेत. **7,182** या मिनिटाला चालू आहेत आणि **35,395** ने गेल्या 48 तासांत प्रतिसाद दिला, आणि दोन्ही संच प्रकाशित होतात: `live.txt` मध्ये फक्त आत्ता चालू असलेल्या आहेत, `all.txt` मध्ये तो मोठा पूल आहे ज्यात मोफत प्रॉक्सी येत-जात राहतात. साइनअप नाही, API की नाही, आणि फाइली हव्या तितक्या वेळा घेता येतात.
 
 जर तुम्ही डझनभर रेपॉझिटरी आणि साइट्सवरून प्रॉक्सी गोळा करत असाल, तर या यादीत त्या आधीच आहेत. ती त्याच सार्वजनिक स्रोतांमधून बनवली आहे, मग तपासली आहे. पाहा [आम्ही एकत्र करत असलेले स्रोत](#आमही-एकतर-करत-असलेले-सरोत).
 
 ## एका दृष्टिक्षेपात
 
-- आतापर्यंत **959,951** प्रॉक्सी ट्रॅक केल्या, **7,190** या क्षणी चालू, **35,344** गेल्या 48 तासांत चालल्या
+- आतापर्यंत **959,951** प्रॉक्सी ट्रॅक केल्या, **7,182** या क्षणी चालू, **35,395** गेल्या 48 तासांत चालल्या
 - **4 प्रोटोकॉल**: HTTP, HTTPS, SOCKS4 आणि SOCKS5, आणि प्रत्येक प्रॉक्सीवर तेच प्रोटोकॉल लेबल आहेत ज्यांवर तिने खरोखर प्रतिसाद दिला
 - **100 हून अधिक सार्वजनिक स्रोतांमधून** गोळा केलेल्या, डुप्लिकेट काढलेल्या, आणि चोवीस तास पुन्हा तपासलेल्या
 - ही रेपॉझिटरी दिवसातून अनेकदा ताजी होते (कमिट यादी प्रत्येक रिफ्रेश दाखवते); [hproxy.com वरील थेट यादी](https://hproxy.com/free-proxy-list) दर काही मिनिटांनी ताजी होते
@@ -41,16 +41,16 @@
 
 | यादी | प्रॉक्सी | स्वरूपे | hproxy.com वर |
 |------|--------:|---------|---------|
-| **आत्ता चालू** | 7,190 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| **सर्व** (गेल्या 48 तासांत प्रतिसाद दिला) | 35,344 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| HTTP | 3,593 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
-| HTTPS | 3,532 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
-| SOCKS4 | 561 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
-| SOCKS5 | 1,601 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
-| Elite (उच्च निनावीपणा) | 4,006 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
-| Anonymous (निनावी) | 1,593 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
-| Fast (2 सेकंदांपेक्षा कमी) | 1,267 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| United States (US) | 18,530 | [txt](../by-country/US.txt) &middot; [सर्व &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| **आत्ता चालू** | 7,182 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| **सर्व** (गेल्या 48 तासांत प्रतिसाद दिला) | 35,395 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| HTTP | 3,808 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
+| HTTPS | 3,715 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
+| SOCKS4 | 567 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
+| SOCKS5 | 1,376 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
+| Elite (उच्च निनावीपणा) | 3,772 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
+| Anonymous (निनावी) | 1,677 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
+| Fast (2 सेकंदांपेक्षा कमी) | 1,358 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| United States (US) | 18,586 | [txt](../by-country/US.txt) &middot; [सर्व &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
 
 मजकूर फाइलींमध्ये प्रत्येक ओळीत एक `ip:port` असतो. `all.json` आणि `all.csv` मध्ये प्रत्येक प्रॉक्सीचा प्रोटोकॉल, निनावीपणाचा दर्जा, देश, शहर, विलंब आणि अपटाइम जोडलेला असतो.
 
@@ -59,15 +59,15 @@
 
 | देश | प्रॉक्सी | फाइल | hproxy.com वर |
 |---------|--------:|------|------|
-| United States (US) | 18,530 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| United States (US) | 18,586 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
 | Indonesia (ID) | 3,863 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
 | India (IN) | 744 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
 | China (CN) | 634 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
-| Brazil (BR) | 599 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
-| Mexico (MX) | 575 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
+| Brazil (BR) | 600 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
+| Mexico (MX) | 574 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
 | Colombia (CO) | 542 | [by-country/CO.txt](../by-country/CO.txt) | [hproxy.com/free-proxy-list/colombia](https://hproxy.com/free-proxy-list/colombia) |
-| Canada (CA) | 523 | [by-country/CA.txt](../by-country/CA.txt) | [hproxy.com/free-proxy-list/canada](https://hproxy.com/free-proxy-list/canada) |
-| Japan (JP) | 481 | [by-country/JP.txt](../by-country/JP.txt) | [hproxy.com/free-proxy-list/japan](https://hproxy.com/free-proxy-list/japan) |
+| Canada (CA) | 526 | [by-country/CA.txt](../by-country/CA.txt) | [hproxy.com/free-proxy-list/canada](https://hproxy.com/free-proxy-list/canada) |
+| Japan (JP) | 479 | [by-country/JP.txt](../by-country/JP.txt) | [hproxy.com/free-proxy-list/japan](https://hproxy.com/free-proxy-list/japan) |
 | Russia (RU) | 466 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
 | Philippines (PH) | 426 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
 | Vietnam (VN) | 401 | [by-country/VN.txt](../by-country/VN.txt) | [hproxy.com/free-proxy-list/vietnam](https://hproxy.com/free-proxy-list/vietnam) |
@@ -159,7 +159,7 @@ gemini extensions install https://github.com/hproxy-com/hproxy-mcp
 ## नेहमी विचारले जाणारे प्रश्न
 
 **या यादीत किती मोफत प्रॉक्सी आहेत?**
-आतापर्यंत 959,951 ट्रॅक केल्या आहेत. 7,190 या मिनिटाला चालू आहेत आणि 35,344 ने गेल्या 48 तासांत प्रतिसाद दिला, आणि प्रकाशित फाइलींमध्ये नेमक्या त्याच आहेत.
+आतापर्यंत 959,951 ट्रॅक केल्या आहेत. 7,182 या मिनिटाला चालू आहेत आणि 35,395 ने गेल्या 48 तासांत प्रतिसाद दिला, आणि प्रकाशित फाइलींमध्ये नेमक्या त्याच आहेत.
 
 **कोणते प्रोटोकॉल समर्थित आहेत?**
 HTTP, HTTPS, SOCKS4 आणि SOCKS5. प्रत्येक प्रॉक्सीवर तेच प्रोटोकॉल लेबल आहेत ज्यांवर तिने खरोखर प्रतिसाद दिला, ज्यांखाली ती सूचीबद्ध होती ते नव्हे.
@@ -202,7 +202,7 @@ HTTP, HTTPS, SOCKS4 आणि SOCKS5. प्रत्येक प्रॉक�
 
 मोफत प्रॉक्सी तीच यादी सापडलेल्या सर्वांसोबत शेअर होते, त्यामुळे लोकांना खरोखर हवी असलेली लक्ष्ये सहसा ती तुमच्या आधीच पाहून झालेली असतात. जेव्हा कामाला सतत चालू राहणारी, सेशन टिकवणारी आणि संपूर्ण इंटरनेटसोबत शेअर न झालेली प्रॉक्सी लागते, तेव्हा [HProxy](https://hproxy.com) रेसिडेन्शियल, ISP, मोबाइल आणि डेटासेंटर प्रॉक्सी गिगाबाइटनुसार विकते, $0.44 प्रति GB पासून. त्याच साइटवरील प्रॉक्सी चेकर आणि थेट यादी मोफतच राहतात.
 
-[थेट यादी](https://hproxy.com/free-proxy-list) &nbsp;&middot;&nbsp; [प्रॉक्सी चेकर](https://hproxy.com/proxy-checker) &nbsp;&middot;&nbsp; [किंमती](https://hproxy.com/residential) &nbsp;&middot;&nbsp; [मोफत प्रॉक्सी API](https://hproxy.com/docs/free-proxy-list)
+[थेट यादी](https://hproxy.com/free-proxy-list) &nbsp;&middot;&nbsp; [प्रॉक्सी चेकर](https://hproxy.com/proxy-checker) &nbsp;&middot;&nbsp; [किंमती](https://hproxy.com/residential-proxies?utm_source=github&utm_medium=readme&utm_campaign=free-proxy-list) &nbsp;&middot;&nbsp; [मोफत प्रॉक्सी API](https://hproxy.com/docs/free-proxy-list)
 
 ## योगदान
 
@@ -212,4 +212,4 @@ pull request ने प्रॉक्सी जोडता येत नाह
 
 या प्रॉक्सी सार्वजनिकरीत्या उपलब्ध स्रोतांमधून एकत्र केल्या आहेत. त्या शोधण्यासाठी आम्ही स्कॅन करत नाही, आणि त्यांच्यामागील उपकरणांबद्दल काहीही साठवत नाही. त्या जशा आहेत तशा, कोणत्याही हमीशिवाय, केवळ कायदेशीर वापरासाठी दिल्या जातात. त्या कशा वापरता याची जबाबदारी तुमची आहे: GitHub च्या स्वीकारार्ह वापर धोरणाचे आणि तुमच्या स्थानिक कायद्यांचे पालन करा, आणि सार्वजनिक प्रॉक्सीमार्फत कधीही पासवर्ड किंवा संवेदनशील डेटा पाठवू नका. एखादा IP पत्ता तुमचा असेल आणि तो काढायचा असेल, तर एक issue उघडा.
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; दिवसातून अनेकदा ताजी &nbsp;&middot;&nbsp; 2026-11-08 19:59 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; दिवसातून अनेकदा ताजी &nbsp;&middot;&nbsp; 2026-11-08 20:25 UTC</sub></p>
