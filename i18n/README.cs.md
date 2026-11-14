@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1794650451" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1794658500" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
   <a href="https://hproxy.com"><img src="https://img.shields.io/badge/Website-hproxy.com-0158FF?style=for-the-badge&labelColor=0B1220" alt="Website"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-966,191-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-3,729-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-28,365-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-966,235-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-3,731-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-28,032-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
   <a href="https://github.com/hproxy-com/free-proxy-list/commits/main"><img src="https://img.shields.io/badge/Updated-several_times_a_day-0158FF?style=for-the-badge&labelColor=0B1220" alt="Updated"></a>
   <a href="https://hproxy.com/docs/free-proxy-list"><img src="https://img.shields.io/badge/Free_API-no_key-0158FF?style=for-the-badge&labelColor=0B1220" alt="Free API"></a>
   <a href="https://hproxy.com/proxy-checker"><img src="https://img.shields.io/badge/Proxy_Checker-Free-0158FF?style=for-the-badge&labelColor=0B1220" alt="Proxy Checker"></a>
@@ -18,17 +18,17 @@
 
 # Seznam bezplatných proxy, ověřovaný nepřetržitě
 
-<p align="center"><b>3,729 bezplatných proxy je právě teď živých, 28,365 fungovalo za posledních 48 hodin a každá z nich je otestovaná a označená.</b></p>
+<p align="center"><b>3,731 bezplatných proxy je právě teď živých, 28,032 fungovalo za posledních 48 hodin a každá z nich je otestovaná a označená.</b></p>
 <p align="center"><sub>HTTP, HTTPS, SOCKS4 a SOCKS5 &middot; země, anonymita, odezva a dostupnost na každém řádku &middot; aktualizováno 14.11.2026</sub></p>
-<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/cs.svg?v=1794650451" alt="Zobrazit celý seznam na hproxy.com" width="520"></a></p>
+<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/cs.svg?v=1794658500" alt="Zobrazit celý seznam na hproxy.com" width="520"></a></p>
 
-Toto je seznam bezplatných proxy, který vydává [HProxy](https://hproxy.com/free-proxy-list). Engine každých pár minut stahuje kandidáty z více než 100 veřejných zdrojů, každého testuje přes HTTP, HTTPS, SOCKS4 a SOCKS5 a zaznamenává zemi, stupeň anonymity, odezvu a dostupnost každé proxy, která odpoví. Dosud sledoval **966,191** proxy. **3,729** je v tuto minutu živých a **28,365** odpovědělo za posledních 48 hodin a obě sady se zveřejňují: `live.txt` obsahuje jen to, co běží právě teď, `all.txt` širší fond, do kterého bezplatné proxy vstupují a z něhož vypadávají. Bez registrace a bez API klíče a soubory si můžete stahovat tak často, jak potřebujete.
+Toto je seznam bezplatných proxy, který vydává [HProxy](https://hproxy.com/free-proxy-list). Engine každých pár minut stahuje kandidáty z více než 100 veřejných zdrojů, každého testuje přes HTTP, HTTPS, SOCKS4 a SOCKS5 a zaznamenává zemi, stupeň anonymity, odezvu a dostupnost každé proxy, která odpoví. Dosud sledoval **966,235** proxy. **3,731** je v tuto minutu živých a **28,032** odpovědělo za posledních 48 hodin a obě sady se zveřejňují: `live.txt` obsahuje jen to, co běží právě teď, `all.txt` širší fond, do kterého bezplatné proxy vstupují a z něhož vypadávají. Bez registrace a bez API klíče a soubory si můžete stahovat tak často, jak potřebujete.
 
 Pokud jste sbírali proxy z tuctu repozitářů a webů, tento seznam je už obsahuje. Je postaven ze stejných veřejných zdrojů a poté ověřen. Viz [Zdroje, které slučujeme](#zdroje-které-slučujeme).
 
 ## Ve zkratce
 
-- **966,191** proxy dosud sledováno, **3,729** právě teď živých, **28,365** fungujících za posledních 48 hodin
+- **966,235** proxy dosud sledováno, **3,731** právě teď živých, **28,032** fungujících za posledních 48 hodin
 - **4 protokoly**: HTTP, HTTPS, SOCKS4 a SOCKS5 a každá proxy má označené ty, na kterých skutečně odpověděla
 - Staženo z **více než 100 veřejných zdrojů**, bez duplicit, nepřetržitě znovu testováno
 - Tento repozitář se obnovuje několikrát denně (seznam commitů ukazuje každou obnovu); [živý seznam na hproxy.com](https://hproxy.com/free-proxy-list) se obnovuje každých pár minut
@@ -41,16 +41,16 @@ Pokud jste sbírali proxy z tuctu repozitářů a webů, tento seznam je už obs
 
 | Seznam | Proxy | Formáty | Na hproxy.com |
 |------|--------:|---------|---------|
-| **Živé teď** | 3,729 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| **Všechny** (odpověděly za posledních 48 hodin) | 28,365 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| HTTP | 1,602 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
-| HTTPS | 1,401 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
-| SOCKS4 | 669 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
-| SOCKS5 | 728 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
-| Elite (vysoká anonymita) | 2,389 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
-| Anonymous (anonymní) | 712 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
-| Fast (pod 2 sekundy) | 864 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| United States (US) | 11,251 | [txt](../by-country/US.txt) &middot; [všechny &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| **Živé teď** | 3,731 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| **Všechny** (odpověděly za posledních 48 hodin) | 28,032 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| HTTP | 1,678 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
+| HTTPS | 1,372 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
+| SOCKS4 | 595 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
+| SOCKS5 | 688 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
+| Elite (vysoká anonymita) | 2,300 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
+| Anonymous (anonymní) | 758 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
+| Fast (pod 2 sekundy) | 801 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| United States (US) | 10,937 | [txt](../by-country/US.txt) &middot; [všechny &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
 
 Textové soubory obsahují jedno `ip:port` na řádek. `all.json` a `all.csv` přidávají protokol, stupeň anonymity, zemi, město, odezvu a dostupnost každé proxy.
 
@@ -59,18 +59,18 @@ Textové soubory obsahují jedno `ip:port` na řádek. `all.json` a `all.csv` p�
 
 | Země | Proxy | Soubor | Na hproxy.com |
 |---------|--------:|------|------|
-| United States (US) | 11,251 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
+| United States (US) | 10,937 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
 | Indonesia (ID) | 3,884 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
-| India (IN) | 768 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
-| China (CN) | 627 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
-| Brazil (BR) | 607 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
-| Mexico (MX) | 580 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
+| India (IN) | 770 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
+| China (CN) | 605 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
+| Brazil (BR) | 604 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
+| Mexico (MX) | 582 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
 | Colombia (CO) | 554 | [by-country/CO.txt](../by-country/CO.txt) | [hproxy.com/free-proxy-list/colombia](https://hproxy.com/free-proxy-list/colombia) |
-| Canada (CA) | 538 | [by-country/CA.txt](../by-country/CA.txt) | [hproxy.com/free-proxy-list/canada](https://hproxy.com/free-proxy-list/canada) |
-| Germany (DE) | 485 | [by-country/DE.txt](../by-country/DE.txt) | [hproxy.com/free-proxy-list/germany](https://hproxy.com/free-proxy-list/germany) |
-| Russia (RU) | 442 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
+| Canada (CA) | 544 | [by-country/CA.txt](../by-country/CA.txt) | [hproxy.com/free-proxy-list/canada](https://hproxy.com/free-proxy-list/canada) |
+| Germany (DE) | 492 | [by-country/DE.txt](../by-country/DE.txt) | [hproxy.com/free-proxy-list/germany](https://hproxy.com/free-proxy-list/germany) |
+| Russia (RU) | 438 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
 | Philippines (PH) | 432 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
-| France (FR) | 413 | [by-country/FR.txt](../by-country/FR.txt) | [hproxy.com/free-proxy-list/france](https://hproxy.com/free-proxy-list/france) |
+| France (FR) | 409 | [by-country/FR.txt](../by-country/FR.txt) | [hproxy.com/free-proxy-list/france](https://hproxy.com/free-proxy-list/france) |
 | _+120 dalších zemí_ | | [celá složka by-country &raquo;](../by-country) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
 
 </details>
@@ -159,7 +159,7 @@ V praxi: používejte bezplatné proxy na veřejné stránky, testy a kontroly p
 ## Časté otázky
 
 **Kolik bezplatných proxy je v tomto seznamu?**
-Dosud bylo sledováno 966,191. 3,729 je v tuto minutu živých a 28,365 odpovědělo za posledních 48 hodin a zveřejněné soubory obsahují přesně tyto.
+Dosud bylo sledováno 966,235. 3,731 je v tuto minutu živých a 28,032 odpovědělo za posledních 48 hodin a zveřejněné soubory obsahují přesně tyto.
 
 **Které protokoly jsou podporovány?**
 HTTP, HTTPS, SOCKS4 a SOCKS5. Každá proxy má označené protokoly, na kterých skutečně odpověděla, ne ty, pod kterými byla někde uvedena.
@@ -212,4 +212,4 @@ Proxy nelze přidat přes pull request: seznam se při každé obnově znovu gen
 
 Tyto proxy jsou shromážděny z veřejně dostupných zdrojů. Neskenujeme síť, abychom je našli, a neukládáme nic o zařízeních za nimi. Jsou poskytovány tak, jak jsou, bez záruky, pouze pro zákonné použití. Za způsob použití odpovídáte vy: dodržujte Zásady přijatelného použití GitHubu a místní zákony a nikdy neposílejte hesla ani citlivé údaje přes veřejnou proxy. Pokud je IP adresa vaše a chcete ji odstranit, otevřete issue.
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; obnovováno několikrát denně &nbsp;&middot;&nbsp; 2026-11-14 10:00 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; obnovováno několikrát denně &nbsp;&middot;&nbsp; 2026-11-14 12:15 UTC</sub></p>
