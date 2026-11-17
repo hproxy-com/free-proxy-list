@@ -1,56 +1,56 @@
 # Free proxies by country
 
-23,913 working proxies across 133 countries, updated 16.11.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
+23,989 working proxies across 133 countries, updated 17.11.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
 
 | Flag | Country | Code | Alive proxies |
 |:----:|---------|:----:|--------------:|
-| 🇺🇸 | United States | [US](US.txt) | 7,768 |
-| 🇮🇩 | Indonesia | [ID](ID.txt) | 3,838 |
+| 🇺🇸 | United States | [US](US.txt) | 7,824 |
+| 🇮🇩 | Indonesia | [ID](ID.txt) | 3,842 |
 | 🇮🇳 | India | [IN](IN.txt) | 748 |
-| 🇧🇷 | Brazil | [BR](BR.txt) | 607 |
-| 🇨🇳 | China | [CN](CN.txt) | 583 |
-| 🇲🇽 | Mexico | [MX](MX.txt) | 578 |
+| 🇧🇷 | Brazil | [BR](BR.txt) | 606 |
+| 🇨🇳 | China | [CN](CN.txt) | 579 |
+| 🇲🇽 | Mexico | [MX](MX.txt) | 575 |
 | 🇨🇴 | Colombia | [CO](CO.txt) | 540 |
-| 🇨🇦 | Canada | [CA](CA.txt) | 510 |
+| 🇨🇦 | Canada | [CA](CA.txt) | 520 |
+| 🇷🇺 | Russia | [RU](RU.txt) | 436 |
 | 🇵🇭 | Philippines | [PH](PH.txt) | 435 |
-| 🇷🇺 | Russia | [RU](RU.txt) | 433 |
-| 🇩🇪 | Germany | [DE](DE.txt) | 392 |
-| 🇹🇭 | Thailand | [TH](TH.txt) | 367 |
-| 🇿🇦 | South Africa | [ZA](ZA.txt) | 345 |
+| 🇩🇪 | Germany | [DE](DE.txt) | 389 |
+| 🇹🇭 | Thailand | [TH](TH.txt) | 365 |
+| 🇿🇦 | South Africa | [ZA](ZA.txt) | 350 |
 | 🇸🇬 | Singapore | [SG](SG.txt) | 330 |
-| 🇦🇺 | Australia | [AU](AU.txt) | 318 |
-| 🇧🇩 | Bangladesh | [BD](BD.txt) | 316 |
+| 🇦🇺 | Australia | [AU](AU.txt) | 320 |
+| 🇧🇩 | Bangladesh | [BD](BD.txt) | 317 |
 | 🇯🇵 | Japan | [JP](JP.txt) | 305 |
-| 🇹🇷 | Turkey | [TR](TR.txt) | 296 |
+| 🇹🇷 | Turkey | [TR](TR.txt) | 300 |
 | 🇳🇱 | Netherlands | [NL](NL.txt) | 275 |
-| 🇫🇷 | France | [FR](FR.txt) | 270 |
-| 🇮🇱 | Israel | [IL](IL.txt) | 260 |
+| 🇫🇷 | France | [FR](FR.txt) | 269 |
+| 🇮🇱 | Israel | [IL](IL.txt) | 265 |
 | 🇻🇪 | Venezuela | [VE](VE.txt) | 246 |
-| 🇭🇰 | Hong Kong | [HK](HK.txt) | 239 |
-| 🇦🇷 | Argentina | [AR](AR.txt) | 229 |
-| 🇩🇴 | Dominican Republic | [DO](DO.txt) | 223 |
-| 🇻🇳 | Vietnam | [VN](VN.txt) | 217 |
-| 🇰🇷 | South Korea | [KR](KR.txt) | 206 |
-| 🇪🇸 | Spain | [ES](ES.txt) | 195 |
+| 🇭🇰 | Hong Kong | [HK](HK.txt) | 234 |
+| 🇦🇷 | Argentina | [AR](AR.txt) | 228 |
+| 🇩🇴 | Dominican Republic | [DO](DO.txt) | 222 |
+| 🇻🇳 | Vietnam | [VN](VN.txt) | 222 |
+| 🇰🇷 | South Korea | [KR](KR.txt) | 208 |
+| 🇪🇸 | Spain | [ES](ES.txt) | 191 |
 | 🇪🇨 | Ecuador | [EC](EC.txt) | 188 |
 | 🇬🇧 | United Kingdom | [GB](GB.txt) | 179 |
-| 🇵🇪 | Peru | [PE](PE.txt) | 168 |
-| 🇵🇰 | Pakistan | [PK](PK.txt) | 160 |
-| 🇲🇾 | Malaysia | [MY](MY.txt) | 143 |
-| 🇺🇦 | Ukraine | [UA](UA.txt) | 113 |
-| 🇮🇪 | Ireland | [IE](IE.txt) | 111 |
+| 🇵🇪 | Peru | [PE](PE.txt) | 169 |
+| 🇵🇰 | Pakistan | [PK](PK.txt) | 159 |
+| 🇲🇾 | Malaysia | [MY](MY.txt) | 145 |
+| 🇮🇪 | Ireland | [IE](IE.txt) | 114 |
+| 🇺🇦 | Ukraine | [UA](UA.txt) | 114 |
+| 🇮🇷 | Iran | [IR](IR.txt) | 102 |
 | 🇨🇱 | Chile | [CL](CL.txt) | 100 |
-| 🇮🇷 | Iran | [IR](IR.txt) | 100 |
-| 🇸🇪 | Sweden | [SE](SE.txt) | 79 |
-| 🇨🇭 | Switzerland | [CH](CH.txt) | 77 |
+| 🇸🇪 | Sweden | [SE](SE.txt) | 80 |
 | 🇰🇭 | Cambodia | [KH](KH.txt) | 75 |
-| 🇪🇬 | Egypt | [EG](EG.txt) | 73 |
+| 🇨🇭 | Switzerland | [CH](CH.txt) | 74 |
 | 🇱🇾 | Libya | [LY](LY.txt) | 72 |
+| 🇪🇬 | Egypt | [EG](EG.txt) | 70 |
 | 🇰🇪 | Kenya | [KE](KE.txt) | 70 |
-| 🇫🇮 | Finland | [FI](FI.txt) | 64 |
+| 🇫🇮 | Finland | [FI](FI.txt) | 65 |
 | 🇵🇱 | Poland | [PL](PL.txt) | 61 |
 | 🇵🇾 | Paraguay | [PY](PY.txt) | 58 |
-| 🇳🇵 | Nepal | [NP](NP.txt) | 47 |
+| 🇳🇵 | Nepal | [NP](NP.txt) | 48 |
 | 🇬🇹 | Guatemala | [GT](GT.txt) | 42 |
 | 🇭🇺 | Hungary | [HU](HU.txt) | 42 |
 | 🇮🇹 | Italy | [IT](IT.txt) | 42 |
@@ -91,9 +91,9 @@
 | 🇨🇩 | DR Congo | [CD](CD.txt) | 6 |
 | 🇨🇬 | Congo | [CG](CG.txt) | 6 |
 | 🇬🇭 | Ghana | [GH](GH.txt) | 6 |
-| 🇭🇷 | Croatia | [HR](HR.txt) | 6 |
 | 🇺🇬 | Uganda | [UG](UG.txt) | 6 |
 | 🇾🇹 | Mayotte | [YT](YT.txt) | 6 |
+| 🇭🇷 | Croatia | [HR](HR.txt) | 5 |
 | 🇰🇬 | Kyrgyzstan | [KG](KG.txt) | 5 |
 | 🇲🇪 | Montenegro | [ME](ME.txt) | 5 |
 | 🇧🇮 | Burundi | [BI](BI.txt) | 4 |
