@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1795362079" alt="HProxy Free Proxy List" width="560"></a>
+  <a href="https://hproxy.com"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/banner.svg?v=1795370218" alt="HProxy Free Proxy List" width="560"></a>
 </p>
 
 <p align="center">
   <a href="https://hproxy.com"><img src="https://img.shields.io/badge/Website-hproxy.com-0158FF?style=for-the-badge&labelColor=0B1220" alt="Website"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-972,129-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-6,121-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
-  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-21,120-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Tracked-972,186-0158FF?style=for-the-badge&labelColor=0B1220" alt="Tracked"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Live_now-5,781-0158FF?style=for-the-badge&labelColor=0B1220" alt="Live now"></a>
+  <a href="https://hproxy.com/free-proxy-list"><img src="https://img.shields.io/badge/Working_48h-21,123-0158FF?style=for-the-badge&labelColor=0B1220" alt="Working 48h"></a>
   <a href="https://github.com/hproxy-com/free-proxy-list/commits/main"><img src="https://img.shields.io/badge/Updated-several_times_a_day-0158FF?style=for-the-badge&labelColor=0B1220" alt="Updated"></a>
   <a href="https://hproxy.com/docs/free-proxy-list"><img src="https://img.shields.io/badge/Free_API-no_key-0158FF?style=for-the-badge&labelColor=0B1220" alt="Free API"></a>
   <a href="https://hproxy.com/proxy-checker"><img src="https://img.shields.io/badge/Proxy_Checker-Free-0158FF?style=for-the-badge&labelColor=0B1220" alt="Proxy Checker"></a>
@@ -18,17 +18,17 @@
 
 # Λίστα δωρεάν proxy, με έλεγχο όλο το εικοσιτετράωρο
 
-<p align="center"><b>6,121 δωρεάν proxy είναι ζωντανά αυτή τη στιγμή, 21,120 λειτούργησαν τις τελευταίες 48 ώρες, και καθένα τους είναι δοκιμασμένο και επισημασμένο.</b></p>
+<p align="center"><b>5,781 δωρεάν proxy είναι ζωντανά αυτή τη στιγμή, 21,123 λειτούργησαν τις τελευταίες 48 ώρες, και καθένα τους είναι δοκιμασμένο και επισημασμένο.</b></p>
 <p align="center"><sub>HTTP, HTTPS, SOCKS4 και SOCKS5 &middot; χώρα, ανωνυμία, καθυστέρηση και διαθεσιμότητα σε κάθε γραμμή &middot; ενημερώθηκε 22.11.2026</sub></p>
-<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/el.svg?v=1795362079" alt="Δείτε την πλήρη λίστα στο hproxy.com" width="520"></a></p>
+<p align="center"><a href="https://hproxy.com/free-proxy-list"><img src="https://raw.githubusercontent.com/hproxy-com/free-proxy-list/main/assets/cta/el.svg?v=1795370218" alt="Δείτε την πλήρη λίστα στο hproxy.com" width="520"></a></p>
 
-Αυτή είναι η λίστα δωρεάν proxy που δημοσιεύει η [HProxy](https://hproxy.com/free-proxy-list). Μια μηχανή συλλέγει υποψήφια από περισσότερες από 100 δημόσιες πηγές κάθε λίγα λεπτά, δοκιμάζει το καθένα μέσω HTTP, HTTPS, SOCKS4 και SOCKS5 και καταγράφει τη χώρα, τον βαθμό ανωνυμίας, την καθυστέρηση και τη διαθεσιμότητα κάθε proxy που απαντά. Μέχρι τώρα έχει παρακολουθήσει **972,129** proxy. **6,121** είναι ζωντανά αυτό το λεπτό και **21,120** απάντησαν τις τελευταίες 48 ώρες, και δημοσιεύονται και τα δύο σύνολα: το `live.txt` περιέχει μόνο όσα λειτουργούν τώρα, το `all.txt` τη μεγαλύτερη δεξαμενή στην οποία τα δωρεάν proxy μπαίνουν και βγαίνουν. Χωρίς εγγραφή και χωρίς κλειδί API, και μπορείτε να κατεβάζετε τα αρχεία όσο συχνά χρειάζεστε.
+Αυτή είναι η λίστα δωρεάν proxy που δημοσιεύει η [HProxy](https://hproxy.com/free-proxy-list). Μια μηχανή συλλέγει υποψήφια από περισσότερες από 100 δημόσιες πηγές κάθε λίγα λεπτά, δοκιμάζει το καθένα μέσω HTTP, HTTPS, SOCKS4 και SOCKS5 και καταγράφει τη χώρα, τον βαθμό ανωνυμίας, την καθυστέρηση και τη διαθεσιμότητα κάθε proxy που απαντά. Μέχρι τώρα έχει παρακολουθήσει **972,186** proxy. **5,781** είναι ζωντανά αυτό το λεπτό και **21,123** απάντησαν τις τελευταίες 48 ώρες, και δημοσιεύονται και τα δύο σύνολα: το `live.txt` περιέχει μόνο όσα λειτουργούν τώρα, το `all.txt` τη μεγαλύτερη δεξαμενή στην οποία τα δωρεάν proxy μπαίνουν και βγαίνουν. Χωρίς εγγραφή και χωρίς κλειδί API, και μπορείτε να κατεβάζετε τα αρχεία όσο συχνά χρειάζεστε.
 
 Αν μαζεύατε proxy από δεκάδες αποθετήρια και ιστότοπους, αυτή η λίστα τα περιέχει ήδη. Είναι χτισμένη από τις ίδιες δημόσιες πηγές και μετά ελεγμένη. Δείτε [Οι πηγές που συγκεντρώνουμε](#οι-πηγές-που-συγκεντρώνουμε).
 
 ## Με μια ματιά
 
-- **972,129** proxy παρακολουθούνται μέχρι τώρα, **6,121** ζωντανά αυτή τη στιγμή, **21,120** λειτουργούν τις τελευταίες 48 ώρες
+- **972,186** proxy παρακολουθούνται μέχρι τώρα, **5,781** ζωντανά αυτή τη στιγμή, **21,123** λειτουργούν τις τελευταίες 48 ώρες
 - **4 πρωτόκολλα**: HTTP, HTTPS, SOCKS4 και SOCKS5, και κάθε proxy φέρει εκείνα στα οποία απάντησε πραγματικά
 - Συλλέγονται από **περισσότερες από 100 δημόσιες πηγές**, χωρίς διπλότυπα, με επανέλεγχο όλο το εικοσιτετράωρο
 - Αυτό το αποθετήριο ανανεώνεται αρκετές φορές την ημέρα (η λίστα των commit δείχνει κάθε ανανέωση)· η [ζωντανή λίστα στο hproxy.com](https://hproxy.com/free-proxy-list) ανανεώνεται κάθε λίγα λεπτά
@@ -41,15 +41,15 @@
 
 | Λίστα | Proxy | Μορφές | Στο hproxy.com |
 |------|--------:|---------|---------|
-| **Ζωντανά τώρα** | 6,121 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| **Όλα** (απάντησαν τις τελευταίες 48 ώρες) | 21,120 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
-| HTTP | 3,681 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
-| HTTPS | 3,266 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
-| SOCKS4 | 647 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
-| SOCKS5 | 530 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
-| Elite (υψηλή ανωνυμία) | 2,832 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
-| Anonymous (ανώνυμα) | 1,533 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
-| Fast (κάτω από 2 δευτερόλεπτα) | 1,337 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| **Ζωντανά τώρα** | 5,781 | [txt](../live.txt) &middot; [json](../live.json) &middot; [csv](../live.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| **Όλα** (απάντησαν τις τελευταίες 48 ώρες) | 21,123 | [txt](../all.txt) &middot; [json](../all.json) &middot; [csv](../all.csv) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
+| HTTP | 3,133 | [txt](../http.txt) | [hproxy.com/free-proxy-list/http](https://hproxy.com/free-proxy-list/http) |
+| HTTPS | 2,887 | [txt](../https.txt) | [hproxy.com/free-proxy-list/https](https://hproxy.com/free-proxy-list/https) |
+| SOCKS4 | 691 | [txt](../socks4.txt) | [hproxy.com/free-proxy-list/socks4](https://hproxy.com/free-proxy-list/socks4) |
+| SOCKS5 | 602 | [txt](../socks5.txt) | [hproxy.com/free-proxy-list/socks5](https://hproxy.com/free-proxy-list/socks5) |
+| Elite (υψηλή ανωνυμία) | 2,999 | [txt](../elite.txt) | [hproxy.com/free-proxy-list/elite](https://hproxy.com/free-proxy-list/elite) |
+| Anonymous (ανώνυμα) | 1,369 | [txt](../anonymous.txt) | [hproxy.com/free-proxy-list/anonymous](https://hproxy.com/free-proxy-list/anonymous) |
+| Fast (κάτω από 2 δευτερόλεπτα) | 1,407 | [txt](../fast.txt) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
 | United States (US) | 4,494 | [txt](../by-country/US.txt) &middot; [όλα &raquo;](../by-country) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
 
 Τα αρχεία κειμένου περιέχουν ένα `ip:port` ανά γραμμή. Τα `all.json` και `all.csv` προσθέτουν το πρωτόκολλο, τον βαθμό ανωνυμίας, τη χώρα, την πόλη, την καθυστέρηση και τη διαθεσιμότητα κάθε proxy.
@@ -60,16 +60,16 @@
 | Χώρα | Proxy | Αρχείο | Στο hproxy.com |
 |---------|--------:|------|------|
 | United States (US) | 4,494 | [by-country/US.txt](../by-country/US.txt) | [hproxy.com/free-proxy-list/united-states](https://hproxy.com/free-proxy-list/united-states) |
-| Indonesia (ID) | 3,922 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
-| India (IN) | 778 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
-| China (CN) | 625 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
+| Indonesia (ID) | 3,921 | [by-country/ID.txt](../by-country/ID.txt) | [hproxy.com/free-proxy-list/indonesia](https://hproxy.com/free-proxy-list/indonesia) |
+| India (IN) | 772 | [by-country/IN.txt](../by-country/IN.txt) | [hproxy.com/free-proxy-list/india](https://hproxy.com/free-proxy-list/india) |
+| China (CN) | 629 | [by-country/CN.txt](../by-country/CN.txt) | [hproxy.com/free-proxy-list/china](https://hproxy.com/free-proxy-list/china) |
 | Brazil (BR) | 608 | [by-country/BR.txt](../by-country/BR.txt) | [hproxy.com/free-proxy-list/brazil](https://hproxy.com/free-proxy-list/brazil) |
 | Mexico (MX) | 589 | [by-country/MX.txt](../by-country/MX.txt) | [hproxy.com/free-proxy-list/mexico](https://hproxy.com/free-proxy-list/mexico) |
-| Colombia (CO) | 537 | [by-country/CO.txt](../by-country/CO.txt) | [hproxy.com/free-proxy-list/colombia](https://hproxy.com/free-proxy-list/colombia) |
-| Canada (CA) | 517 | [by-country/CA.txt](../by-country/CA.txt) | [hproxy.com/free-proxy-list/canada](https://hproxy.com/free-proxy-list/canada) |
-| Philippines (PH) | 477 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
-| Russia (RU) | 442 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
-| South Africa (ZA) | 379 | [by-country/ZA.txt](../by-country/ZA.txt) | [hproxy.com/free-proxy-list/south-africa](https://hproxy.com/free-proxy-list/south-africa) |
+| Colombia (CO) | 538 | [by-country/CO.txt](../by-country/CO.txt) | [hproxy.com/free-proxy-list/colombia](https://hproxy.com/free-proxy-list/colombia) |
+| Canada (CA) | 520 | [by-country/CA.txt](../by-country/CA.txt) | [hproxy.com/free-proxy-list/canada](https://hproxy.com/free-proxy-list/canada) |
+| Philippines (PH) | 481 | [by-country/PH.txt](../by-country/PH.txt) | [hproxy.com/free-proxy-list/philippines](https://hproxy.com/free-proxy-list/philippines) |
+| Russia (RU) | 440 | [by-country/RU.txt](../by-country/RU.txt) | [hproxy.com/free-proxy-list/russia](https://hproxy.com/free-proxy-list/russia) |
+| South Africa (ZA) | 383 | [by-country/ZA.txt](../by-country/ZA.txt) | [hproxy.com/free-proxy-list/south-africa](https://hproxy.com/free-proxy-list/south-africa) |
 | Thailand (TH) | 377 | [by-country/TH.txt](../by-country/TH.txt) | [hproxy.com/free-proxy-list/thailand](https://hproxy.com/free-proxy-list/thailand) |
 | _+123 ακόμη χώρες_ | | [ο πλήρης φάκελος by-country &raquo;](../by-country) | [hproxy.com/free-proxy-list](https://hproxy.com/free-proxy-list) |
 
@@ -159,7 +159,7 @@ gemini extensions install https://github.com/hproxy-com/hproxy-mcp
 ## Συχνές ερωτήσεις
 
 **Πόσα δωρεάν proxy έχει αυτή η λίστα;**
-Μέχρι τώρα έχουν παρακολουθηθεί 972,129. 6,121 είναι ζωντανά αυτό το λεπτό και 21,120 απάντησαν τις τελευταίες 48 ώρες, και τα δημοσιευμένα αρχεία περιέχουν ακριβώς αυτά.
+Μέχρι τώρα έχουν παρακολουθηθεί 972,186. 5,781 είναι ζωντανά αυτό το λεπτό και 21,123 απάντησαν τις τελευταίες 48 ώρες, και τα δημοσιευμένα αρχεία περιέχουν ακριβώς αυτά.
 
 **Ποια πρωτόκολλα υποστηρίζονται;**
 HTTP, HTTPS, SOCKS4 και SOCKS5. Κάθε proxy φέρει τα πρωτόκολλα στα οποία απάντησε πραγματικά, όχι εκείνα με τα οποία ήταν καταχωρισμένο.
@@ -212,4 +212,4 @@ HTTP, HTTPS, SOCKS4 και SOCKS5. Κάθε proxy φέρει τα πρωτόκο
 
 Αυτά τα proxy συγκεντρώνονται από δημόσια διαθέσιμες πηγές. Δεν σαρώνουμε για να τα βρούμε και δεν αποθηκεύουμε τίποτα για τις συσκευές πίσω τους. Παρέχονται ως έχουν, χωρίς εγγύηση, μόνο για νόμιμη χρήση. Είστε υπεύθυνοι για το πώς τα χρησιμοποιείτε: τηρήστε την Πολιτική Αποδεκτής Χρήσης του GitHub και τους τοπικούς νόμους, και ποτέ μη δρομολογείτε κωδικούς ή ευαίσθητα δεδομένα μέσα από δημόσιο proxy. Αν μια διεύθυνση IP είναι δική σας και θέλετε να αφαιρεθεί, ανοίξτε ένα issue.
 
-<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; ανανεώνεται αρκετές φορές την ημέρα &nbsp;&middot;&nbsp; 2026-11-22 15:41 UTC</sub></p>
+<p align="center"><sub><a href="https://hproxy.com">hproxy.com</a> &nbsp;&middot;&nbsp; ανανεώνεται αρκετές φορές την ημέρα &nbsp;&middot;&nbsp; 2026-11-22 17:56 UTC</sub></p>
