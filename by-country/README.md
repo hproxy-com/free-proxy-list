@@ -1,44 +1,44 @@
 # Free proxies by country
 
-21,107 working proxies across 135 countries, updated 21.11.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
+21,121 working proxies across 135 countries, updated 21.11.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
 
 | Flag | Country | Code | Alive proxies |
 |:----:|---------|:----:|--------------:|
-| 🇺🇸 | United States | [US](US.txt) | 4,420 |
+| 🇺🇸 | United States | [US](US.txt) | 4,441 |
 | 🇮🇩 | Indonesia | [ID](ID.txt) | 3,921 |
-| 🇮🇳 | India | [IN](IN.txt) | 779 |
-| 🇨🇳 | China | [CN](CN.txt) | 626 |
-| 🇧🇷 | Brazil | [BR](BR.txt) | 614 |
-| 🇲🇽 | Mexico | [MX](MX.txt) | 599 |
-| 🇨🇴 | Colombia | [CO](CO.txt) | 538 |
-| 🇨🇦 | Canada | [CA](CA.txt) | 524 |
-| 🇵🇭 | Philippines | [PH](PH.txt) | 475 |
-| 🇷🇺 | Russia | [RU](RU.txt) | 454 |
-| 🇿🇦 | South Africa | [ZA](ZA.txt) | 393 |
-| 🇩🇪 | Germany | [DE](DE.txt) | 382 |
-| 🇹🇭 | Thailand | [TH](TH.txt) | 374 |
-| 🇹🇷 | Turkey | [TR](TR.txt) | 374 |
-| 🇸🇬 | Singapore | [SG](SG.txt) | 346 |
-| 🇦🇺 | Australia | [AU](AU.txt) | 342 |
+| 🇮🇳 | India | [IN](IN.txt) | 777 |
+| 🇨🇳 | China | [CN](CN.txt) | 627 |
+| 🇧🇷 | Brazil | [BR](BR.txt) | 615 |
+| 🇲🇽 | Mexico | [MX](MX.txt) | 597 |
+| 🇨🇴 | Colombia | [CO](CO.txt) | 537 |
+| 🇨🇦 | Canada | [CA](CA.txt) | 523 |
+| 🇵🇭 | Philippines | [PH](PH.txt) | 476 |
+| 🇷🇺 | Russia | [RU](RU.txt) | 453 |
+| 🇿🇦 | South Africa | [ZA](ZA.txt) | 399 |
+| 🇩🇪 | Germany | [DE](DE.txt) | 378 |
+| 🇹🇭 | Thailand | [TH](TH.txt) | 375 |
+| 🇹🇷 | Turkey | [TR](TR.txt) | 373 |
+| 🇦🇺 | Australia | [AU](AU.txt) | 344 |
+| 🇸🇬 | Singapore | [SG](SG.txt) | 342 |
 | 🇧🇩 | Bangladesh | [BD](BD.txt) | 318 |
-| 🇯🇵 | Japan | [JP](JP.txt) | 316 |
-| 🇳🇱 | Netherlands | [NL](NL.txt) | 278 |
-| 🇮🇱 | Israel | [IL](IL.txt) | 273 |
+| 🇯🇵 | Japan | [JP](JP.txt) | 317 |
+| 🇳🇱 | Netherlands | [NL](NL.txt) | 276 |
 | 🇫🇷 | France | [FR](FR.txt) | 269 |
-| 🇻🇪 | Venezuela | [VE](VE.txt) | 252 |
-| 🇦🇷 | Argentina | [AR](AR.txt) | 226 |
-| 🇩🇴 | Dominican Republic | [DO](DO.txt) | 222 |
+| 🇮🇱 | Israel | [IL](IL.txt) | 268 |
+| 🇻🇪 | Venezuela | [VE](VE.txt) | 251 |
+| 🇦🇷 | Argentina | [AR](AR.txt) | 225 |
+| 🇩🇴 | Dominican Republic | [DO](DO.txt) | 223 |
 | 🇪🇸 | Spain | [ES](ES.txt) | 214 |
-| 🇰🇷 | South Korea | [KR](KR.txt) | 212 |
 | 🇭🇰 | Hong Kong | [HK](HK.txt) | 209 |
-| 🇨🇭 | Switzerland | [CH](CH.txt) | 197 |
-| 🇬🇧 | United Kingdom | [GB](GB.txt) | 189 |
+| 🇰🇷 | South Korea | [KR](KR.txt) | 209 |
+| 🇨🇭 | Switzerland | [CH](CH.txt) | 198 |
+| 🇬🇧 | United Kingdom | [GB](GB.txt) | 194 |
 | 🇪🇨 | Ecuador | [EC](EC.txt) | 180 |
-| 🇵🇪 | Peru | [PE](PE.txt) | 176 |
+| 🇵🇪 | Peru | [PE](PE.txt) | 177 |
 | 🇵🇰 | Pakistan | [PK](PK.txt) | 158 |
 | 🇻🇳 | Vietnam | [VN](VN.txt) | 157 |
-| 🇲🇾 | Malaysia | [MY](MY.txt) | 153 |
-| 🇮🇪 | Ireland | [IE](IE.txt) | 117 |
+| 🇲🇾 | Malaysia | [MY](MY.txt) | 151 |
+| 🇮🇪 | Ireland | [IE](IE.txt) | 119 |
 | 🇺🇦 | Ukraine | [UA](UA.txt) | 109 |
 | 🇨🇱 | Chile | [CL](CL.txt) | 104 |
 | 🇮🇷 | Iran | [IR](IR.txt) | 94 |
@@ -47,11 +47,11 @@
 | 🇪🇬 | Egypt | [EG](EG.txt) | 76 |
 | 🇰🇭 | Cambodia | [KH](KH.txt) | 74 |
 | 🇱🇾 | Libya | [LY](LY.txt) | 68 |
-| 🇫🇮 | Finland | [FI](FI.txt) | 61 |
+| 🇫🇮 | Finland | [FI](FI.txt) | 63 |
 | 🇵🇱 | Poland | [PL](PL.txt) | 58 |
 | 🇵🇾 | Paraguay | [PY](PY.txt) | 58 |
 | 🇳🇵 | Nepal | [NP](NP.txt) | 48 |
-| 🇭🇺 | Hungary | [HU](HU.txt) | 47 |
+| 🇭🇺 | Hungary | [HU](HU.txt) | 46 |
 | 🇭🇳 | Honduras | [HN](HN.txt) | 45 |
 | 🇬🇹 | Guatemala | [GT](GT.txt) | 42 |
 | 🇸🇾 | Syria | [SY](SY.txt) | 42 |
@@ -68,11 +68,11 @@
 | 🇵🇷 | Puerto Rico | [PR](PR.txt) | 19 |
 | 🇷🇸 | Serbia | [RS](RS.txt) | 18 |
 | 🇱🇻 | Latvia | [LV](LV.txt) | 17 |
-| 🇷🇴 | Romania | [RO](RO.txt) | 17 |
 | 🇦🇪 | United Arab Emirates | [AE](AE.txt) | 16 |
 | 🇦🇹 | Austria | [AT](AT.txt) | 16 |
 | 🇲🇲 | Myanmar | [MM](MM.txt) | 16 |
 | 🇵🇸 | Palestine | [PS](PS.txt) | 16 |
+| 🇷🇴 | Romania | [RO](RO.txt) | 16 |
 | 🇹🇿 | Tanzania | [TZ](TZ.txt) | 16 |
 | 🇰🇿 | Kazakhstan | [KZ](KZ.txt) | 15 |
 | 🇨🇲 | Cameroon | [CM](CM.txt) | 14 |
