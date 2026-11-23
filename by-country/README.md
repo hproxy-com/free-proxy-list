@@ -1,51 +1,51 @@
 # Free proxies by country
 
-21,058 working proxies across 135 countries, updated 23.11.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
+21,080 working proxies across 136 countries, updated 23.11.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
 
 | Flag | Country | Code | Alive proxies |
 |:----:|---------|:----:|--------------:|
-| 🇺🇸 | United States | [US](US.txt) | 4,398 |
-| 🇮🇩 | Indonesia | [ID](ID.txt) | 3,919 |
+| 🇺🇸 | United States | [US](US.txt) | 4,397 |
+| 🇮🇩 | Indonesia | [ID](ID.txt) | 3,921 |
 | 🇮🇳 | India | [IN](IN.txt) | 775 |
-| 🇨🇳 | China | [CN](CN.txt) | 625 |
-| 🇧🇷 | Brazil | [BR](BR.txt) | 600 |
-| 🇲🇽 | Mexico | [MX](MX.txt) | 585 |
-| 🇨🇦 | Canada | [CA](CA.txt) | 539 |
+| 🇨🇳 | China | [CN](CN.txt) | 621 |
+| 🇧🇷 | Brazil | [BR](BR.txt) | 602 |
+| 🇲🇽 | Mexico | [MX](MX.txt) | 586 |
 | 🇨🇴 | Colombia | [CO](CO.txt) | 539 |
-| 🇵🇭 | Philippines | [PH](PH.txt) | 483 |
-| 🇷🇺 | Russia | [RU](RU.txt) | 440 |
-| 🇿🇦 | South Africa | [ZA](ZA.txt) | 386 |
-| 🇹🇭 | Thailand | [TH](TH.txt) | 374 |
+| 🇨🇦 | Canada | [CA](CA.txt) | 536 |
+| 🇵🇭 | Philippines | [PH](PH.txt) | 484 |
+| 🇷🇺 | Russia | [RU](RU.txt) | 443 |
+| 🇿🇦 | South Africa | [ZA](ZA.txt) | 387 |
+| 🇹🇭 | Thailand | [TH](TH.txt) | 373 |
 | 🇹🇷 | Turkey | [TR](TR.txt) | 372 |
-| 🇩🇪 | Germany | [DE](DE.txt) | 358 |
-| 🇦🇺 | Australia | [AU](AU.txt) | 351 |
-| 🇸🇬 | Singapore | [SG](SG.txt) | 337 |
-| 🇧🇩 | Bangladesh | [BD](BD.txt) | 317 |
-| 🇯🇵 | Japan | [JP](JP.txt) | 307 |
-| 🇳🇱 | Netherlands | [NL](NL.txt) | 280 |
-| 🇮🇱 | Israel | [IL](IL.txt) | 268 |
-| 🇫🇷 | France | [FR](FR.txt) | 264 |
-| 🇻🇪 | Venezuela | [VE](VE.txt) | 259 |
-| 🇨🇭 | Switzerland | [CH](CH.txt) | 251 |
+| 🇩🇪 | Germany | [DE](DE.txt) | 359 |
+| 🇦🇺 | Australia | [AU](AU.txt) | 356 |
+| 🇸🇬 | Singapore | [SG](SG.txt) | 340 |
+| 🇧🇩 | Bangladesh | [BD](BD.txt) | 318 |
+| 🇯🇵 | Japan | [JP](JP.txt) | 308 |
+| 🇳🇱 | Netherlands | [NL](NL.txt) | 281 |
+| 🇮🇱 | Israel | [IL](IL.txt) | 269 |
+| 🇫🇷 | France | [FR](FR.txt) | 265 |
+| 🇨🇭 | Switzerland | [CH](CH.txt) | 260 |
+| 🇻🇪 | Venezuela | [VE](VE.txt) | 258 |
 | 🇭🇰 | Hong Kong | [HK](HK.txt) | 230 |
-| 🇦🇷 | Argentina | [AR](AR.txt) | 224 |
+| 🇦🇷 | Argentina | [AR](AR.txt) | 223 |
 | 🇩🇴 | Dominican Republic | [DO](DO.txt) | 220 |
+| 🇰🇷 | South Korea | [KR](KR.txt) | 207 |
 | 🇪🇸 | Spain | [ES](ES.txt) | 206 |
-| 🇰🇷 | South Korea | [KR](KR.txt) | 206 |
 | 🇬🇧 | United Kingdom | [GB](GB.txt) | 190 |
 | 🇵🇪 | Peru | [PE](PE.txt) | 178 |
 | 🇪🇨 | Ecuador | [EC](EC.txt) | 173 |
-| 🇻🇳 | Vietnam | [VN](VN.txt) | 164 |
-| 🇵🇰 | Pakistan | [PK](PK.txt) | 152 |
+| 🇻🇳 | Vietnam | [VN](VN.txt) | 160 |
+| 🇵🇰 | Pakistan | [PK](PK.txt) | 153 |
 | 🇲🇾 | Malaysia | [MY](MY.txt) | 140 |
 | 🇮🇪 | Ireland | [IE](IE.txt) | 128 |
 | 🇺🇦 | Ukraine | [UA](UA.txt) | 108 |
-| 🇨🇱 | Chile | [CL](CL.txt) | 101 |
+| 🇨🇱 | Chile | [CL](CL.txt) | 102 |
 | 🇮🇷 | Iran | [IR](IR.txt) | 96 |
 | 🇸🇪 | Sweden | [SE](SE.txt) | 83 |
-| 🇪🇬 | Egypt | [EG](EG.txt) | 81 |
+| 🇪🇬 | Egypt | [EG](EG.txt) | 78 |
 | 🇰🇪 | Kenya | [KE](KE.txt) | 77 |
-| 🇰🇭 | Cambodia | [KH](KH.txt) | 71 |
+| 🇰🇭 | Cambodia | [KH](KH.txt) | 72 |
 | 🇫🇮 | Finland | [FI](FI.txt) | 69 |
 | 🇱🇾 | Libya | [LY](LY.txt) | 68 |
 | 🇵🇱 | Poland | [PL](PL.txt) | 60 |
@@ -65,11 +65,11 @@
 | 🇨🇿 | Czechia | [CZ](CZ.txt) | 28 |
 | 🇦🇱 | Albania | [AL](AL.txt) | 25 |
 | 🇦🇲 | Armenia | [AM](AM.txt) | 22 |
+| 🇦🇹 | Austria | [AT](AT.txt) | 19 |
 | 🇱🇻 | Latvia | [LV](LV.txt) | 19 |
 | 🇵🇷 | Puerto Rico | [PR](PR.txt) | 19 |
 | 🇷🇴 | Romania | [RO](RO.txt) | 19 |
 | 🇷🇸 | Serbia | [RS](RS.txt) | 18 |
-| 🇦🇹 | Austria | [AT](AT.txt) | 17 |
 | 🇹🇿 | Tanzania | [TZ](TZ.txt) | 16 |
 | 🇲🇲 | Myanmar | [MM](MM.txt) | 15 |
 | 🇵🇸 | Palestine | [PS](PS.txt) | 15 |
@@ -137,6 +137,7 @@
 | 🇲🇬 | Madagascar | [MG](MG.txt) | 1 |
 | 🇲🇹 | Malta | [MT](MT.txt) | 1 |
 | 🇳🇮 | Nicaragua | [NI](NI.txt) | 1 |
+| 🇵🇬 | Papua New Guinea | [PG](PG.txt) | 1 |
 | 🇹🇯 | Tajikistan | [TJ](TJ.txt) | 1 |
 | 🇼🇸 | Samoa | [WS](WS.txt) | 1 |
 
