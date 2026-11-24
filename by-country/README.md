@@ -1,51 +1,51 @@
 # Free proxies by country
 
-20,804 working proxies across 136 countries, updated 24.11.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
+20,771 working proxies across 136 countries, updated 24.11.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
 
 | Flag | Country | Code | Alive proxies |
 |:----:|---------|:----:|--------------:|
-| 🇺🇸 | United States | [US](US.txt) | 3,981 |
-| 🇮🇩 | Indonesia | [ID](ID.txt) | 3,929 |
-| 🇮🇳 | India | [IN](IN.txt) | 777 |
-| 🇨🇳 | China | [CN](CN.txt) | 623 |
-| 🇧🇷 | Brazil | [BR](BR.txt) | 621 |
-| 🇲🇽 | Mexico | [MX](MX.txt) | 586 |
+| 🇮🇩 | Indonesia | [ID](ID.txt) | 3,930 |
+| 🇺🇸 | United States | [US](US.txt) | 3,926 |
+| 🇮🇳 | India | [IN](IN.txt) | 781 |
+| 🇧🇷 | Brazil | [BR](BR.txt) | 624 |
+| 🇨🇳 | China | [CN](CN.txt) | 622 |
+| 🇲🇽 | Mexico | [MX](MX.txt) | 585 |
+| 🇨🇦 | Canada | [CA](CA.txt) | 543 |
 | 🇨🇴 | Colombia | [CO](CO.txt) | 541 |
-| 🇨🇦 | Canada | [CA](CA.txt) | 540 |
-| 🇵🇭 | Philippines | [PH](PH.txt) | 494 |
-| 🇷🇺 | Russia | [RU](RU.txt) | 452 |
-| 🇹🇭 | Thailand | [TH](TH.txt) | 394 |
-| 🇿🇦 | South Africa | [ZA](ZA.txt) | 380 |
-| 🇩🇪 | Germany | [DE](DE.txt) | 369 |
+| 🇵🇭 | Philippines | [PH](PH.txt) | 497 |
+| 🇷🇺 | Russia | [RU](RU.txt) | 451 |
+| 🇹🇭 | Thailand | [TH](TH.txt) | 397 |
+| 🇿🇦 | South Africa | [ZA](ZA.txt) | 384 |
 | 🇹🇷 | Turkey | [TR](TR.txt) | 369 |
-| 🇦🇺 | Australia | [AU](AU.txt) | 362 |
-| 🇸🇬 | Singapore | [SG](SG.txt) | 347 |
+| 🇩🇪 | Germany | [DE](DE.txt) | 367 |
+| 🇦🇺 | Australia | [AU](AU.txt) | 358 |
+| 🇸🇬 | Singapore | [SG](SG.txt) | 345 |
 | 🇧🇩 | Bangladesh | [BD](BD.txt) | 325 |
-| 🇯🇵 | Japan | [JP](JP.txt) | 316 |
-| 🇨🇭 | Switzerland | [CH](CH.txt) | 292 |
+| 🇯🇵 | Japan | [JP](JP.txt) | 318 |
+| 🇨🇭 | Switzerland | [CH](CH.txt) | 296 |
 | 🇳🇱 | Netherlands | [NL](NL.txt) | 285 |
 | 🇫🇷 | France | [FR](FR.txt) | 263 |
 | 🇻🇪 | Venezuela | [VE](VE.txt) | 262 |
-| 🇮🇱 | Israel | [IL](IL.txt) | 257 |
-| 🇭🇰 | Hong Kong | [HK](HK.txt) | 231 |
+| 🇮🇱 | Israel | [IL](IL.txt) | 256 |
+| 🇭🇰 | Hong Kong | [HK](HK.txt) | 233 |
 | 🇦🇷 | Argentina | [AR](AR.txt) | 225 |
-| 🇩🇴 | Dominican Republic | [DO](DO.txt) | 221 |
-| 🇰🇷 | South Korea | [KR](KR.txt) | 219 |
+| 🇰🇷 | South Korea | [KR](KR.txt) | 224 |
+| 🇩🇴 | Dominican Republic | [DO](DO.txt) | 222 |
 | 🇪🇸 | Spain | [ES](ES.txt) | 207 |
 | 🇬🇧 | United Kingdom | [GB](GB.txt) | 193 |
 | 🇵🇪 | Peru | [PE](PE.txt) | 179 |
 | 🇪🇨 | Ecuador | [EC](EC.txt) | 174 |
-| 🇻🇳 | Vietnam | [VN](VN.txt) | 160 |
+| 🇻🇳 | Vietnam | [VN](VN.txt) | 159 |
 | 🇵🇰 | Pakistan | [PK](PK.txt) | 153 |
-| 🇲🇾 | Malaysia | [MY](MY.txt) | 129 |
-| 🇮🇪 | Ireland | [IE](IE.txt) | 121 |
+| 🇲🇾 | Malaysia | [MY](MY.txt) | 130 |
+| 🇮🇪 | Ireland | [IE](IE.txt) | 124 |
 | 🇺🇦 | Ukraine | [UA](UA.txt) | 108 |
-| 🇨🇱 | Chile | [CL](CL.txt) | 103 |
-| 🇮🇷 | Iran | [IR](IR.txt) | 94 |
-| 🇸🇪 | Sweden | [SE](SE.txt) | 86 |
-| 🇪🇬 | Egypt | [EG](EG.txt) | 79 |
+| 🇨🇱 | Chile | [CL](CL.txt) | 101 |
+| 🇮🇷 | Iran | [IR](IR.txt) | 93 |
+| 🇸🇪 | Sweden | [SE](SE.txt) | 85 |
+| 🇪🇬 | Egypt | [EG](EG.txt) | 78 |
 | 🇰🇪 | Kenya | [KE](KE.txt) | 77 |
-| 🇰🇭 | Cambodia | [KH](KH.txt) | 72 |
+| 🇰🇭 | Cambodia | [KH](KH.txt) | 71 |
 | 🇱🇾 | Libya | [LY](LY.txt) | 68 |
 | 🇫🇮 | Finland | [FI](FI.txt) | 63 |
 | 🇵🇱 | Poland | [PL](PL.txt) | 60 |
@@ -55,8 +55,8 @@
 | 🇬🇹 | Guatemala | [GT](GT.txt) | 42 |
 | 🇸🇾 | Syria | [SY](SY.txt) | 42 |
 | 🇭🇺 | Hungary | [HU](HU.txt) | 41 |
+| 🇧🇬 | Bulgaria | [BG](BG.txt) | 38 |
 | 🇬🇪 | Georgia | [GE](GE.txt) | 38 |
-| 🇧🇬 | Bulgaria | [BG](BG.txt) | 37 |
 | 🇳🇬 | Nigeria | [NG](NG.txt) | 36 |
 | 🇮🇶 | Iraq | [IQ](IQ.txt) | 33 |
 | 🇮🇹 | Italy | [IT](IT.txt) | 33 |
@@ -79,8 +79,8 @@
 | 🇲🇳 | Mongolia | [MN](MN.txt) | 14 |
 | 🇺🇿 | Uzbekistan | [UZ](UZ.txt) | 12 |
 | 🇧🇼 | Botswana | [BW](BW.txt) | 11 |
+| 🇸🇮 | Slovenia | [SI](SI.txt) | 11 |
 | 🇵🇦 | Panama | [PA](PA.txt) | 10 |
-| 🇸🇮 | Slovenia | [SI](SI.txt) | 10 |
 | 🇬🇷 | Greece | [GR](GR.txt) | 9 |
 | 🇧🇴 | Bolivia | [BO](BO.txt) | 8 |
 | 🇨🇩 | DR Congo | [CD](CD.txt) | 7 |
