@@ -1,50 +1,50 @@
 # Free proxies by country
 
-20,294 working proxies across 135 countries, updated 27.11.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
+20,296 working proxies across 135 countries, updated 27.11.2026. Each `XX.txt` file is one `ip:port` per line for that country. These are the proxies alive within the last 48h.
 
 | Flag | Country | Code | Alive proxies |
 |:----:|---------|:----:|--------------:|
-| 🇮🇩 | Indonesia | [ID](ID.txt) | 3,907 |
-| 🇺🇸 | United States | [US](US.txt) | 3,342 |
+| 🇮🇩 | Indonesia | [ID](ID.txt) | 3,915 |
+| 🇺🇸 | United States | [US](US.txt) | 3,306 |
 | 🇮🇳 | India | [IN](IN.txt) | 785 |
-| 🇧🇷 | Brazil | [BR](BR.txt) | 632 |
-| 🇨🇳 | China | [CN](CN.txt) | 583 |
+| 🇧🇷 | Brazil | [BR](BR.txt) | 631 |
+| 🇨🇳 | China | [CN](CN.txt) | 592 |
 | 🇲🇽 | Mexico | [MX](MX.txt) | 573 |
-| 🇨🇦 | Canada | [CA](CA.txt) | 551 |
-| 🇨🇴 | Colombia | [CO](CO.txt) | 541 |
-| 🇵🇭 | Philippines | [PH](PH.txt) | 478 |
-| 🇨🇭 | Switzerland | [CH](CH.txt) | 468 |
-| 🇷🇺 | Russia | [RU](RU.txt) | 461 |
-| 🇹🇭 | Thailand | [TH](TH.txt) | 399 |
-| 🇿🇦 | South Africa | [ZA](ZA.txt) | 377 |
-| 🇹🇷 | Turkey | [TR](TR.txt) | 360 |
-| 🇩🇪 | Germany | [DE](DE.txt) | 355 |
-| 🇦🇺 | Australia | [AU](AU.txt) | 351 |
-| 🇸🇬 | Singapore | [SG](SG.txt) | 336 |
-| 🇯🇵 | Japan | [JP](JP.txt) | 319 |
+| 🇨🇦 | Canada | [CA](CA.txt) | 546 |
+| 🇨🇴 | Colombia | [CO](CO.txt) | 542 |
+| 🇵🇭 | Philippines | [PH](PH.txt) | 477 |
+| 🇨🇭 | Switzerland | [CH](CH.txt) | 471 |
+| 🇷🇺 | Russia | [RU](RU.txt) | 463 |
+| 🇹🇭 | Thailand | [TH](TH.txt) | 400 |
+| 🇿🇦 | South Africa | [ZA](ZA.txt) | 381 |
+| 🇹🇷 | Turkey | [TR](TR.txt) | 362 |
+| 🇩🇪 | Germany | [DE](DE.txt) | 353 |
+| 🇦🇺 | Australia | [AU](AU.txt) | 347 |
+| 🇸🇬 | Singapore | [SG](SG.txt) | 339 |
+| 🇯🇵 | Japan | [JP](JP.txt) | 316 |
 | 🇧🇩 | Bangladesh | [BD](BD.txt) | 309 |
-| 🇳🇱 | Netherlands | [NL](NL.txt) | 302 |
+| 🇳🇱 | Netherlands | [NL](NL.txt) | 303 |
 | 🇻🇪 | Venezuela | [VE](VE.txt) | 268 |
 | 🇫🇷 | France | [FR](FR.txt) | 259 |
-| 🇮🇱 | Israel | [IL](IL.txt) | 257 |
-| 🇦🇷 | Argentina | [AR](AR.txt) | 225 |
-| 🇭🇰 | Hong Kong | [HK](HK.txt) | 219 |
+| 🇮🇱 | Israel | [IL](IL.txt) | 255 |
+| 🇦🇷 | Argentina | [AR](AR.txt) | 224 |
+| 🇭🇰 | Hong Kong | [HK](HK.txt) | 221 |
 | 🇩🇴 | Dominican Republic | [DO](DO.txt) | 214 |
-| 🇪🇸 | Spain | [ES](ES.txt) | 214 |
-| 🇬🇧 | United Kingdom | [GB](GB.txt) | 206 |
-| 🇰🇷 | South Korea | [KR](KR.txt) | 202 |
-| 🇵🇰 | Pakistan | [PK](PK.txt) | 191 |
-| 🇻🇳 | Vietnam | [VN](VN.txt) | 187 |
+| 🇪🇸 | Spain | [ES](ES.txt) | 210 |
+| 🇰🇷 | South Korea | [KR](KR.txt) | 208 |
+| 🇬🇧 | United Kingdom | [GB](GB.txt) | 207 |
+| 🇻🇳 | Vietnam | [VN](VN.txt) | 203 |
+| 🇵🇰 | Pakistan | [PK](PK.txt) | 195 |
 | 🇪🇨 | Ecuador | [EC](EC.txt) | 176 |
-| 🇵🇪 | Peru | [PE](PE.txt) | 175 |
+| 🇵🇪 | Peru | [PE](PE.txt) | 173 |
 | 🇲🇾 | Malaysia | [MY](MY.txt) | 147 |
-| 🇮🇪 | Ireland | [IE](IE.txt) | 118 |
+| 🇮🇪 | Ireland | [IE](IE.txt) | 117 |
 | 🇺🇦 | Ukraine | [UA](UA.txt) | 109 |
 | 🇨🇱 | Chile | [CL](CL.txt) | 102 |
 | 🇮🇷 | Iran | [IR](IR.txt) | 98 |
 | 🇰🇪 | Kenya | [KE](KE.txt) | 97 |
-| 🇪🇬 | Egypt | [EG](EG.txt) | 81 |
-| 🇸🇪 | Sweden | [SE](SE.txt) | 71 |
+| 🇪🇬 | Egypt | [EG](EG.txt) | 82 |
+| 🇸🇪 | Sweden | [SE](SE.txt) | 72 |
 | 🇰🇭 | Cambodia | [KH](KH.txt) | 69 |
 | 🇱🇾 | Libya | [LY](LY.txt) | 68 |
 | 🇫🇮 | Finland | [FI](FI.txt) | 60 |
@@ -59,7 +59,7 @@
 | 🇬🇪 | Georgia | [GE](GE.txt) | 37 |
 | 🇳🇬 | Nigeria | [NG](NG.txt) | 37 |
 | 🇮🇹 | Italy | [IT](IT.txt) | 34 |
-| 🇮🇶 | Iraq | [IQ](IQ.txt) | 32 |
+| 🇮🇶 | Iraq | [IQ](IQ.txt) | 31 |
 | 🇸🇨 | Seychelles | [SC](SC.txt) | 31 |
 | 🇹🇼 | Taiwan | [TW](TW.txt) | 31 |
 | 🇦🇱 | Albania | [AL](AL.txt) | 24 |
@@ -78,8 +78,8 @@
 | 🇦🇹 | Austria | [AT](AT.txt) | 13 |
 | 🇸🇮 | Slovenia | [SI](SI.txt) | 12 |
 | 🇧🇼 | Botswana | [BW](BW.txt) | 11 |
-| 🇺🇿 | Uzbekistan | [UZ](UZ.txt) | 11 |
-| 🇰🇿 | Kazakhstan | [KZ](KZ.txt) | 10 |
+| 🇰🇿 | Kazakhstan | [KZ](KZ.txt) | 11 |
+| 🇺🇿 | Uzbekistan | [UZ](UZ.txt) | 10 |
 | 🇵🇦 | Panama | [PA](PA.txt) | 9 |
 | 🇱🇹 | Lithuania | [LT](LT.txt) | 8 |
 | 🇧🇴 | Bolivia | [BO](BO.txt) | 7 |
